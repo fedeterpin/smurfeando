@@ -59,6 +59,17 @@ export const statCoverageKey = (key: string) => `stat.${key}.coverage` as MsgKey
 
 export const ROLES = ["Top", "Jungle", "Mid", "Bot", "Support"] as const;
 
+// Role names are not translated (scene convention); only shortened. Used as the
+// text fallback wherever the role icon is unavailable.
+export const ROLE_SHORT: Record<string, string> = {
+  all: "All",
+  Top: "Top",
+  Jungle: "JG",
+  Mid: "Mid",
+  Bot: "ADC",
+  Support: "Sup",
+};
+
 export function formatValue(
   kind: StatDef["kind"],
   value: number,

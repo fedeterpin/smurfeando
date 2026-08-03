@@ -273,6 +273,166 @@ def compute_player_titles(conn: sqlite3.Connection) -> None:
     conn.commit()
 
 
+# ---------------------------------------------------------------------------
+# Teams gold: canonical registry + rosters + intl podiums.
+
+# Union of every (team, player, game) across both sources. Disjoint by
+# construction: Leaguepedia holds the internationals and is_duplicate = 0
+# excludes OE's copies of those same games.
+_TEAM_GAMES_UNION = """
+    SELECT ta.team_id AS team_id, SP.Link AS player_id,
+           substr(SP.DateTime_UTC, 1, 4) AS y, SP.GameId AS gid, SP.Role AS role
+    FROM scoreboard_players SP
+    JOIN team_aliases ta ON ta.alias = SP.Team
+    WHERE SP.Link IS NOT NULL AND SP.Link <> ''
+    UNION ALL
+    SELECT ta.team_id, g.player_id, CAST(g.year AS TEXT), g.gameid,
+           CASE g.position WHEN 'top' THEN 'Top' WHEN 'jng' THEN 'Jungle'
+                WHEN 'mid' THEN 'Mid' WHEN 'bot' THEN 'Bot' WHEN 'sup' THEN 'Support'
+           END
+    FROM oe_resolved_games g
+    JOIN team_aliases ta ON ta.alias = g.teamname
+    WHERE g.is_duplicate = 0
+"""
+
+
+def _team_resolver(conn: sqlite3.Connection):
+    """(canon, meta) — canon(raw name) -> canonical wiki page after resolving
+    redirects and following the RenamedTo chain; meta(page) -> teams row or None.
+    Identity when the registry has not been pulled, so offline builds keep working
+    with raw names."""
+    have = {r[0] for r in conn.execute(
+        "SELECT name FROM sqlite_master WHERE type = 'table' AND name IN "
+        "('teams', 'team_redirects')")}
+    if have != {"teams", "team_redirects"}:
+        return (lambda n: n), (lambda p: None)
+    redirects = {r["AllName"].lower(): r["Page"] for r in conn.execute(
+        "SELECT AllName, Page FROM team_redirects WHERE Page IS NOT NULL AND Page <> ''")}
+    teams = {r["OverviewPage"]: r for r in conn.execute("SELECT * FROM teams")}
+    if not redirects and not teams:
+        return (lambda n: n), (lambda p: None)
+
+    def canon(name: str) -> str:
+        page = redirects.get(name.lower(), name)
+        seen = {page}
+        # RenamedTo is a NAME, not a page: re-resolve each hop through redirects.
+        for _ in range(10):
+            row = teams.get(page)
+            nxt = (row["RenamedTo"] or "").strip() if row else ""
+            if not nxt:
+                break
+            nxt_page = redirects.get(nxt.lower(), nxt)
+            if nxt_page in seen:   # cycle guard
+                break
+            seen.add(nxt_page)
+            page = nxt_page
+        return page
+
+    return canon, teams.get
+
+
+def compute_teams(conn: sqlite3.Connection) -> None:
+    """team_aliases -> team_rosters -> team_podiums -> team_index.
+
+    Runs after compute_player_index (is_current needs player_index.team)."""
+    conn.create_function("team_logo", 1, team_logo)
+    conn.create_function("first_year", 1, _first_year)
+    canon, team_meta = _team_resolver(conn)
+
+    # -- aliases: every raw team string the gold layer can display ---------
+    raw_names = [r[0] for r in conn.execute("""
+        SELECT DISTINCT Team FROM scoreboard_players WHERE Team IS NOT NULL AND Team <> ''
+        UNION SELECT DISTINCT teamname FROM oe_resolved_games
+              WHERE teamname IS NOT NULL AND teamname <> ''
+        UNION SELECT DISTINCT Team FROM players WHERE Team IS NOT NULL AND Team <> ''
+        UNION SELECT DISTINCT TR.Team FROM tournament_results TR
+              JOIN tournaments T ON T.OverviewPage = TR.OverviewPage
+              WHERE T.Tier = 'intl_premier' AND TR.Team IS NOT NULL AND TRIM(TR.Team) <> ''
+    """)]
+    conn.execute("DELETE FROM team_aliases")
+    conn.executemany("INSERT OR IGNORE INTO team_aliases (alias, team_id) VALUES (?, ?)",
+                     [(name, canon(name)) for name in raw_names])
+
+    # -- all-time rosters --------------------------------------------------
+    conn.execute("DELETE FROM team_rosters")
+    conn.execute(f"""
+        INSERT INTO team_rosters
+            (team_id, player_id, role, first_year, last_year, games, is_current)
+        SELECT team_id, player_id, NULL, MIN(y), MAX(y), COUNT(DISTINCT gid), 0
+        FROM ({_TEAM_GAMES_UNION})
+        GROUP BY team_id, player_id""")
+    # Most-played role per (team, player): ascending count, last write wins.
+    top_role = {(r[0], r[1]): r[2] for r in conn.execute(f"""
+        SELECT team_id, player_id, role FROM ({_TEAM_GAMES_UNION})
+        WHERE role IS NOT NULL AND role <> ''
+        GROUP BY team_id, player_id, role ORDER BY COUNT(*)""")}
+    conn.executemany(
+        "UPDATE team_rosters SET role = ? WHERE team_id = ? AND player_id = ?",
+        [(role, team_id, player_id) for (team_id, player_id), role in top_role.items()])
+    conn.execute("""
+        UPDATE team_rosters SET is_current = EXISTS (
+            SELECT 1 FROM player_index pi
+            JOIN team_aliases ta ON ta.alias = pi.team
+            WHERE pi.player_id = team_rosters.player_id
+              AND ta.team_id = team_rosters.team_id)""")
+
+    # -- top-3 finishes at premier internationals --------------------------
+    # Place_Number is empty on many rows -> trust the Place text. The Team <> ''
+    # guard drops the placeholder rows of future tournaments (e.g. next Worlds).
+    conn.execute("DELETE FROM team_podiums")
+    conn.execute("""
+        INSERT OR IGNORE INTO team_podiums
+            (team_id, overview_page, event, league, year, place, place_num)
+        SELECT ta.team_id, T.OverviewPage, T.Name, T.League,
+               COALESCE(NULLIF(T.Year, ''), first_year(T.Name), first_year(T.OverviewPage)),
+               TRIM(TR.Place),
+               CASE TRIM(TR.Place) WHEN '1' THEN 1 WHEN '2' THEN 2 ELSE 3 END
+        FROM tournament_results TR
+        JOIN tournaments T ON T.OverviewPage = TR.OverviewPage
+        JOIN team_aliases ta ON ta.alias = TR.Team
+        WHERE T.Tier = 'intl_premier'
+          AND TRIM(TR.Place) IN ('1', '2', '3', '3-4')
+          AND TR.Team IS NOT NULL AND TRIM(TR.Team) <> ''""")
+
+    # -- team_index --------------------------------------------------------
+    # Only teams with at least one game get a page; podium winners always qualify
+    # (their rosters played). Ordered by games so big orgs keep the clean slug.
+    rows = conn.execute(f"""
+        SELECT team_id, COUNT(DISTINCT gid) AS games,
+               COUNT(DISTINCT player_id) AS players, MIN(y) AS fy, MAX(y) AS ly
+        FROM ({_TEAM_GAMES_UNION})
+        GROUP BY team_id ORDER BY games DESC, team_id""").fetchall()
+    podiums = {r[0]: (r[1], r[2]) for r in conn.execute("""
+        SELECT team_id, COUNT(*), SUM(place = '1') FROM team_podiums GROUP BY team_id""")}
+    used: set[str] = set()
+    payload = []
+    for r in rows:
+        team_id = r["team_id"]
+        slug = base = _slugify(team_id) or "team"
+        i = 2
+        while slug in used:
+            slug = f"{base}-{i}"
+            i += 1
+        used.add(slug)
+        meta = team_meta(team_id)
+        n_podiums, n_titles = podiums.get(team_id, (0, 0))
+        payload.append((
+            team_id, meta["Name"] if meta and meta["Name"] else team_id, slug,
+            meta["Region"] if meta else None, meta["Short"] if meta else None,
+            meta["IsDisbanded"] if meta else None, team_logo(team_id),
+            r["games"], r["players"], r["fy"], r["ly"], n_titles or 0, n_podiums))
+    conn.execute("DELETE FROM team_index")
+    conn.executemany("""
+        INSERT INTO team_index
+            (team_id, name, slug, region, short, is_disbanded, logo_url,
+             games, players, first_year, last_year, titles, podiums)
+        VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)""", payload)
+    conn.execute("""
+        UPDATE team_aliases SET slug =
+            (SELECT ti.slug FROM team_index ti WHERE ti.team_id = team_aliases.team_id)""")
+    conn.commit()
+
+
 def compute_champion_stats(conn: sqlite3.Connection) -> None:
     conn.execute("DELETE FROM champion_stats")
     # One 'all' bucket plus one bucket per role; Role has full coverage in silver,
@@ -651,6 +811,7 @@ def run_all(conn: sqlite3.Connection) -> None:
         compute_oe_leaderboards(conn)
         compute_pentakills(conn)
     compute_player_index(conn)
+    compute_teams(conn)
     compute_score_leaderboard(conn)
     compute_records(conn)
 
@@ -663,7 +824,7 @@ def main() -> None:
     db.apply_schema(conn)
     run_all(conn)
     for tbl in ("player_career_stats", "player_champions", "champion_stats",
-                "leaderboards", "records", "player_index"):
+                "leaderboards", "records", "player_index", "team_index"):
         count = conn.execute(f"SELECT COUNT(*) FROM {tbl}").fetchone()[0]
         print(f"  {tbl:22s} {count:7d}")
     conn.close()

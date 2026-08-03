@@ -195,6 +195,10 @@ class TableSpec:
     name: str                       # silver table in SQLite
     cargo_table: str                # source Cargo table
     fields: list[str]               # Cargo fields (== SQLite columns)
+    # Request-side field expressions when they differ from the columns — needed for
+    # API aliases like '_pageName=Page' (bare _pageName is rejected by cargoquery).
+    # The response row then carries the alias ('Page'), matching `fields`.
+    cargo_fields: list[str] | None = None
     pk: list[str] = field(default_factory=list)
     int_fields: set[str] = field(default_factory=set)
     float_fields: set[str] = field(default_factory=set)
@@ -270,12 +274,29 @@ TABLES: dict[str, TableSpec] = {
         int_fields={"N_PlayerInTeam", "TeamOrder"},
         scope_field="OverviewPage",
     ),
+    # Team registry (full sweeps, no scope): org renames chain through
+    # Teams.RenamedTo; name variants resolve through TeamRedirects. Pulled by
+    # `python -m etl.fetch_teams`; the transform degrades to identity mapping
+    # when these are empty.
+    "teams": TableSpec(
+        name="teams", cargo_table="Teams",
+        fields=["Name", "OverviewPage", "Short", "Region", "IsDisbanded", "RenamedTo"],
+        pk=["OverviewPage"],
+        bool_fields={"IsDisbanded"},
+    ),
+    "team_redirects": TableSpec(
+        name="team_redirects", cargo_table="TeamRedirects",
+        fields=["AllName", "Page"],
+        cargo_fields=["AllName", "_pageName=Page"],
+        pk=["AllName"],
+    ),
 }
 
 # Load order (by logical dependencies, not FK).
 LOAD_ORDER = [
     "tournaments", "scoreboard_games", "scoreboard_players",
     "tournament_results", "tournament_players", "players", "player_redirects",
+    "teams", "team_redirects",
 ]
 
 # Minimum sample thresholds (games) per leaderboard. See plan §4.

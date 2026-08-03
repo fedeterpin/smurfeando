@@ -34,6 +34,12 @@ jobs:
       - name: Fetch player photos
         run: python -m etl.fetch_images
 
+      - name: Fetch team registry
+        run: python -m etl.fetch_teams
+
+      - name: Recompute gold   # picks up fresh photos + team registry before slimming
+        run: python -m etl.transform.aggregate
+
       - name: Build slim web DB
         run: python -m etl.build_web_db
 

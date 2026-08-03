@@ -49,6 +49,11 @@ export default function Home() {
             <T k="home.link.players" />
           </span>
         </Link>
+        <Link href="/teams" className="btn">
+          <span>
+            <T k="home.link.teams" />
+          </span>
+        </Link>
         <Link href="/champions" className="btn">
           <span>
             <T k="home.link.champions" />

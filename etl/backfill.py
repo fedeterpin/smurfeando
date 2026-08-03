@@ -124,6 +124,8 @@ def run_full(src: CargoSource, conn: sqlite3.Connection, year_from: int, year_to
     _sweep(src, conn, "tournament_players")
     _sweep(src, conn, "players")
     _sweep(src, conn, "player_redirects")
+    _sweep(src, conn, "teams")
+    _sweep(src, conn, "team_redirects")
 
     print("[full] scoreboards by month…")
     for year in range(year_from, year_to + 1):

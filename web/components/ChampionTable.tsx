@@ -7,19 +7,10 @@ import { formatValue, ROLES } from "@/lib/stats";
 import { useI18n } from "@/lib/i18n";
 import type { MsgKey } from "@/lib/i18n/messages";
 import InfoTip from "@/components/InfoTip";
+import RoleIcon from "@/components/RoleIcon";
 
 type SortKey = "games" | "win_rate" | "kda";
 const MIN_OPTIONS = [1, 20, 50, 100];
-
-// Role names are not translated (scene convention); only shortened.
-const ROLE_SHORT: Record<string, string> = {
-  all: "All",
-  Top: "Top",
-  Jungle: "Jng",
-  Mid: "Mid",
-  Bot: "ADC",
-  Support: "Sup",
-};
 
 export default function ChampionTable({ champions }: { champions: ChampionStatRow[] }) {
   const { t, locale } = useI18n();
@@ -59,10 +50,13 @@ export default function ChampionTable({ champions }: { champions: ChampionStatRo
             <button
               key={r}
               type="button"
-              className={`chip${r === role ? " active" : ""}`}
+              className={`chip${r === role ? " active" : ""}${r === "all" ? "" : " chip-ic"}`}
               onClick={() => setRole(r)}
+              aria-label={r === "all" ? t("scope.all") : r}
+              aria-pressed={r === role}
+              title={r === "all" ? undefined : r}
             >
-              {ROLE_SHORT[r]}
+              {r === "all" ? "All" : <RoleIcon role={r} />}
             </button>
           ))}
         </div>

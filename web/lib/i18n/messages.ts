@@ -21,6 +21,7 @@ const en = {
   "nav.search": "Search",
   "nav.leaderboards": "Leaderboards",
   "nav.players": "Players",
+  "nav.teams": "Teams",
   "nav.champions": "Champions",
   "nav.records": "Records",
   "footer.credits":
@@ -51,6 +52,7 @@ const en = {
   "home.link.records": "Hall of Records",
   "home.link.leaderboards": "Leaderboards",
   "home.link.players": "All players",
+  "home.link.teams": "Teams",
   "home.link.champions": "Champions",
   "home.search.placeholder": "Search a pro player…",
   "home.search.aria": "Search a pro player",
@@ -66,6 +68,26 @@ const en = {
   "players.card.legacyScore": "Smurf score",
   "players.showing":
     "Showing {shown} of {total} — refine your search to narrow it down.",
+
+  // --- Teams ---
+  "teams.eyebrow": "The orgs behind the dynasties",
+  "teams.title": "Teams",
+  "teams.subtitle":
+    "{count} teams from the international stage and the top domestic leagues. Search by name or region.",
+  "teams.search.placeholder": "Search a team…",
+  "teams.search.aria": "Search teams",
+  "teams.noMatch": "No teams match “{q}”.",
+  "teams.col.titles": "Titles",
+  "teams.col.podiums": "Top 3",
+  "teams.col.years": "Years",
+  "team.roster": "All-time roster",
+  "team.podiums": "Podiums at internationals",
+  "team.current": "Current",
+  "team.disbanded": "Disbanded",
+  "team.tile.games": "Games",
+  "team.tile.players": "Players",
+  "team.tile.titles": "Intl. titles",
+  "team.tile.podiums": "Top-3 finishes",
 
   // --- Champions ---
   "champions.eyebrow": "The pick & ban stage",
@@ -220,6 +242,7 @@ const es: Record<MsgKey, string> = {
   "nav.search": "Buscar",
   "nav.leaderboards": "Rankings",
   "nav.players": "Jugadores",
+  "nav.teams": "Equipos",
   "nav.champions": "Campeones",
   "nav.records": "Récords",
   "footer.credits":
@@ -248,6 +271,7 @@ const es: Record<MsgKey, string> = {
   "home.link.records": "Salón de los Récords",
   "home.link.leaderboards": "Rankings",
   "home.link.players": "Todos los jugadores",
+  "home.link.teams": "Equipos",
   "home.link.champions": "Campeones",
   "home.search.placeholder": "Busca un jugador profesional…",
   "home.search.aria": "Buscar un jugador profesional",
@@ -262,6 +286,25 @@ const es: Record<MsgKey, string> = {
   "players.card.legacyScore": "Smurf score",
   "players.showing":
     "Mostrando {shown} de {total}: afina la búsqueda para acotar.",
+
+  "teams.eyebrow": "Las organizaciones detrás de las dinastías",
+  "teams.title": "Equipos",
+  "teams.subtitle":
+    "{count} equipos del escenario internacional y de las principales ligas domésticas. Busca por nombre o región.",
+  "teams.search.placeholder": "Busca un equipo…",
+  "teams.search.aria": "Buscar equipos",
+  "teams.noMatch": "Ningún equipo coincide con «{q}».",
+  "teams.col.titles": "Títulos",
+  "teams.col.podiums": "Top 3",
+  "teams.col.years": "Años",
+  "team.roster": "Roster histórico",
+  "team.podiums": "Podios internacionales",
+  "team.current": "Actual",
+  "team.disbanded": "Disuelto",
+  "team.tile.games": "Partidas",
+  "team.tile.players": "Jugadores",
+  "team.tile.titles": "Títulos intl.",
+  "team.tile.podiums": "Top 3 internacionales",
 
   "champions.eyebrow": "La fase de picks y bans",
   "champions.title": "Campeones",

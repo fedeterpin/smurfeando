@@ -10,6 +10,7 @@ const LINKS: { href: string; k: MsgKey }[] = [
   { href: "/", k: "nav.search" },
   { href: "/leaderboards", k: "nav.leaderboards" },
   { href: "/players", k: "nav.players" },
+  { href: "/teams", k: "nav.teams" },
   { href: "/champions", k: "nav.champions" },
   { href: "/records", k: "nav.records" },
 ];

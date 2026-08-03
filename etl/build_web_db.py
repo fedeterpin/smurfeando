@@ -17,6 +17,7 @@ WEB_DB = config.DATA_DIR / "web.sqlite"
 KEEP_TABLES = {
     "player_index", "player_career_stats", "player_champions", "player_teams",
     "player_titles", "champion_stats", "leaderboards", "records",
+    "team_index", "team_aliases", "team_rosters", "team_podiums",
     "oe_leagues",   # 25-row dimension: region labels for the regional scopes
     "etl_meta",
 }

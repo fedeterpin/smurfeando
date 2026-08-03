@@ -144,6 +144,25 @@ CREATE INDEX IF NOT EXISTS idx_tp_overview ON tournament_players(OverviewPage);
 CREATE INDEX IF NOT EXISTS idx_tp_link     ON tournament_players(Link);
 CREATE INDEX IF NOT EXISTS idx_tp_pat      ON tournament_players(PageAndTeam);
 
+-- Team registry (dimension): org renames live in RenamedTo (a NAME — follow it
+-- through team_redirects). Pulled by `python -m etl.fetch_teams`.
+CREATE TABLE IF NOT EXISTS teams (
+    OverviewPage TEXT PRIMARY KEY,
+    Name         TEXT,
+    Short        TEXT,
+    Region       TEXT,
+    IsDisbanded  INTEGER,
+    RenamedTo    TEXT
+);
+
+-- Alias -> team page. MediaWiki first-letter-capitalizes titles ('iG' is stored
+-- 'Ig'), so the PK collates NOCASE and lookups must be case-insensitive.
+CREATE TABLE IF NOT EXISTS team_redirects (
+    AllName TEXT PRIMARY KEY COLLATE NOCASE,
+    Page    TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_teamred_page ON team_redirects(Page);
+
 -- =====================================================================
 -- GOLD (precomputed by transform/aggregate)
 -- =====================================================================
@@ -284,6 +303,60 @@ CREATE TABLE IF NOT EXISTS champion_stats (
     n_players INTEGER,
     PRIMARY KEY (champion, role)
 );
+
+-- Canonical team registry: one row per org after resolving team_redirects and
+-- following teams.RenamedTo chains. team_id = final wiki page (the raw name when
+-- the registry is absent or does not know the name).
+CREATE TABLE IF NOT EXISTS team_index (
+    team_id      TEXT PRIMARY KEY,
+    name         TEXT,             -- display name (teams.Name, else team_id)
+    slug         TEXT,             -- /teams/<slug>
+    region       TEXT,
+    short        TEXT,
+    is_disbanded INTEGER,
+    logo_url     TEXT,             -- Fandom CDN URL, built by MD5 in the ETL
+    games        INTEGER,          -- distinct games: LP intl + OE non-duplicate
+    players      INTEGER,          -- all-time roster size
+    first_year   TEXT,
+    last_year    TEXT,
+    titles       INTEGER,          -- intl_premier 1st places
+    podiums      INTEGER           -- intl_premier top-3 finishes (incl. titles)
+);
+CREATE INDEX IF NOT EXISTS idx_tidx_slug ON team_index(slug);
+
+-- Raw display string -> canonical team. Every team name the gold layer can show
+-- has a row; slug is NULL when the canonical team has no page (e.g. academy orgs
+-- with zero games in the dataset), which the web renders unlinked.
+CREATE TABLE IF NOT EXISTS team_aliases (
+    alias   TEXT PRIMARY KEY,
+    team_id TEXT,
+    slug    TEXT
+);
+
+-- All-time roster per canonical team.
+CREATE TABLE IF NOT EXISTS team_rosters (
+    team_id    TEXT NOT NULL,
+    player_id  TEXT NOT NULL,
+    role       TEXT,      -- most-played role with this team
+    first_year TEXT,
+    last_year  TEXT,
+    games      INTEGER,
+    is_current INTEGER,   -- player_index.team resolves to this team
+    PRIMARY KEY (team_id, player_id)
+);
+
+-- Top-3 finishes at premier internationals (Worlds / MSI / First Stand).
+CREATE TABLE IF NOT EXISTS team_podiums (
+    team_id       TEXT NOT NULL,
+    overview_page TEXT NOT NULL,
+    event         TEXT,
+    league        TEXT,
+    year          TEXT,
+    place         TEXT,      -- '1' | '2' | '3' | '3-4', displayed as given
+    place_num     INTEGER,   -- 1 | 2 | 3 for sorting and medal styling
+    PRIMARY KEY (team_id, overview_page)
+);
+CREATE INDEX IF NOT EXISTS idx_tpod_team ON team_podiums(team_id);
 
 -- ETL metadata (last run, schema version, attribution).
 CREATE TABLE IF NOT EXISTS etl_meta (

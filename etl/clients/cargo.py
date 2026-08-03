@@ -173,7 +173,7 @@ class CargoSource:
         """Extracts a silver table according to its spec, filtering by `where`, and stores bronze."""
         rows = self.query(
             tables=spec.cargo_table,
-            fields=spec.fields,
+            fields=spec.cargo_fields or spec.fields,
             where=where,
             order_by=spec.order_by,
         )

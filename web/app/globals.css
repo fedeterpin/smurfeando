@@ -513,6 +513,9 @@ a.podium-card.p3:hover { background: var(--bronze); }
 }
 .p1 .podium-name { font-size: 24px; }
 .podium-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   font-family: var(--ff-body);
   font-size: 11px;
   letter-spacing: 0.1em;
@@ -605,6 +608,15 @@ a.podium-card.p3:hover { background: var(--bronze); }
 }
 .chip:hover { border-color: rgba(232, 227, 213, 0.45); }
 .chip.active { border-color: var(--gold); color: var(--gold); }
+/* Icon-only role chips: square-ish padding, icon dimmed until hover/active. */
+.chip.chip-ic {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 9px;
+}
+.chip.chip-ic .ic.role { opacity: 0.65; transition: opacity 150ms ease; }
+.chip.chip-ic:hover .ic.role, .chip.chip-ic.active .ic.role { opacity: 1; }
 
 /* InfoTip: ⓘ trigger + CSS-only tooltip -------------------------------- */
 .infotip { position: relative; display: inline-flex; flex: none; }
@@ -800,6 +812,19 @@ li:last-child > .sr-item { border-bottom: 0; }
 .players-tools .search-frame { max-width: 420px; }
 .tbl.tbl-players { --cols: minmax(0, 1fr) 90px 150px 80px 90px 100px; }
 .tbl-count { margin: 14px 0 0; font-size: 12px; color: var(--ink-40); text-align: center; }
+
+/* Teams ---------------------------------------------------------------- */
+.tbl.tbl-teams { --cols: minmax(0, 1fr) 120px 80px 80px 90px 110px; }
+.tbl.tbl-roster { --cols: minmax(0, 1fr) 90px 120px 90px; }
+/* Team logos: square with transparency — no circle crop, no cover zoom. */
+.avatar.sq {
+  border-radius: 8px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.team-link { cursor: pointer; transition: color 150ms ease; }
+.team-link:hover, .team-link:focus-visible { color: var(--gold); }
 
 /* Champions ----------------------------------------------------------- */
 .tbl.tbl-champs { --cols: minmax(0, 1fr) 90px 100px 90px 100px; }
@@ -1123,6 +1148,12 @@ li:last-child > .sr-item { border-bottom: 0; }
   .tbl-players .col-team, .tbl-players .col-games { display: none; }
   .tbl.tbl-champs { --cols: minmax(0, 1fr) 80px 80px; }
   .tbl-champs .col-players, .tbl-champs .col-kda { display: none; }
+  .tbl.tbl-teams { --cols: minmax(0, 1fr) 70px 100px; }
+  .tbl-teams .col-region, .tbl-teams .col-podiums { display: none; }
+  /* The roster keeps the (compact) role icon and drops the years instead. */
+  .tbl.tbl-roster { --cols: minmax(0, 1fr) 60px 80px; }
+  .tbl-roster .col-years { display: none; }
+  .tbl-roster .col-role { display: block; }
   .score-panel .cutp-in { padding: 22px 20px; }
   .score-num { font-size: 36px; }
 }

@@ -18,17 +18,10 @@ import {
 import { useI18n } from "@/lib/i18n";
 import type { MsgKey } from "@/lib/i18n/messages";
 import InfoTip from "@/components/InfoTip";
+import RoleIcon from "@/components/RoleIcon";
+import TeamLink from "@/components/TeamLink";
 
 const RANK_WORDS: MsgKey[] = ["podium.first", "podium.second", "podium.third"];
-// Role names are not translated (scene convention); only shortened.
-const ROLE_SHORT: Record<string, string> = {
-  all: "All",
-  Top: "Top",
-  Jungle: "Jng",
-  Mid: "Mid",
-  Bot: "ADC",
-  Support: "Sup",
-};
 
 type SortCol = "rank" | "value" | "games";
 interface SortState {
@@ -54,13 +47,21 @@ function Avatar({ row, size }: { row: LeaderboardRow; size: 30 | 56 | 68 }) {
 function PodiumCard({ row, def }: { row: LeaderboardRow; def: StatDef }) {
   const { t, locale } = useI18n();
   const pos = row.rank;
-  const meta = [row.role, row.team].filter(Boolean).join(" · ");
   const body = (
     <span className="cutp-in">
       <span className="podium-rankword">{t(RANK_WORDS[pos - 1])}</span>
       <Avatar row={row} size={pos === 1 ? 68 : 56} />
       <span className="podium-name">{row.display_id}</span>
-      {meta && <span className="podium-meta">{meta}</span>}
+      {(row.role || row.team) && (
+        <span className="podium-meta">
+          {row.role && <RoleIcon role={row.role} className="ic role sm" />}
+          {row.team && (
+            <TeamLink nested slug={row.team_slug}>
+              {row.team}
+            </TeamLink>
+          )}
+        </span>
+      )}
       <span className={`podium-score${pos === 1 ? " gold-text" : ""}`}>
         {formatValue(def.kind, row.value, locale, def.signed)}
       </span>
@@ -202,13 +203,16 @@ export default function LeaderboardExplorer({
                   <button
                     key={r}
                     type="button"
-                    className={`chip${r === role ? " active" : ""}`}
+                    className={`chip${r === role ? " active" : ""}${r === "all" ? "" : " chip-ic"}`}
                     onClick={() => {
                       setRole(r);
                       setExpanded(false);
                     }}
+                    aria-label={r === "all" ? t("scope.all") : r}
+                    aria-pressed={r === role}
+                    title={r === "all" ? undefined : r}
                   >
-                    {ROLE_SHORT[r] ?? r}
+                    {r === "all" ? "All" : <RoleIcon role={r} />}
                   </button>
                 ))}
               </div>
@@ -300,10 +304,16 @@ export default function LeaderboardExplorer({
                     <Avatar row={r} size={30} />
                     <span className="pcell-id">
                       <span className="pname">{r.display_id}</span>
-                      {r.team && <span className="ptag">{r.team}</span>}
+                      {r.team && (
+                        <TeamLink nested slug={r.team_slug} className="ptag">
+                          {r.team}
+                        </TeamLink>
+                      )}
                     </span>
                   </span>
-                  <span className="cell-role col-role">{r.role ?? "—"}</span>
+                  <span className="cell-role col-role">
+                    <RoleIcon role={r.role} />
+                  </span>
                   <span className="cell-score cell-num">
                     {formatValue(def.kind, r.value, locale, def.signed)}
                   </span>

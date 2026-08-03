@@ -6,15 +6,8 @@ import type { PlayerIndexRow } from "@/lib/db";
 import { formatValue, ROLES } from "@/lib/stats";
 import { useI18n } from "@/lib/i18n";
 import InfoTip from "@/components/InfoTip";
-
-// Role names are not translated (scene convention); only shortened.
-const ROLE_SHORT: Record<string, string> = {
-  Top: "Top",
-  Jungle: "Jng",
-  Mid: "Mid",
-  Bot: "ADC",
-  Support: "Sup",
-};
+import RoleIcon from "@/components/RoleIcon";
+import TeamLink from "@/components/TeamLink";
 
 const MAX_ROWS = 100;
 
@@ -59,10 +52,13 @@ export default function PlayerSearch({ players }: { players: PlayerIndexRow[] })
             <button
               key={r}
               type="button"
-              className={`chip${r === role ? " active" : ""}`}
+              className={`chip${r === role ? " active" : ""}${r === "all" ? "" : " chip-ic"}`}
               onClick={() => setRole(r)}
+              aria-label={r === "all" ? t("scope.all") : r}
+              aria-pressed={r === role}
+              title={r === "all" ? undefined : r}
             >
-              {r === "all" ? "All" : ROLE_SHORT[r] ?? r}
+              {r === "all" ? "All" : <RoleIcon role={r} />}
             </button>
           ))}
         </div>
@@ -114,8 +110,18 @@ export default function PlayerSearch({ players }: { players: PlayerIndexRow[] })
                   )}
                 </span>
               </span>
-              <span className="cell-role col-role">{p.role ?? "—"}</span>
-              <span className="cell-role col-team">{p.team ?? "—"}</span>
+              <span className="cell-role col-role">
+                <RoleIcon role={p.role} />
+              </span>
+              <span className="cell-role col-team">
+                {p.team ? (
+                  <TeamLink nested slug={p.team_slug}>
+                    {p.team}
+                  </TeamLink>
+                ) : (
+                  "—"
+                )}
+              </span>
               <span className="cell-games cell-num col-games">{p.games}</span>
               <span className="cell-score cell-num">
                 {formatValue("ratio", p.kda, locale)}

@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import BackLink from "@/components/BackLink";
+import TeamLink from "@/components/TeamLink";
 import {
   getPlayerBySlug,
   getPlayerChampions,
@@ -168,7 +169,7 @@ export default async function PlayerPage({
               </span>
             )}
             {player.team && (
-              <span className="pchip">
+              <TeamLink slug={player.team_slug} className="pchip">
                 {player.team_logo_url && (
                   <span
                     className="ic team"
@@ -176,7 +177,7 @@ export default async function PlayerPage({
                   />
                 )}
                 {player.team}
-              </span>
+              </TeamLink>
             )}
             {player.country && (
               <span className="pchip">
@@ -314,7 +315,9 @@ export default async function PlayerPage({
                     aria-hidden="true"
                   />
                 )}
-                <span className="th-name">{team.team}</span>
+                <TeamLink slug={team.team_slug} className="th-name">
+                  {team.team}
+                </TeamLink>
                 <span className="th-years">
                   {team.first_year === team.last_year
                     ? team.first_year
@@ -338,7 +341,11 @@ export default async function PlayerPage({
                 <span className="diamond" aria-hidden="true" />
                 <span className="trophy-event">
                   {title.event}
-                  {title.team && <em>{title.team}</em>}
+                  {title.team && (
+                    <TeamLink slug={title.team_slug}>
+                      <em>{title.team}</em>
+                    </TeamLink>
+                  )}
                 </span>
                 <span className="trophy-year">{title.year}</span>
               </div>

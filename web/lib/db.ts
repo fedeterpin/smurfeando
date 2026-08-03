@@ -30,6 +30,7 @@ export interface LeaderboardRow {
   games: number | null;
   role: string | null;
   team: string | null;
+  team_slug: string | null;
   image_url: string | null;
 }
 
@@ -39,9 +40,10 @@ export function getLeaderboard(stat: string, scope = "all", limit = 100): Leader
       db
         .prepare(
           `SELECT l.rank, l.player_id, l.display_id, pi.slug, l.value, l.games,
-                  pi.role, pi.team, pi.image_url
+                  pi.role, pi.team, ta.slug AS team_slug, pi.image_url
            FROM leaderboards l
            LEFT JOIN player_index pi ON pi.player_id = l.player_id
+           LEFT JOIN team_aliases ta ON ta.alias = pi.team
            WHERE l.stat = ? AND l.scope = ?
            ORDER BY l.rank LIMIT ?`,
         )
@@ -85,6 +87,7 @@ export interface PlayerRow {
   role: string | null;
   country: string | null;
   team: string | null;
+  team_slug: string | null;
   is_retired: number | null;
   games: number;
   wins: number;
@@ -107,7 +110,11 @@ export function listPlayers(limit = 5000): PlayerRow[] {
   return withDb(
     (db) =>
       db
-        .prepare(`SELECT * FROM player_index ORDER BY score DESC, games DESC LIMIT ?`)
+        .prepare(
+          `SELECT pi.*, ta.slug AS team_slug FROM player_index pi
+           LEFT JOIN team_aliases ta ON ta.alias = pi.team
+           ORDER BY pi.score DESC, pi.games DESC LIMIT ?`,
+        )
         .all(limit) as PlayerRow[],
     [],
   );
@@ -124,6 +131,7 @@ export type PlayerIndexRow = Pick<
   | "name"
   | "role"
   | "team"
+  | "team_slug"
   | "games"
   | "kda"
   | "win_rate"
@@ -137,9 +145,12 @@ export function listPlayerIndex(): PlayerIndexRow[] {
     (db) =>
       db
         .prepare(
-          `SELECT player_id, display_id, slug, name, role, team, games, kda,
-                  win_rate, intl_titles, image_url, score
-           FROM player_index ORDER BY score DESC, games DESC`,
+          `SELECT pi.player_id, pi.display_id, pi.slug, pi.name, pi.role, pi.team,
+                  ta.slug AS team_slug, pi.games, pi.kda, pi.win_rate,
+                  pi.intl_titles, pi.image_url, pi.score
+           FROM player_index pi
+           LEFT JOIN team_aliases ta ON ta.alias = pi.team
+           ORDER BY pi.score DESC, pi.games DESC`,
         )
         .all() as PlayerIndexRow[],
     [],
@@ -149,8 +160,13 @@ export function listPlayerIndex(): PlayerIndexRow[] {
 export function getPlayerBySlug(slug: string): PlayerRow | null {
   return withDb(
     (db) =>
-      (db.prepare(`SELECT * FROM player_index WHERE slug = ?`).get(slug) as PlayerRow) ??
-      null,
+      (db
+        .prepare(
+          `SELECT pi.*, ta.slug AS team_slug FROM player_index pi
+           LEFT JOIN team_aliases ta ON ta.alias = pi.team
+           WHERE pi.slug = ?`,
+        )
+        .get(slug) as PlayerRow) ?? null,
     null,
   );
 }
@@ -266,6 +282,7 @@ export interface TitleRow {
   league: string;
   year: string;
   team: string | null;
+  team_slug: string | null;
   team_logo_url: string | null;
 }
 
@@ -274,8 +291,11 @@ export function getPlayerTitles(playerId: string): TitleRow[] {
     (db) =>
       db
         .prepare(
-          `SELECT overview_page, event, league, year, team, team_logo_url
-           FROM player_titles WHERE player_id = ? ORDER BY year DESC, league`,
+          `SELECT pt.overview_page, pt.event, pt.league, pt.year, pt.team,
+                  ta.slug AS team_slug, pt.team_logo_url
+           FROM player_titles pt
+           LEFT JOIN team_aliases ta ON ta.alias = pt.team
+           WHERE pt.player_id = ? ORDER BY pt.year DESC, pt.league`,
         )
         .all(playerId) as TitleRow[],
     [],
@@ -284,6 +304,7 @@ export function getPlayerTitles(playerId: string): TitleRow[] {
 
 export interface TeamHistoryRow {
   team: string;
+  team_slug: string | null;
   team_logo_url: string | null;
   first_year: string;
   last_year: string;
@@ -295,9 +316,12 @@ export function getPlayerTeams(playerId: string): TeamHistoryRow[] {
     (db) =>
       db
         .prepare(
-          `SELECT team, team_logo_url, first_year, last_year, games
-           FROM player_teams WHERE player_id = ?
-           ORDER BY first_year, last_year`,
+          `SELECT pt.team, ta.slug AS team_slug, pt.team_logo_url,
+                  pt.first_year, pt.last_year, pt.games
+           FROM player_teams pt
+           LEFT JOIN team_aliases ta ON ta.alias = pt.team
+           WHERE pt.player_id = ?
+           ORDER BY pt.first_year, pt.last_year`,
         )
         .all(playerId) as TeamHistoryRow[],
     [],
@@ -355,6 +379,97 @@ export function getChampionStats(minGames = 1, limit = 2000): ChampionStatRow[] 
           `SELECT * FROM champion_stats WHERE games >= ? ORDER BY games DESC LIMIT ?`,
         )
         .all(minGames, limit) as ChampionStatRow[],
+    [],
+  );
+}
+
+// --- Teams ----------------------------------------------------------------
+export interface TeamIndexRow {
+  team_id: string;
+  name: string;
+  slug: string;
+  region: string | null;
+  short: string | null;
+  is_disbanded: number | null;
+  logo_url: string | null;
+  games: number;
+  players: number;
+  first_year: string | null;
+  last_year: string | null;
+  titles: number;
+  podiums: number;
+}
+
+export function listTeams(): TeamIndexRow[] {
+  return withDb(
+    (db) =>
+      db
+        .prepare(
+          `SELECT * FROM team_index ORDER BY titles DESC, podiums DESC, games DESC`,
+        )
+        .all() as TeamIndexRow[],
+    [],
+  );
+}
+
+export function getTeamBySlug(slug: string): TeamIndexRow | null {
+  return withDb(
+    (db) =>
+      (db.prepare(`SELECT * FROM team_index WHERE slug = ?`).get(slug) as TeamIndexRow) ??
+      null,
+    null,
+  );
+}
+
+export interface TeamRosterRow {
+  player_id: string;
+  display_id: string | null;
+  slug: string | null;
+  image_url: string | null;
+  role: string | null;
+  first_year: string;
+  last_year: string;
+  games: number;
+  is_current: number;
+}
+
+export function getTeamRoster(teamId: string): TeamRosterRow[] {
+  return withDb(
+    (db) =>
+      db
+        .prepare(
+          `SELECT tr.player_id, pi.display_id, pi.slug, pi.image_url,
+                  COALESCE(tr.role, pi.role) AS role,
+                  tr.first_year, tr.last_year, tr.games, tr.is_current
+           FROM team_rosters tr
+           LEFT JOIN player_index pi ON pi.player_id = tr.player_id
+           WHERE tr.team_id = ?
+           ORDER BY tr.is_current DESC, tr.games DESC`,
+        )
+        .all(teamId) as TeamRosterRow[],
+    [],
+  );
+}
+
+export interface TeamPodiumRow {
+  overview_page: string;
+  event: string;
+  league: string;
+  year: string | null;
+  place: string; // '1' | '2' | '3' | '3-4'
+  place_num: number;
+}
+
+export function getTeamPodiums(teamId: string): TeamPodiumRow[] {
+  return withDb(
+    (db) =>
+      db
+        .prepare(
+          `SELECT overview_page, event, league, year, place, place_num
+           FROM team_podiums WHERE team_id = ?
+           ORDER BY year DESC, place_num`,
+        )
+        .all(teamId) as TeamPodiumRow[],
     [],
   );
 }

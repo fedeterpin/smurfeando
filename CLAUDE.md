@@ -29,7 +29,9 @@ python -m etl.backfill --mode full --year-from 2011   # complete history (needs 
 # Full data-refresh pipeline (order MATTERS — see below):
 python -m etl.backfill --leagues "..."   # 1. extracts Cargo -> data/site.sqlite
 python -m etl.fetch_images               # 2. writes players.Image to the live DB
-python -m etl.build_web_db               # 3. produces data/web.sqlite (slim, committed)
+python -m etl.fetch_teams                # 3. team registry (Teams + TeamRedirects)
+python -m etl.transform.aggregate        # 4. recomputes GOLD over the fresh silver
+python -m etl.build_web_db               # 5. produces data/web.sqlite (slim, committed)
 ```
 
 There is no test suite. "Verification" means running a slice (`etl.run`) and inspecting
