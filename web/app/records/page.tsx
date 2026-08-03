@@ -28,6 +28,9 @@ export default function RecordsPage() {
         <p className="page-sub">
           <T k="records.subtitle" />
         </p>
+        <p className="scope-note">
+          <T k="scopeNote.official" />
+        </p>
       </section>
 
       {records.length === 0 ? (

@@ -400,6 +400,11 @@ a.cutp.featured:hover { background: var(--gold-hi); filter: drop-shadow(0 0 26px
   transition: color 150ms ease;
 }
 .th-btn:hover, .th-btn.active { color: var(--gold); }
+/* Grid cell that pairs a header label/button with an InfoTip. Being the direct
+   child, it takes the cell padding and the responsive col-* hiding classes. */
+.th-wrap { display: flex; align-items: center; gap: 6px; }
+.th-wrap.th-num { justify-content: flex-end; }
+.th-wrap > .th-btn, .th-wrap > .th-lab { padding: 0; }
 .tbl-row {
   display: grid;
   grid-template-columns: var(--cols);
@@ -601,6 +606,84 @@ a.podium-card.p3:hover { background: var(--bronze); }
 .chip:hover { border-color: rgba(232, 227, 213, 0.45); }
 .chip.active { border-color: var(--gold); color: var(--gold); }
 
+/* InfoTip: ⓘ trigger + CSS-only tooltip -------------------------------- */
+.infotip { position: relative; display: inline-flex; flex: none; }
+.infotip-tri {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 13px;
+  height: 13px;
+  border: 1px solid rgba(200, 170, 110, 0.45);
+  font-family: var(--ff-display);
+  font-size: 9px;
+  font-style: italic;
+  line-height: 1;
+  letter-spacing: 0;
+  text-transform: none;
+  color: rgba(200, 170, 110, 0.7);
+  cursor: help;
+  transition: color 150ms ease, border-color 150ms ease;
+}
+.infotip-tri:hover, .infotip-tri:focus {
+  color: var(--gold);
+  border-color: var(--gold);
+  outline: none;
+}
+.infotip-bubble {
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: max-content;
+  max-width: 240px;
+  padding: 8px 10px;
+  background: var(--surface);
+  border: 1px solid var(--rule-gold-strong);
+  /* Reset the uppercase/tracked/nowrap header typography the tip sits inside. */
+  font-family: var(--ff-body);
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  white-space: normal;
+  text-align: left;
+  color: var(--ink-body);
+  z-index: 30;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 120ms ease 150ms;
+}
+/* Bridge the 6px gap so the pointer can travel from trigger to bubble. */
+.infotip-bubble::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  height: 8px;
+}
+.infotip:hover .infotip-bubble,
+.infotip:focus-within .infotip-bubble {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+/* Right-edge columns: hang the bubble from the right to avoid viewport clipping. */
+.infotip-end .infotip-bubble { left: auto; right: -4px; transform: none; }
+
+/* One-line data-scope note under a page subtitle. */
+.scope-note {
+  max-width: 560px;
+  margin: 10px auto 0;
+  font-size: 11.5px;
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--ink-40);
+}
+
 /* Records page -------------------------------------------------------- */
 .record-grid {
   display: grid;
@@ -738,6 +821,8 @@ li:last-child > .sr-item { border-bottom: 0; }
   margin-right: 10px;
 }
 .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 20px 0 26px; }
+/* Breathing room between stacked control groups (e.g. role + min-games). */
+.controls .ctrl-label:not(:first-child) { margin-left: 18px; }
 
 /* Icons (role / team / flag) ------------------------------------------ */
 .ic {

@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { PlayerIndexRow } from "@/lib/db";
 import { formatValue, ROLES } from "@/lib/stats";
 import { useI18n } from "@/lib/i18n";
+import InfoTip from "@/components/InfoTip";
 
 // Role names are not translated (scene convention); only shortened.
 const ROLE_SHORT: Record<string, string> = {
@@ -75,9 +76,18 @@ export default function PlayerSearch({ players }: { players: PlayerIndexRow[] })
             <span className="th-lab">{t("common.player")}</span>
             <span className="th-lab col-role">{t("common.role")}</span>
             <span className="th-lab col-team">{t("common.team")}</span>
-            <span className="th-lab th-num col-games">{t("common.games")}</span>
-            <span className="th-lab th-num">{t("common.kda")}</span>
-            <span className="th-lab th-num">{t("common.winRate")}</span>
+            <span className="th-wrap th-num col-games">
+              <span className="th-lab th-num">{t("common.games")}</span>
+              <InfoTip k="tip.playersGames" align="end" />
+            </span>
+            <span className="th-wrap th-num">
+              <span className="th-lab th-num">{t("common.kda")}</span>
+              <InfoTip k="tip.kda" align="end" />
+            </span>
+            <span className="th-wrap th-num">
+              <span className="th-lab th-num">{t("common.winRate")}</span>
+              <InfoTip k="tip.winRate" align="end" />
+            </span>
           </div>
           {rows.map((p, i) => (
             <Link

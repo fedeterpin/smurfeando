@@ -270,8 +270,10 @@ CREATE TABLE IF NOT EXISTS player_teams (
 CREATE INDEX IF NOT EXISTS idx_pteams_player ON player_teams(player_id);
 
 -- Champion stats (international level): most played / best win rate.
+-- `role` slices the aggregate: 'all' plus one row per role the champion was played in.
 CREATE TABLE IF NOT EXISTS champion_stats (
-    champion  TEXT PRIMARY KEY,
+    champion  TEXT NOT NULL,
+    role      TEXT NOT NULL DEFAULT 'all',  -- 'all' | Top | Jungle | Mid | Bot | Support
     games     INTEGER,
     wins      INTEGER,
     win_rate  REAL,
@@ -279,7 +281,8 @@ CREATE TABLE IF NOT EXISTS champion_stats (
     deaths    INTEGER,
     assists   INTEGER,
     kda       REAL,
-    n_players INTEGER
+    n_players INTEGER,
+    PRIMARY KEY (champion, role)
 );
 
 -- ETL metadata (last run, schema version, attribution).

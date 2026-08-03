@@ -336,6 +336,7 @@ export function getPlayerRankings(playerId: string, maxRank = 20): RankingRow[] 
 // --- Champions ------------------------------------------------------------
 export interface ChampionStatRow {
   champion: string;
+  role: string; // 'all' | Top | Jungle | Mid | Bot | Support
   games: number;
   wins: number;
   win_rate: number;
@@ -346,7 +347,7 @@ export interface ChampionStatRow {
   n_players: number;
 }
 
-export function getChampionStats(minGames = 1, limit = 300): ChampionStatRow[] {
+export function getChampionStats(minGames = 1, limit = 2000): ChampionStatRow[] {
   return withDb(
     (db) =>
       db

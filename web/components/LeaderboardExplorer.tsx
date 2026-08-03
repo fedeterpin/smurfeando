@@ -17,6 +17,7 @@ import {
 } from "@/lib/stats";
 import { useI18n } from "@/lib/i18n";
 import type { MsgKey } from "@/lib/i18n/messages";
+import InfoTip from "@/components/InfoTip";
 
 const RANK_WORDS: MsgKey[] = ["podium.first", "podium.second", "podium.third"];
 // Role names are not translated (scene convention); only shortened.
@@ -276,14 +277,17 @@ export default function LeaderboardExplorer({
                 {t(statShortKey(def.key))}
                 {arrow("value")}
               </button>
-              <button
-                type="button"
-                className={`th-btn th-num col-games${sort.col === "games" ? " active" : ""}`}
-                onClick={() => toggleSort("games")}
-              >
-                {t("common.games")}
-                {arrow("games")}
-              </button>
+              <span className="th-wrap th-num col-games">
+                <button
+                  type="button"
+                  className={`th-btn th-num${sort.col === "games" ? " active" : ""}`}
+                  onClick={() => toggleSort("games")}
+                >
+                  {t("common.games")}
+                  {arrow("games")}
+                </button>
+                <InfoTip k="tip.games" align="end" />
+              </span>
             </div>
 
             {rows.map((r, i) => {

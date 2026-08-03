@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import BackLink from "@/components/BackLink";
 import {
@@ -267,6 +266,9 @@ export default async function PlayerPage({
           </div>
         ))}
       </div>
+      <p className="scope-note">
+        <T k={isOe ? "scopeNote.official" : "scopeNote.intl"} />
+      </p>
 
       {held.length > 0 && (
         <section className="block">

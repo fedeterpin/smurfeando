@@ -19,6 +19,9 @@ export default function PlayersPage() {
         <p className="page-sub">
           <T k="players.subtitle" vars={{ count: players.length }} />
         </p>
+        <p className="scope-note">
+          <T k="scopeNote.official" />
+        </p>
       </section>
       <PlayerSearch players={players} />
     </>

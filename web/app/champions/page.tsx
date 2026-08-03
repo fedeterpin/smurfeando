@@ -3,7 +3,7 @@ import { T } from "@/lib/i18n";
 import ChampionTable from "@/components/ChampionTable";
 
 export default function ChampionsPage() {
-  const champions = getChampionStats(1, 300);
+  const champions = getChampionStats(1, 2000);
   return (
     <>
       <section className="page-head">
@@ -18,6 +18,9 @@ export default function ChampionsPage() {
         </div>
         <p className="page-sub">
           <T k="champions.subtitle" />
+        </p>
+        <p className="scope-note">
+          <T k="scopeNote.intl" />
         </p>
       </section>
       <ChampionTable champions={champions} />

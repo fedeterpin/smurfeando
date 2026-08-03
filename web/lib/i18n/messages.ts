@@ -192,6 +192,23 @@ const en = {
     "Domestic play only — no international appearances, so no Smurf Score.",
   "player.tile.gd15": "GD@15",
   "player.tile.csPerMin": "CS/min",
+
+  // --- Scope clarifications: column-header tooltips + per-page notes ---
+  "tip.more": "More info",
+  "tip.games":
+    "Official competitive matches only — never solo queue. All-time totals.",
+  "tip.playersGames":
+    "Official games on record — international events for players with an international career, domestic leagues for regional-only players. Never solo queue.",
+  "tip.winRate": "Wins ÷ games, official competitive matches only, all-time.",
+  "tip.kda":
+    "(Kills + Assists) ÷ Deaths from career totals — not an average of per-game KDAs.",
+  "tip.champGames":
+    "Times picked in official competitive games — a champion appears at most once per game. All-time.",
+  "tip.champPlayers": "Distinct pros who have played this champion.",
+  "scopeNote.official":
+    "Official competitive matches only — all-time. Never solo queue.",
+  "scopeNote.intl":
+    "International events only (Worlds · MSI · First Stand) — official matches, all-time. Never solo queue.",
 } as const;
 
 export type MsgKey = keyof typeof en;
@@ -300,7 +317,7 @@ const es: Record<MsgKey, string> = {
   "stat.career_kda.label": "Mejor KDA de carrera",
   "stat.career_kda.short": "KDA",
   "stat.career_kda.help":
-    "(Asesinatos + Asistencias) / Muertes, sobre los totales de carrera. Mínimo 200 partidas.",
+    "(Asesinatos + Asistencias) / Muertes, sobre los totales de carrera. Mínimo 200 partidas a nivel internacional, 100 en una liga regional.",
   "stat.career_kda_intl.label": "Mejor KDA en internacionales",
   "stat.career_kda_intl.short": "KDA · intl",
   "stat.career_kda_intl.help":
@@ -318,7 +335,7 @@ const es: Record<MsgKey, string> = {
   "stat.msi_titles.help":
     "Mid-Season Invitational ganados en el roster campeón.",
   "stat.worlds_appearances.label": "Más participaciones en Worlds",
-  "stat.worlds_appearances.short": "Worlds",
+  "stat.worlds_appearances.short": "Particip. Worlds",
   "stat.worlds_appearances.help":
     "Años distintos con al menos una partida del evento principal de Worlds.",
   "stat.games_played.label": "Más partidas jugadas",
@@ -369,6 +386,24 @@ const es: Record<MsgKey, string> = {
     "Solo competencia doméstica — sin apariciones internacionales, así que no tiene Smurf Score.",
   "player.tile.gd15": "GD@15",
   "player.tile.csPerMin": "CS/min",
+
+  // --- Aclaraciones de alcance: tooltips en encabezados + notas por página ---
+  "tip.more": "Más información",
+  "tip.games":
+    "Solo partidas oficiales de competición — nunca soloQ. Totales históricos.",
+  "tip.playersGames":
+    "Partidas oficiales registradas: eventos internacionales para quienes tienen carrera internacional, ligas domésticas para los jugadores solo regionales. Nunca soloQ.",
+  "tip.winRate":
+    "Victorias ÷ partidas, solo partidas oficiales de competición, histórico completo.",
+  "tip.kda":
+    "(Asesinatos + Asistencias) ÷ Muertes sobre totales de carrera — no es un promedio del KDA de cada partida.",
+  "tip.champGames":
+    "Veces elegido en partidas oficiales — un campeón aparece como máximo una vez por partida. Histórico completo.",
+  "tip.champPlayers": "Profesionales distintos que han jugado este campeón.",
+  "scopeNote.official":
+    "Solo partidas oficiales de competición — histórico completo. Nunca soloQ.",
+  "scopeNote.intl":
+    "Solo eventos internacionales (Worlds · MSI · First Stand) — partidas oficiales, histórico completo. Nunca soloQ.",
 };
 
 export const MESSAGES: Record<Locale, Record<MsgKey, string>> = { en, es };

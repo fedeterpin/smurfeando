@@ -41,6 +41,12 @@ export default function LeaderboardsPage() {
         <div className="divider" aria-hidden="true">
           <span className="diamond" />
         </div>
+        <p className="page-sub">
+          <T k="leaderboards.subtitle" />
+        </p>
+        <p className="scope-note">
+          <T k="scopeNote.official" />
+        </p>
       </section>
       <LeaderboardExplorer boards={boards} catalog={STAT_CATALOG} regions={regions} />
     </>

@@ -275,21 +275,25 @@ def compute_player_titles(conn: sqlite3.Connection) -> None:
 
 def compute_champion_stats(conn: sqlite3.Connection) -> None:
     conn.execute("DELETE FROM champion_stats")
-    rows = conn.execute("""
-        SELECT Champion AS champion, COUNT(DISTINCT GameId) AS games,
-               SUM(CASE WHEN PlayerWin = 'Yes' THEN 1 ELSE 0 END) AS wins,
-               SUM(COALESCE(Kills, 0)) AS k, SUM(COALESCE(Deaths, 0)) AS d,
-               SUM(COALESCE(Assists, 0)) AS a, COUNT(DISTINCT Link) AS n_players
-        FROM scoreboard_players
-        WHERE Champion IS NOT NULL AND Champion <> '' GROUP BY Champion""").fetchall()
-    payload = [(r["champion"], r["games"], r["wins"],
-                round(r["wins"] / r["games"], 4) if r["games"] else 0.0,
-                r["k"], r["d"], r["a"], round((r["k"] + r["a"]) / max(r["d"], 1), 4),
-                r["n_players"]) for r in rows]
-    conn.executemany(
-        """INSERT INTO champion_stats
-           (champion, games, wins, win_rate, kills, deaths, assists, kda, n_players)
-           VALUES (?,?,?,?,?,?,?,?,?)""", payload)
+    # One 'all' bucket plus one bucket per role; Role has full coverage in silver,
+    # so the role buckets exactly partition each champion's 'all' games.
+    for role, role_filter in [("all", "")] + [(r, f"AND Role = '{r}'") for r in ROLES]:
+        rows = conn.execute(f"""
+            SELECT Champion AS champion, COUNT(DISTINCT GameId) AS games,
+                   SUM(CASE WHEN PlayerWin = 'Yes' THEN 1 ELSE 0 END) AS wins,
+                   SUM(COALESCE(Kills, 0)) AS k, SUM(COALESCE(Deaths, 0)) AS d,
+                   SUM(COALESCE(Assists, 0)) AS a, COUNT(DISTINCT Link) AS n_players
+            FROM scoreboard_players
+            WHERE Champion IS NOT NULL AND Champion <> '' {role_filter}
+            GROUP BY Champion""").fetchall()
+        payload = [(r["champion"], role, r["games"], r["wins"],
+                    round(r["wins"] / r["games"], 4) if r["games"] else 0.0,
+                    r["k"], r["d"], r["a"], round((r["k"] + r["a"]) / max(r["d"], 1), 4),
+                    r["n_players"]) for r in rows]
+        conn.executemany(
+            """INSERT INTO champion_stats
+               (champion, role, games, wins, win_rate, kills, deaths, assists, kda, n_players)
+               VALUES (?,?,?,?,?,?,?,?,?,?)""", payload)
     conn.commit()
 
 
@@ -649,3 +653,21 @@ def run_all(conn: sqlite3.Connection) -> None:
     compute_player_index(conn)
     compute_score_leaderboard(conn)
     compute_records(conn)
+
+
+def main() -> None:
+    """Recompute the GOLD layer only — pure SQL over existing silver, no network."""
+    from etl import db
+
+    conn = db.connect()
+    db.apply_schema(conn)
+    run_all(conn)
+    for tbl in ("player_career_stats", "player_champions", "champion_stats",
+                "leaderboards", "records", "player_index"):
+        count = conn.execute(f"SELECT COUNT(*) FROM {tbl}").fetchone()[0]
+        print(f"  {tbl:22s} {count:7d}")
+    conn.close()
+
+
+if __name__ == "__main__":
+    main()

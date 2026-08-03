@@ -42,12 +42,25 @@ MIGRATIONS: list[tuple[str, str, str]] = [
 LEGACY_VIEWS = ["oe_resolved_games"]
 
 
+# Gold tables whose shape changed in a way ALTER cannot express (a new column that is
+# part of the PRIMARY KEY). They are derived and fully recomputed by every transform,
+# so a stale copy is simply dropped before the schema runs and recreated from
+# db/schema.sql. (table, column the current shape requires)
+STALE_GOLD: list[tuple[str, str]] = [("champion_stats", "role")]
+
+
 def apply_schema(conn: sqlite3.Connection, schema_path: Path | None = None) -> None:
     for name in LEGACY_VIEWS:
         row = conn.execute(
             "SELECT type FROM sqlite_master WHERE name = ?", (name,)).fetchone()
         if row and row[0] == "view":
             conn.execute(f"DROP VIEW {name}")
+    for table, column in STALE_GOLD:
+        row = conn.execute(
+            "SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = ?",
+            (table,)).fetchone()
+        if row and column not in {r[1] for r in conn.execute(f"PRAGMA table_info({table})")}:
+            conn.execute(f"DROP TABLE {table}")
     sql = (schema_path or config.SCHEMA_PATH).read_text(encoding="utf-8")
     conn.executescript(sql)
     tables = {r[0] for r in conn.execute(
