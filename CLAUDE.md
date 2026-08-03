@@ -41,7 +41,7 @@ the counts summary, or bringing up the web. `etl.build_view` generates a consist
 cd web && npm install
 npm run dev                    # dev server (reads ../data/web.sqlite on each request)
 npm run build && npx serve out # static build (SSG) -> web/out
-npm run lint                   # ESLint (next lint) — the repo's only linter
+npm run lint                   # ESLint (flat config, eslint.config.mjs) — the repo's only linter
 ```
 
 ## Architecture
