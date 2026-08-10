@@ -123,10 +123,14 @@ Static site served by **Cloudflare Workers Builds** (connected to the repo): eve
 The `.github/workflows/update-data.yml` workflow (manual dispatch) runs the ETL, regenerates
 `web.sqlite` and commits it → the push triggers the rebuild. See `DEPLOY.md`.
 
-## Rate limit (the operational blocker)
-Fandom's anonymous API limits **very** hard (~1 query every 30-40 s with backoff). The
-complete historical backfill is almost impractical without a Leaguepedia **bot account**
-(5000-row pages vs 500, and the `noratelimit` flag disables the throttle). The
+## Rate limit
+Fandom's **anonymous** API limits very hard (~1 query every 30-40 s with backoff), but a
+**logged-in session** (bot password with the Cargo grant + confirmed account email — both
+self-service on the wiki) gets a server-side limit of **60 cargo-queries/min** (verified
+2026-08-10 via `meta=userinfo&uiprop=ratelimits`; in practice ~3 s per 500-row page). The
+full historical backfill is therefore a matter of hours, no special flag needed. The
 credentials go in `.env` (root, gitignored) as `LEAGUEPEDIA_USERNAME` /
 `LEAGUEPEDIA_PASSWORD` (bot password from `Special:BotPasswords`); the client uses them
-automatically and detects `apihighlimits`/`noratelimit` from the session rights.
+automatically, lowers its throttle floor to `MIN_REQUEST_INTERVAL_AUTH` when authed, and
+still detects `apihighlimits`/`noratelimit` from the session rights (5000-row pages —
+admin-only on today's Leaguepedia, so expect 500).

@@ -68,10 +68,16 @@ def _career_query(where_extra: str = "") -> str:
     """
 
 
+# PRO_WHERE limits every career/pool/roster aggregate to professional play; the
+# full backfill also holds academy/development/amateur tournaments (Tier 'other')
+# and exhibitions, which never reach the gold layer.
+PRO_WHERE = "T.Tier IN " + repr(tuple(config.PRO_TIERS))
+
+
 def compute_career_stats(conn: sqlite3.Connection) -> None:
     conn.execute("DELETE FROM player_career_stats")
-    scopes = [("all", ""), ("intl_premier", "T.Tier = 'intl_premier'")]
-    scopes += [(f"role:{r}", f"SP.Role = '{r}'") for r in ROLES]
+    scopes = [("all", PRO_WHERE), ("intl_premier", "T.Tier = 'intl_premier'")]
+    scopes += [(f"role:{r}", f"{PRO_WHERE} AND SP.Role = '{r}'") for r in ROLES]
     for scope, extra in scopes:
         rows = conn.execute(_career_query(extra)).fetchall()
         payload = []
@@ -100,74 +106,142 @@ def _has_oe(conn: sqlite3.Connection) -> bool:
     return bool(conn.execute("SELECT COUNT(*) FROM oe_resolved_games").fetchone()[0])
 
 
-# Oracle's Elixir scopes. `all` and `intl_premier` stay Leaguepedia-only so no
-# existing record moves; regional play lands here instead.
-def _oe_career_query(where_extra: str) -> str:
-    return f"""
-        SELECT
-            player_id,
-            COUNT(DISTINCT gameid)          AS games,
-            SUM(COALESCE(result, 0))        AS wins,
-            SUM(COALESCE(kills, 0))         AS kills,
-            SUM(COALESCE(deaths, 0))        AS deaths,
-            SUM(COALESCE(assists, 0))       AS assists,
-            -- @15 economy: only the games that actually carry the timings.
-            SUM(golddiffat15 IS NOT NULL)   AS economy_games,
-            AVG(golddiffat15)               AS gd15,
-            AVG(goldat15)                   AS gold15,
-            SUM(COALESCE(total_cs, 0))            AS cs,
-            SUM(COALESCE(damagetochampions, 0))   AS damage,
-            SUM(COALESCE(gamelength, 0))          AS seconds,
-            SUM(COALESCE(pentakills, 0))          AS pentakills
+# Regional / merged scopes. Since the full Leaguepedia backfill (2026-08-10) LP is
+# the primary source for regional pro play too; Oracle's Elixir contributes
+#   (a) the games LP does not have (early LPL, old VCS…): is_duplicate = 0 rows,
+#       folded into the COUNTING stats (games/wins/K/D/A), and
+#   (b) the @15 economy timings, cs/dpm and pentakills, which LP lacks entirely —
+#       aggregated over ALL OE rows of the scope, duplicates included, because
+#       there is no LP-side number they could double-count.
+def _region_keys(conn: sqlite3.Connection) -> list[str]:
+    keys = set(config.LP_PRO_LEAGUES.values())
+    if _has_oe(conn):
+        keys |= {r[0] for r in conn.execute(
+            "SELECT DISTINCT region FROM oe_leagues WHERE scope = 'regional'")}
+    return sorted(keys)
+
+
+def _regional_scope_names(conn: sqlite3.Connection) -> list[str]:
+    return ([config.OE_SCOPE_REGIONAL, config.OE_SCOPE_INTL_SECONDARY]
+            + [f"region:{k}" for k in _region_keys(conn)])
+
+
+def _lp_counts(conn, where_extra: str) -> dict[str, list]:
+    """player -> [games, wins, kills, deaths, assists] from Leaguepedia scoreboards."""
+    return {r["player_id"]: [r["games"] or 0, r["wins"] or 0, r["kills"] or 0,
+                             r["deaths"] or 0, r["assists"] or 0]
+            for r in conn.execute(_career_query(where_extra))}
+
+
+def _oe_counts(conn, where: str) -> dict[str, list]:
+    """Same shape from OE, ONLY the games Leaguepedia does not have (dedup)."""
+    rows = conn.execute(f"""
+        SELECT player_id, COUNT(DISTINCT gameid) AS games,
+               SUM(COALESCE(result, 0)) AS wins, SUM(COALESCE(kills, 0)) AS kills,
+               SUM(COALESCE(deaths, 0)) AS deaths, SUM(COALESCE(assists, 0)) AS assists
         FROM oe_resolved_games
-        WHERE {where_extra}
-        GROUP BY player_id
-    """
+        WHERE is_duplicate = 0 AND {where}
+        GROUP BY player_id""")
+    return {r["player_id"]: [r["games"] or 0, r["wins"] or 0, r["kills"] or 0,
+                             r["deaths"] or 0, r["assists"] or 0] for r in rows}
 
 
-def _oe_scopes(conn: sqlite3.Connection) -> list[tuple[str, str]]:
-    """(scope name, WHERE clause) for every OE scope: the combined regional one, one
-    per region, and the secondary internationals.
+def _oe_economy(conn, where: str) -> dict[str, sqlite3.Row]:
+    """Economy + pentakills over ALL OE rows of the scope (duplicates included)."""
+    return {r["player_id"]: r for r in conn.execute(f"""
+        SELECT player_id,
+               SUM(golddiffat15 IS NOT NULL)       AS economy_games,
+               AVG(golddiffat15)                    AS gd15,
+               AVG(goldat15)                        AS gold15,
+               SUM(COALESCE(total_cs, 0))           AS cs,
+               SUM(COALESCE(damagetochampions, 0))  AS damage,
+               SUM(COALESCE(gamelength, 0))         AS seconds,
+               SUM(COALESCE(pentakills, 0))         AS pentakills
+        FROM oe_resolved_games
+        WHERE {where}
+        GROUP BY player_id""")}
 
-    Every clause carries is_duplicate = 0. The premier internationals OE also ships
-    are entirely duplicates of Leaguepedia's, so they get no scope of their own —
-    they exist in oe_resolved_games only for pentakills (see compute_pentakills).
-    """
-    dedup = "is_duplicate = 0 AND "
-    scopes = [
-        (config.OE_SCOPE_REGIONAL, dedup + "league_scope = 'regional'"),
-        (config.OE_SCOPE_INTL_SECONDARY, dedup + "league_scope = 'intl_secondary'"),
+
+def _merge_oe_into_scope(conn, scope: str, oe_counts: dict[str, list]) -> None:
+    """Adds OE-only games on top of an existing Leaguepedia-sourced scope row
+    (or creates the row for OE-only players). Counting stats only."""
+    if not oe_counts:
+        return
+    existing = {r["player_id"]: r for r in conn.execute(
+        "SELECT player_id, display_id, games, wins, kills, deaths, assists "
+        "FROM player_career_stats WHERE scope = ?", (scope,))}
+    payload = []
+    for pid, (g, w, k, d, a) in oe_counts.items():
+        row = existing.get(pid)
+        if row:
+            g += row["games"]; w += row["wins"]; k += row["kills"]
+            d += row["deaths"]; a += row["assists"]
+        if not g:
+            continue
+        payload.append((pid, scope, row["display_id"] if row else None, g, w, g - w,
+                        k, d, a, round((k + a) / max(d, 1), 4), round(w / g, 4)))
+    conn.executemany(
+        """INSERT OR REPLACE INTO player_career_stats
+           (player_id, scope, display_id, games, wins, losses, kills, deaths,
+            assists, kda, win_rate) VALUES (?,?,?,?,?,?,?,?,?,?,?)""", payload)
+
+
+def compute_regional_career_stats(conn: sqlite3.Connection) -> None:
+    """Regional / secondary-international scopes (LP+OE merged), plus the OE-only
+    games folded into the career scopes so 'all' spans a full pro career."""
+    has_oe = _has_oe(conn)
+    conn.create_function("league_region", 1, config.league_region, deterministic=True)
+    conn.execute("DROP TABLE IF EXISTS tmp_tournament_region")
+    conn.execute("""
+        CREATE TEMP TABLE tmp_tournament_region AS
+        SELECT OverviewPage AS op, league_region(League) AS region_key
+        FROM tournaments
+        WHERE Tier IN ('regional_playoffs', 'regional_regular')""")
+
+    if has_oe:
+        pro_oe = "league_scope IN ('regional', 'intl_secondary')"
+        _merge_oe_into_scope(conn, "all", _oe_counts(conn, pro_oe))
+        for pos, role in OE_POSITION_TO_ROLE.items():
+            _merge_oe_into_scope(conn, f"role:{role}",
+                                 _oe_counts(conn, f"{pro_oe} AND position = '{pos}'"))
+
+    scope_defs = [
+        (config.OE_SCOPE_REGIONAL,
+         "T.OverviewPage IN (SELECT op FROM tmp_tournament_region WHERE region_key IS NOT NULL)",
+         "league_scope = 'regional'"),
+        (config.OE_SCOPE_INTL_SECONDARY, "T.Tier = 'intl_legacy'",
+         "league_scope = 'intl_secondary'"),
     ]
-    regions = conn.execute(
-        "SELECT DISTINCT region FROM oe_leagues WHERE scope = 'regional' ORDER BY region")
-    scopes += [(f"region:{r[0]}", dedup + f"league_scope = 'regional' AND region = '{r[0]}'")
-               for r in regions]
-    return scopes
+    scope_defs += [
+        (f"region:{k}",
+         f"T.OverviewPage IN (SELECT op FROM tmp_tournament_region WHERE region_key = '{k}')",
+         f"league_scope = 'regional' AND region = '{k}'")
+        for k in _region_keys(conn)]
 
-
-def compute_oe_career_stats(conn: sqlite3.Connection) -> None:
-    """Regional / secondary-international career stats, added to player_career_stats
-    alongside the Leaguepedia-sourced scopes."""
-    for scope, where in _oe_scopes(conn):
+    for scope, lp_where, oe_where in scope_defs:
         conn.execute("DELETE FROM player_career_stats WHERE scope = ?", (scope,))
+        totals = _lp_counts(conn, lp_where)
+        if has_oe:
+            for pid, add in _oe_counts(conn, oe_where).items():
+                t = totals.setdefault(pid, [0, 0, 0, 0, 0])
+                for i in range(5):
+                    t[i] += add[i]
+        economy = _oe_economy(conn, oe_where) if has_oe else {}
         payload = []
-        for r in conn.execute(_oe_career_query(where)).fetchall():
-            games, wins = r["games"] or 0, r["wins"] or 0
-            if not games:
+        for pid, (g, w, k, d, a) in totals.items():
+            if not g:
                 continue
-            kills, deaths, assists = r["kills"] or 0, r["deaths"] or 0, r["assists"] or 0
-            minutes = (r["seconds"] or 0) / 60.0
+            e = economy.get(pid)
+            minutes = (e["seconds"] or 0) / 60.0 if e else 0.0
             payload.append((
-                r["player_id"], scope, None, games, wins, games - wins,
-                kills, deaths, assists,
-                round((kills + assists) / max(deaths, 1), 4),
-                round(wins / games, 4),
-                r["economy_games"] or 0,
-                round(r["gd15"], 1) if r["gd15"] is not None else None,
-                round(r["gold15"], 1) if r["gold15"] is not None else None,
-                round((r["cs"] or 0) / minutes, 2) if minutes else None,
-                round((r["damage"] or 0) / minutes, 1) if minutes else None,
-                r["pentakills"] or 0,
+                pid, scope, None, g, w, g - w, k, d, a,
+                round((k + a) / max(d, 1), 4), round(w / g, 4),
+                (e["economy_games"] or 0) if e else 0,
+                round(e["gd15"], 1) if e is not None and e["gd15"] is not None else None,
+                round(e["gold15"], 1) if e is not None and e["gold15"] is not None else None,
+                round((e["cs"] or 0) / minutes, 2) if minutes else None,
+                round((e["damage"] or 0) / minutes, 1) if minutes else None,
+                (e["pentakills"] or 0) if e else 0,
             ))
         conn.executemany(
             """INSERT OR REPLACE INTO player_career_stats
@@ -189,14 +263,16 @@ def compute_oe_career_stats(conn: sqlite3.Connection) -> None:
 # ---------------------------------------------------------------------------
 def compute_player_champions(conn: sqlite3.Connection) -> None:
     conn.execute("DELETE FROM player_champions")
-    rows = conn.execute("""
+    rows = conn.execute(f"""
         SELECT Link AS player_id, Champion AS champion,
-               COUNT(DISTINCT GameId) AS games,
+               COUNT(DISTINCT SP.GameId) AS games,
                SUM(CASE WHEN PlayerWin = 'Yes' THEN 1 ELSE 0 END) AS wins,
                SUM(COALESCE(Kills, 0)) AS k, SUM(COALESCE(Deaths, 0)) AS d,
                SUM(COALESCE(Assists, 0)) AS a
-        FROM scoreboard_players
-        WHERE Link IS NOT NULL AND Link <> '' AND Champion IS NOT NULL AND Champion <> ''
+        FROM scoreboard_players SP
+        JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
+        WHERE {PRO_WHERE}
+          AND Link IS NOT NULL AND Link <> '' AND Champion IS NOT NULL AND Champion <> ''
         GROUP BY Link, Champion""").fetchall()
     payload = [(r["player_id"], r["champion"], r["games"], r["wins"], r["k"], r["d"],
                 r["a"], round((r["k"] + r["a"]) / max(r["d"], 1), 4)) for r in rows]
@@ -231,13 +307,15 @@ def compute_player_teams(conn: sqlite3.Connection) -> None:
     """Team history: per (player, team), first/last year and games."""
     conn.create_function("team_logo", 1, team_logo)
     conn.execute("DELETE FROM player_teams")
-    conn.execute("""
+    conn.execute(f"""
         INSERT INTO player_teams (player_id, team, team_logo_url, first_year, last_year, games)
         SELECT Link, Team, team_logo(Team),
                MIN(substr(DateTime_UTC, 1, 4)), MAX(substr(DateTime_UTC, 1, 4)),
-               COUNT(DISTINCT GameId)
-        FROM scoreboard_players
-        WHERE Link IS NOT NULL AND Link <> '' AND Team IS NOT NULL AND Team <> ''
+               COUNT(DISTINCT SP.GameId)
+        FROM scoreboard_players SP
+        JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
+        WHERE {PRO_WHERE}
+          AND Link IS NOT NULL AND Link <> '' AND Team IS NOT NULL AND Team <> ''
         GROUP BY Link, Team""")
     # Team history for regional-only players (see compute_player_champions).
     if _has_oe(conn):
@@ -279,12 +357,13 @@ def compute_player_titles(conn: sqlite3.Connection) -> None:
 # Union of every (team, player, game) across both sources. Disjoint by
 # construction: Leaguepedia holds the internationals and is_duplicate = 0
 # excludes OE's copies of those same games.
-_TEAM_GAMES_UNION = """
+_TEAM_GAMES_UNION = f"""
     SELECT ta.team_id AS team_id, SP.Link AS player_id,
            substr(SP.DateTime_UTC, 1, 4) AS y, SP.GameId AS gid, SP.Role AS role
     FROM scoreboard_players SP
     JOIN team_aliases ta ON ta.alias = SP.Team
-    WHERE SP.Link IS NOT NULL AND SP.Link <> ''
+    JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
+    WHERE {PRO_WHERE} AND SP.Link IS NOT NULL AND SP.Link <> ''
     UNION ALL
     SELECT ta.team_id, g.player_id, CAST(g.year AS TEXT), g.gameid,
            CASE g.position WHEN 'top' THEN 'Top' WHEN 'jng' THEN 'Jungle'
@@ -439,12 +518,14 @@ def compute_champion_stats(conn: sqlite3.Connection) -> None:
     # so the role buckets exactly partition each champion's 'all' games.
     for role, role_filter in [("all", "")] + [(r, f"AND Role = '{r}'") for r in ROLES]:
         rows = conn.execute(f"""
-            SELECT Champion AS champion, COUNT(DISTINCT GameId) AS games,
+            SELECT Champion AS champion, COUNT(DISTINCT SP.GameId) AS games,
                    SUM(CASE WHEN PlayerWin = 'Yes' THEN 1 ELSE 0 END) AS wins,
                    SUM(COALESCE(Kills, 0)) AS k, SUM(COALESCE(Deaths, 0)) AS d,
                    SUM(COALESCE(Assists, 0)) AS a, COUNT(DISTINCT Link) AS n_players
-            FROM scoreboard_players
-            WHERE Champion IS NOT NULL AND Champion <> '' {role_filter}
+            FROM scoreboard_players SP
+            JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
+            WHERE {PRO_WHERE}
+              AND Champion IS NOT NULL AND Champion <> '' {role_filter}
             GROUP BY Champion""").fetchall()
         payload = [(r["champion"], role, r["games"], r["wins"],
                     round(r["wins"] / r["games"], 4) if r["games"] else 0.0,
@@ -487,6 +568,13 @@ def _legacy_score(worlds, msi, other, apps, intl_games, kda_intl):
 
 def compute_player_index(conn: sqlite3.Connection) -> None:
     conn.execute("DELETE FROM player_index")
+    # Membership is scope 'all' (professional play only) — players whose games are
+    # exclusively academy/amateur never get a page. Source split: a player with at
+    # least one Leaguepedia game gets the full card; the rest are OE-only.
+    conn.execute("DROP TABLE IF EXISTS tmp_lp_players")
+    conn.execute("CREATE TEMP TABLE tmp_lp_players AS "
+                 "SELECT DISTINCT Link AS player_id FROM scoreboard_players "
+                 "WHERE Link IS NOT NULL AND Link <> ''")
     rows = conn.execute("""
         SELECT pcs.player_id, pcs.display_id, pcs.games, pcs.wins, pcs.kda, pcs.win_rate,
                P.Name AS name, P.Country AS country, P.Team AS team,
@@ -509,17 +597,18 @@ def compute_player_index(conn: sqlite3.Connection) -> None:
         LEFT JOIN player_career_stats pin
                ON pin.player_id = pcs.player_id AND pin.scope = 'intl_premier'
         WHERE pcs.scope = 'all'
+          AND pcs.player_id IN (SELECT player_id FROM tmp_lp_players)
         ORDER BY pcs.games DESC""").fetchall()
-    # Regional-only players: they have OE games but never appeared at an international,
-    # so Leaguepedia has no page for them — no bio, no photo, no titles, no Legacy
-    # Score. Listed AFTER the Leaguepedia rows so those keep the unsuffixed slug when
-    # two players share a handle.
+    # OE-only players: their games exist only in Oracle's Elixir, so Leaguepedia has
+    # no page for them — no bio, no photo, no titles, no Legacy Score. Listed AFTER
+    # the Leaguepedia rows so those keep the unsuffixed slug when two players share
+    # a handle.
     oe_rows = conn.execute("""
         SELECT pcs.player_id, pcs.display_id, pcs.games, pcs.wins, pcs.kda, pcs.win_rate
         FROM player_career_stats pcs
-        WHERE pcs.scope = ?
-          AND pcs.player_id NOT IN (SELECT player_id FROM player_career_stats WHERE scope = 'all')
-        ORDER BY pcs.games DESC""", (config.OE_SCOPE_REGIONAL,)).fetchall()
+        WHERE pcs.scope = 'all'
+          AND pcs.player_id NOT IN (SELECT player_id FROM tmp_lp_players)
+        ORDER BY pcs.games DESC""").fetchall()
     # Role and current team for those players, in one pass each rather than a
     # correlated subquery per player over 370k rows. Ordering ascending means the
     # last write per player wins: most-played position, most recent team.
@@ -632,7 +721,7 @@ def compute_leaderboards(conn: sqlite3.Connection, top_n: int = 200) -> None:
     _store_leaderboard(conn, "worlds_appearances", "all", _worlds_appearances(conn, top_n))
 
 
-# Leaderboards computed for every OE scope.
+# Leaderboards computed for every regional/merged scope.
 # (stat, column, threshold key, column the threshold applies to and that is shown
 #  as the sample). Economy stats rank on economy_games because a player's games and
 # their games WITH timings are not the same number — see OE_MIN_COMPLETE_GAMES.
@@ -649,8 +738,8 @@ OE_STATS = [
 ]
 
 
-def compute_oe_leaderboards(conn: sqlite3.Connection, top_n: int = 200) -> None:
-    for scope, _ in _oe_scopes(conn):
+def compute_regional_leaderboards(conn: sqlite3.Connection, top_n: int = 200) -> None:
+    for scope in _regional_scope_names(conn):
         for stat, col, thr_key, sample in OE_STATS:
             thr = config.THRESHOLDS.get(thr_key) if thr_key else (
                 config.OE_MIN_COMPLETE_GAMES if sample == "economy_games" else None)
@@ -666,15 +755,13 @@ def compute_oe_leaderboards(conn: sqlite3.Connection, top_n: int = 200) -> None:
 
 
 def clear_oe_gold(conn: sqlite3.Connection) -> None:
-    """Drop everything derived from Oracle's Elixir.
-
-    Runs when the OE silver is absent, so a DB that once had it does not keep serving
-    stale rows — a leaderboard is only ever rewritten per (stat, scope), so without
-    this a 'Most pentakills' record survives with nothing behind it.
+    """Drop what only Oracle's Elixir can back. Runs when the OE silver is absent,
+    so a DB that once had it does not keep serving stale rows — a leaderboard is
+    only ever rewritten per (stat, scope), so without this a 'Most pentakills'
+    record survives with nothing behind it. The regional scopes themselves still
+    compute (Leaguepedia-only) — only their OE-sourced economy columns go empty.
     """
-    oe_scope = "(scope IN ('regional', 'intl_secondary') OR scope LIKE 'region:%')"
-    conn.execute(f"DELETE FROM player_career_stats WHERE {oe_scope}")
-    conn.execute(f"DELETE FROM leaderboards WHERE {oe_scope} OR stat = 'pentakills'")
+    conn.execute("DELETE FROM leaderboards WHERE stat = 'pentakills'")
     conn.execute("DELETE FROM records WHERE record_key = 'most_pentakills'")
     conn.commit()
 
@@ -796,20 +883,19 @@ def compute_records(conn: sqlite3.Connection) -> None:
 def run_all(conn: sqlite3.Connection) -> None:
     compute_tiers(conn)
     compute_career_stats(conn)
-    # Oracle's Elixir scopes, only when its silver has been ingested (etl.oe_ingest).
-    has_oe = _has_oe(conn)
-    if has_oe:
-        compute_oe_career_stats(conn)
-    else:
-        clear_oe_gold(conn)
+    # Regional scopes always compute (LP is the primary source since the full
+    # backfill); OE contributions inside are conditional on its silver existing.
+    compute_regional_career_stats(conn)
     compute_player_titles(conn)
     compute_player_teams(conn)
     compute_player_champions(conn)
     compute_champion_stats(conn)
     compute_leaderboards(conn)
-    if has_oe:
-        compute_oe_leaderboards(conn)
+    compute_regional_leaderboards(conn)
+    if _has_oe(conn):
         compute_pentakills(conn)
+    else:
+        clear_oe_gold(conn)
     compute_player_index(conn)
     compute_teams(conn)
     compute_score_leaderboard(conn)

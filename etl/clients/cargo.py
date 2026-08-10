@@ -14,13 +14,17 @@ import time
 from pathlib import Path
 from typing import Iterable
 
+import requests
 from mwrogue.esports_client import EsportsClient
 from mwcleric.auth_credentials import AuthCredentials
-from mwclient.errors import APIError
+from mwclient.errors import APIError, MaximumRetriesExceeded
 
 from etl import config
 
 RETRYABLE_CODES = {"ratelimited", "maxlag", "readonly", "internal_api_error_DBQueryError"}
+# Network-level failures (connection drops, read timeouts) also deserve patient
+# retries: a multi-hour backfill must survive a brief internet outage.
+NETWORK_ERRORS = (requests.exceptions.RequestException, MaximumRetriesExceeded)
 
 
 def normalize_keys(row: dict) -> dict:
@@ -75,6 +79,11 @@ class CargoSource:
             self._no_ratelimit = "noratelimit" in rights
             if self._no_ratelimit:      # bot group: no throttle
                 self._interval = 0.0
+            elif self._authed:
+                # Logged-in sessions are limited at 60 cargo-queries/min, not the
+                # harsh anonymous regime -> lower the floor accordingly.
+                self.min_interval = min(self.min_interval, config.MIN_REQUEST_INTERVAL_AUTH)
+                self._interval = min(self._interval, self.min_interval)
         except Exception:
             self._has_apihighlimits = False
         return client
@@ -139,6 +148,14 @@ class CargoSource:
                 # Wait QUIETLY (no eager retries that extend the penalty).
                 wait = min(90.0, config.RATELIMIT_COOLDOWN * (attempt + 1))
                 print(f"    [cargo] {code}; interval->{self._interval:.0f}s; "
+                      f"quiet wait {wait:.0f}s ({attempt + 1}/{config.MAX_RETRIES})")
+                time.sleep(wait)
+            except NETWORK_ERRORS as e:
+                # Not a rate limit: leave the AIMD interval alone, just wait out the
+                # outage with growing pauses (up to ~5 min per attempt).
+                last_err = e
+                wait = min(300.0, 30.0 * (attempt + 1))
+                print(f"    [cargo] network error ({type(e).__name__}); "
                       f"quiet wait {wait:.0f}s ({attempt + 1}/{config.MAX_RETRIES})")
                 time.sleep(wait)
         raise RuntimeError(f"Cargo query exhausted retries: {last_err}")

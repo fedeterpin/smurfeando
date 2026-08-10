@@ -104,7 +104,7 @@ def _sweep(src: CargoSource, conn: sqlite3.Connection, name: str, where: str | N
     spec = config.TABLES[name]
     rows = src.extract_table(spec, where=where, store_key=f"sweep_{name}")
     n = db.upsert_rows(conn, spec, rows)
-    db.set_meta(conn, f"sweep:{name}", "1")
+    _mark_loaded(conn, f"sweep:{name}")
     print(f"  · {name:20s} {n:6d} rows (sweep)")
 
 
@@ -137,7 +137,7 @@ def run_full(src: CargoSource, conn: sqlite3.Connection, year_from: int, year_to
             g, p = extract_scoreboards_by_month(src, conn, year, month)
             year_games += g
             year_players += p
-            db.set_meta(conn, key, "1")
+            _mark_loaded(conn, key)
         print(f"  · {year}: {year_games:6d} games, {year_players:7d} player-rows")
 
 

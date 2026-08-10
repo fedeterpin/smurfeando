@@ -9,7 +9,7 @@ import {
   getPlayerRankings,
   getPlayerRegions,
   getScoreRank,
-  listPlayers,
+  listPlayerSlugs,
 } from "@/lib/db";
 import { championSquare } from "@/lib/champion";
 import { roleIcon, countryFlag } from "@/lib/icons";
@@ -18,7 +18,7 @@ import { T, Num, StatValue, ScopeLabel } from "@/lib/i18n";
 import type { MsgKey } from "@/lib/i18n/messages";
 
 export function generateStaticParams() {
-  return listPlayers(5000).map((p) => ({ slug: p.slug }));
+  return listPlayerSlugs().map((p) => ({ slug: p.slug }));
 }
 
 // The legacy-score split, shown as micro-label + mono pairs (design spec).

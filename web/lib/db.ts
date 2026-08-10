@@ -106,16 +106,9 @@ export interface PlayerRow {
   team_logo_url: string | null;
 }
 
-export function listPlayers(limit = 5000): PlayerRow[] {
+export function listPlayerSlugs(): { slug: string }[] {
   return withDb(
-    (db) =>
-      db
-        .prepare(
-          `SELECT pi.*, ta.slug AS team_slug FROM player_index pi
-           LEFT JOIN team_aliases ta ON ta.alias = pi.team
-           ORDER BY pi.score DESC, pi.games DESC LIMIT ?`,
-        )
-        .all(limit) as PlayerRow[],
+    (db) => db.prepare(`SELECT slug FROM player_index`).all() as { slug: string }[],
     [],
   );
 }

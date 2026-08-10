@@ -56,7 +56,11 @@ PAGE_SIZE_BOT = 5000
 # conservative interval, raise it aggressively on rate-limit and lower it slowly on
 # success, and on rate-limit wait QUIETLY (no eager retries). With 'noratelimit' (bot
 # group) the interval goes to 0.
-MIN_REQUEST_INTERVAL = 5.0   # floor of the adaptive interval (account without noratelimit)
+# Logged-in sessions (bot password + confirmed email) get `cargo-query: 60/60s` from
+# the server (verified 2026-08-10 via meta=userinfo&uiprop=ratelimits), so they use a
+# lower floor; the harsh ~1-per-30s regime only applies to anonymous requests.
+MIN_REQUEST_INTERVAL = 5.0        # floor of the adaptive interval (anonymous)
+MIN_REQUEST_INTERVAL_AUTH = 2.0   # floor for authenticated sessions (~30/min max)
 MAX_INTERVAL = 30.0          # ceiling of the adaptive interval
 MAX_RETRIES = 10             # patient: do not give up the backfill over rate-limit
 RATELIMIT_COOLDOWN = 25.0    # base quiet wait on 'ratelimited' (grows per attempt)
@@ -79,11 +83,14 @@ def _truthy(v) -> bool:
 
 
 def classify_tier(league, region, is_playoffs, is_qualifier=None, tournament_level=None) -> str:
-    """Classifies a tournament into one of the 5 tiers. See plan §4.
+    """Classifies a tournament into one of the 6 tiers. See plan §4.
 
     Premier = exact match (drives the headline record). The rest of the events with
     Region='International' fall into intl_legacy except exhibitions (by substring).
-    Regional ones are split by the IsPlayoffs flag.
+    Regional ones are split by the IsPlayoffs flag — but ONLY the top-tier league of
+    each region (LP_PRO_LEAGUES) plus premier qualifiers/regional finals qualify;
+    everything else on the wiki (academy, development, ERLs, amateur circuits) is
+    'other' and never reaches the gold layer.
     """
     league = (league or "").strip()
     region = (region or "").strip()
@@ -97,9 +104,65 @@ def classify_tier(league, region, is_playoffs, is_qualifier=None, tournament_lev
         if any(sub in low for sub in EXHIBITION_SUBSTRINGS):
             return "exhibition"
         return "intl_legacy"
+    if league not in LP_PRO_LEAGUES and league not in PREMIER_LEAGUES:
+        return "other"
     if _truthy(is_playoffs):
         return "regional_playoffs"
     return "regional_regular"
+
+
+# Tiers that count as professional play: everything the gold layer aggregates
+# ('all' scope, champion pools, team rosters). 'exhibition' and 'other' stay out.
+PRO_TIERS = ("intl_premier", "intl_legacy", "regional_playoffs", "regional_regular")
+
+# --- Leaguepedia pro-league allowlist -------------------------------------
+# The full backfill pulls EVERY tournament on the wiki — including development
+# (LDL, LSPL), academy and amateur circuits that do not belong in a records
+# almanac. This maps the TOP-TIER league of each region to the same region keys
+# the web already uses (== oe_leagues.region), chained across renames exactly
+# like OE_LEAGUES below. Keys are Tournaments.League values verified against
+# the full silver (2026-08-10). Premier qualifiers/regional finals are pro too
+# but carry League='World Championship' etc. — classify_tier handles them; they
+# belong to no region.
+LP_PRO_LEAGUES = {
+    # China
+    "Tencent LoL Pro League": "china",
+    # Korea (OGN Champions era, then LCK)
+    "LoL The Champions": "korea",
+    "LoL Champions Korea": "korea",
+    # Europe (EU LCS era, then LEC — LEC rows carry Region 'Europe' AND 'EMEA')
+    "Europe League Championship Series": "europe",
+    "LoL EMEA Championship": "europe",
+    # North America (NA LCS era, then LCS, plus the 2025 LTA North conference)
+    "North America League Championship Series": "north_america",
+    "League of Legends Championship Series": "north_america",
+    "League of Legends Championship of The Americas North": "north_america",
+    # Americas (2025 unified LTA cross-conference event)
+    "League of Legends Championship of The Americas": "americas",
+    # Latin America (Copa Norte/Sur era, then LLN, then unified LLA, then LTA South)
+    "Copa Latinoamérica Norte": "latam",
+    "Copa Latinoamérica Sur": "latam",
+    "Liga Latinoamérica Norte": "latam",
+    "Liga Latinoamerica": "latam",
+    "League of Legends Championship of The Americas South": "latam",
+    # Pacific (LMS era, then PCS, then LCP)
+    "LoL Master Series": "pacific",
+    "Pacific Championship Series": "pacific",
+    "League of Legends Championship Pacific": "pacific",
+    # Single-league regions
+    "Circuit Brazilian League of Legends": "brazil",
+    "LoL Japan League": "japan",
+    "Turkish Championship League": "turkey",
+    "Vietnam Championship Series": "vietnam",
+    # Oceania (OPL era, then LCO)
+    "Oceanic Pro League": "oceania",
+    "LoL Circuit Oceania": "oceania",
+}
+
+
+def league_region(league) -> str | None:
+    """Region key for a pro regional league; None if the league is not allowlisted."""
+    return LP_PRO_LEAGUES.get((league or "").strip())
 
 
 # --- Oracle's Elixir: league allowlist -----------------------------------
