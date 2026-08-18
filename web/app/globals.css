@@ -1413,7 +1413,39 @@ a.roster-now-card:hover .roster-now-name { color: var(--gold); }
 }
 .split-card > .cutp-in { display: block; padding: 18px 20px; }
 .split-card:hover > .cutp-in { background: var(--wash-soft), var(--panel-base); }
+/* League marks: the wiki hosts one logo per rebrand; the ETL picks the one for
+   the season being played. Contained, never cropped -- they are not all square. */
+.league-mark {
+  display: inline-block;
+  /* Most league logos are horizontal wordmarks (LCK, LEC, PCS): a square box
+     shrinks them to an illegible sliver, so the box is wide and `contain` lets
+     the square ones (MSI, LCP) sit centred inside it. */
+  width: 56px;
+  height: 24px;
+  vertical-align: middle;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* Several league wordmarks are black artwork made for a white page (LCK, LCP,
+     PCS) and the wiki has no dark-mode variant, so every mark sits on the same
+     soft plate instead of half of them disappearing into the navy. */
+  background-color: rgba(240, 238, 230, 0.92);
+  border-radius: 3px;
+  padding: 3px 5px;
+}
+.league-mark.lg {
+  display: block;
+  width: 128px;
+  height: 44px;
+  margin: 0 auto 12px;
+  padding: 6px 10px;
+}
+.mday-league .league-mark { width: 46px; height: 18px; }
 .split-card-league {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+
   display: block;
   font-family: var(--ff-body);
   font-size: 10px;

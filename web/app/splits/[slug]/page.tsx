@@ -26,6 +26,14 @@ export default async function SplitPage({
     <>
       <BackLink />
       <section className="page-head">
+        {tournament.league_logo && (
+          <span
+            className="league-mark lg"
+            style={{ backgroundImage: `url(${tournament.league_logo})` }}
+            role="img"
+            aria-label={tournament.league}
+          />
+        )}
         <p className="kicker">
           {tournament.league_short}
           {tournament.region_label ? ` · ${tournament.region_label}` : ""}
