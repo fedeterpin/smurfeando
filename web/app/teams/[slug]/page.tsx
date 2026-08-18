@@ -11,6 +11,7 @@ import {
 } from "@/lib/db";
 import { getTeamLineup } from "@/lib/live";
 import { T, Num } from "@/lib/i18n";
+import { thumb } from "@/lib/icons";
 import type { MsgKey } from "@/lib/i18n/messages";
 
 export function generateStaticParams() {
@@ -70,7 +71,7 @@ export default async function TeamPage({
         <span
           className="avatar av-96 sq"
           style={
-            team.logo_url ? { backgroundImage: `url(${team.logo_url})` } : undefined
+            team.logo_url ? { backgroundImage: `url(${thumb(team.logo_url, 192)})` } : undefined
           }
           aria-hidden="true"
         >

@@ -174,6 +174,9 @@ and line-based diffs keep git's history far smaller than a binary blob would.
   Fandom CDN by MD5 hash (`aggregate.cdn_image`/`team_logo`), champions from Data
   Dragon (`lib/champion.ts`), roles from Community Dragon and flags from flagcdn
   (`lib/icons.ts`). The mappings for irregular names (champion, country→ISO) live there.
+  Every wiki-CDN avatar must go through `icons.thumb(url, width)`: Fandom serves the
+  original upload (team logos routinely 100-250 KB) and its edge thumbnailer cuts that
+  to ~2 KB at avatar size. Pass 2x the CSS slot width.
 
 ## Deploy
 Static site served by **Cloudflare Workers Builds** (connected to the repo): every push to
