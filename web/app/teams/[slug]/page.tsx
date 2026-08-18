@@ -1,8 +1,15 @@
 import { notFound } from "next/navigation";
-import Link from "next/link";
 import BackLink from "@/components/BackLink";
-import RoleIcon from "@/components/RoleIcon";
-import { getTeamBySlug, getTeamPodiums, getTeamRoster, listTeams } from "@/lib/db";
+import CurrentRoster from "@/components/CurrentRoster";
+import RosterTable from "@/components/RosterTable";
+import {
+  getTeamAliases,
+  getTeamBySlug,
+  getTeamPodiums,
+  getTeamRoster,
+  listTeams,
+} from "@/lib/db";
+import { getTeamLineup } from "@/lib/live";
 import { T, Num } from "@/lib/i18n";
 import type { MsgKey } from "@/lib/i18n/messages";
 
@@ -20,6 +27,24 @@ export default async function TeamPage({
   if (!team) notFound();
 
   const roster = getTeamRoster(team.team_id);
+  // Two different questions: who plays here now, and who ever did. The live slice
+  // answers the first from the wiki's tournament roster (refreshed twice a day);
+  // without it we fall back to the almanac's flag, and a disbanded org simply has
+  // no current five. The table below always lists everyone, current players
+  // included, because that is what an all-time roster means.
+  const live = getTeamLineup([team.name, ...getTeamAliases(team.team_id)]);
+  const current =
+    live?.players ??
+    roster
+      .filter((r) => r.is_current)
+      .map((r) => ({
+        player_id: r.player_id,
+        name: r.display_id ?? r.player_id,
+        slug: r.slug,
+        image: r.image_url,
+        role: r.role,
+        games: r.games,
+      }));
   const podiums = getTeamPodiums(team.team_id);
   const years =
     team.first_year === team.last_year
@@ -105,75 +130,25 @@ export default async function TeamPage({
         </section>
       )}
 
+      {current.length > 0 && (
+        <section className="block">
+          <h2 className="block-title">
+            <T k="team.rosterCurrent" />{" "}
+            <em>· {live?.tournament?.name ?? current.length}</em>
+          </h2>
+          <CurrentRoster rows={current} />
+        </section>
+      )}
+
       {roster.length > 0 && (
         <section className="block">
           <h2 className="block-title">
             <T k="team.roster" /> <em>· {roster.length}</em>
           </h2>
-          <div className="tbl tbl-roster">
-            <div className="tbl-head">
-              <span className="th-lab">
-                <T k="common.player" />
-              </span>
-              <span className="th-lab col-role">
-                <T k="common.role" />
-              </span>
-              <span className="th-lab th-num col-years">
-                <T k="teams.col.years" />
-              </span>
-              <span className="th-lab th-num">
-                <T k="common.games" />
-              </span>
-            </div>
-            {roster.map((r, i) => {
-              const cells = (
-                <>
-                  <span className="pcell">
-                    <span
-                      className="avatar av-30"
-                      style={
-                        r.image_url
-                          ? { backgroundImage: `url(${r.image_url})` }
-                          : undefined
-                      }
-                      aria-hidden="true"
-                    >
-                      {!r.image_url && ((r.display_id ?? r.player_id)?.[0] ?? "?")}
-                    </span>
-                    <span className="pcell-id">
-                      <span className="pname">{r.display_id ?? r.player_id}</span>
-                      {r.is_current ? (
-                        <span className="ptag">
-                          <T k="team.current" />
-                        </span>
-                      ) : null}
-                    </span>
-                  </span>
-                  <span className="cell-role col-role">
-                    <RoleIcon role={r.role} />
-                  </span>
-                  <span className="cell-num col-years">
-                    {r.first_year === r.last_year
-                      ? r.first_year
-                      : `${r.first_year}–${r.last_year}`}
-                  </span>
-                  <span className="cell-games cell-num">{r.games}</span>
-                </>
-              );
-              const cls = `tbl-row${i === 0 ? " first" : ""}`;
-              return r.slug ? (
-                <Link href={`/players/${r.slug}`} className={cls} key={r.player_id}>
-                  {cells}
-                </Link>
-              ) : (
-                <div className={cls} key={r.player_id}>
-                  {cells}
-                </div>
-              );
-            })}
-          </div>
+          <RosterTable rows={roster} />
         </section>
       )}
+
     </>
   );
 }

@@ -25,6 +25,7 @@ from datetime import datetime, timedelta, timezone
 from etl import config
 from etl.clients.cargo import CargoSource, cargo_escape
 from etl.transform.aggregate import _slugify, team_logo
+from etl.transform.cleanup import clean
 
 LIVE_DIR = config.DATA_DIR / "live"
 WEB_DB = config.DATA_DIR / "web.sqlite"
@@ -153,8 +154,9 @@ def fetch_rosters(src: CargoSource, pages) -> list[dict]:
 
 
 # --- identity (from the committed web.sqlite) -----------------------------
-def load_identity() -> tuple[dict, dict, dict]:
-    """player_id -> profile, team alias -> team card, region key -> label.
+def load_identity() -> tuple[dict, dict, dict, dict]:
+    """player_id -> profile, team alias -> team card, region key -> label,
+    Link variant -> canonical player_id.
 
     Everything degrades to None: a rookie who has never appeared in the almanac
     still shows up in today's matches, just without a link or a photo.
@@ -162,9 +164,10 @@ def load_identity() -> tuple[dict, dict, dict]:
     players: dict[str, dict] = {}
     teams: dict[str, dict] = {}
     regions: dict[str, str] = {}
+    links: dict[str, str] = {}
     if not WEB_DB.exists():
         print("[live] warning: data/web.sqlite missing -> no slugs, photos or logos")
-        return players, teams, regions
+        return players, teams, regions, links
     conn = sqlite3.connect(f"file:{WEB_DB}?mode=ro", uri=True)
     try:
         for pid, did, slug, image, role, country in conn.execute(
@@ -181,14 +184,24 @@ def load_identity() -> tuple[dict, dict, dict]:
         for region, label in conn.execute(
                 "SELECT DISTINCT region, region_label FROM oe_leagues"):
             regions[region] = label
+        # Cargo hands out whatever an editor typed ('Yagao', 'YaGao', 'yagao'), so
+        # the slice would split a split in two. The almanac already resolved every
+        # variant; reuse that map instead of guessing again here.
+        try:
+            links = dict(conn.execute("SELECT link, player_id FROM player_link_map"))
+        except sqlite3.OperationalError:
+            pass   # older web.sqlite without the map: fall back to raw links
     finally:
         conn.close()
-    return players, teams, regions
+    return players, teams, regions, links
 
 
 def team_card(name: str | None, teams: dict) -> dict:
     if not name:
         return {"name": None, "slug": None, "logo": None, "short": None}
+    # The gold decoded its aliases, so a raw Cargo name has to be decoded too or
+    # a team like '&#x2f;&#x2f;games' would never match its own profile.
+    name = clean(name)
     card = teams.get(name)
     if card:
         return {"name": name, "slug": card["slug"], "logo": card["logo"],
@@ -282,7 +295,7 @@ def build_stats(player_rows: list[dict], games_by_id: dict) -> tuple[list[dict],
         stamp = row.get("DateTime_UTC") or ""
         if team and (key not in teams or stamp >= teams[key][1]):
             teams[key] = (team, stamp)
-        names.setdefault(link, (row.get("Name") or link).strip())
+        names.setdefault(link, clean((row.get("Name") or link).strip()))
 
     split_rows = []
     for (link, page), acc in splits.items():
@@ -304,7 +317,8 @@ def build_stats(player_rows: list[dict], games_by_id: dict) -> tuple[list[dict],
     return split_rows, patch_rows, {p: sorted(v) for p, v in seen_patches.items()}
 
 
-def build_lineups(roster_rows: list[dict], split_rows: list[dict]) -> list[dict]:
+def build_lineups(roster_rows: list[dict], split_rows: list[dict],
+                  link_map: dict[str, str] | None = None) -> list[dict]:
     """Five starters per team and tournament.
 
     `TournamentRosters` is the declared roster (available before the first game of
@@ -316,7 +330,8 @@ def build_lineups(roster_rows: list[dict], split_rows: list[dict]) -> list[dict]
     for row in roster_rows:
         page = (row.get("OverviewPage") or "").strip()
         team = (row.get("Team") or "").strip()
-        links = [x.strip() for x in (row.get("RosterLinks") or "").split(";;")]
+        links = [(link_map or {}).get(x.strip(), x.strip())
+                 for x in (row.get("RosterLinks") or "").split(";;")]
         roles = [x.strip() for x in (row.get("Roles") or "").split(";;")]
         taken: set[str] = set()
         for link, role in zip(links, roles):
@@ -395,9 +410,18 @@ def main() -> None:
     print(f"[live] {len(games)} games / {len(player_rows)} player rows / "
           f"{len(rosters)} roster rows")
 
+    players, teams, regions, link_map = load_identity()
+    if link_map:
+        moved = 0
+        for row in player_rows:
+            canon = link_map.get((row.get("Link") or "").strip())
+            if canon:
+                row["Link"] = canon
+                moved += 1
+        print(f"[live] {moved} player rows re-attributed to their canonical page")
+
     split_rows, patch_rows, patches_by_page = build_stats(player_rows, games_by_id)
-    lineups = build_lineups(rosters, split_rows)
-    players, teams, regions = load_identity()
+    lineups = build_lineups(rosters, split_rows, link_map)
 
     # Identity onto the split rows (the web links straight from the table).
     for row in split_rows:

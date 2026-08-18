@@ -14,7 +14,7 @@
   "player": "Xun",
   "player_id": "Xun",
   "role": "Jungle",
-  "slug": "xun-2",
+  "slug": "xun",
   "source": "roster",
   "team": "Bilibili Gaming",
   "tournament": "2026 Mid-Season Invitational"
@@ -271,7 +271,7 @@
  },
  {
   "image": null,
-  "player": "kyeahoo",
+  "player": "Kyeahoo",
   "player_id": "kyeahoo",
   "role": "Mid",
   "slug": "kyeahoo",
@@ -541,7 +541,7 @@
  },
  {
   "image": null,
-  "player": "fengyue",
+  "player": "Fengyue",
   "player_id": "fengyue",
   "role": "Support",
   "slug": "fengyue",
@@ -620,8 +620,8 @@
   "tournament": "CBLOL/2026 Season/Split 2"
  },
  {
-  "image": null,
-  "player": "cody",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/INF_cody_2021_Split_2.png",
+  "player": "Cody",
   "player_id": "cody",
   "role": "Mid",
   "slug": "cody",
@@ -650,11 +650,11 @@
   "tournament": "CBLOL/2026 Season/Split 2"
  },
  {
-  "image": null,
-  "player": "xyno",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/LOUD_Xyno_2026_Split_1.png",
+  "player": "Xyno",
   "player_id": "xyno",
   "role": "Top",
-  "slug": "xyno-2",
+  "slug": "xyno",
   "source": "roster",
   "team": "LOUD",
   "tournament": "CBLOL/2026 Season/Split 2"
@@ -691,7 +691,7 @@
  },
  {
   "image": null,
-  "player": "uZent",
+  "player": "UZent",
   "player_id": "uZent",
   "role": "Support",
   "slug": "uzent",
@@ -754,7 +754,7 @@
   "player": "Zest (Kim Dong-min)",
   "player_id": "Zest",
   "role": "Top",
-  "slug": "zest",
+  "slug": "zest-2",
   "source": "roster",
   "team": "LØS",
   "tournament": "CBLOL/2026 Season/Split 2"
@@ -801,7 +801,7 @@
  },
  {
   "image": null,
-  "player": "zynts",
+  "player": "Zynts",
   "player_id": "zynts",
   "role": "Top",
   "slug": "zynts",
@@ -840,18 +840,18 @@
   "tournament": "CBLOL/2026 Season/Split 2"
  },
  {
-  "image": null,
-  "player": "frosty (José Eduardo)",
-  "player_id": "frosty (José Eduardo)",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/85/RED_Frosty_2026_Split_1.png",
+  "player": "Frosty (José Eduardo)",
+  "player_id": "frosty",
   "role": "Support",
-  "slug": "frosty-jos-eduardo",
+  "slug": "frosty",
   "source": "roster",
   "team": "RED Canids",
   "tournament": "CBLOL/2026 Season/Split 2"
  },
  {
   "image": null,
-  "player": "zekas",
+  "player": "Zekas",
   "player_id": "zekas",
   "role": "Top",
   "slug": "zekas",
@@ -890,8 +890,8 @@
   "tournament": "CBLOL/2026 Season/Split 2"
  },
  {
-  "image": null,
-  "player": "scamber",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/VKS_Scamber_2026_Split_1.png",
+  "player": "Scamber",
   "player_id": "scamber",
   "role": "Support",
   "slug": "scamber",
@@ -1014,7 +1014,7 @@
   "player": "Xun",
   "player_id": "Xun",
   "role": "Jungle",
-  "slug": "xun-2",
+  "slug": "xun",
   "source": "roster",
   "team": "Bilibili Gaming",
   "tournament": "Esports World Cup 2026"
@@ -1421,7 +1421,7 @@
  },
  {
   "image": null,
-  "player": "kyeahoo",
+  "player": "Kyeahoo",
   "player_id": "kyeahoo",
   "role": "Mid",
   "slug": "kyeahoo",
@@ -1504,7 +1504,7 @@
   "player": "Zest (Kim Dong-min)",
   "player_id": "Zest",
   "role": "Top",
-  "slug": "zest",
+  "slug": "zest-2",
   "source": "roster",
   "team": "MIBR.LOS",
   "tournament": "Esports World Cup 2026"
@@ -1640,8 +1640,8 @@
   "tournament": "Esports World Cup 2026"
  },
  {
-  "image": null,
-  "player": "huhi",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/CLG_Huhi_2017_Spring.png",
+  "player": "Huhi",
   "player_id": "huhi",
   "role": "Support",
   "slug": "huhi",
@@ -1831,7 +1831,7 @@
  },
  {
   "image": null,
-  "player": "deokdam",
+  "player": "Deokdam",
   "player_id": "deokdam",
   "role": "Bot",
   "slug": "deokdam",
@@ -2800,11 +2800,11 @@
   "tournament": "LCP/2026 Season/Split 3"
  },
  {
-  "image": null,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png",
   "player": "Thanatos (Park Seung-gyu)",
-  "player_id": "Thanatos (Park Seung-gyu)",
+  "player_id": "Thanatos",
   "role": "Top",
-  "slug": null,
+  "slug": "thanatos",
   "source": "roster",
   "team": "Cloud9",
   "tournament": "LCS/2026 Season/Summer Season"
@@ -2861,7 +2861,7 @@
  },
  {
   "image": null,
-  "player": "eXyu",
+  "player": "EXyu",
   "player_id": "eXyu",
   "role": "Jungle",
   "slug": "exyu",
@@ -2894,7 +2894,7 @@
   "player": "Ignar",
   "player_id": "Ignar",
   "role": "Support",
-  "slug": "ignar-2",
+  "slug": "ignar",
   "source": "roster",
   "team": "Dignitas",
   "tournament": "LCS/2026 Season/Summer Season"
@@ -2931,7 +2931,7 @@
  },
  {
   "image": null,
-  "player": "sajed",
+  "player": "Sajed",
   "player_id": "sajed",
   "role": "Bot",
   "slug": "sajed",
@@ -3090,8 +3090,8 @@
   "tournament": "LCS/2026 Season/Summer Season"
  },
  {
-  "image": null,
-  "player": "huhi",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/CLG_Huhi_2017_Spring.png",
+  "player": "Huhi",
   "player_id": "huhi",
   "role": "Support",
   "slug": "huhi",
@@ -3371,7 +3371,7 @@
  },
  {
   "image": null,
-  "player": "kyeahoo",
+  "player": "Kyeahoo",
   "player_id": "kyeahoo",
   "role": "Mid",
   "slug": "kyeahoo",
@@ -3571,7 +3571,7 @@
  },
  {
   "image": null,
-  "player": "nuc",
+  "player": "Nuc",
   "player_id": "nuc",
   "role": "Mid",
   "slug": "nuc",
@@ -3702,9 +3702,9 @@
  {
   "image": null,
   "player": "Leaf (Hikaru Sato)",
-  "player_id": "Leaf (Hikaru Sato)",
+  "player_id": "leaf",
   "role": "Top",
-  "slug": null,
+  "slug": "leaf",
   "source": "roster",
   "team": "Arneb",
   "tournament": "LJL/2026 Season/Summer Championship"
@@ -3731,7 +3731,7 @@
  },
  {
   "image": null,
-  "player": "dresscode",
+  "player": "Dresscode",
   "player_id": "dresscode",
   "role": "Bot",
   "slug": "dresscode",
@@ -3751,7 +3751,7 @@
  },
  {
   "image": null,
-  "player": "kkkkkkkkk",
+  "player": "Kkkkkkkkk",
   "player_id": "kkkkkkkkk",
   "role": "Top",
   "slug": "kkkkkkkkk",
@@ -3821,7 +3821,7 @@
  },
  {
   "image": null,
-  "player": "rre",
+  "player": "Rre",
   "player_id": "rre",
   "role": "Mid",
   "slug": "rre",
@@ -3832,9 +3832,9 @@
  {
   "image": null,
   "player": "Wanan (Inkai Ro)",
-  "player_id": "Wanan (Inkai Ro)",
+  "player_id": "wanan",
   "role": "Bot",
-  "slug": null,
+  "slug": "wanan",
   "source": "roster",
   "team": "L Guide Gaming",
   "tournament": "LJL/2026 Season/Summer Championship"
@@ -3851,7 +3851,7 @@
  },
  {
   "image": null,
-  "player": "tol2",
+  "player": "Tol2",
   "player_id": "tol2",
   "role": "Top",
   "slug": "tol2",
@@ -3940,19 +3940,19 @@
   "tournament": "LJL/2026 Season/Summer Championship"
  },
  {
-  "image": null,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/RCK_Chico_2026_Split_2.png",
   "player": "Chico (Hibiki Yamane)",
-  "player_id": "Chico (Hibiki Yamane)",
+  "player_id": "chico",
   "role": "Support",
-  "slug": null,
+  "slug": "chico",
   "source": "roster",
   "team": "RAYN Clocks",
   "tournament": "LJL/2026 Season/Summer Championship"
  },
  {
-  "image": null,
-  "player": "hanya",
-  "player_id": "hanya",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/UWS_Hanya_2026_Split_3.png",
+  "player": "Hanya",
+  "player_id": "Hanya",
   "role": "Top",
   "slug": "hanya",
   "source": "roster",
@@ -4044,7 +4044,7 @@
   "player": "Xun",
   "player_id": "Xun",
   "role": "Jungle",
-  "slug": "xun-2",
+  "slug": "xun",
   "source": "roster",
   "team": "Bilibili Gaming",
   "tournament": "LPL/2026 Season/Split 3"
@@ -4281,7 +4281,7 @@
  },
  {
   "image": null,
-  "player": "sheer",
+  "player": "Sheer",
   "player_id": "sheer",
   "role": "Top",
   "slug": "sheer",
@@ -4334,7 +4334,7 @@
   "player": "HOYA",
   "player_id": "HOYA",
   "role": "Top",
-  "slug": "hoya-2",
+  "slug": "hoya",
   "source": "roster",
   "team": "Ninjas in Pyjamas.CN",
   "tournament": "LPL/2026 Season/Split 3"
@@ -4371,7 +4371,7 @@
  },
  {
   "image": null,
-  "player": "fengyue",
+  "player": "Fengyue",
   "player_id": "fengyue",
   "role": "Support",
   "slug": "fengyue",
@@ -4544,7 +4544,7 @@
   "player": "Jiejie",
   "player_id": "Jiejie",
   "role": "Jungle",
-  "slug": "jiejie-2",
+  "slug": "jiejie",
   "source": "roster",
   "team": "Weibo Gaming",
   "tournament": "LPL/2026 Season/Split 3"
@@ -4691,10 +4691,10 @@
  },
  {
   "image": null,
-  "player": "ANKS",
-  "player_id": "ANKS",
+  "player": "AIex",
+  "player_id": "AIex",
   "role": "Jungle",
-  "slug": "anks",
+  "slug": "aiex",
   "source": "roster",
   "team": "RogerSaMa",
   "tournament": "PCS/2026 Season/Summer Qualifier"
@@ -4711,30 +4711,30 @@
  },
  {
   "image": null,
-  "player": "GATHERü",
-  "player_id": "GATHERü",
+  "player": "Xiao Yu",
+  "player_id": "Xiao Yu",
   "role": "Bot",
-  "slug": null,
+  "slug": "xiao-yu",
   "source": "roster",
   "team": "RogerSaMa",
   "tournament": "PCS/2026 Season/Summer Qualifier"
  },
  {
   "image": null,
-  "player": "風一樣吹過",
-  "player_id": "風一樣吹過",
+  "player": "WindBlows",
+  "player_id": "WindBlows",
   "role": "Support",
-  "slug": null,
+  "slug": "windblows",
   "source": "roster",
   "team": "RogerSaMa",
   "tournament": "PCS/2026 Season/Summer Qualifier"
  },
  {
-  "image": null,
-  "player": "Adiza1",
-  "player_id": "Adiza1",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/PSG.A_Adizai_ASCI_2023.png",
+  "player": "Adizai",
+  "player_id": "Adizai",
   "role": "Top",
-  "slug": "adiza1",
+  "slug": "adizai",
   "source": "roster",
   "team": "Sponge Gaming",
   "tournament": "PCS/2026 Season/Summer Qualifier"
@@ -4911,7 +4911,7 @@
  },
  {
   "image": null,
-  "player": "kingpo54",
+  "player": "Kingpo54",
   "player_id": "kingpo54",
   "role": "Support",
   "slug": "kingpo54",
@@ -5111,7 +5111,7 @@
  },
  {
   "image": null,
-  "player": "yaoyao",
+  "player": "Yaoyao",
   "player_id": "yaoyao",
   "role": "Support",
   "slug": "yaoyao",
@@ -5120,11 +5120,11 @@
   "tournament": "PCS/2026 Season/Summer Season"
  },
  {
-  "image": null,
-  "player": "Adiza1",
-  "player_id": "Adiza1",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/PSG.A_Adizai_ASCI_2023.png",
+  "player": "Adizai",
+  "player_id": "Adizai",
   "role": "Top",
-  "slug": "adiza1",
+  "slug": "adizai",
   "source": "roster",
   "team": "Sponge Gaming",
   "tournament": "PCS/2026 Season/Summer Season"
@@ -5160,11 +5160,11 @@
   "tournament": "PCS/2026 Season/Summer Season"
  },
  {
-  "image": null,
-  "player": "Dinoo",
-  "player_id": "Dinoo",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/VL_Dino_2023_Split_1_2.png",
+  "player": "Dino (Jhang Cheng-Ci)",
+  "player_id": "Dino",
   "role": "Support",
-  "slug": "dinoo",
+  "slug": "dino",
   "source": "roster",
   "team": "Sponge Gaming",
   "tournament": "PCS/2026 Season/Summer Season"
@@ -5234,7 +5234,7 @@
   "player": "Osman123",
   "player_id": "Osman123",
   "role": "Jungle",
-  "slug": "osman123-3",
+  "slug": "osman123",
   "source": "roster",
   "team": "Bushido Wildcats",
   "tournament": "TCL/2026 Season/Summer Split"
@@ -5321,7 +5321,7 @@
  },
  {
   "image": null,
-  "player": "fabFabulous",
+  "player": "FabFabulous",
   "player_id": "fabFabulous",
   "role": "Top",
   "slug": "fabfabulous",
@@ -5350,21 +5350,21 @@
   "tournament": "TCL/2026 Season/Summer Split"
  },
  {
-  "image": null,
-  "player": "GRRave",
-  "player_id": "GRRave",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/ULF_Grave_2025_Split_2.png",
+  "player": "Grave",
+  "player_id": "Grave",
   "role": "Bot",
-  "slug": "grrave",
+  "slug": "grave",
   "source": "roster",
   "team": "Dark Passage",
   "tournament": "TCL/2026 Season/Summer Split"
  },
  {
   "image": null,
-  "player": "BEPLUSH",
-  "player_id": "BEPLUSH",
+  "player": "Beplush",
+  "player_id": "Beplush",
   "role": "Support",
-  "slug": "beplush-2",
+  "slug": "beplush",
   "source": "roster",
   "team": "Dark Passage",
   "tournament": "TCL/2026 Season/Summer Split"
@@ -5381,8 +5381,8 @@
  },
  {
   "image": null,
-  "player": "stalken",
-  "player_id": "stalken",
+  "player": "Stalken",
+  "player_id": "Stalken",
   "role": "Jungle",
   "slug": "stalken",
   "source": "roster",
@@ -5411,7 +5411,7 @@
  },
  {
   "image": null,
-  "player": "monkaS",
+  "player": "MonkaS",
   "player_id": "monkaS",
   "role": "Support",
   "slug": "monkas",
@@ -5434,7 +5434,7 @@
   "player": "RAMES",
   "player_id": "RAMES",
   "role": "Jungle",
-  "slug": "rames-2",
+  "slug": "rames",
   "source": "roster",
   "team": "SU Esports",
   "tournament": "TCL/2026 Season/Summer Split"
@@ -5490,11 +5490,11 @@
   "tournament": "TCL/2026 Season/Summer Split"
  },
  {
-  "image": null,
-  "player": "Hades (Volkan Dinçer)",
-  "player_id": "Hades (Volkan Dinçer)",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/95/NSR_Ellam_2022_Split_2.png",
+  "player": "Ellam",
+  "player_id": "Ellam",
   "role": "Mid",
-  "slug": "hades-volkan-din-er",
+  "slug": "ellam",
   "source": "roster",
   "team": "Shark Attack",
   "tournament": "TCL/2026 Season/Summer Split"

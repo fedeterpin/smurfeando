@@ -220,6 +220,17 @@ CREATE TABLE IF NOT EXISTS records (
 );
 
 -- Player index (denormalized): slug resolution + header + list/search.
+-- Canonical player identity. ScoreboardPlayers.Link is whatever an editor typed
+-- ('Yagao', 'YaGao', 'yagao'), so the transform resolves every variant to one
+-- player_id here and the gold reads the *_canon views. See etl/transform/identity.py.
+CREATE TABLE IF NOT EXISTS player_link_map (
+    link      TEXT PRIMARY KEY,
+    player_id TEXT NOT NULL,
+    method    TEXT,
+    rows      INTEGER
+);
+CREATE INDEX IF NOT EXISTS idx_player_link_map_player ON player_link_map(player_id);
+
 CREATE TABLE IF NOT EXISTS player_index (
     player_id     TEXT PRIMARY KEY,   -- Leaguepedia Link, or an OE playerid for regional-only players
     source        TEXT,               -- 'leaguepedia' (full profile) | 'oe' (regional only: no bio, photo or score)
