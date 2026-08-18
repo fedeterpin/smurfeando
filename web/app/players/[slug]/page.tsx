@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import BackLink from "@/components/BackLink";
+import PlayerSplit from "@/components/PlayerSplit";
 import TeamLink from "@/components/TeamLink";
 import {
   getPlayerBySlug,
@@ -11,6 +12,7 @@ import {
   getScoreRank,
   listPlayerSlugs,
 } from "@/lib/db";
+import { getPlayerLive } from "@/lib/live";
 import { championSquare } from "@/lib/champion";
 import { roleIcon, countryFlag } from "@/lib/icons";
 import { STAT_BY_KEY, statLabelKey } from "@/lib/stats";
@@ -38,6 +40,8 @@ export default async function PlayerPage({
   const player = getPlayerBySlug(slug);
   if (!player) notFound();
 
+  // The only part of this page that is not all-time: what they are playing now.
+  const live = getPlayerLive(player.player_id);
   const champs = getPlayerChampions(player.player_id, 12);
   const titles = getPlayerTitles(player.player_id);
   const teams = getPlayerTeams(player.player_id);
@@ -270,6 +274,17 @@ export default async function PlayerPage({
       <p className="scope-note">
         <T k={isOe ? "scopeNote.official" : "scopeNote.intl"} />
       </p>
+
+      {live.length > 0 && (
+        <section className="block">
+          <h2 className="block-title">
+            <T k="player.currentSplit" />
+          </h2>
+          {live.map((entry) => (
+            <PlayerSplit entry={entry} key={entry.line.tournament} />
+          ))}
+        </section>
+      )}
 
       {held.length > 0 && (
         <section className="block">

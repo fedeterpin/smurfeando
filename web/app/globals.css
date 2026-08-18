@@ -36,6 +36,11 @@
   --wash: linear-gradient(180deg, rgba(200, 170, 110, 0.22), rgba(200, 170, 110, 0.05));
   --wash-soft: linear-gradient(180deg, rgba(200, 170, 110, 0.12), rgba(200, 170, 110, 0.03));
   --panel-base: #0d1322;
+  /* Logo plate: many league wordmarks and team crests are dark artwork made for
+     a white page, and the wiki has no dark-mode variant. A muted plate with a
+     thin frame makes them readable without punching a white hole in the panel. */
+  --logo-plate: rgba(226, 223, 212, 0.72);
+  --logo-frame: rgba(200, 170, 110, 0.32);
 
   --grad-gold-text: linear-gradient(180deg, #f5ecd7 20%, var(--gold) 80%);
 
@@ -1089,6 +1094,13 @@ li:last-child > .sr-item { border-bottom: 0; }
 }
 
 /* Responsive ---------------------------------------------------------- */
+/* The nav gained a seventh link ('Splits') and stopped fitting a laptop, so it
+   folds into the menu button well before the rest of the mobile rules. */
+@media (max-width: 1060px) {
+  .nav { display: none; }
+  .nav-toggle { display: flex; }
+}
+
 @media (max-width: 960px) {
   .lb-layout { grid-template-columns: 1fr; gap: 20px; }
   /* Category rail becomes a horizontal scroll chip row above the table */
@@ -1124,6 +1136,48 @@ li:last-child > .sr-item { border-bottom: 0; }
   .tile-row { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
 }
 
+
+/* Player profile: the split in progress -------------------------------- */
+.psplit { border: 1px solid var(--rule-gold); background: var(--panel-base); padding: 16px 18px; }
+.psplit + .psplit { margin-top: 12px; }
+.psplit-head { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 14px; }
+.psplit-name { font-family: var(--ff-display); font-size: 17px; color: var(--ink); }
+.psplit-name:hover { color: var(--gold); }
+.psplit-team { font-size: 12px; color: var(--ink-50); }
+.psplit-head .chip { margin-left: auto; }
+.psplit-line { display: flex; flex-wrap: wrap; gap: 10px 26px; }
+.psplit-stat { display: flex; flex-direction: column; gap: 2px; }
+.psplit-stat b { font-family: var(--ff-mono); font-size: 17px; font-weight: 500; color: var(--ink-body); }
+.psplit-stat i {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-style: normal;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-40);
+}
+.psplit-pool { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--row-line); }
+.psplit-champ { display: flex; align-items: center; gap: 7px; }
+.psplit-champ-name { font-size: 13px; color: var(--ink-body); }
+.psplit-champ-num { font-family: var(--ff-mono); font-size: 11px; color: var(--ink-40); }
+/* Cells carry 18px of padding a side, so each column needs ~36px more than its
+   text: 70px was clipping the patch number itself. */
+.tbl.tbl-ppatch { --cols: 92px 66px 96px 72px 76px 80px 82px 76px 82px; margin-top: 14px; }
+.tbl-ppatch .cell-num, .tbl-ppatch .pname { white-space: nowrap; }
+@media (max-width: 720px) {
+  .psplit { padding: 14px; }
+  /* Nine stats will not fit a phone in one row and must not stretch the page:
+     they wrap into a grid instead. */
+  .psplit-line { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px 6px; }
+  .psplit-stat i .infotip { display: none; }   /* the help lives in the split table */
+  .psplit-stat { min-width: 0; }
+  .psplit-stat b { font-size: 15px; }
+  .psplit-stat i { font-size: 9px; letter-spacing: 0.06em; }
+  .tbl.tbl-ppatch { --cols: 62px 46px 60px 56px 60px; }
+  .tbl-ppatch > * > *:nth-child(n + 6) { display: none; }
+}
 
 /* Split page: standings and round by round ----------------------------- */
 .standings + .standings { margin-top: 22px; }
@@ -1205,6 +1259,20 @@ li:last-child > .sr-item { border-bottom: 0; }
   .round-match { grid-template-columns: 48px minmax(0, 1fr) 60px minmax(0, 1fr); gap: 6px; }
   .round-side { font-size: 12px; }
 }
+
+/* Narrow phones (360px and down): brand + tools together were 13px wider than
+   the screen, which pushed every page sideways. */
+@media (max-width: 400px) {
+  .header-inner { padding-left: 14px; padding-right: 14px; gap: 10px; }
+  .wordmark { font-size: 16px; letter-spacing: 0.04em; }
+}
+@media (max-width: 340px) {
+  .header-inner { padding-left: 10px; padding-right: 10px; gap: 8px; }
+  .wordmark { font-size: 14px; }
+  .logo-mark { transform: scale(0.85); }
+  .lang-switch { transform: scale(0.92); transform-origin: right center; }
+}
+
 @media (max-width: 480px) {
   .tbl.tbl-standings { --cols: 40px minmax(0, 1fr) 76px; }
   .tbl-standings .col-games, .tbl-standings .col-streak { display: none; }
@@ -1413,6 +1481,18 @@ a.roster-now-card:hover .roster-now-name { color: var(--gold); }
 }
 .split-card > .cutp-in { display: block; padding: 18px 20px; }
 .split-card:hover > .cutp-in { background: var(--wash-soft), var(--panel-base); }
+/* Team crests get the same plate: plenty of orgs (LCK teams especially) use a
+   near-black crest that vanishes on this background. */
+.mday-logo, .round-logo, .split-card-logo, .avatar.sq {
+  background-color: var(--logo-plate);
+  border: 1px solid var(--logo-frame);
+  border-radius: 4px;
+  background-origin: content-box;
+  padding: 2px;
+}
+.avatar.sq { border-radius: 6px; background-image: none; }
+.avatar.av-96.sq { padding: 6px; border-radius: 10px; }
+
 /* League marks: the wiki hosts one logo per rebrand; the ETL picks the one for
    the season being played. Contained, never cropped -- they are not all square. */
 .league-mark {
@@ -1429,8 +1509,9 @@ a.roster-now-card:hover .roster-now-name { color: var(--gold); }
   /* Several league wordmarks are black artwork made for a white page (LCK, LCP,
      PCS) and the wiki has no dark-mode variant, so every mark sits on the same
      soft plate instead of half of them disappearing into the navy. */
-  background-color: rgba(240, 238, 230, 0.92);
-  border-radius: 3px;
+  background-color: var(--logo-plate);
+  border: 1px solid var(--logo-frame);
+  border-radius: 4px;
   padding: 3px 5px;
 }
 .league-mark.lg {
