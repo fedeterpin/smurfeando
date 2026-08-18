@@ -10,8 +10,10 @@ import hashlib
 import json
 import re
 import sqlite3
+import unicodedata
 
 from etl import config
+from etl.transform import cleanup, identity
 
 ROLES = ["Top", "Jungle", "Mid", "Bot", "Support"]
 OE_POSITION_TO_ROLE = {"top": "Top", "jng": "Jungle", "mid": "Mid",
@@ -60,7 +62,7 @@ def _career_query(where_extra: str = "") -> str:
             SUM(COALESCE(SP.Kills, 0))   AS kills,
             SUM(COALESCE(SP.Deaths, 0))  AS deaths,
             SUM(COALESCE(SP.Assists, 0)) AS assists
-        FROM scoreboard_players SP
+        FROM scoreboard_players_canon SP
         LEFT JOIN players P ON P.OverviewPage = SP.Link
         LEFT JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
         WHERE {where}
@@ -269,7 +271,7 @@ def compute_player_champions(conn: sqlite3.Connection) -> None:
                SUM(CASE WHEN PlayerWin = 'Yes' THEN 1 ELSE 0 END) AS wins,
                SUM(COALESCE(Kills, 0)) AS k, SUM(COALESCE(Deaths, 0)) AS d,
                SUM(COALESCE(Assists, 0)) AS a
-        FROM scoreboard_players SP
+        FROM scoreboard_players_canon SP
         JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
         WHERE {PRO_WHERE}
           AND Link IS NOT NULL AND Link <> '' AND Champion IS NOT NULL AND Champion <> ''
@@ -312,7 +314,7 @@ def compute_player_teams(conn: sqlite3.Connection) -> None:
         SELECT Link, Team, team_logo(Team),
                MIN(substr(DateTime_UTC, 1, 4)), MAX(substr(DateTime_UTC, 1, 4)),
                COUNT(DISTINCT SP.GameId)
-        FROM scoreboard_players SP
+        FROM scoreboard_players_canon SP
         JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
         WHERE {PRO_WHERE}
           AND Link IS NOT NULL AND Link <> '' AND Team IS NOT NULL AND Team <> ''
@@ -343,10 +345,10 @@ def compute_player_titles(conn: sqlite3.Connection) -> None:
                TR.Team, team_logo(TR.Team)
         FROM tournament_results TR
         JOIN tournaments T ON T.OverviewPage = TR.OverviewPage
-        JOIN tournament_players TP ON TP.PageAndTeam = TR.PageAndTeam
+        JOIN tournament_players_canon TP ON TP.PageAndTeam = TR.PageAndTeam
         WHERE T.Tier = 'intl_premier' AND TRIM(TR.Place) = '1'
           AND TP.Link IS NOT NULL AND TP.Link <> ''
-          AND EXISTS (SELECT 1 FROM scoreboard_players SP
+          AND EXISTS (SELECT 1 FROM scoreboard_players_canon SP
                       WHERE SP.Link = TP.Link AND SP.OverviewPage = TP.OverviewPage)""")
     conn.commit()
 
@@ -360,7 +362,7 @@ def compute_player_titles(conn: sqlite3.Connection) -> None:
 _TEAM_GAMES_UNION = f"""
     SELECT ta.team_id AS team_id, SP.Link AS player_id,
            substr(SP.DateTime_UTC, 1, 4) AS y, SP.GameId AS gid, SP.Role AS role
-    FROM scoreboard_players SP
+    FROM scoreboard_players_canon SP
     JOIN team_aliases ta ON ta.alias = SP.Team
     JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
     WHERE {PRO_WHERE} AND SP.Link IS NOT NULL AND SP.Link <> ''
@@ -373,6 +375,13 @@ _TEAM_GAMES_UNION = f"""
     JOIN team_aliases ta ON ta.alias = g.teamname
     WHERE g.is_duplicate = 0
 """
+
+
+def _team_key(name: str) -> str:
+    """Accent- and punctuation-blind form of a team name, for the fallback match."""
+    stripped = "".join(ch for ch in unicodedata.normalize("NFKD", name or "")
+                       if not unicodedata.combining(ch))
+    return re.sub(r"[^a-z0-9]+", "", stripped.casefold())
 
 
 def _team_resolver(conn: sqlite3.Connection):
@@ -391,8 +400,23 @@ def _team_resolver(conn: sqlite3.Connection):
     if not redirects and not teams:
         return (lambda n: n), (lambda p: None)
 
+    # Last-resort index for spellings the wiki never declared. `.lower()` is
+    # ASCII-blind: 'Istanbul Wildcats' and 'İstanbul Wildcats' (dotted capital I)
+    # are the same org and stayed two, with 460 games on one and 1 on the other.
+    # Folding accents and punctuation catches those; a form claimed by two pages
+    # is left alone rather than guessed (CERBERUS Esports NA vs VN).
+    by_norm: dict[str, set[str]] = {}
+    for raw, page in [(a, p) for a, p in redirects.items()] + \
+                     [(r["Name"], r["OverviewPage"]) for r in teams.values() if r["Name"]] + \
+                     [(p, p) for p in teams]:
+        by_norm.setdefault(_team_key(raw), set()).add(page)
+
     def canon(name: str) -> str:
         page = redirects.get(name.lower(), name)
+        if page not in teams:
+            hits = by_norm.get(_team_key(page))
+            if hits and len(hits) == 1:
+                page = next(iter(hits))
         seen = {page}
         # RenamedTo is a NAME, not a page: re-resolve each hop through redirects.
         for _ in range(10):
@@ -420,7 +444,7 @@ def compute_teams(conn: sqlite3.Connection) -> None:
 
     # -- aliases: every raw team string the gold layer can display ---------
     raw_names = [r[0] for r in conn.execute("""
-        SELECT DISTINCT Team FROM scoreboard_players WHERE Team IS NOT NULL AND Team <> ''
+        SELECT DISTINCT Team FROM scoreboard_players_canon WHERE Team IS NOT NULL AND Team <> ''
         UNION SELECT DISTINCT teamname FROM oe_resolved_games
               WHERE teamname IS NOT NULL AND teamname <> ''
         UNION SELECT DISTINCT Team FROM players WHERE Team IS NOT NULL AND Team <> ''
@@ -448,12 +472,19 @@ def compute_teams(conn: sqlite3.Connection) -> None:
     conn.executemany(
         "UPDATE team_rosters SET role = ? WHERE team_id = ? AND player_id = ?",
         [(role, team_id, player_id) for (team_id, player_id), role in top_role.items()])
+    # 'Current' needs BOTH halves. Players.Team on the wiki is the player's LAST
+    # known org, which a retired player keeps forever -- on its own it put Bang,
+    # MaRin and Easyhoon on T1's 2026 roster. Requiring the player to have played
+    # for the org in the dataset's latest season cuts it to the actual five, and
+    # leaves disbanded orgs with no current roster at all (only their history).
     conn.execute("""
-        UPDATE team_rosters SET is_current = EXISTS (
-            SELECT 1 FROM player_index pi
-            JOIN team_aliases ta ON ta.alias = pi.team
-            WHERE pi.player_id = team_rosters.player_id
-              AND ta.team_id = team_rosters.team_id)""")
+        UPDATE team_rosters SET is_current = (
+            EXISTS (
+                SELECT 1 FROM player_index pi
+                JOIN team_aliases ta ON ta.alias = pi.team
+                WHERE pi.player_id = team_rosters.player_id
+                  AND ta.team_id = team_rosters.team_id)
+            AND last_year = (SELECT MAX(last_year) FROM team_rosters))""")
 
     # -- top-3 finishes at premier internationals --------------------------
     # Place_Number is empty on many rows -> trust the Place text. The Team <> ''
@@ -522,7 +553,7 @@ def compute_champion_stats(conn: sqlite3.Connection) -> None:
                    SUM(CASE WHEN PlayerWin = 'Yes' THEN 1 ELSE 0 END) AS wins,
                    SUM(COALESCE(Kills, 0)) AS k, SUM(COALESCE(Deaths, 0)) AS d,
                    SUM(COALESCE(Assists, 0)) AS a, COUNT(DISTINCT Link) AS n_players
-            FROM scoreboard_players SP
+            FROM scoreboard_players_canon SP
             JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
             WHERE {PRO_WHERE}
               AND Champion IS NOT NULL AND Champion <> '' {role_filter}
@@ -573,13 +604,13 @@ def compute_player_index(conn: sqlite3.Connection) -> None:
     # least one Leaguepedia game gets the full card; the rest are OE-only.
     conn.execute("DROP TABLE IF EXISTS tmp_lp_players")
     conn.execute("CREATE TEMP TABLE tmp_lp_players AS "
-                 "SELECT DISTINCT Link AS player_id FROM scoreboard_players "
+                 "SELECT DISTINCT Link AS player_id FROM scoreboard_players_canon "
                  "WHERE Link IS NOT NULL AND Link <> ''")
     rows = conn.execute("""
         SELECT pcs.player_id, pcs.display_id, pcs.games, pcs.wins, pcs.kda, pcs.win_rate,
                P.Name AS name, P.Country AS country, P.Team AS team,
                P.IsRetired AS is_retired, P.Image AS image_filename,
-               (SELECT SP.Role FROM scoreboard_players SP WHERE SP.Link = pcs.player_id
+               (SELECT SP.Role FROM scoreboard_players_canon SP WHERE SP.Link = pcs.player_id
                   AND SP.Role IS NOT NULL AND SP.Role <> ''
                 GROUP BY SP.Role ORDER BY COUNT(*) DESC LIMIT 1) AS role,
                (SELECT COUNT(*) FROM player_titles pt WHERE pt.player_id = pcs.player_id) AS intl_titles,
@@ -587,7 +618,7 @@ def compute_player_index(conn: sqlite3.Connection) -> None:
                   AND pt.league = 'World Championship') AS worlds_titles,
                (SELECT COUNT(*) FROM player_titles pt WHERE pt.player_id = pcs.player_id
                   AND pt.league = 'Mid-Season Invitational') AS msi_titles,
-               (SELECT COUNT(DISTINCT T.Year) FROM scoreboard_players SP
+               (SELECT COUNT(DISTINCT T.Year) FROM scoreboard_players_canon SP
                   JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
                   WHERE SP.Link = pcs.player_id AND T.Tier = 'intl_premier'
                     AND T.League = 'World Championship') AS worlds_appearances,
@@ -808,10 +839,10 @@ def _titles(conn, league: str | None, top_n: int) -> list[tuple]:
         ),
         winning_players AS (
             SELECT DISTINCT TP.Link AS player_id, W.op AS op
-            FROM tournament_players TP
+            FROM tournament_players_canon TP
             JOIN winners W ON W.pat = TP.PageAndTeam
             WHERE TP.Link IS NOT NULL AND TP.Link <> ''
-              AND EXISTS (SELECT 1 FROM scoreboard_players SP
+              AND EXISTS (SELECT 1 FROM scoreboard_players_canon SP
                           WHERE SP.Link = TP.Link AND SP.OverviewPage = TP.OverviewPage)
         )
         SELECT wp.player_id, COALESCE(P.ID, wp.player_id) AS display_id,
@@ -828,7 +859,7 @@ def _worlds_appearances(conn, top_n: int) -> list[tuple]:
     rows = conn.execute("""
         SELECT SP.Link AS player_id, COALESCE(P.ID, SP.Link) AS display_id,
                COUNT(DISTINCT T.Year) AS appearances
-        FROM scoreboard_players SP
+        FROM scoreboard_players_canon SP
         JOIN tournaments T ON T.OverviewPage = SP.OverviewPage
         LEFT JOIN players P ON P.OverviewPage = SP.Link
         WHERE T.Tier = 'intl_premier' AND T.League = 'World Championship'
@@ -881,6 +912,14 @@ def compute_records(conn: sqlite3.Connection) -> None:
 
 
 def run_all(conn: sqlite3.Connection) -> None:
+    # Identity first: everything below groups by player_id, so the Link variants
+    # have to collapse before a single aggregate is computed.
+    summary = identity.run(conn)
+    print(f"[identity] {summary['links']:,} links -> {summary['players']:,} players "
+          f"({summary['rows_reattributed']:,} rows re-attributed; "
+          f"page {summary.get('page', 0):,} · redirect {summary.get('redirect', 0):,} · "
+          f"page_ci {summary.get('page_ci', 0):,} · redirect_ci {summary.get('redirect_ci', 0):,} · "
+          f"cluster {summary.get('cluster', 0):,} · ambiguous {summary.get('ambiguous', 0):,})")
     compute_tiers(conn)
     compute_career_stats(conn)
     # Regional scopes always compute (LP is the primary source since the full
@@ -900,6 +939,12 @@ def run_all(conn: sqlite3.Connection) -> None:
     compute_teams(conn)
     compute_score_leaderboard(conn)
     compute_records(conn)
+    fixed = cleanup.unescape_gold(conn)
+    if fixed:
+        print("[cleanup] source escapes decoded: " +
+              ", ".join(f"{k} {n}" for k, n in sorted(fixed.items())))
+    for warning in identity.audit(conn):
+        print(f"[identity] WARNING: {warning}")
 
 
 def main() -> None:

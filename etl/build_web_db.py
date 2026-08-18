@@ -19,6 +19,7 @@ KEEP_TABLES = {
     "player_titles", "champion_stats", "leaderboards", "records",
     "team_index", "team_aliases", "team_rosters", "team_podiums",
     "oe_leagues",   # 25-row dimension: region labels for the regional scopes
+    "player_link_map",  # Link variant -> canonical player_id, for the live slice
     "etl_meta",
 }
 # Champions kept per player. The player page renders 12; the margin leaves room to
@@ -52,6 +53,8 @@ def main() -> None:
                     PARTITION BY player_id ORDER BY games DESC, champion) AS rn
                 FROM player_champions)
             WHERE rn <= {CHAMPION_POOL_KEPT})""")
+    # Only the variants travel: the identity rows are ~18k pages the web can infer.
+    conn.execute("DELETE FROM player_link_map WHERE link = player_id")
     conn.commit()
     conn.execute("PRAGMA journal_mode=DELETE")
     conn.execute("VACUUM")

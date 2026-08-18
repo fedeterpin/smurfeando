@@ -203,6 +203,52 @@ export function getMatchday() {
   };
 }
 
+/**
+ * The lineup a team has declared for the split it is playing right now, with each
+ * player's line in that split. This beats the almanac's roster flag for "who plays
+ * here today": it comes from the wiki's tournament roster and refreshes twice a
+ * day, while the almanac only knows a player's last team and is rebuilt by hand.
+ */
+export function getTeamLineup(names: string[]) {
+  const wanted = new Set(names.filter(Boolean).map((n) => n.toLowerCase()));
+  if (!wanted.size) return null;
+  const rows = getLiveLineups().filter((l) => wanted.has(l.team.toLowerCase()));
+  if (!rows.length) return null;
+
+  // An org can appear in several active tournaments at once (league + playoffs +
+  // an international): the split with the most games is the one underway.
+  const tournaments = new Map(
+    getLiveTournaments().map((t) => [t.overview_page, t] as const),
+  );
+  const byPage = new Map<string, LiveLineupRow[]>();
+  for (const row of rows) {
+    const list = byPage.get(row.tournament);
+    if (list) list.push(row);
+    else byPage.set(row.tournament, [row]);
+  }
+  const [page, players] = [...byPage.entries()].sort(
+    (a, b) =>
+      (tournaments.get(b[0])?.games ?? 0) - (tournaments.get(a[0])?.games ?? 0),
+  )[0];
+
+  const stats = new Map(
+    getLiveSplits()
+      .filter((r) => r.tournament === page)
+      .map((r) => [r.player, r] as const),
+  );
+  return {
+    tournament: tournaments.get(page) ?? null,
+    players: players.map((p) => ({
+      player_id: p.player,
+      name: p.player_id,
+      slug: p.slug,
+      image: p.image,
+      role: p.role,
+      games: stats.get(p.player)?.games ?? null,
+    })),
+  };
+}
+
 /** A single split's page: its player table, its patch breakdown and its matches. */
 export function getSplit(slug: string) {
   const tournament = getLiveTournaments().find((t) => t.slug === slug) ?? null;

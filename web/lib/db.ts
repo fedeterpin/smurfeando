@@ -444,6 +444,17 @@ export function getTeamRoster(teamId: string): TeamRosterRow[] {
   );
 }
 
+/** Every spelling that resolves to this org, to match it against other sources. */
+export function getTeamAliases(teamId: string): string[] {
+  return withDb(
+    (db) =>
+      (db
+        .prepare("SELECT alias FROM team_aliases WHERE team_id = ?")
+        .all(teamId) as { alias: string }[]).map((r) => r.alias),
+    [],
+  );
+}
+
 export interface TeamPodiumRow {
   overview_page: string;
   event: string;

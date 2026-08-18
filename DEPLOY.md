@@ -35,6 +35,27 @@ python -m etl.build_web_db
 git add -f data/web.sqlite && git commit -m "chore(data): refresh" && git push
 ```
 
+## Branching: batch on `dev`, deploy from `main`
+Every push to `main` rebuilds the whole site on Cloudflare, and with ~7.4k
+prerendered pages that takes **~25 minutes**. So feature work goes to **`dev`** and
+`main` only receives finished batches:
+
+```bash
+git checkout dev
+# ... work, commit, push to dev as often as you like (no production build)
+git checkout main && git merge dev && git push    # one build, one deploy
+```
+
+Two things to keep in mind:
+- **The daily cron commits to `main`**, not `dev` (GitHub schedules only run on the
+  default branch). Do not commit a local `data/live/` refresh from `dev`; on a merge
+  conflict there, keep `main`'s copy. Merging `main` into `dev` before each batch
+  avoids the situation entirely.
+- If **non-production branch builds** are enabled for the Worker (dashboard →
+  Worker → Settings → Builds), every push to `dev` also builds a preview. Useful for
+  reviewing before merging, wasteful if the point is to save build time — decide one
+  way and set it there; it is dashboard config, not `wrangler.jsonc`.
+
 ## Keeping the matchday fresh (daily)
 The **`.github/workflows/live.yml`** workflow runs on a cron at **05:00 and 17:00
 UTC** (plus manual dispatch) and refreshes only `data/live/*.json`: the schedule of

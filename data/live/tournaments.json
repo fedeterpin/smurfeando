@@ -213,7 +213,7 @@
   "year": "2026"
  },
  {
-  "games": 28,
+  "games": 31,
   "is_playoffs": false,
   "league": "Turkish Championship League",
   "league_short": "TCL",
@@ -221,7 +221,8 @@
   "overview_page": "TCL/2026 Season/Summer Split",
   "patches": [
    "26.14",
-   "26.15"
+   "26.15",
+   "26.16"
   ],
   "region": "turkey",
   "region_label": "Turkey",

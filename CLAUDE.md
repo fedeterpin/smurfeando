@@ -70,9 +70,12 @@ Cargo (Leaguepedia)  --extract-->  bronze  --load-->  SILVER  --transform-->  GO
   retry of the mwcleric fork, which hammered the rate-limit) + manual pagination +
   adaptive **AIMD** throttle + bronze persistence. Every raw pull is stored as gzip in
   `data/raw/` so silver can be rebuilt without hitting the API again (`etl.reload_bronze`).
-- **`etl/transform/aggregate.py::run_all`** computes the GOLD tables in order: tiers →
-  career_stats → titles → teams → champions → leaderboards → player_index → records.
-  It is all pure SQL over silver (no network).
+- **`etl/transform/aggregate.py::run_all`** computes the GOLD tables in order:
+  **identity** → tiers → career_stats → titles → teams → champions → leaderboards →
+  player_index → records → **cleanup** → **audit**. It is all pure SQL over silver (no
+  network). The audit prints a warning when profiles have no wiki page behind them or
+  two orgs share a display name — the point is that a split identity shows up as a
+  number instead of a silent duplicate.
 
 ### Two cadences: the almanac and the live slice
 The site serves two datasets that are refreshed on completely different clocks and
@@ -107,9 +110,23 @@ and line-based diffs keep git's history far smaller than a binary blob would.
 ### Non-negotiable domain rules
 - **KDA**: always `(ΣKills + ΣAssists) / MAX(ΣDeaths, 1)` from raw totals, **never**
   an average of per-game ratios.
-- **Player identity**: the canonical key is `ScoreboardPlayers.Link` (== `Players.OverviewPage`).
-  `Name` is the handle shown in that game (may be an old alias). Typed names
-  are resolved via `PlayerRedirects.AllName → OverviewPage`.
+- **Player identity**: the canonical key is `Players.OverviewPage`, and
+  `ScoreboardPlayers.Link` is **not** it — Cargo returns whatever an editor typed on
+  the match page, so `Yagao`, `YaGao` and `yagao` all arrive verbatim. Grouping by the
+  raw `Link` split careers across phantom profiles: 8.600 variants, **70k pro
+  player-game rows** misattributed (Xiye alone lost 891). `etl/transform/identity.py`
+  resolves every Link to one `player_id` (page → redirect → case-insensitive match →
+  cluster of pageless variants; **two pages claiming the same form are never merged**,
+  they are reported as `ambiguous`) and materializes `scoreboard_players_canon` /
+  `tournament_players_canon`, which is what the gold reads. They are TABLES, not
+  views: as a view `Link` is a `COALESCE` over a join, no index applies, and the
+  correlated subqueries in the gold turn `run_all` into hours.
+  `Name` is the handle shown in that game (may be an old alias).
+- **Source escapes**: the wiki stores `&nbsp;` and `&#x2f;` inside plain fields
+  (1.519 player names, one team literally called `&#x2f;&#x2f;games`). React escapes
+  on render, so they reach the page as text. `etl/transform/cleanup.py` decodes every
+  gold display column at the end of `run_all`; identifier columns (`*_id`, `slug`,
+  `player_link_map.link`) are skipped because they are matched against raw Cargo.
 - **Tiers** (`config.classify_tier`): a tournament is `intl_premier` only if
   `Region='International'` **AND** `League ∈ {World Championship, Mid-Season Invitational,
   First Stand}`. NOTE: Worlds qualifiers/regional-finals carry `League='World
@@ -165,6 +182,16 @@ The `.github/workflows/update-data.yml` workflow (manual dispatch) runs the ETL,
 `web.sqlite` and commits it → the push triggers the rebuild. See `DEPLOY.md`.
 `.github/workflows/live.yml` does the same twice a day (05:00 and 17:00 UTC) for
 `data/live/`, which is why the matchday is never more than half a day old.
+
+**Branching**: work lands on **`dev`** and only reaches `main` when a batch of
+features is ready. Every push to `main` triggers a Cloudflare build that takes
+~25 min (~7.4k prerendered pages + asset upload), so batching is what keeps that
+cost down. Two consequences:
+- The cron commits `data/live/` **straight to `main`** (GitHub schedules only run on
+  the default branch). Never commit a local live refresh from `dev`; if a merge
+  conflicts on `data/live/*.json`, keep `main`'s copy — it is fresher by definition.
+- Merge `main` into `dev` before starting a batch, so the data commits from the cron
+  are already there.
 
 ## Rate limit
 Fandom's **anonymous** API limits very hard (~1 query every 30-40 s with backoff), but a

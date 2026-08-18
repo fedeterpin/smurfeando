@@ -1125,6 +1125,34 @@ li:last-child > .sr-item { border-bottom: 0; }
 }
 
 
+/* Current roster: the five who play here today, above the all-time table ---- */
+.roster-now {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+}
+.roster-now-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 18px 12px 14px;
+  border: 1px solid var(--rule-gold);
+  background: var(--wash-soft), var(--panel-base);
+  text-align: center;
+  transition: border-color 150ms ease;
+}
+a.roster-now-card:hover { border-color: var(--border-gold); }
+.roster-now-role { display: flex; align-items: center; margin-top: 2px; }
+.roster-now-name { font-size: 15px; color: var(--ink); }
+a.roster-now-card:hover .roster-now-name { color: var(--gold); }
+.roster-now-games { font-family: var(--ff-mono); font-size: 11px; color: var(--ink-40); }
+@media (max-width: 480px) {
+  .roster-now { grid-template-columns: repeat(auto-fit, minmax(104px, 1fr)); gap: 8px; }
+  .roster-now-card { padding: 14px 8px 12px; }
+  .roster-now-name { font-size: 13px; }
+}
+
 /* 404 ------------------------------------------------------------------ */
 .notfound { padding-top: 40px; }
 .nf-code {
