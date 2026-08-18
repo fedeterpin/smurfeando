@@ -166,6 +166,16 @@ The `.github/workflows/update-data.yml` workflow (manual dispatch) runs the ETL,
 `.github/workflows/live.yml` does the same twice a day (05:00 and 17:00 UTC) for
 `data/live/`, which is why the matchday is never more than half a day old.
 
+**Branching**: work lands on **`dev`** and only reaches `main` when a batch of
+features is ready. Every push to `main` triggers a Cloudflare build that takes
+~25 min (~7.4k prerendered pages + asset upload), so batching is what keeps that
+cost down. Two consequences:
+- The cron commits `data/live/` **straight to `main`** (GitHub schedules only run on
+  the default branch). Never commit a local live refresh from `dev`; if a merge
+  conflicts on `data/live/*.json`, keep `main`'s copy — it is fresher by definition.
+- Merge `main` into `dev` before starting a batch, so the data commits from the cron
+  are already there.
+
 ## Rate limit
 Fandom's **anonymous** API limits very hard (~1 query every 30-40 s with backoff), but a
 **logged-in session** (bot password with the Cargo grant + confirmed account email — both
