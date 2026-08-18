@@ -47,6 +47,69 @@ IN_CHUNK = 20          # OverviewPages per `IN (...)` clause (keeps URLs sane)
 
 
 # --- small helpers --------------------------------------------------------
+def _standings_groups(rows: list[dict], matches: list[dict]) -> dict[int, int]:
+    """Row index -> table number, for phases that run several tables at once.
+
+    The wiki emits every standings table of a page as ONE flat list with no group
+    column (LCK 2026 plays two groups), so the tables have to be reconstructed.
+    Two signals, in this order:
+
+    1. A place that appears N times means N tables. If every place is unique there
+       is a single table, full stop -- which is what keeps a half-played league
+       from being split just because two teams have not met yet.
+    2. Who plays whom. Teams in the same table play each other, so the match graph
+       splits into one component per table. Rows whose team has not played yet
+       fall back to the order the wiki listed them in.
+    """
+    places = defaultdict(int)
+    for row in rows:
+        places[_int(row.get("Place"))] += 1
+    tables = max(places.values(), default=1)
+    if tables <= 1:
+        return {i: 1 for i in range(len(rows))}
+
+    adjacency: dict[str, set[str]] = defaultdict(set)
+    for match in matches:
+        a, b = match.get("Team1"), match.get("Team2")
+        if a and b:
+            adjacency[a].add(b)
+            adjacency[b].add(a)
+    components: list[set[str]] = []
+    seen: set[str] = set()
+    for team in adjacency:
+        if team in seen:
+            continue
+        stack, component = [team], set()
+        while stack:
+            node = stack.pop()
+            if node in component:
+                continue
+            component.add(node)
+            seen.add(node)
+            stack.extend(adjacency[node] - component)
+        components.append(component)
+    # Strongest table first (a reader opens a split page looking for the top of
+    # it), then size, then alphabetically so the numbering is stable across runs.
+    best = defaultdict(int)
+    for row in rows:
+        best[row.get("Team")] = _int(row.get("WinSeries"))
+    components.sort(key=lambda c: (-max((best[t] for t in c), default=0), -len(c),
+                                   sorted(c)[0] if c else ""))
+    of_team = {team: i + 1 for i, component in enumerate(components) for team in component}
+
+    fallback = defaultdict(int)
+    groups: dict[int, int] = {}
+    for i, row in enumerate(rows):
+        team = row.get("Team")
+        if team in of_team:
+            groups[i] = of_team[team]
+        else:
+            place = _int(row.get("Place"))
+            fallback[place] += 1
+            groups[i] = fallback[place]
+    return groups
+
+
 def _fmt(dt: datetime) -> str:
     return dt.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -141,6 +204,45 @@ def fetch_player_games(src: CargoSource, pages) -> list[dict]:
     return rows
 
 
+def fetch_tournament_matches(src: CargoSource, pages) -> list[dict]:
+    """Every match of the tournaments in play, not just the ones near today.
+
+    The home only shows a window, but a split page has to show how the teams got
+    where they are: the full round-by-round record, which for a playoff bracket is
+    the bracket itself.
+    """
+    rows: list[dict] = []
+    for chunk in _chunks(sorted(pages), IN_CHUNK):
+        rows += src.query(
+            tables="MatchSchedule=MS",
+            fields=("MS.OverviewPage=OverviewPage,MS.MatchId=MatchId,MS.Team1=Team1,"
+                    "MS.Team2=Team2,MS.DateTime_UTC=DateTime_UTC,MS.BestOf=BestOf,"
+                    "MS.Winner=Winner,MS.Team1Score=Team1Score,MS.Team2Score=Team2Score,"
+                    "MS.Tab=Tab,MS.Patch=Patch,MS.Round=Round,MS.ShownRound=ShownRound,"
+                    "MS.Phase=Phase,MS.GroupName=GroupName,MS.IsTiebreaker=IsTiebreaker,"
+                    "MS.N_MatchInTab=N_MatchInTab,MS.N_TabInPage=N_TabInPage"),
+            where=_in_clause("MS.OverviewPage", chunk),
+            order_by="MS.DateTime_UTC",
+        )
+    return rows
+
+
+def fetch_standings(src: CargoSource, pages) -> list[dict]:
+    """Where every team stands in the phase being played."""
+    rows: list[dict] = []
+    for chunk in _chunks(sorted(pages), IN_CHUNK):
+        rows += src.query(
+            tables="Standings=S",
+            fields=("S.OverviewPage=OverviewPage,S.Team=Team,S.Place=Place,S.N=N,"
+                    "S.WinSeries=WinSeries,S.LossSeries=LossSeries,S.TieSeries=TieSeries,"
+                    "S.WinGames=WinGames,S.LossGames=LossGames,S.Points=Points,"
+                    "S.Streak=Streak,S.StreakDirection=StreakDirection"),
+            where=_in_clause("S.OverviewPage", chunk),
+            order_by="S.OverviewPage, S.N",
+        )
+    return rows
+
+
 def fetch_rosters(src: CargoSource, pages) -> list[dict]:
     rows: list[dict] = []
     for chunk in _chunks(sorted(pages), IN_CHUNK):
@@ -196,9 +298,14 @@ def load_identity() -> tuple[dict, dict, dict, dict]:
     return players, teams, regions, links
 
 
+# A bracket slot with no team yet is written as a team name, so building a logo
+# URL for it 404s on every unplayed playoff match.
+PLACEHOLDER_TEAMS = {"tbd", "tba", "to be determined", "to be decided", "?", "-"}
+
+
 def team_card(name: str | None, teams: dict) -> dict:
-    if not name:
-        return {"name": None, "slug": None, "logo": None, "short": None}
+    if not name or name.strip().lower() in PLACEHOLDER_TEAMS:
+        return {"name": name or None, "slug": None, "logo": None, "short": None}
     # The gold decoded its aliases, so a raw Cargo name has to be decoded too or
     # a team like '&#x2f;&#x2f;games' would never match its own profile.
     name = clean(name)
@@ -407,8 +514,11 @@ def main() -> None:
     games_by_id = {g["GameId"]: g for g in games if g.get("GameId")}
     player_rows = fetch_player_games(src, active)
     rosters = fetch_rosters(src, active)
+    tournament_matches = fetch_tournament_matches(src, active)
+    standings_rows = fetch_standings(src, active)
     print(f"[live] {len(games)} games / {len(player_rows)} player rows / "
-          f"{len(rosters)} roster rows")
+          f"{len(rosters)} roster rows / {len(tournament_matches)} matches / "
+          f"{len(standings_rows)} standings rows")
 
     players, teams, regions, link_map = load_identity()
     if link_map:
@@ -466,20 +576,25 @@ def main() -> None:
         })
     tournaments.sort(key=lambda r: (r["region"] or "zz", r["name"]))
 
-    # 3. Matches inside the display window.
+    # 3. Every match of every split in play. The home trims this to its own window
+    # at build time; the split pages need the whole record to show the standings
+    # and how each round went.
     lo, hi = _fmt(now - timedelta(days=WINDOW_BACK_DAYS)), _fmt(now + timedelta(days=WINDOW_FWD_DAYS))
     matches = []
-    for row in schedule:
+    for row in tournament_matches:
         page = row.get("OverviewPage")
-        stamp = row.get("DateTime_UTC") or ""
-        if page not in active or not (lo <= stamp < hi):
+        if page not in active:
             continue
         matches.append({
             "match_id": row.get("MatchId"),
             "tournament": page,
-            "datetime_utc": stamp,
+            "datetime_utc": row.get("DateTime_UTC") or "",
             "best_of": _int(row.get("BestOf")) or None,
             "tab": row.get("Tab"),
+            "round": row.get("ShownRound") or row.get("Round") or None,
+            "phase": row.get("Phase") or None,
+            "group": row.get("GroupName") or None,
+            "is_tiebreaker": str(row.get("IsTiebreaker") or "") in {"1", "Yes", "true"},
             "patch": row.get("Patch") or None,
             "team1": team_card(row.get("Team1"), teams),
             "team2": team_card(row.get("Team2"), teams),
@@ -489,17 +604,53 @@ def main() -> None:
         })
     matches.sort(key=lambda r: (r["datetime_utc"], r["tournament"], r["match_id"] or ""))
 
+    # 4. Standings. A phase can run several tables at once (LCK 2026 plays two
+    # groups) and the wiki emits them as one flat list with no group column --
+    # INTERLEAVED by rank, not concatenated: place 1 of each table, then place 2
+    # of each, and so on. So the Nth time a place shows up is the Nth table.
+    standings = []
+    by_page: dict[str, list[dict]] = defaultdict(list)
+    for row in standings_rows:
+        if row.get("OverviewPage") in active:
+            by_page[row["OverviewPage"]].append(row)
+    matches_by_page: dict[str, list[dict]] = defaultdict(list)
+    for row in tournament_matches:
+        matches_by_page[row.get("OverviewPage")].append(row)
+    for page, page_rows in by_page.items():
+        groups = _standings_groups(page_rows, matches_by_page.get(page, []))
+        for i, row in enumerate(page_rows):
+            place = _int(row.get("Place"))
+            group = groups.get(i, 1)
+            standings.append({
+                "tournament": page,
+                "group": group,
+                "place": place or None,
+                "place_label": row.get("Place"),
+                "team": team_card(row.get("Team"), teams),
+                "win_series": _int(row.get("WinSeries")),
+                "loss_series": _int(row.get("LossSeries")),
+                "tie_series": _int(row.get("TieSeries")),
+                "win_games": _int(row.get("WinGames")),
+                "loss_games": _int(row.get("LossGames")),
+                "points": _int(row.get("Points")),
+                "streak": _int(row.get("Streak")),
+                "streak_direction": row.get("StreakDirection") or None,
+            })
+    standings.sort(key=lambda r: (r["tournament"], r["group"], r["place"] or 99))
+
     write_json("meta.json", {
         "generated_at": _fmt(now),
         "window_from": lo,
         "window_to": hi,
         "tournaments": len(tournaments),
         "matches": len(matches),
+        "standings": len(standings),
         "games": len(games),
         "players": len({r["player"] for r in split_rows}),
     })
     write_json("tournaments.json", tournaments)
     write_json("matches.json", matches)
+    write_json("standings.json", standings)
     write_json("lineups.json", lineups)
     write_json("player_splits.json", split_rows)
     write_json("player_patches.json", patch_rows)

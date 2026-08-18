@@ -33,10 +33,45 @@ def cdn_image(filename):
 
 
 def team_logo(team):
-    """URL of a team's square logo (Leaguepedia uses '<Team>logo square.png')."""
+    """URL of a team's logo built by convention ('<Team>logo square.png').
+
+    Only a fallback: the wiki names plenty of logos differently ('Flash Wolves
+    logo.png', 'HANJIN BRIONlogo profile.png') and those 404 silently. The real
+    file name comes from Teams.Image -- see `_team_logo_url`.
+    """
     if not team:
         return None
     return cdn_image(f"{team}logo square.png")
+
+
+def _logo_resolver(conn: sqlite3.Connection):
+    """team name (or page) -> logo URL, wiki-declared file first.
+
+    Registered as the `team_logo` SQL function so every INSERT that stores a logo
+    goes through the same rule. Falls back to the by-name convention for orgs the
+    registry has never been pulled for (offline builds keep working).
+    """
+    declared: dict[str, tuple[str | None, str | None]] = {}
+    try:
+        rows = conn.execute(
+            "SELECT OverviewPage, Name, Image, ImageURL FROM teams "
+            "WHERE (Image IS NOT NULL AND Image <> '') "
+            "   OR (ImageURL IS NOT NULL AND ImageURL <> '')")
+    except sqlite3.OperationalError:
+        rows = []
+    for page, name, image, image_url in rows:
+        for key in (page, name):
+            if key:
+                declared.setdefault(key, (image_url, image))
+
+    def resolve(team):
+        if not team:
+            return None
+        image_url, image = declared.get(team, (None, None))
+        # Resolved URL (follows wiki redirects) > declared file name > convention.
+        return image_url or (cdn_image(image) if image else team_logo(team))
+
+    return resolve
 
 
 # ---------------------------------------------------------------------------
@@ -307,7 +342,7 @@ def _first_year(text):
 
 def compute_player_teams(conn: sqlite3.Connection) -> None:
     """Team history: per (player, team), first/last year and games."""
-    conn.create_function("team_logo", 1, team_logo)
+    conn.create_function("team_logo", 1, _logo_resolver(conn))
     conn.execute("DELETE FROM player_teams")
     conn.execute(f"""
         INSERT INTO player_teams (player_id, team, team_logo_url, first_year, last_year, games)
@@ -334,7 +369,7 @@ def compute_player_teams(conn: sqlite3.Connection) -> None:
 
 
 def compute_player_titles(conn: sqlite3.Connection) -> None:
-    conn.create_function("team_logo", 1, team_logo)
+    conn.create_function("team_logo", 1, _logo_resolver(conn))
     conn.create_function("first_year", 1, _first_year)
     conn.execute("DELETE FROM player_titles")
     conn.execute("""
@@ -438,7 +473,8 @@ def compute_teams(conn: sqlite3.Connection) -> None:
     """team_aliases -> team_rosters -> team_podiums -> team_index.
 
     Runs after compute_player_index (is_current needs player_index.team)."""
-    conn.create_function("team_logo", 1, team_logo)
+    logo = _logo_resolver(conn)
+    conn.create_function("team_logo", 1, logo)
     conn.create_function("first_year", 1, _first_year)
     canon, team_meta = _team_resolver(conn)
 
@@ -529,7 +565,7 @@ def compute_teams(conn: sqlite3.Connection) -> None:
         payload.append((
             team_id, meta["Name"] if meta and meta["Name"] else team_id, slug,
             meta["Region"] if meta else None, meta["Short"] if meta else None,
-            meta["IsDisbanded"] if meta else None, team_logo(team_id),
+            meta["IsDisbanded"] if meta else None, logo(team_id),
             r["games"], r["players"], r["fy"], r["ly"], n_titles or 0, n_podiums))
     conn.execute("DELETE FROM team_index")
     conn.executemany("""
@@ -652,6 +688,7 @@ def compute_player_index(conn: sqlite3.Connection) -> None:
         "WHERE is_duplicate = 0 AND teamname <> '' "
         "GROUP BY player_id, teamname ORDER BY MAX(year)")}
 
+    logo = _logo_resolver(conn)
     used: set[str] = set()
     payload = []
 
@@ -675,7 +712,7 @@ def compute_player_index(conn: sqlite3.Connection) -> None:
                         r["worlds_titles"], r["msi_titles"], r["worlds_appearances"],
                         r["intl_games"], r["kda_intl"], score, json.dumps(breakdown),
                         r["image_filename"], cdn_image(r["image_filename"]),
-                        team_logo(r["team"])))
+                        logo(r["team"])))
 
     for r in oe_rows:
         slug = take_slug(r["display_id"] or r["player_id"])
@@ -683,7 +720,7 @@ def compute_player_index(conn: sqlite3.Connection) -> None:
         payload.append((r["player_id"], "oe", r["display_id"], slug, None,
                         OE_POSITION_TO_ROLE.get(oe_position.get(r["player_id"])), None,
                         team, None, r["games"], r["wins"], r["kda"], r["win_rate"],
-                        0, 0, 0, 0, 0, None, 0, None, None, None, team_logo(team)))
+                        0, 0, 0, 0, 0, None, 0, None, None, None, logo(team)))
 
     conn.executemany("""INSERT INTO player_index
         (player_id, source, display_id, slug, name, role, country, team, is_retired, games,

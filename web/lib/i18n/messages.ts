@@ -285,6 +285,17 @@ const en = {
   "splits.title": "Splits in progress",
   "splits.subtitle":
     "{count} professional splits with games on the board, refreshed twice a day.",
+  "split.standings": "Standings",
+  "split.group": "Group {n}",
+  "split.series": "Series",
+  "split.gamesRecord": "Games",
+  "split.streak": "Streak",
+  "split.rounds": "Round by round",
+  "split.players": "Player stats",
+  "split.showAllRounds": "Show all {n} rounds",
+  "split.showFewerRounds": "Show fewer rounds",
+  "split.noStandings":
+    "The wiki has not published a table for this phase yet — the rounds below carry the results.",
   "split.subtitle": "{games} games · {players} players",
   "split.scopeNote":
     "This split only, official matches, refreshed twice a day. Never solo queue.",
@@ -558,6 +569,17 @@ const es: Record<MsgKey, string> = {
   "splits.title": "Splits en curso",
   "splits.subtitle":
     "{count} splits profesionales con partidas en juego, se actualiza dos veces por día.",
+  "split.standings": "Posiciones",
+  "split.group": "Grupo {n}",
+  "split.series": "Series",
+  "split.gamesRecord": "Mapas",
+  "split.streak": "Racha",
+  "split.rounds": "Ronda por ronda",
+  "split.players": "Estadísticas de jugadores",
+  "split.showAllRounds": "Ver las {n} rondas",
+  "split.showFewerRounds": "Ver menos rondas",
+  "split.noStandings":
+    "El wiki todavía no publicó tabla para esta fase — los resultados están en las rondas de abajo.",
   "split.subtitle": "{games} partidas · {players} jugadores",
   "split.scopeNote":
     "Solo este split, partidas oficiales, actualizado dos veces por día. Nunca soloQ.",

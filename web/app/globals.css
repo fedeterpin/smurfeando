@@ -1125,6 +1125,91 @@ li:last-child > .sr-item { border-bottom: 0; }
 }
 
 
+/* Split page: standings and round by round ----------------------------- */
+.standings + .standings { margin-top: 22px; }
+.standings-group {
+  margin: 0 0 8px;
+  font-family: var(--ff-body);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-50);
+  font-weight: 500;
+}
+.tbl.tbl-standings { --cols: 52px minmax(0, 1fr) 86px 88px 76px; }
+.cell-place {
+  font-family: var(--ff-mono);
+  font-size: 14px;
+  color: var(--ink-50);
+}
+.cell-place.p1 { color: var(--gold); }
+.cell-place.p2 { color: var(--silver); }
+.cell-place.p3 { color: var(--bronze); }
+.streak { font-family: var(--ff-mono); }
+.streak.s-w { color: var(--gold); }
+.streak.s-l { color: var(--ink-40); }
+
+.round + .round { margin-top: 20px; }
+.round-name {
+  margin: 0 0 6px;
+  font-family: var(--ff-body);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold-lo);
+  font-weight: 500;
+}
+.round-list { list-style: none; margin: 0; padding: 0; }
+.round-match {
+  display: grid;
+  grid-template-columns: 62px minmax(0, 1fr) 74px minmax(0, 1fr);
+  align-items: center;
+  gap: 10px;
+  padding: 9px 12px;
+  border-top: 1px solid var(--row-line);
+}
+.round-match:last-child { border-bottom: 1px solid var(--row-line); }
+.round-match:hover { background: var(--row-hover); }
+.round-date { font-family: var(--ff-mono); font-size: 11px; color: var(--ink-40); }
+.round-side {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  font-size: 14px;
+  color: var(--ink-50);
+}
+.round-side.right { flex-direction: row; justify-content: flex-start; }
+.round-side.won { color: var(--ink); }
+.round-logo {
+  width: 20px;
+  height: 20px;
+  flex: none;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.round-score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  font-family: var(--ff-mono);
+  font-size: 14px;
+  color: var(--ink-50);
+}
+.round-score.done { color: var(--ink-body); }
+.round-score i { font-style: normal; font-size: 11px; color: var(--ink-40); }
+
+@media (max-width: 720px) {
+  .round-match { grid-template-columns: 48px minmax(0, 1fr) 60px minmax(0, 1fr); gap: 6px; }
+  .round-side { font-size: 12px; }
+}
+@media (max-width: 480px) {
+  .tbl.tbl-standings { --cols: 40px minmax(0, 1fr) 76px; }
+  .tbl-standings .col-games, .tbl-standings .col-streak { display: none; }
+}
+
 /* Current roster: the five who play here today, above the all-time table ---- */
 .roster-now {
   display: grid;
@@ -1345,7 +1430,16 @@ a.roster-now-card:hover .roster-now-name { color: var(--gold); }
 }
 .split-card-meta { display: flex; gap: 10px; font-family: var(--ff-mono); font-size: 11px; color: var(--ink-50); }
 .split-card-meta em { font-style: normal; color: var(--ink-40); }
-.split-card-patches { display: block; margin-top: 6px; font-size: 11px; color: var(--ink-40); }
+.split-card-teams { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px; }
+.split-card-logo {
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.85;
+}
+.split-card-patches { display: block; margin-top: 8px; font-size: 11px; color: var(--ink-40); }
 
 .tbl.tbl-split {
   --cols: minmax(0, 1fr) 92px 58px 84px 74px 64px 70px 74px 68px 66px 72px 104px;
