@@ -35,7 +35,6 @@ export default function Home() {
       <p className="page-sub">
         <T k="home.subtitle" />
       </p>
-      <MatchdayBoard {...matchday} />
       <HomeSearch players={players} />
       <div className="home-links">
         <Link href="/records" className="btn">
@@ -64,6 +63,7 @@ export default function Home() {
           </span>
         </Link>
       </div>
+      <MatchdayBoard {...matchday} />
     </section>
   );
 }
