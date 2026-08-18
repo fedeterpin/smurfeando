@@ -11,12 +11,20 @@ import path from "node:path";
 const LIVE_DIR =
   process.env.LIVE_DIR ?? path.join(process.cwd(), "..", "data", "live");
 
+// Parsed once per build. Without this every one of the ~5.2k player pages would
+// re-read and re-parse half a megabyte of JSON to pull out its own three rows.
+const cache = new Map<string, unknown>();
+
 function read<T>(name: string, fallback: T): T {
+  if (cache.has(name)) return cache.get(name) as T;
+  let value = fallback;
   try {
-    return JSON.parse(fs.readFileSync(path.join(LIVE_DIR, name), "utf8")) as T;
+    value = JSON.parse(fs.readFileSync(path.join(LIVE_DIR, name), "utf8")) as T;
   } catch {
-    return fallback;
+    /* no live data in this checkout: the site builds without the section */
   }
+  cache.set(name, value);
+  return value;
 }
 
 export interface LiveMeta {
@@ -271,6 +279,29 @@ export function getTeamLineup(names: string[]) {
       games: stats.get(p.player)?.games ?? null,
     })),
   };
+}
+
+/**
+ * What a player is playing right now: their line in every split in progress they
+ * appear in, biggest split first, with that split's patch breakdown alongside.
+ */
+export function getPlayerLive(playerId: string) {
+  const rows = getLiveSplits().filter((r) => r.player === playerId);
+  if (!rows.length) return [];
+  const tournaments = new Map(
+    getLiveTournaments().map((t) => [t.overview_page, t] as const),
+  );
+  const patches = getLivePatches().filter((r) => r.player === playerId);
+  return rows
+    .map((row) => ({
+      tournament: tournaments.get(row.tournament) ?? null,
+      line: row,
+      patches: patches
+        .filter((p) => p.tournament === row.tournament)
+        .sort((a, b) => b.patch.localeCompare(a.patch)),
+    }))
+    .filter((entry) => entry.tournament != null)
+    .sort((a, b) => (b.tournament?.games ?? 0) - (a.tournament?.games ?? 0));
 }
 
 /**
