@@ -425,16 +425,16 @@
    "short": "BW",
    "slug": "bushido-wildcats"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Team_Phoenix_(Turkish_Team)logo_square.png",
    "name": "Team Phoenix (Turkish Team)",
    "short": "PHX",
    "slug": "team-phoenix-turkish-team"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "TCL/2026 Season/Summer Split",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -703,10 +703,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+   "name": "Bushido Wildcats",
+   "short": "BW",
+   "slug": "bushido-wildcats"
   },
   "team2_score": null,
   "tournament": "TCL/2026 Season/Summer Split",
@@ -1554,10 +1554,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Team_Phoenix_(Turkish_Team)logo_square.png",
+   "name": "Team Phoenix (Turkish Team)",
+   "short": "PHX",
+   "slug": "team-phoenix-turkish-team"
   },
   "team2_score": null,
   "tournament": "TCL/2026 Season/Summer Split",
