@@ -14,7 +14,7 @@ import {
 } from "@/lib/db";
 import { getPlayerLive } from "@/lib/live";
 import { championSquare } from "@/lib/champion";
-import { roleIcon, countryFlag } from "@/lib/icons";
+import { roleIcon, countryFlag, thumb } from "@/lib/icons";
 import { STAT_BY_KEY, statLabelKey } from "@/lib/stats";
 import { T, Num, StatValue, ScopeLabel } from "@/lib/i18n";
 import type { MsgKey } from "@/lib/i18n/messages";
@@ -147,7 +147,9 @@ export default async function PlayerPage({
         <span
           className="avatar av-96"
           style={
-            player.image_url ? { backgroundImage: `url(${player.image_url})` } : undefined
+            player.image_url
+              ? { backgroundImage: `url(${thumb(player.image_url, 192)})` }
+              : undefined
           }
           aria-hidden="true"
         >
@@ -177,7 +179,7 @@ export default async function PlayerPage({
                 {player.team_logo_url && (
                   <span
                     className="ic team"
-                    style={{ backgroundImage: `url(${player.team_logo_url})` }}
+                    style={{ backgroundImage: `url(${thumb(player.team_logo_url, 36)})` }}
                   />
                 )}
                 {player.team}
@@ -326,7 +328,7 @@ export default async function PlayerPage({
                 {team.team_logo_url && (
                   <span
                     className="th-logo"
-                    style={{ backgroundImage: `url(${team.team_logo_url})` }}
+                    style={{ backgroundImage: `url(${thumb(team.team_logo_url, 56)})` }}
                     aria-hidden="true"
                   />
                 )}

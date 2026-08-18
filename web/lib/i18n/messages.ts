@@ -42,6 +42,8 @@ const en = {
   "common.winShort": "W",
   "common.lossShort": "L",
   "common.noMatch": "No players match “{q}”.",
+  "common.showing": "Showing {shown} of {total}.",
+  "common.showMore": "Show {n} more",
   "scope.all": "All roles",
 
   // --- Home ---
@@ -333,6 +335,8 @@ const es: Record<MsgKey, string> = {
   "common.winShort": "V",
   "common.lossShort": "D",
   "common.noMatch": "Ningún jugador coincide con «{q}».",
+  "common.showing": "Mostrando {shown} de {total}.",
+  "common.showMore": "Ver {n} más",
   "scope.all": "Todos los roles",
 
   "home.eyebrow": "League of Legends · Récords y estadísticas",

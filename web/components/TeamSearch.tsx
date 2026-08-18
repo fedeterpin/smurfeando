@@ -4,12 +4,14 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { TeamIndexRow } from "@/lib/db";
 import { useI18n } from "@/lib/i18n";
+import { thumb } from "@/lib/icons";
 
-const MAX_ROWS = 100;
+const PAGE_SIZE = 100;
 
 export default function TeamSearch({ teams }: { teams: TeamIndexRow[] }) {
   const { t } = useI18n();
   const [q, setQ] = useState("");
+  const [shown, setShown] = useState(PAGE_SIZE);
 
   const filtered = useMemo(() => {
     const needle = q.trim().toLowerCase();
@@ -21,7 +23,7 @@ export default function TeamSearch({ teams }: { teams: TeamIndexRow[] }) {
     );
   }, [q, teams]);
 
-  const rows = filtered.slice(0, MAX_ROWS);
+  const rows = filtered.slice(0, shown);
 
   return (
     <>
@@ -36,7 +38,10 @@ export default function TeamSearch({ teams }: { teams: TeamIndexRow[] }) {
               type="search"
               placeholder={t("teams.search.placeholder")}
               value={q}
-              onChange={(e) => setQ(e.target.value)}
+              onChange={(e) => {
+                setQ(e.target.value);
+                setShown(PAGE_SIZE);
+              }}
               aria-label={t("teams.search.aria")}
             />
           </div>
@@ -66,7 +71,7 @@ export default function TeamSearch({ teams }: { teams: TeamIndexRow[] }) {
                   className="avatar av-30 sq"
                   style={
                     team.logo_url
-                      ? { backgroundImage: `url(${team.logo_url})` }
+                      ? { backgroundImage: `url(${thumb(team.logo_url, 60)})` }
                       : undefined
                   }
                   aria-hidden="true"
@@ -100,10 +105,21 @@ export default function TeamSearch({ teams }: { teams: TeamIndexRow[] }) {
           ))}
         </div>
       )}
-      {filtered.length > MAX_ROWS && (
-        <p className="tbl-count">
-          {t("players.showing", { shown: MAX_ROWS, total: filtered.length })}
-        </p>
+      {filtered.length > rows.length && (
+        <div className="tbl-more">
+          <p className="tbl-count">
+            {t("common.showing", { shown: rows.length, total: filtered.length })}
+          </p>
+          <button
+            type="button"
+            className="chip more-btn"
+            onClick={() => setShown((n) => n + PAGE_SIZE)}
+          >
+            {t("common.showMore", {
+              n: Math.min(PAGE_SIZE, filtered.length - rows.length),
+            })}
+          </button>
+        </div>
       )}
     </>
   );

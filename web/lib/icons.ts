@@ -37,3 +37,18 @@ export function countryFlag(country: string | null | undefined): string | null {
   if (!iso) return null;
   return `https://flagcdn.com/w40/${iso}.png`;
 }
+
+/**
+ * Fandom serves the original upload, and plenty of team logos weigh 100-250 KB
+ * each — a 100-row table pulled ~10 MB just to paint 30px avatars. Its
+ * thumbnailer resizes at the edge for the same URL plus a suffix (129 KB -> 1.8 KB
+ * at 60px) and only ever scales down, so a smaller original passes through
+ * untouched. Anything not on the wiki CDN (Data Dragon, flagcdn) is left alone.
+ *
+ * `width` is the pixel width to request: pass 2x the CSS slot size, for retina.
+ */
+export function thumb(url: string | null | undefined, width: number): string | null {
+  if (!url) return null;
+  if (!url.startsWith("https://static.wikia.nocookie.net/")) return url;
+  return `${url}/revision/latest/scale-to-width-down/${width}`;
+}

@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { useI18n } from "@/lib/i18n";
+import { thumb } from "@/lib/icons";
 
 // Minimal player shape for the search index (keeps the homepage payload small).
 export interface SearchPlayer {
@@ -76,7 +77,7 @@ export default function HomeSearch({ players }: { players: SearchPlayer[] }) {
                     className="avatar av-30"
                     style={
                       p.image_url
-                        ? { backgroundImage: `url(${p.image_url})` }
+                        ? { backgroundImage: `url(${thumb(p.image_url, 60)})` }
                         : undefined
                     }
                     aria-hidden="true"

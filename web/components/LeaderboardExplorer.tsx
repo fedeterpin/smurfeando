@@ -16,6 +16,7 @@ import {
   type Universe,
 } from "@/lib/stats";
 import { useI18n } from "@/lib/i18n";
+import { thumb } from "@/lib/icons";
 import type { MsgKey } from "@/lib/i18n/messages";
 import InfoTip from "@/components/InfoTip";
 import RoleIcon from "@/components/RoleIcon";
@@ -36,7 +37,11 @@ function Avatar({ row, size }: { row: LeaderboardRow; size: 30 | 56 | 68 }) {
   return (
     <span
       className={`avatar av-${size}`}
-      style={row.image_url ? { backgroundImage: `url(${row.image_url})` } : undefined}
+      style={
+        row.image_url
+          ? { backgroundImage: `url(${thumb(row.image_url, size * 2)})` }
+          : undefined
+      }
       aria-hidden="true"
     >
       {!row.image_url && (row.display_id?.[0] ?? "?")}

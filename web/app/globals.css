@@ -818,12 +818,24 @@ li:last-child > .sr-item { border-bottom: 0; }
 .tbl.tbl-players { --cols: minmax(0, 1fr) 90px 150px 80px 90px 100px; }
 .tbl-count { margin: 14px 0 0; font-size: 12px; color: var(--ink-40); text-align: center; }
 
+/* "Show N more" footer under a capped table. */
+.tbl-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+}
+.tbl-more .tbl-count { margin: 0; }
+.tbl-more .more-btn { padding: 7px 18px; color: var(--ink-60); }
+.tbl-more .more-btn:hover { color: var(--gold); border-color: var(--gold); }
+
 /* Teams ---------------------------------------------------------------- */
 .tbl.tbl-teams { --cols: minmax(0, 1fr) 120px 80px 80px 90px 110px; }
 .tbl.tbl-roster { --cols: minmax(0, 1fr) 90px 120px 90px; }
 /* Team logos: square with transparency — no circle crop, no cover zoom. */
 .avatar.sq {
-  border-radius: 8px;
+  border-radius: 0;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1481,17 +1493,17 @@ a.roster-now-card:hover .roster-now-name { color: var(--gold); }
 }
 .split-card > .cutp-in { display: block; padding: 18px 20px; }
 .split-card:hover > .cutp-in { background: var(--wash-soft), var(--panel-base); }
-/* Team crests get the same plate: plenty of orgs (LCK teams especially) use a
-   near-black crest that vanishes on this background. */
+/* Team crests render bare -- no plate, no frame -- matching `.th-logo` and
+   `.ic.team`, which never had one. The wiki's crests are transparent PNGs and the
+   alpha survives the CDN thumbnailer, so the artwork sits straight on the panel.
+   Deliberate trade-off: a handful of near-black crests (LCK orgs especially) lose
+   contrast against the navy, which beats every crest carrying a cream tile. */
 .mday-logo, .round-logo, .split-card-logo, .avatar.sq {
-  background-color: var(--logo-plate);
-  border: 1px solid var(--logo-frame);
-  border-radius: 4px;
-  background-origin: content-box;
-  padding: 2px;
+  background-color: transparent;
+  border: 0;
+  padding: 0;
 }
-.avatar.sq { border-radius: 6px; background-image: none; }
-.avatar.av-96.sq { padding: 6px; border-radius: 10px; }
+.avatar.sq { background-image: none; }
 
 /* League marks: the wiki hosts one logo per rebrand; the ETL picks the one for
    the season being played. Contained, never cropped -- they are not all square. */

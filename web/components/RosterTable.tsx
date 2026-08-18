@@ -2,6 +2,7 @@ import Link from "next/link";
 import RoleIcon from "@/components/RoleIcon";
 import { T } from "@/lib/i18n";
 import type { TeamRosterRow } from "@/lib/db";
+import { thumb } from "@/lib/icons";
 
 /** The all-time roster table: one row per player who ever played for the org. */
 export default function RosterTable({ rows }: { rows: TeamRosterRow[] }) {
@@ -28,7 +29,7 @@ export default function RosterTable({ rows }: { rows: TeamRosterRow[] }) {
               <span
                 className="avatar av-30"
                 style={
-                  r.image_url ? { backgroundImage: `url(${r.image_url})` } : undefined
+                  r.image_url ? { backgroundImage: `url(${thumb(r.image_url, 60)})` } : undefined
                 }
                 aria-hidden="true"
               >

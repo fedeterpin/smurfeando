@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { PlayerIndexRow } from "@/lib/db";
 import { formatValue, ROLES } from "@/lib/stats";
 import { useI18n } from "@/lib/i18n";
+import { thumb } from "@/lib/icons";
 import InfoTip from "@/components/InfoTip";
 import RoleIcon from "@/components/RoleIcon";
 import TeamLink from "@/components/TeamLink";
@@ -95,7 +96,7 @@ export default function PlayerSearch({ players }: { players: PlayerIndexRow[] })
                 <span
                   className="avatar av-30"
                   style={
-                    p.image_url ? { backgroundImage: `url(${p.image_url})` } : undefined
+                    p.image_url ? { backgroundImage: `url(${thumb(p.image_url, 60)})` } : undefined
                   }
                   aria-hidden="true"
                 >
