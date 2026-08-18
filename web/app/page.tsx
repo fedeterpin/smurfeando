@@ -1,7 +1,9 @@
 import Link from "next/link";
 import { listPlayerIndex } from "@/lib/db";
+import { getMatchday } from "@/lib/live";
 import { T } from "@/lib/i18n";
 import HomeSearch, { type SearchPlayer } from "@/components/HomeSearch";
+import MatchdayBoard from "@/components/MatchdayBoard";
 
 export default function Home() {
   const players: SearchPlayer[] = listPlayerIndex().map((p) => ({
@@ -14,6 +16,7 @@ export default function Home() {
     image_url: p.image_url,
     score: p.score,
   }));
+  const matchday = getMatchday();
 
   return (
     <section className="home-hero">
@@ -32,6 +35,7 @@ export default function Home() {
       <p className="page-sub">
         <T k="home.subtitle" />
       </p>
+      <MatchdayBoard {...matchday} />
       <HomeSearch players={players} />
       <div className="home-links">
         <Link href="/records" className="btn">

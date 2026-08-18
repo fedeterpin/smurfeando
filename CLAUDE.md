@@ -32,6 +32,12 @@ python -m etl.fetch_images               # 2. writes players.Image to the live D
 python -m etl.fetch_teams                # 3. team registry (Teams + TeamRedirects)
 python -m etl.transform.aggregate        # 4. recomputes GOLD over the fresh silver
 python -m etl.build_web_db               # 5. produces data/web.sqlite (slim, committed)
+
+# Daily "live" slice: today's matches + the splits in progress. Independent of
+# everything above (it does not read site.sqlite) and stateless, ~5 min from
+# scratch, so it runs on a cron in CI:
+python -m etl.live --discover            # only lists the tournaments considered live
+python -m etl.live                       # writes data/live/*.json (committed)
 ```
 
 There is no test suite. "Verification" means running a slice (`etl.run`) and inspecting
@@ -68,6 +74,29 @@ Cargo (Leaguepedia)  --extract-->  bronze  --load-->  SILVER  --transform-->  GO
   career_stats → titles → teams → champions → leaderboards → player_index → records.
   It is all pure SQL over silver (no network).
 
+### Two cadences: the almanac and the live slice
+The site serves two datasets that are refreshed on completely different clocks and
+never share a file:
+
+| | Almanac | Live slice |
+|---|---|---|
+| What | full history, records, career stats | today's matches, splits in progress |
+| Source | `data/web.sqlite` (gold) | `data/live/*.json` |
+| Pipeline | `backfill` -> `aggregate` -> `build_web_db` | `etl/live.py` |
+| Needs | `site.sqlite` (1.6 GB, local only) | nothing (stateless) |
+| Cadence | by hand, rarely | cron 05:00 and 17:00 UTC (`.github/workflows/live.yml`) |
+
+`etl/live.py` discovers what is being played from `MatchSchedule` (a match in the
+last 45 / next 30 days), keeps only the tournaments the pro allowlist accepts, and
+pulls just those: schedule, `TournamentRosters` (the lineups, available before the
+first game) and their scoreboards. That is ~3k games -> ~5 min at 60 queries/min, so
+CI rebuilds the slice from zero on every run instead of persisting state. The only
+thing it reads from the repo is `web.sqlite`, and only to resolve identity (slug,
+photo, team logo) — a rookie without a profile still shows up, just without a link.
+
+The JSON is pretty-printed and key-sorted on purpose: it is committed twice a day
+and line-based diffs keep git's history far smaller than a binary blob would.
+
 ### Two SQLite files (critical to understand)
 - **`data/site.sqlite`** — the ETL's full DB (silver + gold). Gitignored. The one that
   backfill/fetch_images write to.
@@ -101,6 +130,18 @@ Cargo (Leaguepedia)  --extract-->  bronze  --load-->  SILVER  --transform-->  GO
   leaderboard = touch `aggregate.py` (to compute it), `STAT_CATALOG` (to display it)
   **and** the `stat.<key>.{label,short,help}` keys in **both** dictionaries.
 - Player pages via `generateStaticParams` over `player_index.slug`.
+- **Live slice**: `web/lib/live.ts` reads `data/live/*.json` at build time (same
+  degrade-to-empty contract as `db.ts`). `MatchdayBoard` (home, above the search)
+  groups the schedule by the reader's local day — the page is prerendered in UTC and
+  swaps to the local zone after hydration, since SSG has no request timezone — and
+  expands each match into both lineups with their split line, plus a toggle for the
+  patch the match is played on. `/splits` lists what is in progress and
+  `/splits/[slug]` is the gol.gg-style table (role chips, patch chips, sortable
+  columns). A stage with no games yet (an announced bracket) falls back to the same
+  league's split with the most games, and says so.
+- **Metrics of the live slice** come from Leaguepedia alone: KDA, KP%, CS/min, DPM,
+  GPM and VS/min are all derived from raw totals over minutes played (`etl/live.py`
+  `_derive`). GD@15 and friends still need Oracle's Elixir and are not in it.
 - **i18n (EN default, ES auto-detected)**: `web/lib/i18n/messages.ts` holds one flat
   dictionary per locale; `en` is the source of truth and `es` is typed against it, so a
   missing key is a compile error. Because the site is pure SSG there is no server to read
@@ -122,6 +163,8 @@ Static site served by **Cloudflare Workers Builds** (connected to the repo): eve
 `main` rebuilds from `data/web.sqlite`. `wrangler.jsonc` serves `web/out` as assets.
 The `.github/workflows/update-data.yml` workflow (manual dispatch) runs the ETL, regenerates
 `web.sqlite` and commits it → the push triggers the rebuild. See `DEPLOY.md`.
+`.github/workflows/live.yml` does the same twice a day (05:00 and 17:00 UTC) for
+`data/live/`, which is why the matchday is never more than half a day old.
 
 ## Rate limit
 Fandom's **anonymous** API limits very hard (~1 query every 30-40 s with backoff), but a

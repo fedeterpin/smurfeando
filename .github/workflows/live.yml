@@ -1,0 +1,61 @@
+name: Live slice (today's matches + splits in progress)
+
+# Pulls ONLY what is being played right now (schedule, rosters and the current
+# splits' scoreboards) and commits data/live/*.json. The push triggers Cloudflare's
+# rebuild, so the site's matchday is at most half a day old.
+#
+# Unlike update-data.yml this needs no state: it rebuilds the slice from scratch in
+# ~5 min (about 3k games), so a bare checkout is enough. It only reads the committed
+# data/web.sqlite, to resolve player slugs, photos and team logos.
+#
+# Requires secrets: LEAGUEPEDIA_USERNAME, LEAGUEPEDIA_PASSWORD (bot password with
+# the Cargo grant). Without them the pull still runs anonymously, but the API
+# throttles to ~1 query per 30 s and the job would take hours.
+on:
+  workflow_dispatch:
+  schedule:
+    # 05:00 UTC: yesterday's results (Americas included) before the LCK starts.
+    # 17:00 UTC: the Asian day is in before the LEC goes live.
+    - cron: "0 5 * * *"
+    - cron: "0 17 * * *"
+
+concurrency:
+  group: live-slice
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    permissions:
+      contents: write
+    env:
+      LEAGUEPEDIA_USERNAME: ${{ secrets.LEAGUEPEDIA_USERNAME }}
+      LEAGUEPEDIA_PASSWORD: ${{ secrets.LEAGUEPEDIA_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pull the live slice
+        run: python -m etl.live
+
+      - name: Commit data/live if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/live
+          if git diff --cached --quiet; then
+            echo "No changes in the live slice."
+            exit 0
+          fi
+          git commit -m "chore(live): refresh matches and splits in progress [skip ci]"
+          # The heavy data workflow writes to the same branch; rebase instead of
+          # failing the run over a race.
+          git pull --rebase --autostash
+          git push

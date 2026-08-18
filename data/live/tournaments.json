@@ -1,0 +1,232 @@
+[
+ {
+  "games": 44,
+  "is_playoffs": false,
+  "league": "Circuit Brazilian League of Legends",
+  "league_short": "CBLOL",
+  "name": "CBLOL 2026 Split 2",
+  "overview_page": "CBLOL/2026 Season/Split 2",
+  "patches": [
+   "26.14",
+   "26.15",
+   "26.16"
+  ],
+  "region": "brazil",
+  "region_label": "Brazil",
+  "slug": "cblol-2026-season-split-2",
+  "split": "Split 2",
+  "year": "2026"
+ },
+ {
+  "games": 131,
+  "is_playoffs": false,
+  "league": "Tencent LoL Pro League",
+  "league_short": "LPL",
+  "name": "LPL 2026 Split 3",
+  "overview_page": "LPL/2026 Season/Split 3",
+  "patches": [
+   "26.14",
+   "26.15"
+  ],
+  "region": "china",
+  "region_label": "China",
+  "slug": "lpl-2026-season-split-3",
+  "split": "Split 3",
+  "year": "2026"
+ },
+ {
+  "games": 70,
+  "is_playoffs": false,
+  "league": "LoL EMEA Championship",
+  "league_short": "LEC",
+  "name": "LEC 2026 Summer",
+  "overview_page": "LEC/2026 Season/Summer Season",
+  "patches": [
+   "26.14",
+   "26.15",
+   "26.16"
+  ],
+  "region": "europe",
+  "region_label": "Europe",
+  "slug": "lec-2026-season-summer-season",
+  "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 51,
+  "is_playoffs": true,
+  "league": "Esports World Cup",
+  "league_short": "EWC",
+  "name": "Esports World Cup 2026",
+  "overview_page": "Esports World Cup 2026",
+  "patches": [
+   "26.13"
+  ],
+  "region": "international",
+  "region_label": "International",
+  "slug": "esports-world-cup-2026",
+  "split": "",
+  "year": "2026"
+ },
+ {
+  "games": 71,
+  "is_playoffs": false,
+  "league": "Mid-Season Invitational",
+  "league_short": "MSI",
+  "name": "MSI 2026",
+  "overview_page": "2026 Mid-Season Invitational",
+  "patches": [
+   "26.13"
+  ],
+  "region": "international",
+  "region_label": "International",
+  "slug": "2026-mid-season-invitational",
+  "split": "",
+  "year": "2026"
+ },
+ {
+  "games": 29,
+  "is_playoffs": true,
+  "league": "LoL Japan League",
+  "league_short": "LJL",
+  "name": "LJL 2026 Summer Championship",
+  "overview_page": "LJL/2026 Season/Summer Championship",
+  "patches": [
+   "26.13",
+   "26.14",
+   "26.15"
+  ],
+  "region": "japan",
+  "region_label": "Japan",
+  "slug": "ljl-2026-season-summer-championship",
+  "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 73,
+  "is_playoffs": false,
+  "league": "LoL Champions Korea",
+  "league_short": "LCK",
+  "name": "LCK 2026 Rounds 3-4",
+  "overview_page": "LCK/2026 Season/Rounds 3-4",
+  "patches": [
+   "26.14",
+   "26.15"
+  ],
+  "region": "korea",
+  "region_label": "Korea",
+  "slug": "lck-2026-season-rounds-3-4",
+  "split": "Rounds 3-4",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": true,
+  "league": "LoL Champions Korea",
+  "league_short": "LCK",
+  "name": "LCK 2026 Season Play-In",
+  "overview_page": "LCK/2026 Season/Season Play-In",
+  "patches": [],
+  "region": "korea",
+  "region_label": "Korea",
+  "slug": "lck-2026-season-season-play-in",
+  "split": "Rounds 3-4",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": true,
+  "league": "LoL Champions Korea",
+  "league_short": "LCK",
+  "name": "LCK 2026 Season Playoffs",
+  "overview_page": "LCK/2026 Season/Season Playoffs",
+  "patches": [],
+  "region": "korea",
+  "region_label": "Korea",
+  "slug": "lck-2026-season-season-playoffs",
+  "split": "Rounds 3-4",
+  "year": "2026"
+ },
+ {
+  "games": 38,
+  "is_playoffs": false,
+  "league": "League of Legends Championship Series",
+  "league_short": "LCS",
+  "name": "LCS 2026 Summer",
+  "overview_page": "LCS/2026 Season/Summer Season",
+  "patches": [
+   "26.14",
+   "26.15",
+   "26.16"
+  ],
+  "region": "north_america",
+  "region_label": "North America",
+  "slug": "lcs-2026-season-summer-season",
+  "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 60,
+  "is_playoffs": false,
+  "league": "League of Legends Championship Pacific",
+  "league_short": "LCP",
+  "name": "LCP 2026 Split 3",
+  "overview_page": "LCP/2026 Season/Split 3",
+  "patches": [
+   "26.14",
+   "26.15"
+  ],
+  "region": "pacific",
+  "region_label": "Pacific",
+  "slug": "lcp-2026-season-split-3",
+  "split": "Split 3",
+  "year": "2026"
+ },
+ {
+  "games": 23,
+  "is_playoffs": false,
+  "league": "Pacific Championship Series",
+  "league_short": "PCS",
+  "name": "PCS 2026 Summer",
+  "overview_page": "PCS/2026 Season/Summer Season",
+  "patches": [
+   "26.15"
+  ],
+  "region": "pacific",
+  "region_label": "Pacific",
+  "slug": "pcs-2026-season-summer-season",
+  "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Pacific Championship Series",
+  "league_short": "PCS",
+  "name": "PCS 2026 Summer Qualifier",
+  "overview_page": "PCS/2026 Season/Summer Qualifier",
+  "patches": [],
+  "region": "pacific",
+  "region_label": "Pacific",
+  "slug": "pcs-2026-season-summer-qualifier",
+  "split": "",
+  "year": "2026"
+ },
+ {
+  "games": 28,
+  "is_playoffs": false,
+  "league": "Turkish Championship League",
+  "league_short": "TCL",
+  "name": "TCL 2026 Summer",
+  "overview_page": "TCL/2026 Season/Summer Split",
+  "patches": [
+   "26.14",
+   "26.15"
+  ],
+  "region": "turkey",
+  "region_label": "Turkey",
+  "slug": "tcl-2026-season-summer-split",
+  "split": "Summer",
+  "year": "2026"
+ }
+]

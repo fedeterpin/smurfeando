@@ -8,6 +8,7 @@ import type { MsgKey } from "@/lib/i18n/messages";
 
 const LINKS: { href: string; k: MsgKey }[] = [
   { href: "/", k: "nav.search" },
+  { href: "/splits", k: "nav.splits" },
   { href: "/leaderboards", k: "nav.leaderboards" },
   { href: "/players", k: "nav.players" },
   { href: "/teams", k: "nav.teams" },

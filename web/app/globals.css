@@ -1124,6 +1124,201 @@ li:last-child > .sr-item { border-bottom: 0; }
   .tile-row { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
 }
 
+
+/* Matchday board (home) + splits in progress -------------------------- */
+/* The daily slice: a schedule the reader scans in their own timezone, and the
+   stat line of each player in the split being played. Numbers use the mono face
+   like every other table on the site. */
+.matchday { text-align: left; margin-top: 40px; }
+.mday-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.mday-head .block-title { margin-bottom: 0; }
+.mday-updated {
+  margin: 0;
+  font-family: var(--ff-mono);
+  font-size: 11px;
+  color: var(--ink-40);
+}
+.mday-days { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 14px; }
+.mday-days .chip { display: inline-flex; align-items: center; gap: 7px; }
+.mday-days .chip em {
+  font-style: normal;
+  font-family: var(--ff-mono);
+  font-size: 10px;
+  color: var(--ink-40);
+}
+.mday-days .chip.active em { color: var(--gold-lo); }
+
+.mday-list { list-style: none; margin: 0; padding: 0; }
+.mday-match { border-top: 1px solid var(--row-line); }
+.mday-match:last-child { border-bottom: 1px solid var(--row-line); }
+.mday-match.is-open { background: var(--row-hover); }
+.mday-row {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 58px 52px minmax(0, 1fr) 78px minmax(0, 1fr) 22px;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 12px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  text-align: left;
+  color: inherit;
+  font-family: var(--ff-body);
+}
+.mday-row:hover { background: var(--row-hover); }
+.mday-time { font-family: var(--ff-mono); font-size: 13px; color: var(--ink-body); }
+.mday-league {
+  font-family: var(--ff-body);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-40);
+}
+.mday-side { display: flex; align-items: center; gap: 9px; min-width: 0; }
+.mday-side.right { flex-direction: row-reverse; }
+.mday-logo {
+  width: 22px;
+  height: 22px;
+  flex: none;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  color: var(--ink-40);
+}
+.mday-team { font-size: 14px; color: var(--ink-body); min-width: 0; }
+.mday-team-long { display: inline; }
+.mday-team-short { display: none; }
+.mday-score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  font-family: var(--ff-mono);
+  font-size: 15px;
+  color: var(--ink-50);
+}
+.mday-score b { font-weight: 500; color: var(--ink-50); }
+.mday-score b.w { color: var(--gold); }
+.mday-score i { font-style: normal; font-size: 11px; color: var(--ink-40); }
+.mday-caret {
+  width: 8px;
+  height: 8px;
+  justify-self: end;
+  border-right: 1.5px solid var(--ink-40);
+  border-bottom: 1.5px solid var(--ink-40);
+  transform: rotate(45deg) translate(-2px, -2px);
+  transition: transform 150ms ease;
+}
+.is-open .mday-caret { transform: rotate(225deg) translate(-2px, -2px); }
+
+.mday-detail { padding: 4px 12px 18px; }
+.mday-scope { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 12px; }
+.mday-more { margin-left: auto; font-size: 12px; color: var(--gold); }
+.mday-more:hover { color: var(--gold-hi); }
+.mday-teams { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+.mday-team-block h3 {
+  margin: 0 0 8px;
+  font-family: var(--ff-body);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-50);
+  font-weight: 500;
+}
+.mday-players { list-style: none; margin: 0; padding: 0; }
+.mday-player {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 6px 0;
+  border-top: 1px solid var(--row-line);
+}
+.mday-plink { display: flex; align-items: center; gap: 8px; min-width: 96px; }
+.mday-plink.is-plain { color: var(--ink-50); }
+.mday-face {
+  width: 22px;
+  height: 22px;
+  flex: none;
+  border-radius: 50%;
+  background-color: var(--surface);
+  background-size: cover;
+  background-position: center top;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color: var(--ink-40);
+}
+.mday-pname { font-size: 13px; }
+.mday-nums { display: flex; flex-wrap: wrap; gap: 12px; margin-left: auto; }
+.mday-nums.empty { font-size: 11px; color: var(--ink-40); }
+.mday-num { display: flex; flex-direction: column; align-items: flex-end; line-height: 1.2; }
+.mday-num b { font-family: var(--ff-mono); font-size: 12px; font-weight: 500; color: var(--ink-body); }
+.mday-num i {
+  font-style: normal;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-40);
+}
+.mday-note, .mday-empty { margin: 10px 0 0; font-size: 11px; color: var(--ink-40); }
+.mday-empty { text-align: center; padding: 24px 0; }
+.mday-foot { margin: 14px 0 0; text-align: right; }
+.mday-foot a { font-size: 12px; color: var(--gold); }
+
+/* Splits index + per-split table */
+.split-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 14px;
+  margin: 26px 0 40px;
+}
+.split-card > .cutp-in { display: block; padding: 18px 20px; }
+.split-card:hover > .cutp-in { background: var(--wash-soft), var(--panel-base); }
+.split-card-league {
+  display: block;
+  font-family: var(--ff-body);
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold-lo);
+}
+.split-card-name {
+  display: block;
+  margin: 6px 0 8px;
+  font-family: var(--ff-display);
+  font-size: 17px;
+  color: var(--ink);
+}
+.split-card-meta { display: flex; gap: 10px; font-family: var(--ff-mono); font-size: 11px; color: var(--ink-50); }
+.split-card-meta em { font-style: normal; color: var(--ink-40); }
+.split-card-patches { display: block; margin-top: 6px; font-size: 11px; color: var(--ink-40); }
+
+.tbl.tbl-split {
+  --cols: minmax(0, 1fr) 92px 58px 84px 74px 64px 70px 74px 68px 66px 72px 104px;
+}
+/* 12 columns of numbers: trim the generic cell padding and never wrap the text
+   ones — a two-line "Hanwha Life Esports" doubles the height of every row. */
+.tbl-split .tbl-head > *, .tbl-split .tbl-row > * { padding-left: 12px; padding-right: 12px; }
+.tbl-split .col-team, .tbl-split .col-record {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cell-champs { display: flex; align-items: center; gap: 5px; }
+.champ-icon.sm { width: 22px; height: 22px; }
+
 @media (max-width: 720px) {
   .header-inner { padding: 12px 20px; min-height: 56px; }
   .header-tools { gap: 12px; }
@@ -1135,6 +1330,14 @@ li:last-child > .sr-item { border-bottom: 0; }
   .pool-row { grid-template-columns: 40px minmax(0, 1fr) 110px; }
   .pool-row .pool-wl, .pool-row .pool-kda { display: none; }
   .container { padding: 0 18px; }
+  /* Two lineups side by side stop being readable well before the table does. */
+  .mday-teams { grid-template-columns: 1fr; }
+  .mday-team-long { display: none; }
+  .mday-team-short { display: inline; }
+  .mday-row { grid-template-columns: 46px 40px minmax(0, 1fr) 62px minmax(0, 1fr) 16px; gap: 7px; }
+  .tbl.tbl-split { --cols: minmax(0, 1fr) 52px 62px 58px 58px 62px 66px; }
+  .tbl-split .col-team, .tbl-split .col-record, .tbl-split .col-wide,
+  .tbl-split .col-champs { display: none; }
 }
 
 @media (max-width: 480px) {
@@ -1156,4 +1359,8 @@ li:last-child > .sr-item { border-bottom: 0; }
   .tbl-roster .col-role { display: block; }
   .score-panel .cutp-in { padding: 22px 20px; }
   .score-num { font-size: 36px; }
+  .tbl.tbl-split { --cols: minmax(0, 1fr) 44px 54px 54px 56px 60px; }
+  .tbl-split .col-wr { display: none; }
+  .mday-nums { gap: 9px; }
+  .mday-player { flex-wrap: wrap; }
 }

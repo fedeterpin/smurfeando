@@ -35,8 +35,26 @@ python -m etl.build_web_db
 git add -f data/web.sqlite && git commit -m "chore(data): refresh" && git push
 ```
 
+## Keeping the matchday fresh (daily)
+The **`.github/workflows/live.yml`** workflow runs on a cron at **05:00 and 17:00
+UTC** (plus manual dispatch) and refreshes only `data/live/*.json`: the schedule of
+the days around it, the lineups and the stats of the splits in progress. It uses the
+same two secrets and takes ~5 minutes, because it pulls only the tournaments being
+played (~3k games) and keeps no state between runs — a bare checkout is enough.
+
+The two workflows are independent: `update-data.yml` rewrites the almanac
+(`web.sqlite`), `live.yml` rewrites the live slice. Both push to `main`, which is why
+`live.yml` rebases before pushing.
+
+Locally:
+```bash
+python -m etl.live --discover   # which tournaments count as in progress right now
+python -m etl.live              # writes data/live/*.json
+git add data/live && git commit -m "chore(live): refresh" && git push
+```
+
 ## Notes
 - The full ETL DB (`data/site.sqlite`) and the bronze (`data/raw/`) are
-  gitignored; only `data/web.sqlite` (~2 MB) is committed.
+  gitignored; only `data/web.sqlite` (~2 MB) and `data/live/*.json` are committed.
 - Local build: `cd web && npm run build && npx serve out`.
 - `wrangler.jsonc` uses `not_found_handling: "404-page"` to serve `out/404.html`.

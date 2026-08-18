@@ -231,6 +231,55 @@ const en = {
     "Official competitive matches only — all-time. Never solo queue.",
   "scopeNote.intl":
     "International events only (Worlds · MSI · First Stand) — official matches, all-time. Never solo queue.",
+
+  // --- Live slice: today's matches and the splits in progress ---
+  "nav.splits": "Splits",
+  "live.title": "Today's matches",
+  "live.updated": "Updated {when}",
+  "live.today": "Today",
+  "live.yesterday": "Yesterday",
+  "live.tomorrow": "Tomorrow",
+  "live.scopeSplit": "This split",
+  "live.scopePatch": "Patch {patch}",
+  "live.fullSplit": "Full split table",
+  "live.allSplits": "All splits in progress",
+  "live.noGames": "No games yet",
+  "live.noLineup": "Roster not published yet.",
+  "live.lineupPlayed":
+    "No roster on the wiki yet: showing who has played the most this split.",
+  "live.statScope": "Numbers are each player's totals in {scope}.",
+  "live.statScopeOther":
+    "This stage has no games yet: the numbers are each player's totals in {scope}.",
+  "live.noData":
+    "No live data yet. The daily job publishes the schedule and the splits in progress.",
+  "live.noRows": "No players match this filter.",
+  "live.patch": "Patch",
+  "live.patchAll": "All patches",
+  "live.patchRange": "Patches {from}-{to}",
+  "live.record": "W-L",
+  "live.champions": "Champions",
+  "live.gamesPlayed": "{n} games",
+  "live.metric.kda": "KDA",
+  "live.metric.kda.help":
+    "(Kills + Assists) / Deaths from this split's totals, not an average of per-game KDAs.",
+  "live.metric.kp": "KP%",
+  "live.metric.kp.help":
+    "Kill participation: (Kills + Assists) / the team's kills in the games played.",
+  "live.metric.cspm": "CS/min",
+  "live.metric.cspm.help": "Minions and monsters killed per minute played.",
+  "live.metric.dpm": "DPM",
+  "live.metric.dpm.help": "Damage to champions per minute played.",
+  "live.metric.gpm": "GPM",
+  "live.metric.gpm.help": "Gold earned per minute played.",
+  "live.metric.vspm": "VS/min",
+  "live.metric.vspm.help": "Vision score per minute played.",
+  "splits.eyebrow": "What is being played right now",
+  "splits.title": "Splits in progress",
+  "splits.subtitle":
+    "{count} professional splits with games on the board, refreshed twice a day.",
+  "split.subtitle": "{games} games · {players} players",
+  "split.scopeNote":
+    "This split only, official matches, refreshed twice a day. Never solo queue.",
 } as const;
 
 export type MsgKey = keyof typeof en;
@@ -447,6 +496,55 @@ const es: Record<MsgKey, string> = {
     "Solo partidas oficiales de competición — histórico completo. Nunca soloQ.",
   "scopeNote.intl":
     "Solo eventos internacionales (Worlds · MSI · First Stand) — partidas oficiales, histórico completo. Nunca soloQ.",
+
+  // --- Datos en vivo: partidos del día y splits en curso ---
+  "nav.splits": "Splits",
+  "live.title": "Partidos de hoy",
+  "live.updated": "Actualizado {when}",
+  "live.today": "Hoy",
+  "live.yesterday": "Ayer",
+  "live.tomorrow": "Mañana",
+  "live.scopeSplit": "Este split",
+  "live.scopePatch": "Parche {patch}",
+  "live.fullSplit": "Tabla completa del split",
+  "live.allSplits": "Todos los splits en curso",
+  "live.noGames": "Todavía sin partidas",
+  "live.noLineup": "Todavía no publicaron el roster.",
+  "live.lineupPlayed":
+    "El wiki todavía no tiene el roster: se muestra quién más jugó este split.",
+  "live.statScope": "Los números son los totales de cada jugador en {scope}.",
+  "live.statScopeOther":
+    "Esta fase todavía no tiene partidas: los números son los totales de cada jugador en {scope}.",
+  "live.noData":
+    "Todavía no hay datos en vivo. La corrida diaria publica el calendario y los splits en curso.",
+  "live.noRows": "Ningún jugador coincide con el filtro.",
+  "live.patch": "Parche",
+  "live.patchAll": "Todos los parches",
+  "live.patchRange": "Parches {from}-{to}",
+  "live.record": "V-D",
+  "live.champions": "Campeones",
+  "live.gamesPlayed": "{n} partidas",
+  "live.metric.kda": "KDA",
+  "live.metric.kda.help":
+    "(Asesinatos + Asistencias) / Muertes sobre los totales del split, no es un promedio del KDA de cada partida.",
+  "live.metric.kp": "KP%",
+  "live.metric.kp.help":
+    "Participación en kills: (Asesinatos + Asistencias) / kills del equipo en las partidas jugadas.",
+  "live.metric.cspm": "CS/min",
+  "live.metric.cspm.help": "Súbditos y monstruos eliminados por minuto jugado.",
+  "live.metric.dpm": "DPM",
+  "live.metric.dpm.help": "Daño a campeones por minuto jugado.",
+  "live.metric.gpm": "GPM",
+  "live.metric.gpm.help": "Oro conseguido por minuto jugado.",
+  "live.metric.vspm": "VS/min",
+  "live.metric.vspm.help": "Puntuación de visión por minuto jugado.",
+  "splits.eyebrow": "Lo que se está jugando ahora",
+  "splits.title": "Splits en curso",
+  "splits.subtitle":
+    "{count} splits profesionales con partidas en juego, se actualiza dos veces por día.",
+  "split.subtitle": "{games} partidas · {players} jugadores",
+  "split.scopeNote":
+    "Solo este split, partidas oficiales, actualizado dos veces por día. Nunca soloQ.",
 };
 
 export const MESSAGES: Record<Locale, Record<MsgKey, string>> = { en, es };

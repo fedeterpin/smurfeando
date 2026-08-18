@@ -1,0 +1,1773 @@
+[
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 07:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 4_9",
+  "patch": "26.15",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/Ninjas_in_Pyjamas.CNlogo_square.png",
+   "name": "Ninjas in Pyjamas.CN",
+   "short": "NIP",
+   "slug": "ninjas-in-pyjamas-cn"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/LNG_Esportslogo_square.png",
+   "name": "LNG Esports",
+   "short": "LNG",
+   "slug": "lng-esports"
+  },
+  "team2_score": 1,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 08:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 12_7",
+  "patch": "26.15",
+  "tab": "Week 12",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/Hanwha_Life_Esportslogo_square.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/KT_Rolsterlogo_square.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
+  },
+  "team2_score": 1,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": 1
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-15 09:00:00",
+  "match_id": "LCP/2026 Season/Split 3_Seeding_2",
+  "patch": "26.15",
+  "tab": "Seeding",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+   "name": "Ground Zero Gaming",
+   "short": "GZ",
+   "slug": "ground-zero-gaming"
+  },
+  "team1_score": 3,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/DetonatioN_FocusMelogo_square.png",
+   "name": "DetonatioN FocusMe",
+   "short": "DFM",
+   "slug": "detonation-focusme"
+  },
+  "team2_score": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 09:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 4_10",
+  "patch": "26.15",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/22/ThunderTalk_Gaminglogo_square.png",
+   "name": "ThunderTalk Gaming",
+   "short": "TT",
+   "slug": "thundertalk-gaming"
+  },
+  "team1_score": 1,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Anyone's_Legendlogo_square.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
+  },
+  "team2_score": 2,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 10:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 12_8",
+  "patch": "26.15",
+  "tab": "Week 12",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BNK_FEARXlogo_square.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/DN_SOOPerslogo_square.png",
+   "name": "DN SOOPers",
+   "short": "DNS",
+   "slug": "dn-soopers"
+  },
+  "team2_score": 2,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 11:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 4_11",
+  "patch": "26.15",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/Bilibili_Gaminglogo_square.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/Team_WElogo_square.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
+  },
+  "team2_score": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 15:00:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 4_3",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/SK_Gaminglogo_square.png",
+   "name": "SK Gaming",
+   "short": "SK",
+   "slug": "sk-gaming"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Fnaticlogo_square.png",
+   "name": "Fnatic",
+   "short": "FNC",
+   "slug": "fnatic"
+  },
+  "team2_score": 2,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 16:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 4_1",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/FURIAlogo_square.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/RED_Canidslogo_square.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "team2_score": 1,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 17:15:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 4_4",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/G2_Esportslogo_square.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Shifterslogo_square.png",
+   "name": "Shifters",
+   "short": "SHFT",
+   "slug": "shifters"
+  },
+  "team2_score": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 18:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 4_2",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Vivo_Keyd_Starslogo_square.png",
+   "name": "Vivo Keyd Stars",
+   "short": "VKS",
+   "slug": "vivo-keyd-stars"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/LØSlogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
+  },
+  "team2_score": 2,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 20:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 4_1",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Disguisedlogo_square.png",
+   "name": "Disguised",
+   "short": "DSG",
+   "slug": "disguised"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f4/Team_Liquidlogo_square.png",
+   "name": "Team Liquid",
+   "short": "TL",
+   "slug": "team-liquid"
+  },
+  "team2_score": 2,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-15 23:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 4_2",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Dignitaslogo_square.png",
+   "name": "Dignitas",
+   "short": "DIG",
+   "slug": "dignitas"
+  },
+  "team1_score": 1,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Shopify_Rebellionlogo_square.png",
+   "name": "Shopify Rebellion",
+   "short": "SR",
+   "slug": "shopify-rebellion"
+  },
+  "team2_score": 2,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 07:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 4_12",
+  "patch": "26.15",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/JD_Gaminglogo_square.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
+  },
+  "team2_score": 1,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 08:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 12_9",
+  "patch": "26.15",
+  "tab": "Week 12",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/T1logo_square.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+   "name": "Gen.G",
+   "short": "GEN",
+   "slug": "gen-g"
+  },
+  "team2_score": 2,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": 2
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-16 09:00:00",
+  "match_id": "LCP/2026 Season/Split 3_Seeding_3",
+  "patch": "26.15",
+  "tab": "Seeding",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Team_Secret_Whaleslogo_square.png",
+   "name": "Team Secret Whales",
+   "short": "TSW",
+   "slug": "team-secret-whales"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
+   "name": "CTBC Flying Oyster",
+   "short": "CFO",
+   "slug": "ctbc-flying-oyster"
+  },
+  "team2_score": 3,
+  "tournament": "LCP/2026 Season/Split 3",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 09:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 4_13",
+  "patch": "26.15",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/Weibo_Gaminglogo_square.png",
+   "name": "Weibo Gaming",
+   "short": "WBG",
+   "slug": "weibo-gaming"
+  },
+  "team1_score": 1,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Invictus_Gaminglogo_square.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
+  },
+  "team2_score": 2,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 10:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 12_10",
+  "patch": "26.15",
+  "tab": "Week 12",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Kiwoom_DRXlogo_square.png",
+   "name": "Kiwoom DRX",
+   "short": "KRX",
+   "slug": "kiwoom-drx"
+  },
+  "team1_score": 1,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/HANJIN_BRIONlogo_square.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
+  },
+  "team2_score": 2,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 11:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 4_14",
+  "patch": "26.15",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/46/Top_Esportslogo_square.png",
+   "name": "Top Esports",
+   "short": "TES",
+   "slug": "top-esports"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/EDward_Gaminglogo_square.png",
+   "name": "EDward Gaming",
+   "short": "EDG",
+   "slug": "edward-gaming"
+  },
+  "team2_score": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 15:00:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 4_5",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "team2_score": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 16:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 4_3",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/LOUDlogo_square.png",
+   "name": "LOUD",
+   "short": "LOUD",
+   "slug": "loud"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/Leviatanlogo_square.png",
+   "name": "Leviatan",
+   "short": "LEV",
+   "slug": "leviatan"
+  },
+  "team2_score": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 17:15:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 4_6",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/G2_Esportslogo_square.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Fnaticlogo_square.png",
+   "name": "Fnatic",
+   "short": "FNC",
+   "slug": "fnatic"
+  },
+  "team2_score": 2,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 18:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 4_4",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+   "name": "paiN Gaming",
+   "short": "PAIN",
+   "slug": "pain-gaming"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/Fluxo_W7Mlogo_square.png",
+   "name": "Fluxo W7M",
+   "short": "FX",
+   "slug": "fluxo-w7m"
+  },
+  "team2_score": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 20:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 4_3",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/88/Cloud9logo_square.png",
+   "name": "Cloud9",
+   "short": "C9",
+   "slug": "cloud9"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/FlyQuestlogo_square.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
+  },
+  "team2_score": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-16 23:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 4_4",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/LYON_(2024_American_Team)logo_square.png",
+   "name": "LYON (2024 American Team)",
+   "short": "LYON",
+   "slug": "lyon-2024-american-team"
+  },
+  "team1_score": 1,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/Sentinelslogo_square.png",
+   "name": "Sentinels",
+   "short": "SEN",
+   "slug": "sentinels"
+  },
+  "team2_score": 2,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-17 09:00:00",
+  "match_id": "PCS/2026 Season/Summer Season_Round 2_3",
+  "patch": "26.15",
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cd/SillySilly_Gaminglogo_square.png",
+   "name": "SillySilly Gaming",
+   "short": "SSG",
+   "slug": "sillysilly-gaming"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/Sponge_Gaminglogo_square.png",
+   "name": "Sponge Gaming",
+   "short": "SPG",
+   "slug": "sponge-gaming"
+  },
+  "team2_score": 0,
+  "tournament": "PCS/2026 Season/Summer Season",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-17 12:00:00",
+  "match_id": "PCS/2026 Season/Summer Season_Round 2_4",
+  "patch": "26.15",
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/Embrace_Whatever_Happenslogo_square.png",
+   "name": "Embrace Whatever Happens",
+   "short": "EWH",
+   "slug": "embrace-whatever-happens"
+  },
+  "team1_score": 1,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/53/Reignfalllogo_square.png",
+   "name": "Reignfall",
+   "short": "RNF",
+   "slug": "reignfall"
+  },
+  "team2_score": 2,
+  "tournament": "PCS/2026 Season/Summer Season",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-17 15:00:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 4_7",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Hereticslogo_square.png",
+   "name": "Team Heretics",
+   "short": "TH",
+   "slug": "team-heretics"
+  },
+  "team2_score": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": 1
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-17 17:15:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 4_8",
+  "patch": "26.16",
+  "tab": "Week 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/GIANTXlogo_square.png",
+   "name": "GIANTX",
+   "short": "GX",
+   "slug": "giantx"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Karmine_Corplogo_square.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "team2_score": 2,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-18 09:00:00",
+  "match_id": "PCS/2026 Season/Summer Season_Round 4_1",
+  "patch": null,
+  "tab": "Round 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/Frank_Esportslogo_square.png",
+   "name": "Frank Esports",
+   "short": "FAK",
+   "slug": "frank-esports"
+  },
+  "team2_score": null,
+  "tournament": "PCS/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-18 15:00:00",
+  "match_id": "TCL/2026 Season/Summer Split_Round 1_1",
+  "patch": "26.16",
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+   "name": "Bushido Wildcats",
+   "short": "BW",
+   "slug": "bushido-wildcats"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/Team_Phoenix_(Turkish_Team)logo_square.png",
+   "name": "Team Phoenix (Turkish Team)",
+   "short": "PHX",
+   "slug": "team-phoenix-turkish-team"
+  },
+  "team2_score": null,
+  "tournament": "TCL/2026 Season/Summer Split",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-19 08:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_1",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+   "name": "Gen.G",
+   "short": "GEN",
+   "slug": "gen-g"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/KT_Rolsterlogo_square.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-19 09:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_1",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/JD_Gaminglogo_square.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/22/ThunderTalk_Gaminglogo_square.png",
+   "name": "ThunderTalk Gaming",
+   "short": "TT",
+   "slug": "thundertalk-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-19 10:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_2",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/HANJIN_BRIONlogo_square.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/DN_SOOPerslogo_square.png",
+   "name": "DN SOOPers",
+   "short": "DNS",
+   "slug": "dn-soopers"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-19 11:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_2",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/Team_WElogo_square.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/EDward_Gaminglogo_square.png",
+   "name": "EDward Gaming",
+   "short": "EDG",
+   "slug": "edward-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-19 15:00:00",
+  "match_id": "TCL/2026 Season/Summer Split_Round 1_2",
+  "patch": "26.16",
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/SU_Esportslogo_square.png",
+   "name": "SU Esports",
+   "short": "SU",
+   "slug": "su-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/Dark_Passagelogo_square.png",
+   "name": "Dark Passage",
+   "short": "DP",
+   "slug": "dark-passage"
+  },
+  "team2_score": null,
+  "tournament": "TCL/2026 Season/Summer Split",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-20 07:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_3",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Anyone's_Legendlogo_square.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/46/Top_Esportslogo_square.png",
+   "name": "Top Esports",
+   "short": "TES",
+   "slug": "top-esports"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-20 08:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_3",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1b/Dplus_Kialogo_square.png",
+   "name": "Dplus Kia",
+   "short": "DK",
+   "slug": "dplus-kia"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/Hanwha_Life_Esportslogo_square.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-20 09:00:00",
+  "match_id": "LCP/2026 Season/Split 3_Quarterfinals_1",
+  "patch": "26.16",
+  "tab": "Quarterfinals",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
+   "name": "CTBC Flying Oyster",
+   "short": "CFO",
+   "slug": "ctbc-flying-oyster"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/MVK_Esportslogo_square.png",
+   "name": "MVK Esports",
+   "short": "MVK",
+   "slug": "mvk-esports"
+  },
+  "team2_score": null,
+  "tournament": "LCP/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-20 09:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_4",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/EDward_Gaminglogo_square.png",
+   "name": "EDward Gaming",
+   "short": "EDG",
+   "slug": "edward-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/JD_Gaminglogo_square.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-20 10:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_4",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+   "name": "Nongshim RedForce",
+   "short": "NS",
+   "slug": "nongshim-redforce"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Kiwoom_DRXlogo_square.png",
+   "name": "Kiwoom DRX",
+   "short": "KRX",
+   "slug": "kiwoom-drx"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-20 11:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_5",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/Bilibili_Gaminglogo_square.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-20 15:00:00",
+  "match_id": "TCL/2026 Season/Summer Split_Round 2_1",
+  "patch": "26.16",
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/DIA_Ozarox_Esportslogo_square.png",
+   "name": "DIA Ozarox Esports",
+   "short": "DIA",
+   "slug": "dia-ozarox-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "TCL/2026 Season/Summer Split",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-21 07:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_6",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Anyone's_Legendlogo_square.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/Team_WElogo_square.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-21 08:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_5",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/HANJIN_BRIONlogo_square.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BNK_FEARXlogo_square.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-21 09:00:00",
+  "match_id": "LCP/2026 Season/Split 3_Quarterfinals_2",
+  "patch": "26.16",
+  "tab": "Quarterfinals",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Team_Secret_Whaleslogo_square.png",
+   "name": "Team Secret Whales",
+   "short": "TSW",
+   "slug": "team-secret-whales"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
+   "name": "GAM Esports",
+   "short": "GAM",
+   "slug": "gam-esports"
+  },
+  "team2_score": null,
+  "tournament": "LCP/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-21 09:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_7",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/22/ThunderTalk_Gaminglogo_square.png",
+   "name": "ThunderTalk Gaming",
+   "short": "TT",
+   "slug": "thundertalk-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-21 10:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_6",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/KT_Rolsterlogo_square.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/T1logo_square.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-21 11:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_8",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/46/Top_Esportslogo_square.png",
+   "name": "Top Esports",
+   "short": "TES",
+   "slug": "top-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/Bilibili_Gaminglogo_square.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-21 15:00:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_1",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Hereticslogo_square.png",
+   "name": "Team Heretics",
+   "short": "TH",
+   "slug": "team-heretics"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/SK_Gaminglogo_square.png",
+   "name": "SK Gaming",
+   "short": "SK",
+   "slug": "sk-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-21 17:15:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_2",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
+   "name": "Team Vitality",
+   "short": "VIT",
+   "slug": "team-vitality"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 07:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_9",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/EDward_Gaminglogo_square.png",
+   "name": "EDward Gaming",
+   "short": "EDG",
+   "slug": "edward-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/22/ThunderTalk_Gaminglogo_square.png",
+   "name": "ThunderTalk Gaming",
+   "short": "TT",
+   "slug": "thundertalk-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 08:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_7",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1b/Dplus_Kialogo_square.png",
+   "name": "Dplus Kia",
+   "short": "DK",
+   "slug": "dplus-kia"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+   "name": "Gen.G",
+   "short": "GEN",
+   "slug": "gen-g"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-22 09:00:00",
+  "match_id": "LCP/2026 Season/Split 3_Quarterfinals_3",
+  "patch": "26.16",
+  "tab": "Quarterfinals",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCP/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 09:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_10",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/Ninjas_in_Pyjamas.CNlogo_square.png",
+   "name": "Ninjas in Pyjamas.CN",
+   "short": "NIP",
+   "slug": "ninjas-in-pyjamas-cn"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e4/Invictus_Gaminglogo_square.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 10:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_8",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/DN_SOOPerslogo_square.png",
+   "name": "DN SOOPers",
+   "short": "DNS",
+   "slug": "dn-soopers"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/Kiwoom_DRXlogo_square.png",
+   "name": "Kiwoom DRX",
+   "short": "KRX",
+   "slug": "kiwoom-drx"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 11:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_11",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/JD_Gaminglogo_square.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/46/Top_Esportslogo_square.png",
+   "name": "Top Esports",
+   "short": "TES",
+   "slug": "top-esports"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 15:00:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_3",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Fnaticlogo_square.png",
+   "name": "Fnatic",
+   "short": "FNC",
+   "slug": "fnatic"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Shifterslogo_square.png",
+   "name": "Shifters",
+   "short": "SHFT",
+   "slug": "shifters"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 16:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 5_1",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/Leviatanlogo_square.png",
+   "name": "Leviatan",
+   "short": "LEV",
+   "slug": "leviatan"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/Vivo_Keyd_Starslogo_square.png",
+   "name": "Vivo Keyd Stars",
+   "short": "VKS",
+   "slug": "vivo-keyd-stars"
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 17:15:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_4",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/SK_Gaminglogo_square.png",
+   "name": "SK Gaming",
+   "short": "SK",
+   "slug": "sk-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 18:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 5_2",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+   "name": "paiN Gaming",
+   "short": "PAIN",
+   "slug": "pain-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f2/FURIAlogo_square.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 20:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 5_1",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/Sentinelslogo_square.png",
+   "name": "Sentinels",
+   "short": "SEN",
+   "slug": "sentinels"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/FlyQuestlogo_square.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-22 23:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 5_2",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Disguisedlogo_square.png",
+   "name": "Disguised",
+   "short": "DSG",
+   "slug": "disguised"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Dignitaslogo_square.png",
+   "name": "Dignitas",
+   "short": "DIG",
+   "slug": "dignitas"
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 07:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_12",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/LNG_Esportslogo_square.png",
+   "name": "LNG Esports",
+   "short": "LNG",
+   "slug": "lng-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/Weibo_Gaminglogo_square.png",
+   "name": "Weibo Gaming",
+   "short": "WBG",
+   "slug": "weibo-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 08:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_9",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/Hanwha_Life_Esportslogo_square.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/T1logo_square.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-23 09:00:00",
+  "match_id": "LCP/2026 Season/Split 3_Semifinals_1",
+  "patch": "26.16",
+  "tab": "Semifinals",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCP/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 09:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_13",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/Team_WElogo_square.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 10:00:00",
+  "match_id": "LCK/2026 Season/Rounds 3-4_Week 13_10",
+  "patch": "26.16",
+  "tab": "Week 13",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/BNK_FEARXlogo_square.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+   "name": "Nongshim RedForce",
+   "short": "NS",
+   "slug": "nongshim-redforce"
+  },
+  "team2_score": null,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 11:00:00",
+  "match_id": "LPL/2026 Season/Split 3_Week 5_14",
+  "patch": "26.16",
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/Bilibili_Gaminglogo_square.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Anyone's_Legendlogo_square.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
+  },
+  "team2_score": null,
+  "tournament": "LPL/2026 Season/Split 3",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 15:00:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_5",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Hereticslogo_square.png",
+   "name": "Team Heretics",
+   "short": "TH",
+   "slug": "team-heretics"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/GIANTXlogo_square.png",
+   "name": "GIANTX",
+   "short": "GX",
+   "slug": "giantx"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 16:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 5_3",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/RED_Canidslogo_square.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/Fluxo_W7Mlogo_square.png",
+   "name": "Fluxo W7M",
+   "short": "FX",
+   "slug": "fluxo-w7m"
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 17:15:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_6",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/Shifterslogo_square.png",
+   "name": "Shifters",
+   "short": "SHFT",
+   "slug": "shifters"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/Karmine_Corplogo_square.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 18:00:00",
+  "match_id": "CBLOL/2026 Season/Split 2_Week 5_4",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/LØSlogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/LOUDlogo_square.png",
+   "name": "LOUD",
+   "short": "LOUD",
+   "slug": "loud"
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 20:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 5_3",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/Disguisedlogo_square.png",
+   "name": "Disguised",
+   "short": "DSG",
+   "slug": "disguised"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/Sentinelslogo_square.png",
+   "name": "Sentinels",
+   "short": "SEN",
+   "slug": "sentinels"
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-23 23:00:00",
+  "match_id": "LCS/2026 Season/Summer Season_Week 5_4",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Dignitaslogo_square.png",
+   "name": "Dignitas",
+   "short": "DIG",
+   "slug": "dignitas"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/FlyQuestlogo_square.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-24 15:00:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_7",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/Fnaticlogo_square.png",
+   "name": "Fnatic",
+   "short": "FNC",
+   "slug": "fnatic"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 3,
+  "datetime_utc": "2026-08-24 17:15:00",
+  "match_id": "LEC/2026 Season/Summer Season_Week 5_8",
+  "patch": null,
+  "tab": "Week 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/GIANTXlogo_square.png",
+   "name": "GIANTX",
+   "short": "GX",
+   "slug": "giantx"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/G2_Esportslogo_square.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-08-25 15:00:00",
+  "match_id": "TCL/2026 Season/Summer Split_Round 2_2",
+  "patch": "26.16",
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/PCIFIC_Esportslogo_square.png",
+   "name": "PCIFIC Esports",
+   "short": "PCF",
+   "slug": "pcific-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/TBDlogo_square.png",
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "TCL/2026 Season/Summer Split",
+  "winner": null
+ }
+]
