@@ -1125,6 +1125,20 @@ li:last-child > .sr-item { border-bottom: 0; }
 }
 
 
+/* 404 ------------------------------------------------------------------ */
+.notfound { padding-top: 40px; }
+.nf-code {
+  margin: 0 0 6px;
+  font-family: var(--ff-display);
+  font-size: 96px;
+  line-height: 1;
+  letter-spacing: 0.06em;
+  opacity: 0.55;
+}
+@media (max-width: 480px) {
+  .nf-code { font-size: 64px; }
+}
+
 /* Matchday board (home) + splits in progress -------------------------- */
 /* The daily slice: a schedule the reader scans in their own timezone, and the
    stat line of each player in the split being played. Numbers use the mono face

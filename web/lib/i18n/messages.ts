@@ -232,6 +232,12 @@ const en = {
   "scopeNote.intl":
     "International events only (Worlds · MSI · First Stand) — official matches, all-time. Never solo queue.",
 
+  // --- 404 ---
+  "notFound.eyebrow": "Error 404",
+  "notFound.title": "Not in the record book",
+  "notFound.subtitle":
+    "This page does not exist, or does not exist any more. Search for a pro, or go straight to what is being played today.",
+  "notFound.search": "Search a player",
   // --- Live slice: today's matches and the splits in progress ---
   "nav.splits": "Splits",
   "live.title": "Today's matches",
@@ -497,6 +503,12 @@ const es: Record<MsgKey, string> = {
   "scopeNote.intl":
     "Solo eventos internacionales (Worlds · MSI · First Stand) — partidas oficiales, histórico completo. Nunca soloQ.",
 
+  // --- 404 ---
+  "notFound.eyebrow": "Error 404",
+  "notFound.title": "No está en el libro de récords",
+  "notFound.subtitle":
+    "Esta página no existe, o dejó de existir. Buscá un profesional o andá directo a lo que se está jugando hoy.",
+  "notFound.search": "Buscar un jugador",
   // --- Datos en vivo: partidos del día y splits en curso ---
   "nav.splits": "Splits",
   "live.title": "Partidos de hoy",
