@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getLiveMeta, getLiveTournaments } from "@/lib/live";
+import { getLiveMeta, getLiveTournaments, getSplitTeams } from "@/lib/live";
 import { T } from "@/lib/i18n";
 import UpdatedAt from "@/components/UpdatedAt";
 
@@ -15,6 +15,7 @@ export default function SplitsPage() {
   // builds (a match card can link to it), it just does not headline this index.
   const tournaments = getLiveTournaments().filter((t) => t.games > 0);
   const meta = getLiveMeta();
+  const teamsBySplit = getSplitTeams();
 
   return (
     <>
@@ -57,6 +58,24 @@ export default function SplitsPage() {
                   )}
                   <T k="live.gamesPlayed" vars={{ n: tournament.games }} />
                 </span>
+                {(teamsBySplit.get(tournament.overview_page) ?? []).length > 0 && (
+                  <span className="split-card-teams">
+                    {(teamsBySplit.get(tournament.overview_page) ?? [])
+                      .slice(0, 12)
+                      .map((team) => (
+                        <span
+                          key={team.name}
+                          className="split-card-logo"
+                          title={team.name ?? undefined}
+                          style={
+                            team.logo
+                              ? { backgroundImage: `url(${team.logo})` }
+                              : undefined
+                          }
+                        />
+                      ))}
+                  </span>
+                )}
                 {tournament.patches.length > 0 && (
                   <span className="split-card-patches">
                     <T

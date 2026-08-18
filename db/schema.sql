@@ -152,7 +152,9 @@ CREATE TABLE IF NOT EXISTS teams (
     Short        TEXT,
     Region       TEXT,
     IsDisbanded  INTEGER,
-    RenamedTo    TEXT
+    RenamedTo    TEXT,
+    Image        TEXT,  -- real logo file name; the by-name convention 404s a lot
+    ImageURL     TEXT   -- resolved through the API (Image is often a redirect)
 );
 
 -- Alias -> team page. MediaWiki first-letter-capitalizes titles ('iG' is stored

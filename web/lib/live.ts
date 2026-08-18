@@ -57,6 +57,10 @@ export interface LiveMatch {
   datetime_utc: string;
   best_of: number | null;
   tab: string | null;
+  round: string | null;
+  phase: string | null;
+  group: string | null;
+  is_tiebreaker: boolean;
   patch: string | null;
   team1: LiveTeamCard;
   team2: LiveTeamCard;
@@ -66,6 +70,23 @@ export interface LiveMatch {
 }
 
 /** Per-player totals for a split. `kp` and `win_rate` are ratios, not percents. */
+export interface LiveStanding {
+  tournament: string;
+  /** 1-based: the wiki emits several tables per page with no group column. */
+  group: number;
+  place: number | null;
+  place_label: string | null;
+  team: LiveTeamCard;
+  win_series: number;
+  loss_series: number;
+  tie_series: number;
+  win_games: number;
+  loss_games: number;
+  points: number;
+  streak: number;
+  streak_direction: string | null;
+}
+
 export interface LiveStatLine {
   games: number;
   wins: number;
@@ -127,6 +148,8 @@ export const getLiveSplits = (): LiveSplitRow[] =>
   read<LiveSplitRow[]>("player_splits.json", []);
 export const getLivePatches = (): LivePatchRow[] =>
   read<LivePatchRow[]>("player_patches.json", []);
+export const getLiveStandings = (): LiveStanding[] =>
+  read<LiveStanding[]>("standings.json", []);
 
 /** Numbers only: on the home, identity comes from the lineup row. */
 export type MatchdayLine = Pick<
@@ -249,6 +272,31 @@ export function getTeamLineup(names: string[]) {
   };
 }
 
+/**
+ * Team logos per split, for the index cards. Standings first (they carry the real
+ * field, in order), matches as the fallback for a bracket the wiki publishes no
+ * table for — MSI and the Esports World Cup would otherwise show none.
+ */
+export function getSplitTeams(): Map<string, LiveTeamCard[]> {
+  const byPage = new Map<string, LiveTeamCard[]>();
+  const add = (page: string, team: LiveTeamCard) => {
+    if (!team.name) return;
+    const list = byPage.get(page) ?? [];
+    if (!list.some((t) => t.name === team.name)) list.push(team);
+    byPage.set(page, list);
+  };
+  const standings = getLiveStandings();
+  const ranked = new Set(standings.map((r) => r.tournament));
+  for (const row of standings) add(row.tournament, row.team);
+  for (const match of getLiveMatches()) {
+    // Re-reading the file per match would be 350 reads for nothing.
+    if (ranked.has(match.tournament)) continue;
+    add(match.tournament, match.team1);
+    add(match.tournament, match.team2);
+  }
+  return byPage;
+}
+
 /** A single split's page: its player table, its patch breakdown and its matches. */
 export function getSplit(slug: string) {
   const tournament = getLiveTournaments().find((t) => t.slug === slug) ?? null;
@@ -256,6 +304,7 @@ export function getSplit(slug: string) {
   const page = tournament.overview_page;
   return {
     tournament,
+    standings: getLiveStandings().filter((r) => r.tournament === page),
     rows: getLiveSplits().filter((r) => r.tournament === page),
     patches: getLivePatches().filter((r) => r.tournament === page),
     matches: getLiveMatches().filter((m) => m.tournament === page),

@@ -1,0 +1,1122 @@
+[
+ {
+  "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 5,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 10,
+  "win_series": 5
+ },
+ {
+  "group": 1,
+  "loss_games": 3,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+   "name": "LOUD",
+   "short": "LOUD",
+   "slug": "loud"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 8,
+  "win_series": 4
+ },
+ {
+  "group": 1,
+  "loss_games": 5,
+  "loss_series": 2,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 6,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 6,
+  "loss_series": 2,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+   "name": "Vivo Keyd Stars",
+   "short": "VKS",
+   "slug": "vivo-keyd-stars"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 6,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 6,
+  "loss_series": 3,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+   "name": "paiN Gaming",
+   "short": "PAIN",
+   "slug": "pain-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 5,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 4,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 4,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 4,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/Fluxo_W7Mlogo_square.png",
+   "name": "Fluxo W7M",
+   "short": "FX",
+   "slug": "fluxo-w7m"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 3,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 4,
+  "place": 8,
+  "place_label": "8",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/43/Leviatanlogo_profile.png",
+   "name": "Leviatan",
+   "short": "LEV",
+   "slug": "leviatan"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 16,
+  "loss_series": 6,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+   "name": "Gen.G",
+   "short": "GEN",
+   "slug": "gen-g"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 38,
+  "win_series": 18
+ },
+ {
+  "group": 1,
+  "loss_games": 21,
+  "loss_series": 7,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 39,
+  "win_series": 17
+ },
+ {
+  "group": 1,
+  "loss_games": 18,
+  "loss_series": 8,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 36,
+  "win_series": 16
+ },
+ {
+  "group": 1,
+  "loss_games": 23,
+  "loss_series": 8,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia",
+   "short": "DK",
+   "slug": "dplus-kia"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 34,
+  "win_series": 16
+ },
+ {
+  "group": 1,
+  "loss_games": 24,
+  "loss_series": 9,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 32,
+  "win_series": 15
+ },
+ {
+  "group": 2,
+  "loss_games": 32,
+  "loss_series": 15,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 24,
+  "win_series": 9
+ },
+ {
+  "group": 2,
+  "loss_games": 32,
+  "loss_series": 15,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 21,
+  "win_series": 9
+ },
+ {
+  "group": 2,
+  "loss_games": 35,
+  "loss_series": 16,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+   "name": "Nongshim RedForce",
+   "short": "NS",
+   "slug": "nongshim-redforce"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 21,
+  "win_series": 8
+ },
+ {
+  "group": 2,
+  "loss_games": 37,
+  "loss_series": 17,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Kiwoom_DRXlogo_profile.png",
+   "name": "Kiwoom DRX",
+   "short": "KRX",
+   "slug": "kiwoom-drx"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 22,
+  "win_series": 7
+ },
+ {
+  "group": 2,
+  "loss_games": 40,
+  "loss_series": 19,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers",
+   "short": "DNS",
+   "slug": "dn-soopers"
+  },
+  "tie_series": 0,
+  "tournament": "LCK/2026 Season/Rounds 3-4",
+  "win_games": 11,
+  "win_series": 5
+ },
+ {
+  "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
+   "name": "Team Secret Whales",
+   "short": "TSW",
+   "slug": "team-secret-whales"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 7,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 5,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
+   "name": "CTBC Flying Oyster",
+   "short": "CFO",
+   "slug": "ctbc-flying-oyster"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 7,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 4,
+  "loss_series": 1,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports",
+   "short": "MVK",
+   "slug": "mvk-esports"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 7,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 5,
+  "loss_series": 2,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
+   "name": "GAM Esports",
+   "short": "GAM",
+   "slug": "gam-esports"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 9,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 9,
+  "loss_series": 3,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/Deep_Cross_Gaminglogo_profile.png",
+   "name": "Deep Cross Gaming",
+   "short": "DCG",
+   "slug": "deep-cross-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 7,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 7,
+  "loss_series": 3,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+   "name": "Ground Zero Gaming",
+   "short": "GZ",
+   "slug": "ground-zero-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 5,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 3,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
+   "name": "DetonatioN FocusMe",
+   "short": "DFM",
+   "slug": "detonation-focusme"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 7,
+  "loss_series": 3,
+  "place": 8,
+  "place_label": "8",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a3/Fukuoka_SoftBank_HAWKS_gaminglogo_profile.png",
+   "name": "Fukuoka SoftBank HAWKS gaming",
+   "short": "SHG",
+   "slug": "fukuoka-softbank-hawks-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LCP/2026 Season/Split 3",
+  "win_games": 1,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
+   "name": "Team Liquid",
+   "short": "TL",
+   "slug": "team-liquid"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 8,
+  "win_series": 4
+ },
+ {
+  "group": 1,
+  "loss_games": 4,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+   "name": "Cloud9",
+   "short": "C9",
+   "slug": "cloud9"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 6,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 2,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+   "name": "LYON (2024 American Team)",
+   "short": "LYON",
+   "slug": "lyon-2024-american-team"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 7,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 4,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+   "name": "Shopify Rebellion",
+   "short": "SR",
+   "slug": "shopify-rebellion"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 6,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 6,
+  "loss_series": 2,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/Sentinelslogo_profile.png",
+   "name": "Sentinels",
+   "short": "SEN",
+   "slug": "sentinels"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 5,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 6,
+  "loss_series": 3,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 4,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Dignitaslogo_profile.png",
+   "name": "Dignitas",
+   "short": "DIG",
+   "slug": "dignitas"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 3,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 4,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+   "name": "Disguised",
+   "short": "DSG",
+   "slug": "disguised"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 1,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 1,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 7,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 14,
+  "win_series": 7
+ },
+ {
+  "group": 1,
+  "loss_games": 5,
+  "loss_series": 2,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 13,
+  "win_series": 6
+ },
+ {
+  "group": 1,
+  "loss_games": 6,
+  "loss_series": 2,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
+   "name": "Team Vitality",
+   "short": "VIT",
+   "slug": "team-vitality"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 8,
+  "win_series": 4
+ },
+ {
+  "group": 1,
+  "loss_games": 7,
+  "loss_series": 3,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 6,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 10,
+  "loss_series": 4,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 8,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 6,
+  "loss_series": 3,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fnaticlogo_profile.png",
+   "name": "Fnatic",
+   "short": "FNC",
+   "slug": "fnatic"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 6,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 7,
+  "loss_series": 3,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/GIANTXlogo_profile.png",
+   "name": "GIANTX",
+   "short": "GX",
+   "slug": "giantx"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 6,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 9,
+  "loss_series": 4,
+  "place": 8,
+  "place_label": "8",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/SK_Gaminglogo_profile.png",
+   "name": "SK Gaming",
+   "short": "SK",
+   "slug": "sk-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 5,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 9,
+  "loss_series": 4,
+  "place": 9,
+  "place_label": "9",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Hereticslogo_square.png",
+   "name": "Team Heretics",
+   "short": "TH",
+   "slug": "team-heretics"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 10,
+  "loss_series": 5,
+  "place": 10,
+  "place_label": "10",
+  "points": 0,
+  "streak": 5,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/Shifterslogo_profile.png",
+   "name": "Shifters",
+   "short": "SHFT",
+   "slug": "shifters"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 2,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 2,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 19,
+  "win_series": 9
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 2,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 19,
+  "win_series": 9
+ },
+ {
+  "group": 1,
+  "loss_games": 8,
+  "loss_series": 3,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
+   "name": "Top Esports",
+   "short": "TES",
+   "slug": "top-esports"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 16,
+  "win_series": 8
+ },
+ {
+  "group": 1,
+  "loss_games": 12,
+  "loss_series": 5,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 13,
+  "win_series": 6
+ },
+ {
+  "group": 1,
+  "loss_games": 15,
+  "loss_series": 6,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 14,
+  "win_series": 5
+ },
+ {
+  "group": 1,
+  "loss_games": 15,
+  "loss_series": 7,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 12,
+  "win_series": 4
+ },
+ {
+  "group": 1,
+  "loss_games": 18,
+  "loss_series": 8,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/ThunderTalk_Gaminglogo_profile.png",
+   "name": "ThunderTalk Gaming",
+   "short": "TT",
+   "slug": "thundertalk-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 11,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 22,
+  "loss_series": 11,
+  "place": 8,
+  "place_label": "8",
+  "points": 0,
+  "streak": 11,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/56/EDward_Gaminglogo_square.png",
+   "name": "EDward Gaming",
+   "short": "EDG",
+   "slug": "edward-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 2,
+  "win_series": 0
+ },
+ {
+  "group": 2,
+  "loss_games": 3,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 5,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Ninjas_in_Pyjamas.CNlogo_profile.png",
+   "name": "Ninjas in Pyjamas.CN",
+   "short": "NIP",
+   "slug": "ninjas-in-pyjamas-cn"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 10,
+  "win_series": 5
+ },
+ {
+  "group": 2,
+  "loss_games": 4,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 9,
+  "win_series": 4
+ },
+ {
+  "group": 2,
+  "loss_games": 8,
+  "loss_series": 4,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/Weibo_Gaminglogo_profile.png",
+   "name": "Weibo Gaming",
+   "short": "WBG",
+   "slug": "weibo-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 5,
+  "win_series": 1
+ },
+ {
+  "group": 2,
+  "loss_games": 10,
+  "loss_series": 5,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 5,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/LNG_Esportslogo_square.png",
+   "name": "LNG Esports",
+   "short": "LNG",
+   "slug": "lng-esports"
+  },
+  "tie_series": 0,
+  "tournament": "LPL/2026 Season/Split 3",
+  "win_games": 1,
+  "win_series": 0
+ }
+]

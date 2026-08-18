@@ -343,7 +343,11 @@ TABLES: dict[str, TableSpec] = {
     # when these are empty.
     "teams": TableSpec(
         name="teams", cargo_table="Teams",
-        fields=["Name", "OverviewPage", "Short", "Region", "IsDisbanded", "RenamedTo"],
+        # Image is the wiki's real logo file name. Building it by convention
+        # ('<Name>logo square.png') 404s for anything the wiki names differently:
+        # 'HANJIN BRIONlogo profile.png', 'Flash Wolves logo.png', apostrophes...
+        fields=["Name", "OverviewPage", "Short", "Region", "IsDisbanded", "RenamedTo",
+                "Image"],
         pk=["OverviewPage"],
         bool_fields={"IsDisbanded"},
     ),
