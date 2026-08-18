@@ -289,7 +289,16 @@ export default function MatchdayBoard({
               >
                 <span className="mday-time">{time}</span>
                 <span className="mday-league" title={tour?.name ?? undefined}>
-                  {tour?.league_short ?? ""}
+                  {tour?.league_logo ? (
+                    <span
+                      className="league-mark"
+                      style={{ backgroundImage: `url(${tour.league_logo})` }}
+                      aria-label={tour.league_short}
+                      role="img"
+                    />
+                  ) : (
+                    (tour?.league_short ?? "")
+                  )}
                 </span>
                 <TeamBadge team={match.team1} />
                 <span className={`mday-score${done ? " done" : ""}`}>

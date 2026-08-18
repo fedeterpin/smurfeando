@@ -35,6 +35,7 @@ export interface LiveTournament {
   name: string;
   league: string;
   league_short: string;
+  league_logo: string | null;
   region: string | null;
   region_label: string | null;
   split: string | null;

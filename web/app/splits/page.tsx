@@ -49,7 +49,17 @@ export default function SplitsPage() {
             >
               <span className="cutp-in">
                 <span className="split-card-league">
-                  {tournament.league_short}
+                  {tournament.league_logo ? (
+                    <span
+                      className="league-mark"
+                      style={{ backgroundImage: `url(${tournament.league_logo})` }}
+                      role="img"
+                      aria-label={tournament.league}
+                      title={tournament.league}
+                    />
+                  ) : (
+                    tournament.league_short
+                  )}
                 </span>
                 <span className="split-card-name">{tournament.name}</span>
                 <span className="split-card-meta">

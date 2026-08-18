@@ -18,7 +18,10 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sqlite3
+import urllib.parse
+import urllib.request
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 
@@ -47,6 +50,73 @@ IN_CHUNK = 20          # OverviewPages per `IN (...)` clause (keeps URLs sane)
 
 
 # --- small helpers --------------------------------------------------------
+# --- league logos ---------------------------------------------------------
+# Leagues have no image field in Cargo, but the wiki does host their logos -- one
+# per rebrand, named by year ('LCK 2021 logo.png', 'CBLOL 2021 Logo.png') and
+# sometimes with no year at all ('LEC logo small.png', 'MSI logo.png'). So they
+# are discovered per league short and scored: the newest logo that is not newer
+# than the split being played. A bare prefix match is not enough -- 'LEC
+# ADMIRALSlogo square.png' is a team's logo that happens to start with 'LEC'.
+WIKI_API = "https://lol.fandom.com/api.php"
+_LOGO_CACHE: dict[str, list[tuple]] = {}
+
+
+def _wiki_api(**params) -> dict:
+    params.setdefault("format", "json")
+    url = f"{WIKI_API}?{urllib.parse.urlencode(params)}"
+    request = urllib.request.Request(url, headers={"User-Agent": config.USER_AGENT})
+    with urllib.request.urlopen(request, timeout=60) as response:
+        return json.load(response)
+
+
+def _league_files(short: str, require_logo: bool = True) -> list[tuple]:
+    """(effective year, is_png, name, url) for every plausible logo of a league.
+
+    `require_logo` is what keeps a team out of the results ('LEC ADMIRALSlogo
+    square.png'); it is relaxed only for the second pass, which searches by the
+    league's full name, where a bare 'Esports World Cup.png' is the logo.
+    """
+    cache_key = f"{short}|{require_logo}"
+    if cache_key in _LOGO_CACHE:
+        return _LOGO_CACHE[cache_key]
+    logo = "logo" if require_logo else "(?:logo)?"
+    pattern = re.compile(
+        rf"^{re.escape(short)}[ _]?(\d{{4}})?[ _]?{logo}[ _]?(\d{{4}})?[ _a-z]*\.(png|jpg|jpeg)$",
+        re.I)
+    files: list[tuple] = []
+    try:
+        data = _wiki_api(action="query", list="allimages", aiprefix=short,
+                         ailimit=500, aiprop="url|timestamp")
+        for item in data.get("query", {}).get("allimages", []):
+            name = item["name"]
+            # Wiki titles come back with underscores; compare in spaces so a
+            # multi-word league ('Esports World Cup') matches its own file.
+            match = pattern.match(name.replace("_", " "))
+            if not match:
+                continue
+            named_year = int(match.group(1) or match.group(2) or 0)
+            uploaded = int((item.get("timestamp") or "0")[:4] or 0)
+            files.append((max(named_year, uploaded), name.lower().endswith(".png"),
+                          name, item["url"].split("/revision")[0]))
+    except Exception as error:   # the logo is decoration; never fail the run for it
+        print(f"[live] warning: could not list logos for {short}: {error}")
+    _LOGO_CACHE[cache_key] = files
+    return files
+
+
+def league_logo(short: str | None, year: str | None,
+                league: str | None = None) -> str | None:
+    files = _league_files(short) if short else []
+    if not files and league and league != short:
+        files = _league_files(league, require_logo=False)
+    if not files:
+        return None
+    season = _int(year) or 9999
+    # The logo of the season being played: newest that is not from the future.
+    current = [f for f in files if f[0] <= season] or files
+    return max(current)[3]
+
+
 def _standings_groups(rows: list[dict], matches: list[dict]) -> dict[int, int]:
     """Row index -> table number, for phases that run several tables at once.
 
@@ -566,6 +636,7 @@ def main() -> None:
             "name": t.get("Name") or page,
             "league": league,
             "league_short": shorts.get(league) or league,
+            "league_logo": league_logo(shorts.get(league), t.get("Year"), league),
             "region": region or ("international" if t.get("Region") == config.INTERNATIONAL_REGION else None),
             "region_label": regions.get(region) if region else t.get("Region"),
             "split": t.get("Split"),
