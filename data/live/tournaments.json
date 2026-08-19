@@ -19,7 +19,22 @@
   "year": "2026"
  },
  {
-  "games": 131,
+  "games": 0,
+  "is_playoffs": true,
+  "league": "Tencent LoL Pro League",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/LPL_2017_logo.png",
+  "league_short": "LPL",
+  "name": "LPL 2026 Grand Finals",
+  "overview_page": "LPL/2026 Season/Grand Finals",
+  "patches": [],
+  "region": "china",
+  "region_label": "China",
+  "slug": "lpl-2026-season-grand-finals",
+  "split": "Split 3",
+  "year": "2026"
+ },
+ {
+  "games": 139,
   "is_playoffs": false,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/96/LPL_2017_logo.png",
@@ -28,7 +43,8 @@
   "overview_page": "LPL/2026 Season/Split 3",
   "patches": [
    "26.14",
-   "26.15"
+   "26.15",
+   "26.16"
   ],
   "region": "china",
   "region_label": "China",
@@ -242,6 +258,21 @@
   "region_label": "Turkey",
   "slug": "tcl-2026-season-summer-split",
   "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "World Championship",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
+  "league_short": "WCS",
+  "name": "LPL 2026 Regional Finals",
+  "overview_page": "LPL/2026 Season/Regional Finals",
+  "patches": [],
+  "region": null,
+  "region_label": "China",
+  "slug": "lpl-2026-season-regional-finals",
+  "split": "",
   "year": "2026"
  }
 ]
