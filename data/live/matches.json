@@ -7062,16 +7062,16 @@
    "short": "DK",
    "slug": "dplus-kia"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
    "name": "Hanwha Life Esports",
    "short": "HLE",
    "slug": "hanwha-life-esports"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LCK/2026 Season/Rounds 3-4",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -7089,16 +7089,16 @@
    "short": "CFO",
    "slug": "ctbc-flying-oyster"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
    "name": "MVK Esports",
    "short": "MVK",
    "slug": "mvk-esports"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCP/2026 Season/Split 3",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -7116,16 +7116,16 @@
    "short": "JDG",
    "slug": "jd-gaming"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/ThunderTalk_Gaminglogo_profile.png",
    "name": "ThunderTalk Gaming",
    "short": "TT",
    "slug": "thundertalk-gaming"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LPL/2026 Season/Split 3",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -7143,16 +7143,16 @@
    "short": "NS",
    "slug": "nongshim-redforce"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Kiwoom_DRXlogo_profile.png",
    "name": "Kiwoom DRX",
    "short": "KRX",
    "slug": "kiwoom-drx"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCK/2026 Season/Rounds 3-4",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -7170,16 +7170,16 @@
    "short": "LGD",
    "slug": "lgd-gaming"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
    "name": "Bilibili Gaming",
    "short": "BLG",
    "slug": "bilibili-gaming"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LPL/2026 Season/Split 3",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -7489,10 +7489,10 @@
   "round": null,
   "tab": "Quarterfinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports",
+   "short": "MVK",
+   "slug": "mvk-esports"
   },
   "team1_score": null,
   "team2": {
@@ -7813,10 +7813,10 @@
   "round": null,
   "tab": "Semifinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
+   "name": "CTBC Flying Oyster",
+   "short": "CFO",
+   "slug": "ctbc-flying-oyster"
   },
   "team1_score": null,
   "team2": {
@@ -8171,10 +8171,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Play-In",

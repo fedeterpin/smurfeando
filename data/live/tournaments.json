@@ -125,7 +125,7 @@
   "year": "2026"
  },
  {
-  "games": 73,
+  "games": 82,
   "is_playoffs": false,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
@@ -134,7 +134,8 @@
   "overview_page": "LCK/2026 Season/Rounds 3-4",
   "patches": [
    "26.14",
-   "26.15"
+   "26.15",
+   "26.16"
   ],
   "region": "korea",
   "region_label": "Korea",

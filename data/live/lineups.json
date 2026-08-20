@@ -2250,6 +2250,56 @@
   "tournament": "LCK/2026 Season/Rounds 3-4"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
+  "player": "Clear (Song Hyeon-min)",
+  "player_id": "Clear",
+  "role": "Top",
+  "slug": "clear",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png",
+  "player": "Raptor (Jeon Eo-jin)",
+  "player_id": "Raptor",
+  "role": "Jungle",
+  "slug": "raptor",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png",
+  "player": "VicLa",
+  "player_id": "VicLa",
+  "role": "Mid",
+  "slug": "vicla",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png",
+  "player": "Taeyoon (Kim Tae-yoon)",
+  "player_id": "Taeyoon",
+  "role": "Bot",
+  "slug": "taeyoon",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png",
+  "player": "Kellin",
+  "player_id": "Kellin",
+  "role": "Support",
+  "slug": "kellin",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/BRO_Casting_2026_Split_1.png",
   "player": "Casting",
   "player_id": "Casting",
@@ -2297,6 +2347,56 @@
   "slug": "namgung",
   "source": "roster",
   "team": "HANJIN BRION",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b1/NS_Kingen_2026_Split_1.png",
+  "player": "Kingen",
+  "player_id": "Kingen",
+  "role": "Top",
+  "slug": "kingen",
+  "source": "roster",
+  "team": "Nongshim RedForce",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/NS_Sponge_2026_Split_1.png",
+  "player": "Sponge",
+  "player_id": "Sponge",
+  "role": "Jungle",
+  "slug": "sponge",
+  "source": "roster",
+  "team": "Nongshim RedForce",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/NS_Scout_2026_Split_1.png",
+  "player": "Scout",
+  "player_id": "Scout",
+  "role": "Mid",
+  "slug": "scout",
+  "source": "roster",
+  "team": "Nongshim RedForce",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/NS_Diable_2026_Split_2.png",
+  "player": "Diable",
+  "player_id": "Diable",
+  "role": "Bot",
+  "slug": "diable",
+  "source": "roster",
+  "team": "Nongshim RedForce",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/NS_Lehends_2026_Split_1.png",
+  "player": "Lehends",
+  "player_id": "Lehends",
+  "role": "Support",
+  "slug": "lehends",
+  "source": "roster",
+  "team": "Nongshim RedForce",
   "tournament": "LCK/2026 Season/Season Play-In"
  },
  {
