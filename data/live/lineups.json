@@ -2350,6 +2350,56 @@
   "tournament": "LCK/2026 Season/Season Play-In"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
+  "player": "PerfecT (Lee Seung-min)",
+  "player_id": "PerfecT",
+  "role": "Top",
+  "slug": "perfect",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png",
+  "player": "Cuzz",
+  "player_id": "Cuzz",
+  "role": "Jungle",
+  "slug": "cuzz",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png",
+  "player": "Bdd",
+  "player_id": "Bdd",
+  "role": "Mid",
+  "slug": "bdd",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DRX_Jiwoo_2026_Split_2.png",
+  "player": "Jiwoo",
+  "player_id": "Jiwoo",
+  "role": "Bot",
+  "slug": "jiwoo",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png",
+  "player": "Effort",
+  "player_id": "Effort",
+  "role": "Support",
+  "slug": "effort",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b1/NS_Kingen_2026_Split_1.png",
   "player": "Kingen",
   "player_id": "Kingen",
@@ -2398,6 +2448,56 @@
   "source": "roster",
   "team": "Nongshim RedForce",
   "tournament": "LCK/2026 Season/Season Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DK_Siwoo_2026_Split_1.png",
+  "player": "Siwoo",
+  "player_id": "Siwoo",
+  "role": "Top",
+  "slug": "siwoo",
+  "source": "roster",
+  "team": "Dplus Kia",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d4/DK_Lucid_2026_Split_1.png",
+  "player": "Lucid (Choi Yong-hyeok)",
+  "player_id": "Lucid",
+  "role": "Jungle",
+  "slug": "lucid",
+  "source": "roster",
+  "team": "Dplus Kia",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/DK_ShowMaker_2026_Split_1.png",
+  "player": "ShowMaker",
+  "player_id": "ShowMaker",
+  "role": "Mid",
+  "slug": "showmaker",
+  "source": "roster",
+  "team": "Dplus Kia",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/77/DK_Smash_2026_Split_1.png",
+  "player": "Smash (Shin Geum-jae)",
+  "player_id": "Smash",
+  "role": "Bot",
+  "slug": "smash",
+  "source": "roster",
+  "team": "Dplus Kia",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/DK_Career_2026_Split_1.png",
+  "player": "Career",
+  "player_id": "Career",
+  "role": "Support",
+  "slug": "career",
+  "source": "roster",
+  "team": "Dplus Kia",
+  "tournament": "LCK/2026 Season/Season Playoffs"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/GEN_Kiin_2026_Split_1.png",
