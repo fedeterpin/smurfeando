@@ -193,7 +193,7 @@
   "year": "2026"
  },
  {
-  "games": 60,
+  "games": 63,
   "is_playoffs": false,
   "league": "League of Legends Championship Pacific",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/LCP_Logo.png",
@@ -202,7 +202,8 @@
   "overview_page": "LCP/2026 Season/Split 3",
   "patches": [
    "26.14",
-   "26.15"
+   "26.15",
+   "26.16"
   ],
   "region": "pacific",
   "region_label": "Pacific",
@@ -243,7 +244,7 @@
   "year": "2026"
  },
  {
-  "games": 36,
+  "games": 40,
   "is_playoffs": false,
   "league": "Turkish Championship League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/TCL_logo_2025.png",

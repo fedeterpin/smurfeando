@@ -881,12 +881,12 @@
  },
  {
   "group": 1,
-  "loss_games": 8,
+  "loss_games": 9,
   "loss_series": 2,
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
@@ -896,8 +896,8 @@
   },
   "tie_series": 0,
   "tournament": "LPL/2026 Season/Split 3",
-  "win_games": 19,
-  "win_series": 9
+  "win_games": 21,
+  "win_series": 10
  },
  {
   "group": 1,
@@ -981,13 +981,13 @@
  },
  {
   "group": 1,
-  "loss_games": 15,
-  "loss_series": 7,
+  "loss_games": 17,
+  "loss_series": 8,
   "place": 6,
   "place_label": "6",
   "points": 0,
-  "streak": 3,
-  "streak_direction": "W",
+  "streak": 1,
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
    "name": "LGD Gaming",
@@ -996,7 +996,7 @@
   },
   "tie_series": 0,
   "tournament": "LPL/2026 Season/Split 3",
-  "win_games": 12,
+  "win_games": 13,
   "win_series": 4
  },
  {

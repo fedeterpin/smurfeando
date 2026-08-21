@@ -7197,16 +7197,16 @@
    "short": "DIA",
    "slug": "dia-ozarox-esports"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
    "name": "Bushido Wildcats",
    "short": "BW",
    "slug": "bushido-wildcats"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "TCL/2026 Season/Summer Split",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -8171,10 +8171,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-   "name": "HANJIN BRION",
-   "short": "BRO",
-   "slug": "hanjin-brion"
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Play-In",
@@ -8245,10 +8245,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/DIA_Ozarox_Esportslogo_profile.png",
+   "name": "DIA Ozarox Esports",
+   "short": "DIA",
+   "slug": "dia-ozarox-esports"
   },
   "team1_score": null,
   "team2": {
@@ -9001,10 +9001,10 @@
   "round": null,
   "tab": "Round 4",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+   "name": "Bushido Wildcats",
+   "short": "BW",
+   "slug": "bushido-wildcats"
   },
   "team1_score": null,
   "team2": {
