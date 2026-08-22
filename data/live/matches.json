@@ -7413,16 +7413,16 @@
    "short": "VIT",
    "slug": "team-vitality"
   },
-  "team1_score": 1,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
    "name": "Natus Vincere",
    "short": "NAVI",
    "slug": "natus-vincere"
   },
-  "team2_score": 0,
+  "team2_score": 1,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,

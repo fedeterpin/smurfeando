@@ -721,12 +721,12 @@
  },
  {
   "group": 1,
-  "loss_games": 6,
+  "loss_games": 7,
   "loss_series": 2,
   "place": 3,
   "place_label": "3",
   "points": 0,
-  "streak": 4,
+  "streak": 5,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
@@ -736,35 +736,15 @@
   },
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 8,
-  "win_series": 4
- },
- {
-  "group": 1,
-  "loss_games": 7,
-  "loss_series": 3,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
-   "name": "Natus Vincere",
-   "short": "NAVI",
-   "slug": "natus-vincere"
-  },
-  "tie_series": 0,
-  "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 6,
-  "win_series": 3
+  "win_games": 10,
+  "win_series": 5
  },
  {
   "group": 1,
   "loss_games": 10,
   "loss_series": 4,
-  "place": 5,
-  "place_label": "5",
+  "place": 4,
+  "place_label": "4",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -777,6 +757,26 @@
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
   "win_games": 8,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 9,
+  "loss_series": 4,
+  "place": 5,
+  "place_label": "5",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 7,
   "win_series": 3
  },
  {
