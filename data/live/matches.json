@@ -7619,7 +7619,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2_Week 5_1",
-  "patch": null,
+  "patch": "26.16",
   "phase": null,
   "round": null,
   "tab": "Week 5",
@@ -7636,9 +7636,9 @@
    "short": "VKS",
    "slug": "vivo-keyd-stars"
   },
-  "team2_score": 1,
+  "team2_score": 2,
   "tournament": "CBLOL/2026 Season/Split 2",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -7656,16 +7656,16 @@
    "short": "SK",
    "slug": "sk-gaming"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
    "name": "Movistar KOI",
    "short": "MKOI",
    "slug": "movistar-koi"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -7673,7 +7673,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2_Week 5_2",
-  "patch": null,
+  "patch": "26.16",
   "phase": null,
   "round": null,
   "tab": "Week 5",
@@ -7683,16 +7683,16 @@
    "short": "PAIN",
    "slug": "pain-gaming"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
    "name": "FURIA",
    "short": "FUR",
    "slug": "furia"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "CBLOL/2026 Season/Split 2",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -7710,16 +7710,16 @@
    "short": "SEN",
    "slug": "sentinels"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
    "name": "FlyQuest",
    "short": "FLY",
    "slug": "flyquest"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -7737,16 +7737,16 @@
    "short": "DSG",
    "slug": "disguised"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Dignitaslogo_profile.png",
    "name": "Dignitas",
    "short": "DIG",
    "slug": "dignitas"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -7943,7 +7943,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2_Week 5_3",
-  "patch": null,
+  "patch": "26.16",
   "phase": null,
   "round": null,
   "tab": "Week 5",
@@ -7997,7 +7997,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2_Week 5_4",
-  "patch": null,
+  "patch": "26.16",
   "phase": null,
   "round": null,
   "tab": "Week 5",

@@ -46,7 +46,7 @@
   "place": 3,
   "place_label": "3",
   "points": 0,
-  "streak": 3,
+  "streak": 4,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
@@ -56,8 +56,8 @@
   },
   "tie_series": 0,
   "tournament": "CBLOL/2026 Season/Split 2",
-  "win_games": 6,
-  "win_series": 3
+  "win_games": 8,
+  "win_series": 4
  },
  {
   "group": 1,
@@ -66,8 +66,8 @@
   "place": 4,
   "place_label": "4",
   "points": 0,
-  "streak": 2,
-  "streak_direction": "L",
+  "streak": 1,
+  "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
    "name": "Vivo Keyd Stars",
@@ -76,18 +76,18 @@
   },
   "tie_series": 0,
   "tournament": "CBLOL/2026 Season/Split 2",
-  "win_games": 6,
-  "win_series": 3
+  "win_games": 8,
+  "win_series": 4
  },
  {
   "group": 1,
-  "loss_games": 6,
-  "loss_series": 3,
+  "loss_games": 8,
+  "loss_series": 4,
   "place": 5,
   "place_label": "5",
   "points": 0,
   "streak": 1,
-  "streak_direction": "W",
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
    "name": "paiN Gaming",
@@ -141,12 +141,12 @@
  },
  {
   "group": 1,
-  "loss_games": 8,
-  "loss_series": 4,
+  "loss_games": 10,
+  "loss_series": 5,
   "place": 8,
   "place_label": "8",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/43/Leviatanlogo_profile.png",
@@ -761,30 +761,10 @@
  },
  {
   "group": 1,
-  "loss_games": 10,
+  "loss_games": 9,
   "loss_series": 4,
   "place": 5,
   "place_label": "5",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
-  },
-  "tie_series": 0,
-  "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 8,
-  "win_series": 3
- },
- {
-  "group": 1,
-  "loss_games": 9,
-  "loss_series": 4,
-  "place": 6,
-  "place_label": "6",
   "points": 0,
   "streak": 1,
   "streak_direction": "L",
@@ -803,8 +783,8 @@
   "group": 1,
   "loss_games": 7,
   "loss_series": 3,
-  "place": 7,
-  "place_label": "7",
+  "place": 6,
+  "place_label": "6",
   "points": 0,
   "streak": 2,
   "streak_direction": "L",
@@ -821,10 +801,50 @@
  },
  {
   "group": 1,
-  "loss_games": 9,
-  "loss_series": 4,
+  "loss_games": 12,
+  "loss_series": 5,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 8,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 11,
+  "loss_series": 5,
   "place": 8,
   "place_label": "8",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/SK_Gaminglogo_profile.png",
+   "name": "SK Gaming",
+   "short": "SK",
+   "slug": "sk-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 7,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 9,
+  "loss_series": 4,
+  "place": 9,
+  "place_label": "9",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -837,26 +857,6 @@
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
   "win_games": 4,
-  "win_series": 2
- },
- {
-  "group": 1,
-  "loss_games": 11,
-  "loss_series": 5,
-  "place": 9,
-  "place_label": "9",
-  "points": 0,
-  "streak": 2,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/SK_Gaminglogo_profile.png",
-   "name": "SK Gaming",
-   "short": "SK",
-   "slug": "sk-gaming"
-  },
-  "tie_series": 0,
-  "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 5,
   "win_series": 2
  },
  {
