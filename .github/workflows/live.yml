@@ -54,7 +54,12 @@ jobs:
             echo "No changes in the live slice."
             exit 0
           fi
-          git commit -m "chore(live): refresh matches and splits in progress [skip ci]"
+          # NO `[skip ci]` here. Cloudflare Workers Builds honours that marker too,
+          # not just GitHub Actions, so tagging the commit froze the deploy: the site
+          # stayed on the 18 Aug build for six days while the cron kept committing
+          # fresh JSON. The push by GITHUB_TOKEN does not retrigger workflows anyway,
+          # so the marker bought nothing and cost the whole point of the cron.
+          git commit -m "chore(live): refresh matches and splits in progress"
           # The heavy data workflow writes to the same branch; rebase instead of
           # failing the run over a race.
           git pull --rebase --autostash

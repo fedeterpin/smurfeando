@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import LeagueMark from "@/components/LeagueMark";
 import { getLiveMeta, getLiveTournaments, getSplitTeams } from "@/lib/live";
 import { T } from "@/lib/i18n";
 import UpdatedAt from "@/components/UpdatedAt";
@@ -50,11 +51,9 @@ export default function SplitsPage() {
               <span className="cutp-in">
                 <span className="split-card-league">
                   {tournament.league_logo ? (
-                    <span
-                      className="league-mark"
-                      style={{ backgroundImage: `url(${tournament.league_logo})` }}
-                      role="img"
-                      aria-label={tournament.league}
+                    <LeagueMark
+                      logo={tournament.league_logo}
+                      label={tournament.league}
                       title={tournament.league}
                     />
                   ) : (

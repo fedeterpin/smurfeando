@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import LeagueMark from "@/components/LeagueMark";
 import Link from "next/link";
 import { useI18n } from "@/lib/i18n";
 import RoleIcon from "@/components/RoleIcon";
@@ -290,12 +291,7 @@ export default function MatchdayBoard({
                 <span className="mday-time">{time}</span>
                 <span className="mday-league" title={tour?.name ?? undefined}>
                   {tour?.league_logo ? (
-                    <span
-                      className="league-mark"
-                      style={{ backgroundImage: `url(${tour.league_logo})` }}
-                      aria-label={tour.league_short}
-                      role="img"
-                    />
+                    <LeagueMark logo={tour.league_logo} label={tour.league_short} />
                   ) : (
                     (tour?.league_short ?? "")
                   )}

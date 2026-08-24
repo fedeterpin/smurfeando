@@ -67,6 +67,13 @@ The two workflows are independent: `update-data.yml` rewrites the almanac
 (`web.sqlite`), `live.yml` rewrites the live slice. Both push to `main`, which is why
 `live.yml` rebases before pushing.
 
+> **Never tag those commits `[skip ci]`.** Cloudflare Workers Builds honours that
+> marker too, not just GitHub Actions, so it skips the deploy — and the cron's whole
+> point is that its push deploys. It cost six days once: between 18 and 24 Aug 2026
+> the cron committed a fresh slice twice a day and the site stayed on the 18 Aug
+> build, showing a matchday that ran out on the 22nd. The marker was not buying
+> anything either: a push made with `GITHUB_TOKEN` does not retrigger workflows.
+
 Locally:
 ```bash
 python -m etl.live --discover   # which tournaments count as in progress right now
