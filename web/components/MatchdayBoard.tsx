@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import LeagueMark from "@/components/LeagueMark";
 import Link from "next/link";
 import { useI18n } from "@/lib/i18n";
+import { thumb } from "@/lib/icons";
 import RoleIcon from "@/components/RoleIcon";
 import TeamLink from "@/components/TeamLink";
 import type {
@@ -45,7 +46,7 @@ function TeamBadge({ team, right }: { team: LiveTeamCard; right?: boolean }) {
     <span className={`mday-side${right ? " right" : ""}`}>
       <span
         className="mday-logo"
-        style={team.logo ? { backgroundImage: `url(${team.logo})` } : undefined}
+        style={team.logo ? { backgroundImage: `url(${thumb(team.logo, 44)})` } : undefined}
         aria-hidden="true"
       >
         {!team.logo && name[0]}
@@ -71,7 +72,9 @@ function PlayerLine({
       <span
         className="mday-face"
         style={
-          lineup.image ? { backgroundImage: `url(${lineup.image})` } : undefined
+          lineup.image
+            ? { backgroundImage: `url(${thumb(lineup.image, 44)})` }
+            : undefined
         }
         aria-hidden="true"
       >
