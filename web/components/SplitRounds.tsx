@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { useI18n } from "@/lib/i18n";
 import TeamLink from "@/components/TeamLink";
+import { thumb } from "@/lib/icons";
 import type { LiveMatch } from "@/lib/live";
 import { parseUtc } from "@/lib/livefmt";
 
@@ -70,7 +71,7 @@ export default function SplitRounds({ matches }: { matches: LiveMatch[] }) {
                       className="round-logo"
                       style={
                         match.team1.logo
-                          ? { backgroundImage: `url(${match.team1.logo})` }
+                          ? { backgroundImage: `url(${thumb(match.team1.logo, 40)})` }
                           : undefined
                       }
                       aria-hidden="true"
@@ -92,7 +93,7 @@ export default function SplitRounds({ matches }: { matches: LiveMatch[] }) {
                       className="round-logo"
                       style={
                         match.team2.logo
-                          ? { backgroundImage: `url(${match.team2.logo})` }
+                          ? { backgroundImage: `url(${thumb(match.team2.logo, 40)})` }
                           : undefined
                       }
                       aria-hidden="true"

@@ -1,4 +1,5 @@
 import TeamLink from "@/components/TeamLink";
+import { thumb } from "@/lib/icons";
 import { T } from "@/lib/i18n";
 import type { LiveStanding } from "@/lib/live";
 
@@ -52,7 +53,7 @@ export default function SplitStandings({ rows }: { rows: LiveStanding[] }) {
                       className="avatar av-30 sq"
                       style={
                         row.team.logo
-                          ? { backgroundImage: `url(${row.team.logo})` }
+                          ? { backgroundImage: `url(${thumb(row.team.logo, 60)})` }
                           : undefined
                       }
                       aria-hidden="true"
