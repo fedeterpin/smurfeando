@@ -177,6 +177,18 @@ and line-based diffs keep git's history far smaller than a binary blob would.
   Every wiki-CDN avatar must go through `icons.thumb(url, width)`: Fandom serves the
   original upload (team logos routinely 100-250 KB) and its edge thumbnailer cuts that
   to ~2 KB at avatar size. Pass 2x the CSS slot width.
+- **League marks are painted, not pasted** (`components/LeagueMark.tsx`). The wiki
+  hosts one logo per rebrand and has no dark-mode variant, so most league wordmarks
+  are pure black artwork drawn for a white page: 8 of the 12 leagues in the slice
+  measure 0.00 saturation and ~1.1:1 against the panel — invisible on the navy, not
+  merely faint. The artwork is therefore used as a CSS `mask-image` and filled with
+  `--league-ink`, so every league reads the same with nothing behind it. Nothing on
+  the site carries a logo plate any more.
+  That only works on cut-out artwork, which is why `etl/imageprobe.py` measures how
+  densely a logo's opaque pixels fill their own bounding box (real marks 20-49%,
+  solid blocks 65-94%) and `live.league_logo` returns only files under the threshold —
+  `LPL 2017 logo.png` is an opaque disc and would paint as a cream slab. When a league
+  has no usable file, `league_logo` is null and the UI falls back to its short name.
 
 ## Deploy
 Static site served by **Cloudflare Workers Builds** (connected to the repo): every push to
