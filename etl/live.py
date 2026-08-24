@@ -25,7 +25,7 @@ import urllib.request
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 
-from etl import config
+from etl import config, imageprobe
 from etl.clients.cargo import CargoSource, cargo_escape
 from etl.transform.aggregate import _slugify, team_logo
 from etl.transform.cleanup import clean
@@ -59,6 +59,7 @@ IN_CHUNK = 20          # OverviewPages per `IN (...)` clause (keeps URLs sane)
 # ADMIRALSlogo square.png' is a team's logo that happens to start with 'LEC'.
 WIKI_API = "https://lol.fandom.com/api.php"
 _LOGO_CACHE: dict[str, list[tuple]] = {}
+_CUTOUT_CACHE: dict[str, bool] = {}
 
 
 def _wiki_api(**params) -> dict:
@@ -104,17 +105,62 @@ def _league_files(short: str, require_logo: bool = True) -> list[tuple]:
     return files
 
 
+def _logo_searches(short: str | None, league: str | None):
+    """Wiki title prefixes to look under, most confident first."""
+    if short:
+        yield short, True
+    if league and league != short:
+        yield league, False
+        # Leaguepedia keeps the sponsor in the league's name ('Tencent LoL Pro
+        # League') while the file is named after the league alone
+        # ('LoL Pro Leaguelogo std.png'), so the sponsorless tail is worth a
+        # look before giving up on a league.
+        _, _, tail = league.partition(" ")
+        if tail and tail not in (short, league):
+            yield tail, False
+
+
+def _is_cutout(url: str) -> bool:
+    """Can this artwork be painted as a silhouette without becoming a slab?
+
+    The site paints league marks in its own ink (see etl/imageprobe), so a logo
+    baked onto a solid background is worse than no logo at all: 'LPL 2017
+    logo.png' is an opaque disc and would render as a cream circle.
+    """
+    if url in _CUTOUT_CACHE:
+        return _CUTOUT_CACHE[url]
+    verdict = False
+    try:
+        # The CDN serves WebP unless asked otherwise; 128px of PNG is ~2 KB.
+        thumbnail = f"{url}/revision/latest/scale-to-width-down/128?format=png"
+        request = urllib.request.Request(thumbnail, headers={"User-Agent": config.USER_AGENT})
+        with urllib.request.urlopen(request, timeout=60) as response:
+            verdict = imageprobe.is_cutout(response.read())
+    except Exception as error:   # the logo is decoration; never fail the run for it
+        print(f"[live] warning: could not read logo {url}: {error}")
+    _CUTOUT_CACHE[url] = verdict
+    return verdict
+
+
 def league_logo(short: str | None, year: str | None,
                 league: str | None = None) -> str | None:
-    files = _league_files(short) if short else []
-    if not files and league and league != short:
-        files = _league_files(league, require_logo=False)
-    if not files:
-        return None
+    """The league's mark for the season being played, or None if it has none usable.
+
+    Returning None is a real answer, not a failure: the site falls back to the
+    league's short name, which beats painting a solid block. Candidates are tried
+    newest-first within each search so a rebrand wins over its predecessor.
+    """
     season = _int(year) or 9999
-    # The logo of the season being played: newest that is not from the future.
-    current = [f for f in files if f[0] <= season] or files
-    return max(current)[3]
+    for prefix, require_logo in _logo_searches(short, league):
+        files = _league_files(prefix, require_logo)
+        if not files:
+            continue
+        # The logo of the season being played: newest that is not from the future.
+        current = [f for f in files if f[0] <= season] or files
+        for candidate in sorted(current, reverse=True):
+            if _is_cutout(candidate[3]):
+                return candidate[3]
+    return None
 
 
 def _standings_groups(rows: list[dict], matches: list[dict]) -> dict[int, int]:

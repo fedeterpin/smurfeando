@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import BackLink from "@/components/BackLink";
+import LeagueMark from "@/components/LeagueMark";
 import SplitRounds from "@/components/SplitRounds";
 import SplitStandings from "@/components/SplitStandings";
 import SplitTable from "@/components/SplitTable";
@@ -27,12 +28,7 @@ export default async function SplitPage({
       <BackLink />
       <section className="page-head">
         {tournament.league_logo && (
-          <span
-            className="league-mark lg"
-            style={{ backgroundImage: `url(${tournament.league_logo})` }}
-            role="img"
-            aria-label={tournament.league}
-          />
+          <LeagueMark logo={tournament.league_logo} label={tournament.league} size="lg" />
         )}
         <p className="kicker">
           {tournament.league_short}

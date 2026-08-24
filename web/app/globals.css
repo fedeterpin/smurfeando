@@ -36,11 +36,10 @@
   --wash: linear-gradient(180deg, rgba(200, 170, 110, 0.22), rgba(200, 170, 110, 0.05));
   --wash-soft: linear-gradient(180deg, rgba(200, 170, 110, 0.12), rgba(200, 170, 110, 0.03));
   --panel-base: #0d1322;
-  /* Logo plate: many league wordmarks and team crests are dark artwork made for
-     a white page, and the wiki has no dark-mode variant. A muted plate with a
-     thin frame makes them readable without punching a white hole in the panel. */
-  --logo-plate: rgba(226, 223, 212, 0.72);
-  --logo-frame: rgba(200, 170, 110, 0.32);
+  /* League marks are painted, not pasted: the wiki's wordmarks are black artwork
+     made for a white page, so the artwork is used as a mask and filled with this.
+     See components/LeagueMark.tsx. Nothing on the site carries a plate any more. */
+  --league-ink: var(--ink);
 
   --grad-gold-text: linear-gradient(180deg, #f5ecd7 20%, var(--gold) 80%);
 
@@ -1515,23 +1514,30 @@ a.roster-now-card:hover .roster-now-name { color: var(--gold); }
   width: 56px;
   height: 24px;
   vertical-align: middle;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  /* Several league wordmarks are black artwork made for a white page (LCK, LCP,
-     PCS) and the wiki has no dark-mode variant, so every mark sits on the same
-     soft plate instead of half of them disappearing into the navy. */
-  background-color: var(--logo-plate);
-  border: 1px solid var(--logo-frame);
-  border-radius: 4px;
-  padding: 3px 5px;
+  /* The artwork is a MASK, not an image: 8 of the 12 leagues in the slice ship
+     pure black wordmarks drawn for a white page (0.00 saturation, ~1.1:1 against
+     this panel) and the wiki has no dark variant, so they are painted instead of
+     shown. Uniform, legible, and nothing sits behind them -- the same treatment
+     the team crests got. The URL arrives per-instance from LeagueMark.tsx. */
+  background-color: var(--league-ink);
+  /* Default to a mask that hides everything: without it, a `.league-mark` written
+     by hand (no --league-mark set) would fall back to `mask-image: none` and paint
+     a solid ink rectangle. Missing artwork should show nothing, not a slab. */
+  --league-mark: linear-gradient(transparent, transparent);
+  -webkit-mask-image: var(--league-mark);
+  mask-image: var(--league-mark);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
 }
 .league-mark.lg {
   display: block;
   width: 128px;
   height: 44px;
   margin: 0 auto 12px;
-  padding: 6px 10px;
 }
 .mday-league .league-mark { width: 46px; height: 18px; }
 .split-card-league {

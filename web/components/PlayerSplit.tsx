@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import LeagueMark from "@/components/LeagueMark";
 import Link from "next/link";
 import { useI18n } from "@/lib/i18n";
 import InfoTip from "@/components/InfoTip";
@@ -38,12 +39,7 @@ export default function PlayerSplit({ entry }: { entry: PlayerSplitEntry }) {
     <div className="psplit">
       <div className="psplit-head">
         {tournament?.league_logo && (
-          <span
-            className="league-mark"
-            style={{ backgroundImage: `url(${tournament.league_logo})` }}
-            role="img"
-            aria-label={tournament.league}
-          />
+          <LeagueMark logo={tournament.league_logo} label={tournament.league} />
         )}
         <Link className="psplit-name" href={`/splits/${tournament?.slug ?? ""}`}>
           {tournament?.name ?? line.tournament}
