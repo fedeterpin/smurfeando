@@ -741,23 +741,23 @@
  },
  {
   "group": 1,
-  "loss_games": 6,
-  "loss_series": 3,
+  "loss_games": 9,
+  "loss_series": 4,
   "place": 4,
   "place_label": "4",
   "points": 0,
-  "streak": 3,
+  "streak": 1,
   "streak_direction": "W",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fnaticlogo_profile.png",
-   "name": "Fnatic",
-   "short": "FNC",
-   "slug": "fnatic"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
   },
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 8,
-  "win_series": 3
+  "win_games": 9,
+  "win_series": 4
  },
  {
   "group": 1,
@@ -781,7 +781,7 @@
  },
  {
   "group": 1,
-  "loss_games": 9,
+  "loss_games": 8,
   "loss_series": 4,
   "place": 6,
   "place_label": "6",
@@ -789,14 +789,14 @@
   "streak": 1,
   "streak_direction": "L",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
-   "name": "Natus Vincere",
-   "short": "NAVI",
-   "slug": "natus-vincere"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fnaticlogo_profile.png",
+   "name": "Fnatic",
+   "short": "FNC",
+   "slug": "fnatic"
   },
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 7,
+  "win_games": 8,
   "win_series": 3
  },
  {
