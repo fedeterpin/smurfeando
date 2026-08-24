@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import LeagueMark from "@/components/LeagueMark";
+import { thumb } from "@/lib/icons";
 import { getLiveMeta, getLiveTournaments, getSplitTeams } from "@/lib/live";
 import { T } from "@/lib/i18n";
 import UpdatedAt from "@/components/UpdatedAt";
@@ -78,7 +79,7 @@ export default function SplitsPage() {
                           title={team.name ?? undefined}
                           style={
                             team.logo
-                              ? { backgroundImage: `url(${team.logo})` }
+                              ? { backgroundImage: `url(${thumb(team.logo, 40)})` }
                               : undefined
                           }
                         />

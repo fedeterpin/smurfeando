@@ -1,5 +1,6 @@
 import Link from "next/link";
 import RoleIcon from "@/components/RoleIcon";
+import { thumb } from "@/lib/icons";
 import { T, Num } from "@/lib/i18n";
 import { ROLES } from "@/lib/stats";
 
@@ -34,7 +35,9 @@ export default function CurrentRoster({ rows }: { rows: RosterCard[] }) {
             <span
               className="avatar av-56"
               style={
-                player.image ? { backgroundImage: `url(${player.image})` } : undefined
+                player.image
+                  ? { backgroundImage: `url(${thumb(player.image, 112)})` }
+                  : undefined
               }
               aria-hidden="true"
             >
