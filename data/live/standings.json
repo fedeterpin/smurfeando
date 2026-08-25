@@ -881,12 +881,12 @@
  },
  {
   "group": 1,
-  "loss_games": 9,
+  "loss_games": 10,
   "loss_series": 2,
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 4,
+  "streak": 5,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
@@ -896,17 +896,17 @@
   },
   "tie_series": 0,
   "tournament": "LPL/2026 Season/Split 3",
-  "win_games": 23,
-  "win_series": 11
+  "win_games": 25,
+  "win_series": 12
  },
  {
   "group": 1,
-  "loss_games": 12,
-  "loss_series": 4,
+  "loss_games": 14,
+  "loss_series": 5,
   "place": 2,
   "place_label": "2",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
@@ -916,7 +916,7 @@
   },
   "tie_series": 0,
   "tournament": "LPL/2026 Season/Split 3",
-  "win_games": 21,
+  "win_games": 22,
   "win_series": 9
  },
  {
