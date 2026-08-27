@@ -9421,6 +9421,486 @@
   "wins": 2
  },
  {
+  "assists": 36,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nidalee",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.31,
+  "deaths": 14,
+  "dpm": 759.6,
+  "games": 4,
+  "gpm": 407.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
+  "kda": 3.64,
+  "kills": 15,
+  "kp": 0.6892,
+  "losses": 1,
+  "minutes": 121.2,
+  "player": "Clear (Song Hyeon-min)",
+  "player_id": "Clear",
+  "role": "Top",
+  "slug": "clear",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 1.25,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 24,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sivir",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Varus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.78,
+  "deaths": 13,
+  "dpm": 611.1,
+  "games": 4,
+  "gpm": 457.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/NS_Diable_2026_Split_2.png",
+  "kda": 2.85,
+  "kills": 13,
+  "kp": 0.6271,
+  "losses": 3,
+  "minutes": 121.2,
+  "player": "Diable",
+  "player_id": "Diable",
+  "role": "Bot",
+  "slug": "diable",
+  "team": "Nongshim RedForce",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+  "team_short": "NS",
+  "team_slug": "nongshim-redforce",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 1.27,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 59,
+  "champions": [
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.82,
+  "deaths": 7,
+  "dpm": 217.0,
+  "games": 4,
+  "gpm": 275.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png",
+  "kda": 9.0,
+  "kills": 4,
+  "kp": 0.8514,
+  "losses": 1,
+  "minutes": 121.2,
+  "player": "Kellin",
+  "player_id": "Kellin",
+  "role": "Support",
+  "slug": "kellin",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 3.7,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 18,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Gwen",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jax",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.68,
+  "deaths": 13,
+  "dpm": 631.4,
+  "games": 4,
+  "gpm": 403.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b1/NS_Kingen_2026_Split_1.png",
+  "kda": 2.54,
+  "kills": 15,
+  "kp": 0.5593,
+  "losses": 3,
+  "minutes": 121.2,
+  "player": "Kingen",
+  "player_id": "Kingen",
+  "role": "Top",
+  "slug": "kingen",
+  "team": "Nongshim RedForce",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+  "team_short": "NS",
+  "team_slug": "nongshim-redforce",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 1.39,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 39,
+  "champions": [
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Neeko",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Shen",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.16,
+  "deaths": 19,
+  "dpm": 176.4,
+  "games": 4,
+  "gpm": 256.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/NS_Lehends_2026_Split_1.png",
+  "kda": 2.26,
+  "kills": 4,
+  "kp": 0.7288,
+  "losses": 3,
+  "minutes": 121.2,
+  "player": "Lehends",
+  "player_id": "Lehends",
+  "role": "Support",
+  "slug": "lehends",
+  "team": "Nongshim RedForce",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+  "team_short": "NS",
+  "team_slug": "nongshim-redforce",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 4.14,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 39,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.16,
+  "deaths": 17,
+  "dpm": 533.1,
+  "games": 4,
+  "gpm": 407.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png",
+  "kda": 3.0,
+  "kills": 12,
+  "kp": 0.6892,
+  "losses": 1,
+  "minutes": 121.2,
+  "player": "Raptor (Jeon Eo-jin)",
+  "player_id": "Raptor",
+  "role": "Jungle",
+  "slug": "raptor",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 1.9,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 25,
+  "champions": [
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.76,
+  "deaths": 14,
+  "dpm": 616.4,
+  "games": 4,
+  "gpm": 420.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8c/NS_Scout_2026_Split_1.png",
+  "kda": 3.21,
+  "kills": 20,
+  "kp": 0.7627,
+  "losses": 3,
+  "minutes": 121.2,
+  "player": "Scout",
+  "player_id": "Scout",
+  "role": "Mid",
+  "slug": "scout",
+  "team": "Nongshim RedForce",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+  "team_short": "NS",
+  "team_slug": "nongshim-redforce",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 1.12,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 41,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Wukong",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.48,
+  "deaths": 15,
+  "dpm": 478.1,
+  "games": 4,
+  "gpm": 363.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/NS_Sponge_2026_Split_1.png",
+  "kda": 3.2,
+  "kills": 7,
+  "kp": 0.8136,
+  "losses": 3,
+  "minutes": 121.2,
+  "player": "Sponge",
+  "player_id": "Sponge",
+  "role": "Jungle",
+  "slug": "sponge",
+  "team": "Nongshim RedForce",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
+  "team_short": "NS",
+  "team_slug": "nongshim-redforce",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 1.66,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 36,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.02,
+  "deaths": 9,
+  "dpm": 631.9,
+  "games": 4,
+  "gpm": 488.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png",
+  "kda": 5.89,
+  "kills": 17,
+  "kp": 0.7162,
+  "losses": 1,
+  "minutes": 121.2,
+  "player": "Taeyoon (Kim Tae-yoon)",
+  "player_id": "Taeyoon",
+  "role": "Bot",
+  "slug": "taeyoon",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 2.0,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 25,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Azir",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Taliyah",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.18,
+  "deaths": 12,
+  "dpm": 738.2,
+  "games": 4,
+  "gpm": 413.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png",
+  "kda": 4.25,
+  "kills": 26,
+  "kp": 0.6892,
+  "losses": 1,
+  "minutes": 121.2,
+  "player": "VicLa",
+  "player_id": "VicLa",
+  "role": "Mid",
+  "slug": "vicla",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "LCK/2026 Season/Season Play-In",
+  "vspm": 1.14,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
   "assists": 160,
   "champions": [
    {

@@ -7683,16 +7683,16 @@
    "short": "NS",
    "slug": "nongshim-redforce"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
    "name": "BNK FEARX",
    "short": "BFX",
    "slug": "bnk-fearx"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCK/2026 Season/Season Play-In",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -7766,10 +7766,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Play-In",
@@ -9049,11 +9049,11 @@
   "datetime_utc": "2026-09-08 09:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "LPL/2026 Season/Grand Finals_Round 2_5",
+  "match_id": "LPL/2026 Season/Grand Finals_Round 3_1",
   "patch": "26.17",
   "phase": null,
   "round": null,
-  "tab": "Round 2",
+  "tab": "Round 3",
   "team1": {
    "logo": null,
    "name": "TBD",
