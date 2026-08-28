@@ -841,12 +841,12 @@
  },
  {
   "group": 1,
-  "loss_games": 11,
-  "loss_series": 5,
+  "loss_games": 13,
+  "loss_series": 6,
   "place": 9,
   "place_label": "9",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Hereticslogo_square.png",
@@ -866,8 +866,8 @@
   "place": 10,
   "place_label": "10",
   "points": 0,
-  "streak": 7,
-  "streak_direction": "L",
+  "streak": 1,
+  "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/Shifterslogo_profile.png",
    "name": "Shifters",
@@ -876,8 +876,8 @@
   },
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 3,
-  "win_series": 0
+  "win_games": 5,
+  "win_series": 1
  },
  {
   "group": 1,

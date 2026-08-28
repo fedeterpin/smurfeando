@@ -1900,6 +1900,56 @@
   "tournament": "LCK/2026 Season/Season Play-In"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
+  "player": "Clear (Song Hyeon-min)",
+  "player_id": "Clear",
+  "role": "Top",
+  "slug": "clear",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png",
+  "player": "Raptor (Jeon Eo-jin)",
+  "player_id": "Raptor",
+  "role": "Jungle",
+  "slug": "raptor",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png",
+  "player": "VicLa",
+  "player_id": "VicLa",
+  "role": "Mid",
+  "slug": "vicla",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png",
+  "player": "Taeyoon (Kim Tae-yoon)",
+  "player_id": "Taeyoon",
+  "role": "Bot",
+  "slug": "taeyoon",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png",
+  "player": "Kellin",
+  "player_id": "Kellin",
+  "role": "Support",
+  "slug": "kellin",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "LCK/2026 Season/Season Playoffs"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DK_Siwoo_2026_Split_1.png",
   "player": "Siwoo",
   "player_id": "Siwoo",
@@ -3728,6 +3778,206 @@
   "source": "roster",
   "team": "Uwinks",
   "tournament": "LJL/2026 Season/Summer Championship"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/EDG_Zdz_2026_Split_1.png",
+  "player": "Zdz",
+  "player_id": "Zdz",
+  "role": "Top",
+  "slug": "zdz",
+  "source": "roster",
+  "team": "EDward Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/WBG_Jiejie_2026_Split_1.png",
+  "player": "Jiejie",
+  "player_id": "Jiejie",
+  "role": "Jungle",
+  "slug": "jiejie",
+  "source": "roster",
+  "team": "EDward Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/EDG_BuLLDoG_2026_Split_3.png",
+  "player": "BuLLDoG (Lee Tae-young)",
+  "player_id": "BuLLDoG",
+  "role": "Mid",
+  "slug": "bulldog",
+  "source": "roster",
+  "team": "EDward Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/EDG_Leave_2026_Split_1.png",
+  "player": "Leave",
+  "player_id": "Leave",
+  "role": "Bot",
+  "slug": "leave",
+  "source": "roster",
+  "team": "EDward Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/EDG_Parukia_2026_Split_1.png",
+  "player": "Parukia",
+  "player_id": "Parukia",
+  "role": "Support",
+  "slug": "parukia",
+  "source": "roster",
+  "team": "EDward Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/IG_TheShy_2025_Split_1.png",
+  "player": "TheShy",
+  "player_id": "TheShy",
+  "role": "Top",
+  "slug": "theshy",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/IG_Wei_2026_Split_1.png",
+  "player": "Wei (Yan Yang-Wei)",
+  "player_id": "Wei",
+  "role": "Jungle",
+  "slug": "wei",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1b/IG_Rookie_2026_Split_1.png",
+  "player": "Rookie",
+  "player_id": "Rookie",
+  "role": "Mid",
+  "slug": "rookie",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/TES_JiaQi_2026_Split_1.png",
+  "player": "JiaQi",
+  "player_id": "JiaQi",
+  "role": "Bot",
+  "slug": "jiaqi",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/IG_Meiko_2026_Split_1.png",
+  "player": "Meiko",
+  "player_id": "Meiko",
+  "role": "Support",
+  "slug": "meiko",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/33/NIP_HOYA_2026_Split_1.png",
+  "player": "HOYA",
+  "player_id": "HOYA",
+  "role": "Top",
+  "slug": "hoya",
+  "source": "roster",
+  "team": "Ninjas in Pyjamas.CN",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/NIP_Guwon_2026_Split_1.png",
+  "player": "Guwon",
+  "player_id": "Guwon",
+  "role": "Jungle",
+  "slug": "guwon",
+  "source": "roster",
+  "team": "Ninjas in Pyjamas.CN",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/NIP_Care_2026_Split_1.png",
+  "player": "Care",
+  "player_id": "Care",
+  "role": "Mid",
+  "slug": "care",
+  "source": "roster",
+  "team": "Ninjas in Pyjamas.CN",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/NIP_Photic_2026_Split_3.png",
+  "player": "Photic",
+  "player_id": "Photic",
+  "role": "Bot",
+  "slug": "photic",
+  "source": "roster",
+  "team": "Ninjas in Pyjamas.CN",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": null,
+  "player": "Fengyue",
+  "player_id": "fengyue",
+  "role": "Support",
+  "slug": "fengyue",
+  "source": "roster",
+  "team": "Ninjas in Pyjamas.CN",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/TT_Keshi_2026_Split_1.png",
+  "player": "Keshi (Li Qing-Hua)",
+  "player_id": "Keshi",
+  "role": "Top",
+  "slug": "keshi",
+  "source": "roster",
+  "team": "ThunderTalk Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/TT_Junhao_2026_Split_1.png",
+  "player": "Junhao",
+  "player_id": "Junhao",
+  "role": "Jungle",
+  "slug": "junhao",
+  "source": "roster",
+  "team": "ThunderTalk Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/TT_Heru_2026_Split_1.png",
+  "player": "Heru",
+  "player_id": "Heru",
+  "role": "Mid",
+  "slug": "heru",
+  "source": "roster",
+  "team": "ThunderTalk Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/TT_Ahn_2026_Split_2.png",
+  "player": "Ahn",
+  "player_id": "Ahn",
+  "role": "Bot",
+  "slug": "ahn",
+  "source": "roster",
+  "team": "ThunderTalk Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/TT_Feather_2026_Split_1.png",
+  "player": "Feather",
+  "player_id": "Feather",
+  "role": "Support",
+  "slug": "feather",
+  "source": "roster",
+  "team": "ThunderTalk Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",

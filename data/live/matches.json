@@ -7737,16 +7737,16 @@
    "short": "EDG",
    "slug": "edward-gaming"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Ninjas_in_Pyjamas.CNlogo_profile.png",
    "name": "Ninjas in Pyjamas.CN",
    "short": "NIP",
    "slug": "ninjas-in-pyjamas-cn"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -7764,20 +7764,20 @@
    "short": "BRO",
    "slug": "hanjin-brion"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
    "name": "BNK FEARX",
    "short": "BFX",
    "slug": "bnk-fearx"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCK/2026 Season/Season Play-In",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-08-28 09:00:00",
+  "datetime_utc": "2026-08-28 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Grand Finals_Knight's Road_2",
@@ -7791,16 +7791,16 @@
    "short": "TT",
    "slug": "thundertalk-gaming"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
    "name": "Invictus Gaming",
    "short": "iG",
    "slug": "invictus-gaming"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -7808,7 +7808,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LEC/2026 Season/Summer Season_Week 6_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 6",
@@ -7818,16 +7818,16 @@
    "short": "SHFT",
    "slug": "shifters"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Hereticslogo_square.png",
    "name": "Team Heretics",
    "short": "TH",
    "slug": "team-heretics"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -7835,7 +7835,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LEC/2026 Season/Summer Season_Week 6_2",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 6",
@@ -7874,10 +7874,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -7885,7 +7885,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-08-29 09:00:00",
+  "datetime_utc": "2026-08-29 08:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCP/2026 Season/Split 3_Semifinals_2",
@@ -7943,7 +7943,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LEC/2026 Season/Summer Season_Week 6_3",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 6",
@@ -7997,7 +7997,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LEC/2026 Season/Summer Season_Week 6_4",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 6",
@@ -8117,10 +8117,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -8128,7 +8128,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-08-30 09:00:00",
+  "datetime_utc": "2026-08-30 08:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCP/2026 Season/Split 3_Finals_1",
@@ -8186,7 +8186,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LEC/2026 Season/Summer Season_Week 6_5",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 6",
@@ -8213,7 +8213,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LEC/2026 Season/Summer Season_Week 6_6",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 6",
@@ -8267,7 +8267,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LEC/2026 Season/Summer Season_Week 6_7",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 6",
@@ -8677,10 +8677,10 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
   },
   "team1_score": null,
   "team2": {
@@ -8731,10 +8731,10 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Ninjas_in_Pyjamas.CNlogo_profile.png",
+   "name": "Ninjas in Pyjamas.CN",
+   "short": "NIP",
+   "slug": "ninjas-in-pyjamas-cn"
   },
   "team1_score": null,
   "team2": {
