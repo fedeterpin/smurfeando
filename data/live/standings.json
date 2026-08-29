@@ -701,10 +701,30 @@
  },
  {
   "group": 1,
-  "loss_games": 7,
-  "loss_series": 3,
+  "loss_games": 8,
+  "loss_series": 2,
   "place": 2,
   "place_label": "2",
+  "points": 0,
+  "streak": 6,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
+   "name": "Team Vitality",
+   "short": "VIT",
+   "slug": "team-vitality"
+  },
+  "tie_series": 0,
+  "tournament": "LEC/2026 Season/Summer Season",
+  "win_games": 12,
+  "win_series": 6
+ },
+ {
+  "group": 1,
+  "loss_games": 7,
+  "loss_series": 3,
+  "place": 3,
+  "place_label": "3",
   "points": 0,
   "streak": 2,
   "streak_direction": "L",
@@ -718,26 +738,6 @@
   "tournament": "LEC/2026 Season/Summer Season",
   "win_games": 14,
   "win_series": 6
- },
- {
-  "group": 1,
-  "loss_games": 7,
-  "loss_series": 2,
-  "place": 3,
-  "place_label": "3",
-  "points": 0,
-  "streak": 5,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
-   "name": "Team Vitality",
-   "short": "VIT",
-   "slug": "team-vitality"
-  },
-  "tie_series": 0,
-  "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 10,
-  "win_series": 5
  },
  {
   "group": 1,
@@ -781,12 +781,12 @@
  },
  {
   "group": 1,
-  "loss_games": 8,
-  "loss_series": 4,
+  "loss_games": 10,
+  "loss_series": 5,
   "place": 6,
   "place_label": "6",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Fnaticlogo_profile.png",
@@ -796,7 +796,7 @@
   },
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 8,
+  "win_games": 9,
   "win_series": 3
  },
  {
