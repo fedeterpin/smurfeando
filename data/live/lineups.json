@@ -3880,6 +3880,56 @@
   "tournament": "LPL/2026 Season/Grand Finals"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LGD_Burdol_2026_Split_2.png",
+  "player": "Burdol",
+  "player_id": "Burdol",
+  "role": "Top",
+  "slug": "burdol",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/LGD_Heng_2026_Split_1.png",
+  "player": "Heng",
+  "player_id": "Heng",
+  "role": "Jungle",
+  "slug": "heng",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/LGD_Tangyuan_2026_Split_1.png",
+  "player": "Tangyuan",
+  "player_id": "Tangyuan",
+  "role": "Mid",
+  "slug": "tangyuan",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/LGD_Shaoye_2026_Split_1.png",
+  "player": "Shaoye",
+  "player_id": "Shaoye",
+  "role": "Bot",
+  "slug": "shaoye",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/LGD_Crisp_2026_Split_3.png",
+  "player": "Crisp",
+  "player_id": "Crisp",
+  "role": "Support",
+  "slug": "crisp",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/33/NIP_HOYA_2026_Split_1.png",
   "player": "HOYA",
   "player_id": "HOYA",
@@ -3977,6 +4027,56 @@
   "slug": "feather",
   "source": "roster",
   "team": "ThunderTalk Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/TES_ZUIAN_2026_Split_2.png",
+  "player": "ZUIAN",
+  "player_id": "ZUIAN",
+  "role": "Top",
+  "slug": "zuian",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/TES_Tian_2026_Split_2.png",
+  "player": "Tian",
+  "player_id": "Tian",
+  "role": "Jungle",
+  "slug": "tian",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/TES_Creme_2026_Split_1.png",
+  "player": "Creme",
+  "player_id": "Creme",
+  "role": "Mid",
+  "slug": "creme",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/TES_JackeyLove_2026_Split_1.png",
+  "player": "JackeyLove",
+  "player_id": "JackeyLove",
+  "role": "Bot",
+  "slug": "jackeylove",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/TES_Zhuo_2026_Split_3.png",
+  "player": "Zhuo",
+  "player_id": "Zhuo",
+  "role": "Support",
+  "slug": "zhuo",
+  "source": "roster",
+  "team": "Top Esports",
   "tournament": "LPL/2026 Season/Grand Finals"
  },
  {

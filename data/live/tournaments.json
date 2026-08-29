@@ -1,6 +1,6 @@
 [
  {
-  "games": 52,
+  "games": 54,
   "is_playoffs": false,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -10,7 +10,8 @@
   "patches": [
    "26.14",
    "26.15",
-   "26.16"
+   "26.16",
+   "26.17"
   ],
   "region": "brazil",
   "region_label": "Brazil",
@@ -19,7 +20,7 @@
   "year": "2026"
  },
  {
-  "games": 6,
+  "games": 11,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -27,7 +28,8 @@
   "name": "LPL 2026 Grand Finals",
   "overview_page": "LPL/2026 Season/Grand Finals",
   "patches": [
-   "26.16"
+   "26.16",
+   "26.17"
   ],
   "region": "china",
   "region_label": "China",
@@ -55,7 +57,7 @@
   "year": "2026"
  },
  {
-  "games": 94,
+  "games": 96,
   "is_playoffs": false,
   "league": "LoL EMEA Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/LEC_logo_small.png",
@@ -147,14 +149,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 5,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
   "league_short": "LCK",
   "name": "LCK 2026 Season Playoffs",
   "overview_page": "LCK/2026 Season/Season Playoffs",
-  "patches": [],
+  "patches": [
+   "26.16"
+  ],
   "region": "korea",
   "region_label": "Korea",
   "slug": "lck-2026-season-season-playoffs",
@@ -181,7 +185,7 @@
   "year": "2026"
  },
  {
-  "games": 75,
+  "games": 79,
   "is_playoffs": false,
   "league": "League of Legends Championship Pacific",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/LCP_Logo.png",

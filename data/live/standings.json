@@ -1,10 +1,30 @@
 [
  {
   "group": 1,
-  "loss_games": 2,
+  "loss_games": 3,
   "loss_series": 1,
   "place": 1,
   "place_label": "1",
+  "points": 0,
+  "streak": 4,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+   "name": "LOUD",
+   "short": "LOUD",
+   "slug": "loud"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 12,
+  "win_series": 6
+ },
+ {
+  "group": 1,
+  "loss_games": 2,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
   "points": 0,
   "streak": 1,
   "streak_direction": "L",
@@ -13,26 +33,6 @@
    "name": "LØS",
    "short": "LOS",
    "slug": "l-s"
-  },
-  "tie_series": 0,
-  "tournament": "CBLOL/2026 Season/Split 2",
-  "win_games": 10,
-  "win_series": 5
- },
- {
-  "group": 1,
-  "loss_games": 3,
-  "loss_series": 1,
-  "place": 2,
-  "place_label": "2",
-  "points": 0,
-  "streak": 3,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
-   "name": "LOUD",
-   "short": "LOUD",
-   "slug": "loud"
   },
   "tie_series": 0,
   "tournament": "CBLOL/2026 Season/Split 2",
@@ -87,26 +87,6 @@
   "place_label": "5",
   "points": 0,
   "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-   "name": "RED Canids",
-   "short": "RED",
-   "slug": "red-canids"
-  },
-  "tie_series": 0,
-  "tournament": "CBLOL/2026 Season/Split 2",
-  "win_games": 6,
-  "win_series": 2
- },
- {
-  "group": 1,
-  "loss_games": 8,
-  "loss_series": 4,
-  "place": 6,
-  "place_label": "6",
-  "points": 0,
-  "streak": 1,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
@@ -117,6 +97,26 @@
   "tie_series": 0,
   "tournament": "CBLOL/2026 Season/Split 2",
   "win_games": 5,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 10,
+  "loss_series": 5,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "tie_series": 0,
+  "tournament": "CBLOL/2026 Season/Split 2",
+  "win_games": 6,
   "win_series": 2
  },
  {
@@ -686,7 +686,7 @@
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 8,
+  "streak": 9,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
@@ -696,8 +696,8 @@
   },
   "tie_series": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "win_games": 16,
-  "win_series": 8
+  "win_games": 18,
+  "win_series": 9
  },
  {
   "group": 1,
@@ -821,13 +821,13 @@
  },
  {
   "group": 1,
-  "loss_games": 11,
-  "loss_series": 5,
+  "loss_games": 13,
+  "loss_series": 6,
   "place": 8,
   "place_label": "8",
   "points": 0,
   "streak": 1,
-  "streak_direction": "W",
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2f/SK_Gaminglogo_profile.png",
    "name": "SK Gaming",
