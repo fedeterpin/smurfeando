@@ -7872,14 +7872,14 @@
    "short": "T1",
    "slug": "t1"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
    "name": "BNK FEARX",
    "short": "BFX",
    "slug": "bnk-fearx"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LCK/2026 Season/Season Playoffs",
   "winner": null
  },
@@ -7899,16 +7899,16 @@
    "short": "CFO",
    "slug": "ctbc-flying-oyster"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
    "name": "MVK Esports",
    "short": "MVK",
    "slug": "mvk-esports"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LCP/2026 Season/Split 3",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -7916,7 +7916,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Grand Finals_Round 1_1",
-  "patch": "26.16",
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -7926,14 +7926,14 @@
    "short": "TES",
    "slug": "top-esports"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
    "name": "LGD Gaming",
    "short": "LGD",
    "slug": "lgd-gaming"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LPL/2026 Season/Grand Finals",
   "winner": null
  },
@@ -8144,10 +8144,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
+   "name": "CTBC Flying Oyster",
+   "short": "CFO",
+   "slug": "ctbc-flying-oyster"
   },
   "team2_score": null,
   "tournament": "LCP/2026 Season/Split 3",
@@ -8159,7 +8159,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Grand Finals_Round 1_2",
-  "patch": "26.16",
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -8515,10 +8515,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-   "name": "Anyone's Legend",
-   "short": "AL",
-   "slug": "anyone-s-legend"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
   },
   "team1_score": null,
   "team2": {
@@ -8596,10 +8596,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-   "name": "Bilibili Gaming",
-   "short": "BLG",
-   "slug": "bilibili-gaming"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
   },
   "team1_score": null,
   "team2": {
