@@ -20,7 +20,7 @@
   "year": "2026"
  },
  {
-  "games": 11,
+  "games": 15,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -57,7 +57,7 @@
   "year": "2026"
  },
  {
-  "games": 99,
+  "games": 106,
   "is_playoffs": false,
   "league": "LoL EMEA Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/LEC_logo_small.png",
@@ -73,6 +73,21 @@
   "region": "europe",
   "region_label": "Europe",
   "slug": "lec-2026-season-summer-season",
+  "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": true,
+  "league": "LoL EMEA Championship",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/LEC_logo_small.png",
+  "league_short": "LEC",
+  "name": "LEC 2026 Summer Playoffs",
+  "overview_page": "LEC/2026 Season/Summer Playoffs",
+  "patches": [],
+  "region": "europe",
+  "region_label": "Europe",
+  "slug": "lec-2026-season-summer-playoffs",
   "split": "Summer",
   "year": "2026"
  },
@@ -149,7 +164,7 @@
   "year": "2026"
  },
  {
-  "games": 5,
+  "games": 8,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
@@ -186,7 +201,7 @@
   "year": "2026"
  },
  {
-  "games": 79,
+  "games": 82,
   "is_playoffs": false,
   "league": "League of Legends Championship Pacific",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/LCP_Logo.png",

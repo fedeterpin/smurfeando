@@ -8122,9 +8122,9 @@
    "short": "KT",
    "slug": "kt-rolster"
   },
-  "team2_score": 2,
+  "team2_score": 3,
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8142,7 +8142,7 @@
    "short": "TSW",
    "slug": "team-secret-whales"
   },
-  "team1_score": 2,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
    "name": "CTBC Flying Oyster",
@@ -8151,7 +8151,7 @@
   },
   "team2_score": 0,
   "tournament": "LCP/2026 Season/Split 3",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8169,16 +8169,16 @@
    "short": "JDG",
    "slug": "jd-gaming"
   },
-  "team1_score": 0,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
    "name": "Team WE",
    "short": "WE",
    "slug": "team-we"
   },
-  "team2_score": 1,
+  "team2_score": 3,
   "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -8196,16 +8196,16 @@
    "short": "SHFT",
    "slug": "shifters"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
    "name": "Team Vitality",
    "short": "VIT",
    "slug": "team-vitality"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -8223,16 +8223,16 @@
    "short": "MKOI",
    "slug": "movistar-koi"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/Team_Hereticslogo_square.png",
    "name": "Team Heretics",
    "short": "TH",
    "slug": "team-heretics"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -8250,16 +8250,16 @@
    "short": "PAIN",
    "slug": "pain-gaming"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
    "name": "Vivo Keyd Stars",
    "short": "VKS",
    "slug": "vivo-keyd-stars"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "CBLOL/2026 Season/Split 2",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -8277,16 +8277,16 @@
    "short": "FNC",
    "slug": "fnatic"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/GIANTXlogo_profile.png",
    "name": "GIANTX",
    "short": "GX",
    "slug": "giantx"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -8387,10 +8387,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -8441,10 +8441,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -8495,10 +8495,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia",
+   "short": "DK",
+   "slug": "dplus-kia"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -8515,17 +8515,17 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-   "name": "Anyone's Legend",
-   "short": "AL",
-   "slug": "anyone-s-legend"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
-   "name": "LGD Gaming",
-   "short": "LGD",
-   "slug": "lgd-gaming"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Grand Finals",
@@ -8596,17 +8596,17 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-   "name": "Bilibili Gaming",
-   "short": "BLG",
-   "slug": "bilibili-gaming"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Grand Finals",
@@ -8738,10 +8738,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Grand Finals",
@@ -8772,6 +8772,60 @@
   },
   "team2_score": null,
   "tournament": "PCS/2026 Season/Summer Season",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-05 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
+   "name": "Team Vitality",
+   "short": "VIT",
+   "slug": "team-vitality"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-05 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/GIANTXlogo_profile.png",
+   "name": "GIANTX",
+   "short": "GX",
+   "slug": "giantx"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
   "winner": null
  },
  {
@@ -8964,6 +9018,33 @@
   "winner": null
  },
  {
+  "best_of": 5,
+  "datetime_utc": "2026-09-06 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 3_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 3",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
   "best_of": 3,
   "datetime_utc": "2026-09-06 20:00:00",
   "group": null,
@@ -9076,6 +9157,33 @@
   "datetime_utc": "2026-09-11 15:00:00",
   "group": null,
   "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-11 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
   "match_id": "TCL/2026 Season/Summer Split_Finals_1",
   "patch": "26.17",
   "phase": null,
@@ -9150,6 +9258,33 @@
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Grand Finals",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-12 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
   "winner": null
  },
  {
@@ -9262,6 +9397,33 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-09-18 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 2_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-09-19 09:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -9285,6 +9447,60 @@
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Regional Finals",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-19 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 3_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 3",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-20 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LEC/2026 Season/Summer Playoffs_Finals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Finals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LEC/2026 Season/Summer Playoffs",
   "winner": null
  }
 ]
