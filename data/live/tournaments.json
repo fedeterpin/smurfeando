@@ -1,6 +1,6 @@
 [
  {
-  "games": 54,
+  "games": 57,
   "is_playoffs": false,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -57,7 +57,7 @@
   "year": "2026"
  },
  {
-  "games": 96,
+  "games": 99,
   "is_playoffs": false,
   "league": "LoL EMEA Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/LEC_logo_small.png",
@@ -166,7 +166,7 @@
   "year": "2026"
  },
  {
-  "games": 46,
+  "games": 51,
   "is_playoffs": false,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
@@ -176,7 +176,8 @@
   "patches": [
    "26.14",
    "26.15",
-   "26.16"
+   "26.16",
+   "26.17"
   ],
   "region": "north_america",
   "region_label": "North America",

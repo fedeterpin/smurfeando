@@ -3780,6 +3780,106 @@
   "tournament": "LJL/2026 Season/Summer Championship"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",
+  "player": "Breathe",
+  "player_id": "Breathe",
+  "role": "Top",
+  "slug": "breathe",
+  "source": "roster",
+  "team": "Anyone's Legend",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/AL_Tarzan_2026_Split_1.png",
+  "player": "Tarzan (Lee Seung-yong)",
+  "player_id": "Tarzan",
+  "role": "Jungle",
+  "slug": "tarzan",
+  "source": "roster",
+  "team": "Anyone's Legend",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/AL_Shanks_2026_Split_1.png",
+  "player": "Shanks",
+  "player_id": "Shanks",
+  "role": "Mid",
+  "slug": "shanks",
+  "source": "roster",
+  "team": "Anyone's Legend",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/AL_Hope_2026_Split_1.png",
+  "player": "Hope (Wang Jie)",
+  "player_id": "Hope",
+  "role": "Bot",
+  "slug": "hope",
+  "source": "roster",
+  "team": "Anyone's Legend",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/AL_Kael_2026_Split_1.png",
+  "player": "Kael (Kim Jin-hong)",
+  "player_id": "Kael",
+  "role": "Support",
+  "slug": "kael",
+  "source": "roster",
+  "team": "Anyone's Legend",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6c/BLG_Wenbo_2026_Split_3.png",
+  "player": "Wenbo (Yang Wen-Bo)",
+  "player_id": "Wenbo",
+  "role": "Top",
+  "slug": "wenbo",
+  "source": "roster",
+  "team": "Bilibili Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/BLG_Xun_2026_Split_1.png",
+  "player": "Xun",
+  "player_id": "Xun",
+  "role": "Jungle",
+  "slug": "xun",
+  "source": "roster",
+  "team": "Bilibili Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/BLG_Knight_2026_Split_1.png",
+  "player": "Knight (Zhuo Ding)",
+  "player_id": "Knight",
+  "role": "Mid",
+  "slug": "knight",
+  "source": "roster",
+  "team": "Bilibili Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/BLG_Viper_2026_Split_1.png",
+  "player": "Viper (Park Do-hyeon)",
+  "player_id": "Viper",
+  "role": "Bot",
+  "slug": "viper",
+  "source": "roster",
+  "team": "Bilibili Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/BLG_ON_2026_Split_1.png",
+  "player": "ON",
+  "player_id": "ON",
+  "role": "Support",
+  "slug": "on",
+  "source": "roster",
+  "team": "Bilibili Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/EDG_Zdz_2026_Split_1.png",
   "player": "Zdz",
   "player_id": "Zdz",
@@ -3880,6 +3980,56 @@
   "tournament": "LPL/2026 Season/Grand Finals"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/JDG_Xiaoxu_2026_Split_1.png",
+  "player": "Xiaoxu",
+  "player_id": "Xiaoxu",
+  "role": "Top",
+  "slug": "xiaoxu",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/JDG_JunJia_2026_Split_1.png",
+  "player": "JunJia",
+  "player_id": "JunJia",
+  "role": "Jungle",
+  "slug": "junjia",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/JDG_HongQ_2026_Split_1.png",
+  "player": "HongQ",
+  "player_id": "HongQ",
+  "role": "Mid",
+  "slug": "hongq",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/JDG_GALA_2026_Split_1.png",
+  "player": "GALA",
+  "player_id": "GALA",
+  "role": "Bot",
+  "slug": "gala",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JDG_Vampire_2026_Split_1.png",
+  "player": "Vampire",
+  "player_id": "Vampire",
+  "role": "Support",
+  "slug": "vampire",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LGD_Burdol_2026_Split_2.png",
   "player": "Burdol",
   "player_id": "Burdol",
@@ -3977,6 +4127,56 @@
   "slug": "fengyue",
   "source": "roster",
   "team": "Ninjas in Pyjamas.CN",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/WE_Cube_2026_Split_1.png",
+  "player": "Cube (Dai Yi)",
+  "player_id": "Cube",
+  "role": "Top",
+  "slug": "cube",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/WE_Monki_2026_Split_1.png",
+  "player": "Monki",
+  "player_id": "Monki",
+  "role": "Jungle",
+  "slug": "monki",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/WE_Karis_2026_Split_1.png",
+  "player": "Karis",
+  "player_id": "Karis",
+  "role": "Mid",
+  "slug": "karis",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/WE_About_2026_Split_1.png",
+  "player": "About",
+  "player_id": "About",
+  "role": "Bot",
+  "slug": "about",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Grand Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/WE_Erha_2026_Split_2.png",
+  "player": "Erha",
+  "player_id": "Erha",
+  "role": "Support",
+  "slug": "erha",
+  "source": "roster",
+  "team": "Team WE",
   "tournament": "LPL/2026 Season/Grand Finals"
  },
  {
