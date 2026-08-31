@@ -8304,16 +8304,16 @@
    "short": "FUR",
    "slug": "furia"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/43/Leviatanlogo_profile.png",
    "name": "Leviatan",
    "short": "LEV",
    "slug": "leviatan"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "CBLOL/2026 Season/Split 2",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -8331,16 +8331,16 @@
    "short": "LYON",
    "slug": "lyon-2024-american-team"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
    "name": "Team Liquid",
    "short": "TL",
    "slug": "team-liquid"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -8358,16 +8358,16 @@
    "short": "C9",
    "slug": "cloud9"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
    "name": "Shopify Rebellion",
    "short": "SR",
    "slug": "shopify-rebellion"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8779,7 +8779,7 @@
   "datetime_utc": "2026-09-05 10:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_2",
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_1",
   "patch": null,
   "phase": null,
   "round": null,
@@ -8806,7 +8806,7 @@
   "datetime_utc": "2026-09-05 15:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_1",
+  "match_id": "LEC/2026 Season/Summer Playoffs_Round 1_2",
   "patch": null,
   "phase": null,
   "round": null,
@@ -8826,6 +8826,33 @@
   },
   "team2_score": null,
   "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-05 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 1_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+   "name": "Vivo Keyd Stars",
+   "short": "VKS",
+   "slug": "vivo-keyd-stars"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+   "name": "paiN Gaming",
+   "short": "PAIN",
+   "slug": "pain-gaming"
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
   "winner": null
  },
  {
@@ -9042,6 +9069,33 @@
   },
   "team2_score": null,
   "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-06 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 1_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
   "winner": null
  },
  {
@@ -9289,6 +9343,60 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-09-12 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 2_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+   "name": "LOUD",
+   "short": "LOUD",
+   "slug": "loud"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-12 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 1_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-09-13 05:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -9339,6 +9447,60 @@
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Grand Finals",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-13 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 2_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-13 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 1_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
   "winner": null
  },
  {
@@ -9424,6 +9586,33 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-09-18 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 2_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-09-19 09:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -9478,6 +9667,60 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-09-19 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 1_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-19 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 2_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-09-20 15:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -9501,6 +9744,303 @@
   },
   "team2_score": null,
   "tournament": "LEC/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-20 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 2_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-20 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 1_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-25 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 2_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-26 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 3_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 3",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-26 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 3_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 3",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-27 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 4_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 4",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-27 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 4_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 4",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-03 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 4_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 4",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-03 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Round 4_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 4",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-04 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCS/2026 Season/Summer Playoffs_Finals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Finals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-10 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Finals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Finals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
   "winner": null
  }
 ]

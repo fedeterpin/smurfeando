@@ -400,6 +400,306 @@
   "tournament": "CBLOL/2026 Season/Split 2"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/FUR_Guigo_2026_Split_2.png",
+  "player": "Guigo",
+  "player_id": "Guigo",
+  "role": "Top",
+  "slug": "guigo",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/FUR_Tatu_2026_Split_2.png",
+  "player": "Tatu (Pedro Seixas)",
+  "player_id": "Tatu",
+  "role": "Jungle",
+  "slug": "tatu",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/FUR_Tutsz_2026_Split_2.png",
+  "player": "Tutsz",
+  "player_id": "Tutsz",
+  "role": "Mid",
+  "slug": "tutsz",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/FUR_Ayu_2026_Split_2.png",
+  "player": "Ayu (Andrey Saraiva)",
+  "player_id": "Ayu",
+  "role": "Bot",
+  "slug": "ayu",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/FUR_JoJo_2026_Split_2.png",
+  "player": "JoJo (Gabriel Dzelme)",
+  "player_id": "JoJo",
+  "role": "Support",
+  "slug": "jojo",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/LOUD_Xyno_2026_Split_1.png",
+  "player": "Xyno",
+  "player_id": "xyno",
+  "role": "Top",
+  "slug": "xyno",
+  "source": "roster",
+  "team": "LOUD",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/LOUD_Sinatra_2026_Split_2.png",
+  "player": "Sinatra",
+  "player_id": "Sinatra",
+  "role": "Jungle",
+  "slug": "sinatra",
+  "source": "roster",
+  "team": "LOUD",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/LOUD_Kaze_2026_Split_2.png",
+  "player": "Kaze (Lucas Fe)",
+  "player_id": "Kaze",
+  "role": "Mid",
+  "slug": "kaze",
+  "source": "roster",
+  "team": "LOUD",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/LOUD_Rabelo_2026_Split_2.png",
+  "player": "Rabelo",
+  "player_id": "Rabelo",
+  "role": "Bot",
+  "slug": "rabelo",
+  "source": "roster",
+  "team": "LOUD",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": null,
+  "player": "UZent",
+  "player_id": "uZent",
+  "role": "Support",
+  "slug": "uzent",
+  "source": "roster",
+  "team": "LOUD",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LOS_Zest_2026_Split_2.png",
+  "player": "Zest (Kim Dong-min)",
+  "player_id": "Zest",
+  "role": "Top",
+  "slug": "zest-2",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/LOS_Curse_2026_Split_2.png",
+  "player": "Curse (Raí Yamada)",
+  "player_id": "Curse",
+  "role": "Jungle",
+  "slug": "curse",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/LOS_Feisty_2026_Split_2.png",
+  "player": "Feisty",
+  "player_id": "Feisty",
+  "role": "Mid",
+  "slug": "feisty",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LOS_Duduhh_2026_Split_2.png",
+  "player": "Duduhh",
+  "player_id": "Duduhh",
+  "role": "Bot",
+  "slug": "duduhh",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/LOS_Ackerman_2026_Split_2.png",
+  "player": "Ackerman (Gabriel Aparicio)",
+  "player_id": "Ackerman",
+  "role": "Support",
+  "slug": "ackerman",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": null,
+  "player": "Zynts",
+  "player_id": "zynts",
+  "role": "Top",
+  "slug": "zynts",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/RED_STEPZ_2026_Split_2.png",
+  "player": "STEPZ (Eloy Rodríguez)",
+  "player_id": "STEPZ",
+  "role": "Jungle",
+  "slug": "stepz",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/RED_Fuuu_2026_Split_2.png",
+  "player": "Fuuu",
+  "player_id": "Fuuu",
+  "role": "Mid",
+  "slug": "fuuu",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/RED_Morttheus_2026_Split_2.png",
+  "player": "Morttheus",
+  "player_id": "Morttheus",
+  "role": "Bot",
+  "slug": "morttheus",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/RED_Manel_2026_Split_2.png",
+  "player": "Manel",
+  "player_id": "Manel",
+  "role": "Support",
+  "slug": "manel",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": null,
+  "player": "Zekas",
+  "player_id": "zekas",
+  "role": "Top",
+  "slug": "zekas",
+  "source": "roster",
+  "team": "Vivo Keyd Stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/VKS_Disamis_2026_Split_1.png",
+  "player": "Disamis",
+  "player_id": "Disamis",
+  "role": "Jungle",
+  "slug": "disamis",
+  "source": "roster",
+  "team": "Vivo Keyd Stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e1/VKS_Mireu_2026_Split_1.png",
+  "player": "Mireu",
+  "player_id": "Mireu",
+  "role": "Mid",
+  "slug": "mireu",
+  "source": "roster",
+  "team": "Vivo Keyd Stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/VKS_Jeskla_2026_Split_2.png",
+  "player": "Jeskla",
+  "player_id": "Jeskla",
+  "role": "Bot",
+  "slug": "jeskla",
+  "source": "roster",
+  "team": "Vivo Keyd Stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/VKS_Scamber_2026_Split_1.png",
+  "player": "Scamber",
+  "player_id": "scamber",
+  "role": "Support",
+  "slug": "scamber",
+  "source": "roster",
+  "team": "Vivo Keyd Stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/PAIN_Boal_2026_Split_2.png",
+  "player": "Boal",
+  "player_id": "Boal",
+  "role": "Top",
+  "slug": "boal",
+  "source": "roster",
+  "team": "paiN Gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8f/PAIN_CarioK_2026_Split_2.png",
+  "player": "CarioK",
+  "player_id": "CarioK",
+  "role": "Jungle",
+  "slug": "cariok",
+  "source": "roster",
+  "team": "paiN Gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": null,
+  "player": "Namiru",
+  "player_id": "Namiru",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "paiN Gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/PAIN_Hena_2026_Split_2.png",
+  "player": "Hena",
+  "player_id": "Hena",
+  "role": "Bot",
+  "slug": "hena",
+  "source": "roster",
+  "team": "paiN Gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/PAIN_Ceos_2026_Split_2.png",
+  "player": "Ceos",
+  "player_id": "Ceos",
+  "role": "Support",
+  "slug": "ceos",
+  "source": "roster",
+  "team": "paiN Gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/AL_Flandre_2026_Split_1.png",
   "player": "Flandre",
   "player_id": "Flandre",
@@ -2598,6 +2898,306 @@
   "source": "roster",
   "team": "Team Secret Whales",
   "tournament": "LCP/2026 Season/Split 3"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png",
+  "player": "Thanatos (Park Seung-gyu)",
+  "player_id": "Thanatos",
+  "role": "Top",
+  "slug": "thanatos",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/C9_Blaber_2026_Split_1.png",
+  "player": "Blaber",
+  "player_id": "Blaber",
+  "role": "Jungle",
+  "slug": "blaber",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/C9_Loki_2025_Split_1.png",
+  "player": "Loki (Lee Sang-min)",
+  "player_id": "Loki",
+  "role": "Mid",
+  "slug": "loki",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/IMT_Tactical_2023_Split_1.png",
+  "player": "Tactical",
+  "player_id": "Tactical",
+  "role": "Bot",
+  "slug": "tactical",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/C9_Vulcan_2026_Split_1.png",
+  "player": "Vulcan (Philippe Laflamme)",
+  "player_id": "Vulcan",
+  "role": "Support",
+  "slug": "vulcan",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/FLY_Gakgos_2026_Split_1.png",
+  "player": "Gakgos",
+  "player_id": "Gakgos",
+  "role": "Top",
+  "slug": "gakgos",
+  "source": "roster",
+  "team": "FlyQuest",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/FLY_Gryffinn_2026_Split_1.png",
+  "player": "Gryffinn",
+  "player_id": "Gryffinn",
+  "role": "Jungle",
+  "slug": "gryffinn",
+  "source": "roster",
+  "team": "FlyQuest",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/FLY_Quad_2026_Split_1.png",
+  "player": "Quad",
+  "player_id": "Quad",
+  "role": "Mid",
+  "slug": "quad",
+  "source": "roster",
+  "team": "FlyQuest",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FLY_Massu_2026_Split_1.png",
+  "player": "Massu",
+  "player_id": "Massu",
+  "role": "Bot",
+  "slug": "massu",
+  "source": "roster",
+  "team": "FlyQuest",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/FLY_Cryogen_2026_Split_1.png",
+  "player": "Cryogen",
+  "player_id": "Cryogen",
+  "role": "Support",
+  "slug": "cryogen",
+  "source": "roster",
+  "team": "FlyQuest",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LYON_Dhokla_2026_Split_1.png",
+  "player": "Dhokla",
+  "player_id": "Dhokla",
+  "role": "Top",
+  "slug": "dhokla",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/LYON_Inspired_2026_Split_1.png",
+  "player": "Inspired",
+  "player_id": "Inspired",
+  "role": "Jungle",
+  "slug": "inspired",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/LYON_Saint_2026_Split_1.png",
+  "player": "Saint (Kang Sung-in)",
+  "player_id": "Saint",
+  "role": "Mid",
+  "slug": "saint",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/LYON_Berserker_2026_Split_1.png",
+  "player": "Berserker (Kim Min-cheol)",
+  "player_id": "Berserker",
+  "role": "Bot",
+  "slug": "berserker",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/LYON_Isles_2026_Split_1.png",
+  "player": "Isles",
+  "player_id": "Isles",
+  "role": "Support",
+  "slug": "isles",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/SEN_Impact_2026_Split_1.png",
+  "player": "Impact",
+  "player_id": "Impact",
+  "role": "Top",
+  "slug": "impact",
+  "source": "roster",
+  "team": "Sentinels",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/36/SEN_HamBak_2026_Split_1.png",
+  "player": "HamBak",
+  "player_id": "HamBak",
+  "role": "Jungle",
+  "slug": "hambak",
+  "source": "roster",
+  "team": "Sentinels",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/68/SEN_DARKWINGS_2026_Split_1.png",
+  "player": "DARKWINGS",
+  "player_id": "DARKWINGS",
+  "role": "Mid",
+  "slug": "darkwings",
+  "source": "roster",
+  "team": "Sentinels",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SEN_Rahel_2026_Split_1.png",
+  "player": "Rahel",
+  "player_id": "Rahel",
+  "role": "Bot",
+  "slug": "rahel",
+  "source": "roster",
+  "team": "Sentinels",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/CLG_Huhi_2017_Spring.png",
+  "player": "Huhi",
+  "player_id": "huhi",
+  "role": "Support",
+  "slug": "huhi",
+  "source": "roster",
+  "team": "Sentinels",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/SR_Fudge_2026_Split_1.png",
+  "player": "Fudge",
+  "player_id": "Fudge",
+  "role": "Top",
+  "slug": "fudge",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/SR_Contractz_2026_Split_1.png",
+  "player": "Contractz",
+  "player_id": "Contractz",
+  "role": "Jungle",
+  "slug": "contractz",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/SR_Zinie_2026_Split_1.png",
+  "player": "Zinie",
+  "player_id": "Zinie",
+  "role": "Mid",
+  "slug": "zinie",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/SR_Bvoy_2026_Split_1.png",
+  "player": "Bvoy",
+  "player_id": "Bvoy",
+  "role": "Bot",
+  "slug": "bvoy",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/SR_Zeyzal_2024_Split_1.png",
+  "player": "Zeyzal",
+  "player_id": "Zeyzal",
+  "role": "Support",
+  "slug": "zeyzal",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/TL_Morgan_2026_Split_1.png",
+  "player": "Morgan",
+  "player_id": "Morgan",
+  "role": "Top",
+  "slug": "morgan",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/TL_Josedeodo_2026_Split_1.png",
+  "player": "Josedeodo",
+  "player_id": "Josedeodo",
+  "role": "Jungle",
+  "slug": "josedeodo",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/TL_Quid_2026_Split_1.png",
+  "player": "Quid",
+  "player_id": "Quid",
+  "role": "Mid",
+  "slug": "quid",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/TL_Yeon_2026_Split_1.png",
+  "player": "Yeon (Sean Sung)",
+  "player_id": "Yeon",
+  "role": "Bot",
+  "slug": "yeon",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/TL_CoreJJ_2026_Split_1.png",
+  "player": "CoreJJ",
+  "player_id": "CoreJJ",
+  "role": "Support",
+  "slug": "corejj",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "LCS/2026 Season/Summer Playoffs"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png",

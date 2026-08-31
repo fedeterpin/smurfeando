@@ -1,6 +1,6 @@
 [
  {
-  "games": 57,
+  "games": 62,
   "is_playoffs": false,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -16,6 +16,21 @@
   "region": "brazil",
   "region_label": "Brazil",
   "slug": "cblol-2026-season-split-2",
+  "split": "Split 2",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": true,
+  "league": "Circuit Brazilian League of Legends",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
+  "league_short": "CBLOL",
+  "name": "CBLOL 2026 Split 2 Playoffs",
+  "overview_page": "CBLOL/2026 Season/Split 2 Playoffs",
+  "patches": [],
+  "region": "brazil",
+  "region_label": "Brazil",
+  "slug": "cblol-2026-season-split-2-playoffs",
   "split": "Split 2",
   "year": "2026"
  },
@@ -181,7 +196,7 @@
   "year": "2026"
  },
  {
-  "games": 51,
+  "games": 56,
   "is_playoffs": false,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
@@ -197,6 +212,21 @@
   "region": "north_america",
   "region_label": "North America",
   "slug": "lcs-2026-season-summer-season",
+  "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": true,
+  "league": "League of Legends Championship Series",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
+  "league_short": "LCS",
+  "name": "LCS 2026 Summer Playoffs",
+  "overview_page": "LCS/2026 Season/Summer Playoffs",
+  "patches": [],
+  "region": "north_america",
+  "region_label": "North America",
+  "slug": "lcs-2026-season-summer-playoffs",
   "split": "Summer",
   "year": "2026"
  },
