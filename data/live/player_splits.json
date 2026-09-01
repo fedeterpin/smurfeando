@@ -9969,6 +9969,261 @@
   "wins": 1
  },
  {
+  "assists": 33,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.63,
+  "deaths": 17,
+  "dpm": 498.9,
+  "games": 6,
+  "gpm": 408.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png",
+  "kda": 3.0,
+  "kills": 18,
+  "kp": 0.7286,
+  "losses": 3,
+  "minutes": 215.6,
+  "player": "Bdd",
+  "player_id": "Bdd",
+  "role": "Mid",
+  "slug": "bdd",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "LCK/2026 Season/Season Playoffs",
+  "vspm": 1.36,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 38,
+  "champions": [
+   {
+    "champion": "Cho'Gath",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.74,
+  "deaths": 11,
+  "dpm": 395.7,
+  "games": 6,
+  "gpm": 370.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png",
+  "kda": 4.91,
+  "kills": 16,
+  "kp": 0.7714,
+  "losses": 3,
+  "minutes": 215.6,
+  "player": "Cuzz",
+  "player_id": "Cuzz",
+  "role": "Jungle",
+  "slug": "cuzz",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "LCK/2026 Season/Season Playoffs",
+  "vspm": 2.18,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 52,
+  "champions": [
+   {
+    "champion": "Nautilus",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yuumi",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.16,
+  "deaths": 17,
+  "dpm": 163.8,
+  "games": 6,
+  "gpm": 265.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png",
+  "kda": 3.12,
+  "kills": 1,
+  "kp": 0.7571,
+  "losses": 3,
+  "minutes": 215.6,
+  "player": "Effort",
+  "player_id": "Effort",
+  "role": "Support",
+  "slug": "effort",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "LCK/2026 Season/Season Playoffs",
+  "vspm": 4.59,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 24,
+  "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Kalista",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Zeri",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.14,
+  "deaths": 16,
+  "dpm": 633.4,
+  "games": 6,
+  "gpm": 478.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DRX_Jiwoo_2026_Split_2.png",
+  "kda": 3.06,
+  "kills": 25,
+  "kp": 0.7,
+  "losses": 3,
+  "minutes": 215.6,
+  "player": "Jiwoo",
+  "player_id": "Jiwoo",
+  "role": "Bot",
+  "slug": "jiwoo",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "LCK/2026 Season/Season Playoffs",
+  "vspm": 1.41,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 26,
+  "champions": [
+   {
+    "champion": "Gnar",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.97,
+  "deaths": 19,
+  "dpm": 495.3,
+  "games": 6,
+  "gpm": 364.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
+  "kda": 1.89,
+  "kills": 10,
+  "kp": 0.5143,
+  "losses": 3,
+  "minutes": 215.6,
+  "player": "PerfecT (Lee Seung-min)",
+  "player_id": "PerfecT",
+  "role": "Top",
+  "slug": "perfect",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "LCK/2026 Season/Season Playoffs",
+  "vspm": 1.5,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
   "assists": 22,
   "champions": [
    {
@@ -10499,45 +10754,45 @@
   "wins": 2
  },
  {
-  "assists": 19,
+  "assists": 31,
   "champions": [
    {
-    "champion": "Ahri",
+    "champion": "Cho'Gath",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Ryze",
+    "champion": "Lee Sin",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Syndra",
+    "champion": "Skarner",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 9.95,
-  "deaths": 6,
-  "dpm": 580.5,
+  "cspm": 7.71,
+  "deaths": 5,
+  "dpm": 339.7,
   "games": 3,
-  "gpm": 441.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png",
-  "kda": 5.33,
-  "kills": 13,
-  "kp": 0.7273,
+  "gpm": 416.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/GEN_Canyon_2026_Split_1.png",
+  "kda": 7.6,
+  "kills": 7,
+  "kp": 0.8444,
   "losses": 0,
-  "minutes": 118.3,
-  "player": "Bdd",
-  "player_id": "Bdd",
-  "role": "Mid",
-  "slug": "bdd",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
+  "minutes": 97.3,
+  "player": "Canyon",
+  "player_id": "Canyon",
+  "role": "Jungle",
+  "slug": "canyon",
+  "team": "Gen.G",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+  "team_short": "GEN",
+  "team_slug": "gen-g",
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "vspm": 1.5,
+  "vspm": 2.09,
   "win_rate": 1.0,
   "wins": 3
  },
@@ -10585,58 +10840,58 @@
   "wins": 0
  },
  {
-  "assists": 27,
+  "assists": 21,
   "champions": [
    {
-    "champion": "Cho'Gath",
+    "champion": "Akali",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Jarvan IV",
+    "champion": "Ryze",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Skarner",
+    "champion": "Syndra",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 6.57,
-  "deaths": 4,
-  "dpm": 399.9,
+  "cspm": 10.64,
+  "deaths": 3,
+  "dpm": 481.7,
   "games": 3,
-  "gpm": 373.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png",
-  "kda": 8.75,
-  "kills": 8,
-  "kp": 0.7955,
+  "gpm": 477.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/GEN_Chovy_2026_Split_1.png",
+  "kda": 11.0,
+  "kills": 12,
+  "kp": 0.7333,
   "losses": 0,
-  "minutes": 118.3,
-  "player": "Cuzz",
-  "player_id": "Cuzz",
-  "role": "Jungle",
-  "slug": "cuzz",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
+  "minutes": 97.3,
+  "player": "Chovy",
+  "player_id": "Chovy",
+  "role": "Mid",
+  "slug": "chovy",
+  "team": "Gen.G",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+  "team_short": "GEN",
+  "team_slug": "gen-g",
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "vspm": 2.4,
+  "vspm": 1.63,
   "win_rate": 1.0,
   "wins": 3
  },
  {
-  "assists": 30,
+  "assists": 37,
   "champions": [
    {
-    "champion": "Nautilus",
+    "champion": "Karma",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Renata Glasc",
+    "champion": "Lulu",
     "games": 1,
     "wins": 1
    },
@@ -10646,70 +10901,70 @@
     "wins": 1
    }
   ],
-  "cspm": 1.14,
-  "deaths": 10,
-  "dpm": 153.9,
+  "cspm": 0.83,
+  "deaths": 6,
+  "dpm": 177.9,
   "games": 3,
-  "gpm": 269.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png",
-  "kda": 3.1,
-  "kills": 1,
-  "kp": 0.7045,
+  "gpm": 273.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/GEN_Duro_2026_Split_1.png",
+  "kda": 6.5,
+  "kills": 2,
+  "kp": 0.8667,
   "losses": 0,
-  "minutes": 118.3,
-  "player": "Effort",
-  "player_id": "Effort",
+  "minutes": 97.3,
+  "player": "Duro",
+  "player_id": "Duro",
   "role": "Support",
-  "slug": "effort",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
+  "slug": "duro",
+  "team": "Gen.G",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+  "team_short": "GEN",
+  "team_slug": "gen-g",
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "vspm": 4.74,
+  "vspm": 4.31,
   "win_rate": 1.0,
   "wins": 3
  },
  {
-  "assists": 19,
+  "assists": 18,
   "champions": [
    {
-    "champion": "Ashe",
+    "champion": "Aatrox",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Ezreal",
+    "champion": "Camille",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Kalista",
+    "champion": "Twisted Fate",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 10.19,
+  "cspm": 8.69,
   "deaths": 8,
-  "dpm": 678.0,
+  "dpm": 449.7,
   "games": 3,
-  "gpm": 497.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DRX_Jiwoo_2026_Split_2.png",
-  "kda": 4.12,
-  "kills": 14,
-  "kp": 0.75,
+  "gpm": 449.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/GEN_Kiin_2026_Split_1.png",
+  "kda": 3.88,
+  "kills": 13,
+  "kp": 0.6889,
   "losses": 0,
-  "minutes": 118.3,
-  "player": "Jiwoo",
-  "player_id": "Jiwoo",
-  "role": "Bot",
-  "slug": "jiwoo",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
+  "minutes": 97.3,
+  "player": "Kiin",
+  "player_id": "Kiin",
+  "role": "Top",
+  "slug": "kiin",
+  "team": "Gen.G",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+  "team_short": "GEN",
+  "team_slug": "gen-g",
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "vspm": 1.34,
+  "vspm": 1.29,
   "win_rate": 1.0,
   "wins": 3
  },
@@ -10757,45 +11012,45 @@
   "wins": 0
  },
  {
-  "assists": 19,
+  "assists": 24,
   "champions": [
    {
-    "champion": "Gnar",
+    "champion": "Ashe",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Rumble",
+    "champion": "Sivir",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Trundle",
+    "champion": "Yunara",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 8.08,
-  "deaths": 7,
-  "dpm": 568.1,
+  "cspm": 11.08,
+  "deaths": 4,
+  "dpm": 662.0,
   "games": 3,
-  "gpm": 393.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
-  "kda": 3.86,
-  "kills": 8,
-  "kp": 0.6136,
+  "gpm": 536.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/GEN_Ruler_2026_Split_1.png",
+  "kda": 8.75,
+  "kills": 11,
+  "kp": 0.7778,
   "losses": 0,
-  "minutes": 118.3,
-  "player": "PerfecT (Lee Seung-min)",
-  "player_id": "PerfecT",
-  "role": "Top",
-  "slug": "perfect",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
+  "minutes": 97.3,
+  "player": "Ruler",
+  "player_id": "Ruler",
+  "role": "Bot",
+  "slug": "ruler",
+  "team": "Gen.G",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+  "team_short": "GEN",
+  "team_slug": "gen-g",
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "vspm": 1.62,
+  "vspm": 2.0,
   "win_rate": 1.0,
   "wins": 3
  },
@@ -27101,8 +27356,13 @@
   "wins": 0
  },
  {
-  "assists": 261,
+  "assists": 278,
   "champions": [
+   {
+    "champion": "Milio",
+    "games": 3,
+    "wins": 1
+   },
    {
     "champion": "Nautilus",
     "games": 3,
@@ -27114,7 +27374,7 @@
     "wins": 2
    },
    {
-    "champion": "Milio",
+    "champion": "Lulu",
     "games": 2,
     "wins": 1
    },
@@ -27122,24 +27382,19 @@
     "champion": "Poppy",
     "games": 2,
     "wins": 1
-   },
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 0
    }
   ],
-  "cspm": 1.04,
-  "deaths": 65,
-  "dpm": 213.8,
-  "games": 19,
-  "gpm": 279.0,
+  "cspm": 1.07,
+  "deaths": 78,
+  "dpm": 204.9,
+  "games": 22,
+  "gpm": 273.4,
   "image": null,
-  "kda": 4.29,
+  "kda": 3.79,
   "kills": 18,
-  "kp": 0.7686,
-  "losses": 8,
-  "minutes": 579.9,
+  "kp": 0.7649,
+  "losses": 11,
+  "minutes": 677.3,
   "player": "Beplush",
   "player_id": "Beplush",
   "role": "Support",
@@ -27149,12 +27404,12 @@
   "team_short": "DP",
   "team_slug": "dark-passage",
   "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 3.69,
-  "win_rate": 0.5789,
+  "vspm": 3.74,
+  "win_rate": 0.5,
   "wins": 11
  },
  {
-  "assists": 97,
+  "assists": 103,
   "champions": [
    {
     "champion": "Rumble",
@@ -27172,27 +27427,27 @@
     "wins": 0
    },
    {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 0
+    "champion": "K'Sante",
+    "games": 2,
+    "wins": 1
    },
    {
-    "champion": "Dr. Mundo",
-    "games": 1,
+    "champion": "Karma",
+    "games": 2,
     "wins": 1
    }
   ],
-  "cspm": 7.46,
-  "deaths": 80,
-  "dpm": 606.2,
-  "games": 19,
-  "gpm": 358.0,
+  "cspm": 7.57,
+  "deaths": 90,
+  "dpm": 581.6,
+  "games": 22,
+  "gpm": 354.9,
   "image": null,
-  "kda": 1.74,
-  "kills": 42,
-  "kp": 0.3829,
-  "losses": 8,
-  "minutes": 579.9,
+  "kda": 1.66,
+  "kills": 46,
+  "kp": 0.385,
+  "losses": 11,
+  "minutes": 677.3,
   "player": "FabFabulous",
   "player_id": "fabFabulous",
   "role": "Top",
@@ -27203,16 +27458,26 @@
   "team_slug": "dark-passage",
   "tournament": "TCL/2026 Season/Summer Split",
   "vspm": 1.08,
-  "win_rate": 0.5789,
+  "win_rate": 0.5,
   "wins": 11
  },
  {
-  "assists": 120,
+  "assists": 123,
   "champions": [
+   {
+    "champion": "Caitlyn",
+    "games": 3,
+    "wins": 1
+   },
    {
     "champion": "Ezreal",
     "games": 3,
     "wins": 3
+   },
+   {
+    "champion": "Lucian",
+    "games": 3,
+    "wins": 0
    },
    {
     "champion": "Ashe",
@@ -27220,32 +27485,22 @@
     "wins": 1
    },
    {
-    "champion": "Caitlyn",
-    "games": 2,
-    "wins": 1
-   },
-   {
     "champion": "Kalista",
     "games": 2,
     "wins": 1
-   },
-   {
-    "champion": "Lucian",
-    "games": 2,
-    "wins": 0
    }
   ],
-  "cspm": 9.35,
-  "deaths": 71,
-  "dpm": 863.5,
-  "games": 19,
-  "gpm": 503.2,
+  "cspm": 9.44,
+  "deaths": 84,
+  "dpm": 837.5,
+  "games": 22,
+  "gpm": 491.8,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/ULF_Grave_2025_Split_2.png",
-  "kda": 3.32,
-  "kills": 116,
-  "kp": 0.6501,
-  "losses": 8,
-  "minutes": 579.9,
+  "kda": 2.94,
+  "kills": 124,
+  "kp": 0.6382,
+  "losses": 11,
+  "minutes": 677.3,
   "player": "Grave",
   "player_id": "Grave",
   "role": "Bot",
@@ -27255,17 +27510,27 @@
   "team_short": "DP",
   "team_slug": "dark-passage",
   "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 0.81,
-  "win_rate": 0.5789,
+  "vspm": 0.83,
+  "win_rate": 0.5,
   "wins": 11
  },
  {
-  "assists": 151,
+  "assists": 161,
   "champions": [
+   {
+    "champion": "Anivia",
+    "games": 3,
+    "wins": 1
+   },
    {
     "champion": "Hwei",
     "games": 3,
     "wins": 1
+   },
+   {
+    "champion": "Lissandra",
+    "games": 3,
+    "wins": 2
    },
    {
     "champion": "Ryze",
@@ -27276,29 +27541,19 @@
     "champion": "Viktor",
     "games": 3,
     "wins": 2
-   },
-   {
-    "champion": "Ahri",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Anivia",
-    "games": 2,
-    "wins": 1
    }
   ],
-  "cspm": 8.11,
-  "deaths": 69,
-  "dpm": 721.1,
-  "games": 19,
-  "gpm": 407.4,
+  "cspm": 8.14,
+  "deaths": 80,
+  "dpm": 675.5,
+  "games": 22,
+  "gpm": 399.4,
   "image": null,
-  "kda": 3.38,
-  "kills": 82,
-  "kp": 0.6419,
-  "losses": 8,
-  "minutes": 579.9,
+  "kda": 3.11,
+  "kills": 88,
+  "kp": 0.6434,
+  "losses": 11,
+  "minutes": 677.3,
   "player": "LynxCerezz",
   "player_id": "LynxCerezz",
   "role": "Mid",
@@ -27308,13 +27563,23 @@
   "team_short": "DP",
   "team_slug": "dark-passage",
   "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.07,
-  "win_rate": 0.5789,
+  "vspm": 1.05,
+  "win_rate": 0.5,
   "wins": 11
  },
  {
-  "assists": 127,
+  "assists": 140,
   "champions": [
+   {
+    "champion": "Qiyana",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Vi",
+    "games": 3,
+    "wins": 1
+   },
    {
     "champion": "Lee Sin",
     "games": 2,
@@ -27326,32 +27591,22 @@
     "wins": 2
    },
    {
-    "champion": "Qiyana",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Vi",
+    "champion": "Wukong",
     "games": 2,
     "wins": 1
-   },
-   {
-    "champion": "Zaahen",
-    "games": 2,
-    "wins": 2
    }
   ],
-  "cspm": 7.32,
-  "deaths": 58,
-  "dpm": 579.7,
-  "games": 18,
-  "gpm": 437.7,
+  "cspm": 7.22,
+  "deaths": 73,
+  "dpm": 547.7,
+  "games": 21,
+  "gpm": 427.4,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/BJK_Typhoon_2024_Split_2.png",
-  "kda": 3.91,
-  "kills": 100,
-  "kp": 0.6637,
-  "losses": 7,
-  "minutes": 541.1,
+  "kda": 3.37,
+  "kills": 106,
+  "kp": 0.6721,
+  "losses": 10,
+  "minutes": 638.5,
   "player": "Typhoon (Tayfun Gümüş)",
   "player_id": "Typhoon",
   "role": "Jungle",
@@ -27362,7 +27617,7 @@
   "team_slug": "dark-passage",
   "tournament": "TCL/2026 Season/Summer Split",
   "vspm": 1.39,
-  "win_rate": 0.6111,
+  "win_rate": 0.5238,
   "wins": 11
  },
  {
@@ -27415,6 +27670,59 @@
   "team_slug": "bushido-wildcats",
   "tournament": "TCL/2026 Season/Summer Split",
   "vspm": 1.12,
+  "win_rate": 0.7333,
+  "wins": 11
+ },
+ {
+  "assists": 74,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Olaf",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Aatrox",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Dr. Mundo",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.41,
+  "deaths": 25,
+  "dpm": 555.7,
+  "games": 15,
+  "gpm": 394.9,
+  "image": null,
+  "kda": 4.72,
+  "kills": 44,
+  "kp": 0.4338,
+  "losses": 4,
+  "minutes": 453.7,
+  "player": "Bayonetta",
+  "player_id": "Bayonetta",
+  "role": "Top",
+  "slug": "bayonetta",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 0.85,
   "win_rate": 0.7333,
   "wins": 11
  },
@@ -27525,6 +27833,59 @@
   "wins": 11
  },
  {
+  "assists": 85,
+  "champions": [
+   {
+    "champion": "Ryze",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Akali",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.22,
+  "deaths": 47,
+  "dpm": 702.4,
+  "games": 15,
+  "gpm": 448.4,
+  "image": null,
+  "kda": 3.4,
+  "kills": 75,
+  "kp": 0.5882,
+  "losses": 4,
+  "minutes": 453.7,
+  "player": "FireAscept",
+  "player_id": "FireAscept",
+  "role": "Mid",
+  "slug": "fireascept",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.52,
+  "win_rate": 0.7333,
+  "wins": 11
+ },
+ {
   "assists": 79,
   "champions": [
    {
@@ -27576,6 +27937,59 @@
   "vspm": 1.16,
   "win_rate": 0.6667,
   "wins": 10
+ },
+ {
+  "assists": 181,
+  "champions": [
+   {
+    "champion": "Nautilus",
+    "games": 5,
+    "wins": 4
+   },
+   {
+    "champion": "Seraphine",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Shen",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.19,
+  "deaths": 46,
+  "dpm": 202.3,
+  "games": 15,
+  "gpm": 277.6,
+  "image": null,
+  "kda": 4.2,
+  "kills": 12,
+  "kp": 0.7096,
+  "losses": 4,
+  "minutes": 453.7,
+  "player": "MonkaS",
+  "player_id": "monkaS",
+  "role": "Support",
+  "slug": "monkas",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 3.29,
+  "win_rate": 0.7333,
+  "wins": 11
  },
  {
   "assists": 150,
@@ -27790,6 +28204,112 @@
   "wins": 11
  },
  {
+  "assists": 109,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Jhin",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Taliyah",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Vel'Koz",
+    "games": 2,
+    "wins": 2
+   }
+  ],
+  "cspm": 9.93,
+  "deaths": 43,
+  "dpm": 674.2,
+  "games": 15,
+  "gpm": 477.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/FUT_Scorth_2024_Split_2.png",
+  "kda": 3.98,
+  "kills": 62,
+  "kp": 0.6287,
+  "losses": 4,
+  "minutes": 453.7,
+  "player": "Scorth",
+  "player_id": "Scorth",
+  "role": "Bot",
+  "slug": "scorth",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 0.79,
+  "win_rate": 0.7333,
+  "wins": 11
+ },
+ {
+  "assists": 109,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Naafiri",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Aatrox",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.92,
+  "deaths": 20,
+  "dpm": 529.1,
+  "games": 15,
+  "gpm": 444.8,
+  "image": null,
+  "kda": 9.4,
+  "kills": 79,
+  "kp": 0.6912,
+  "losses": 4,
+  "minutes": 453.7,
+  "player": "Stalken",
+  "player_id": "Stalken",
+  "role": "Jungle",
+  "slug": "stalken",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.43,
+  "win_rate": 0.7333,
+  "wins": 11
+ },
+ {
   "assists": 96,
   "champions": [
    {
@@ -28000,271 +28520,6 @@
   "vspm": 3.68,
   "win_rate": 0.2308,
   "wins": 3
- },
- {
-  "assists": 56,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Dr. Mundo",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Galio",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Malphite",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.37,
-  "deaths": 21,
-  "dpm": 523.3,
-  "games": 12,
-  "gpm": 394.9,
-  "image": null,
-  "kda": 4.43,
-  "kills": 37,
-  "kp": 0.4429,
-  "losses": 4,
-  "minutes": 356.3,
-  "player": "Bayonetta",
-  "player_id": "Bayonetta",
-  "role": "Top",
-  "slug": "bayonetta",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 0.85,
-  "win_rate": 0.6667,
-  "wins": 8
- },
- {
-  "assists": 66,
-  "champions": [
-   {
-    "champion": "Ryze",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Akali",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Ahri",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Cassiopeia",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.49,
-  "deaths": 37,
-  "dpm": 695.6,
-  "games": 12,
-  "gpm": 443.4,
-  "image": null,
-  "kda": 3.22,
-  "kills": 53,
-  "kp": 0.5667,
-  "losses": 4,
-  "minutes": 356.3,
-  "player": "FireAscept",
-  "player_id": "FireAscept",
-  "role": "Mid",
-  "slug": "fireascept",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.59,
-  "win_rate": 0.6667,
-  "wins": 8
- },
- {
-  "assists": 137,
-  "champions": [
-   {
-    "champion": "Nautilus",
-    "games": 4,
-    "wins": 3
-   },
-   {
-    "champion": "Seraphine",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Shen",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Karma",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Leona",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.15,
-  "deaths": 40,
-  "dpm": 199.1,
-  "games": 12,
-  "gpm": 275.6,
-  "image": null,
-  "kda": 3.7,
-  "kills": 11,
-  "kp": 0.7048,
-  "losses": 4,
-  "minutes": 356.3,
-  "player": "MonkaS",
-  "player_id": "monkaS",
-  "role": "Support",
-  "slug": "monkas",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 3.29,
-  "win_rate": 0.6667,
-  "wins": 8
- },
- {
-  "assists": 83,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Taliyah",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Vel'Koz",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Corki",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.7,
-  "deaths": 41,
-  "dpm": 635.9,
-  "games": 12,
-  "gpm": 460.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/FUT_Scorth_2024_Split_2.png",
-  "kda": 3.17,
-  "kills": 47,
-  "kp": 0.619,
-  "losses": 4,
-  "minutes": 356.3,
-  "player": "Scorth",
-  "player_id": "Scorth",
-  "role": "Bot",
-  "slug": "scorth",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 0.78,
-  "win_rate": 0.6667,
-  "wins": 8
- },
- {
-  "assists": 83,
-  "champions": [
-   {
-    "champion": "Lee Sin",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Xin Zhao",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Aatrox",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Locke",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Naafiri",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.83,
-  "deaths": 17,
-  "dpm": 546.2,
-  "games": 12,
-  "gpm": 440.0,
-  "image": null,
-  "kda": 8.53,
-  "kills": 62,
-  "kp": 0.6905,
-  "losses": 4,
-  "minutes": 356.3,
-  "player": "Stalken",
-  "player_id": "Stalken",
-  "role": "Jungle",
-  "slug": "stalken",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.45,
-  "win_rate": 0.6667,
-  "wins": 8
  },
  {
   "assists": 76,

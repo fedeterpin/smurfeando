@@ -8385,7 +8385,7 @@
    "short": "GEN",
    "slug": "gen-g"
   },
-  "team1_score": 2,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
    "name": "KT Rolster",
@@ -8394,7 +8394,7 @@
   },
   "team2_score": 0,
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8412,16 +8412,16 @@
    "short": "PCF",
    "slug": "pcific-esports"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/Dark_Passagelogo_profile.png",
    "name": "Dark Passage",
    "short": "DP",
    "slug": "dark-passage"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "TCL/2026 Season/Summer Split",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8549,10 +8549,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+   "name": "PCIFIC Esports",
+   "short": "PCF",
+   "slug": "pcific-esports"
   },
   "team2_score": null,
   "tournament": "TCL/2026 Season/Summer Split",
@@ -8569,10 +8569,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
   },
   "team1_score": null,
   "team2": {
@@ -8704,10 +8704,10 @@
   "round": null,
   "tab": "Round 4",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
+   "name": "Gen.G",
+   "short": "GEN",
+   "slug": "gen-g"
   },
   "team1_score": null,
   "team2": {

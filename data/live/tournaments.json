@@ -179,7 +179,7 @@
   "year": "2026"
  },
  {
-  "games": 8,
+  "games": 11,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
@@ -282,7 +282,7 @@
   "year": "2026"
  },
  {
-  "games": 50,
+  "games": 53,
   "is_playoffs": false,
   "league": "Turkish Championship League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/TCL_logo_2025.png",
@@ -292,7 +292,8 @@
   "patches": [
    "26.14",
    "26.15",
-   "26.16"
+   "26.16",
+   "26.17"
   ],
   "region": "turkey",
   "region_label": "Turkey",
