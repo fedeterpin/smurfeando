@@ -8385,14 +8385,14 @@
    "short": "GEN",
    "slug": "gen-g"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
    "name": "KT Rolster",
    "short": "KT",
    "slug": "kt-rolster"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCK/2026 Season/Season Playoffs",
   "winner": null
  },
