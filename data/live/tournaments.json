@@ -107,23 +107,6 @@
   "year": "2026"
  },
  {
-  "games": 51,
-  "is_playoffs": true,
-  "league": "Esports World Cup",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Esports_World_Cup_2026.png",
-  "league_short": "EWC",
-  "name": "Esports World Cup 2026",
-  "overview_page": "Esports World Cup 2026",
-  "patches": [
-   "26.13"
-  ],
-  "region": "international",
-  "region_label": "International",
-  "slug": "esports-world-cup-2026",
-  "split": "",
-  "year": "2026"
- },
- {
   "games": 29,
   "is_playoffs": true,
   "league": "LoL Japan League",
@@ -179,7 +162,7 @@
   "year": "2026"
  },
  {
-  "games": 11,
+  "games": 16,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",

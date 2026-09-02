@@ -1,545 +1,5 @@
 [
  {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_1",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
-   "name": "Gen.G",
-   "short": "GEN",
-   "slug": "gen-g"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
-   "name": "Karmine Corp",
-   "short": "KC",
-   "slug": "karmine-corp"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_2",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret (Vietnamese Team)",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/Sentinelslogo_profile.png",
-   "name": "Sentinels",
-   "short": "SEN",
-   "slug": "sentinels"
-  },
-  "team2_score": 1,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 10:10:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_3",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 10:10:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_4",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-   "name": "Bilibili Gaming",
-   "short": "BLG",
-   "slug": "bilibili-gaming"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 11:20:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_5",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-   "name": "AG.AL",
-   "short": "AL",
-   "slug": "anyone-s-legend"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
-   "name": "Dplus Kia",
-   "short": "DK",
-   "slug": "dplus-kia"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 11:20:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_6",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
-   "name": "G2 Esports",
-   "short": "G2",
-   "slug": "g2-esports"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
-   "name": "FURIA",
-   "short": "FUR",
-   "slug": "furia"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 12:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_7",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
-   "name": "Hanwha Life Esports",
-   "short": "HLE",
-   "slug": "hanwha-life-esports"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-   "name": "MIBR.LOS",
-   "short": "LOS",
-   "slug": "l-s"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-15 12:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_8",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-   "name": "LYON (2024 American Team)",
-   "short": "LYON",
-   "slug": "lyon-2024-american-team"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-   "name": "JD Gaming",
-   "short": "JDG",
-   "slug": "jd-gaming"
-  },
-  "team2_score": 1,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-15 13:40:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_10",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-15 13:40:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_9",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret (Vietnamese Team)",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
-   "name": "Karmine Corp",
-   "short": "KC",
-   "slug": "karmine-corp"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-15 16:10:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_11",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
-   "name": "FURIA",
-   "short": "FUR",
-   "slug": "furia"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
-   "name": "Dplus Kia",
-   "short": "DK",
-   "slug": "dplus-kia"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-15 16:10:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_12",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-   "name": "MIBR.LOS",
-   "short": "LOS",
-   "slug": "l-s"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-   "name": "LYON (2024 American Team)",
-   "short": "LYON",
-   "slug": "lyon-2024-american-team"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-16 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_13",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/Sentinelslogo_profile.png",
-   "name": "Sentinels",
-   "short": "SEN",
-   "slug": "sentinels"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
-   "name": "Gen.G",
-   "short": "GEN",
-   "slug": "gen-g"
-  },
-  "team2_score": 1,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-16 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_14",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-   "name": "Bilibili Gaming",
-   "short": "BLG",
-   "slug": "bilibili-gaming"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-16 10:10:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_15",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
-   "name": "G2 Esports",
-   "short": "G2",
-   "slug": "g2-esports"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-   "name": "AG.AL",
-   "short": "AL",
-   "slug": "anyone-s-legend"
-  },
-  "team2_score": 1,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-07-16 10:10:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_16",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
-   "name": "Hanwha Life Esports",
-   "short": "HLE",
-   "slug": "hanwha-life-esports"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-   "name": "JD Gaming",
-   "short": "JDG",
-   "slug": "jd-gaming"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-16 11:20:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_17",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/Sentinelslogo_profile.png",
-   "name": "Sentinels",
-   "short": "SEN",
-   "slug": "sentinels"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
-   "name": "Karmine Corp",
-   "short": "KC",
-   "slug": "karmine-corp"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-16 11:20:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_18",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-16 13:50:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_19",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
-   "name": "G2 Esports",
-   "short": "G2",
-   "slug": "g2-esports"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
-   "name": "Dplus Kia",
-   "short": "DK",
-   "slug": "dplus-kia"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-16 13:50:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Group Stage_20",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Group Stage",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-   "name": "JD Gaming",
-   "short": "JDG",
-   "slug": "jd-gaming"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-   "name": "MIBR.LOS",
-   "short": "LOS",
-   "slug": "l-s"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
   "best_of": 5,
   "datetime_utc": "2026-07-17 08:00:00",
   "group": null,
@@ -564,114 +24,6 @@
   },
   "team2_score": 3,
   "tournament": "LJL/2026 Season/Summer Championship",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-17 11:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Quarterfinals_1",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Quarterfinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
-   "name": "Hanwha Life Esports",
-   "short": "HLE",
-   "slug": "hanwha-life-esports"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-17 11:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Quarterfinals_2",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Quarterfinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
-   "name": "Gen.G",
-   "short": "GEN",
-   "slug": "gen-g"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-   "name": "JD Gaming",
-   "short": "JDG",
-   "slug": "jd-gaming"
-  },
-  "team2_score": 0,
-  "tournament": "Esports World Cup 2026",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-17 13:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Quarterfinals_3",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Quarterfinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-   "name": "AG.AL",
-   "short": "AL",
-   "slug": "anyone-s-legend"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
-   "name": "Karmine Corp",
-   "short": "KC",
-   "slug": "karmine-corp"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-17 13:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Quarterfinals_4",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Quarterfinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-   "name": "Bilibili Gaming",
-   "short": "BLG",
-   "slug": "bilibili-gaming"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
-   "name": "Dplus Kia",
-   "short": "DK",
-   "slug": "dplus-kia"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
   "winner": 2
  },
  {
@@ -702,60 +54,6 @@
   "winner": 1
  },
  {
-  "best_of": 3,
-  "datetime_utc": "2026-07-18 11:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Semifinals_1",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Semifinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
-   "name": "Karmine Corp",
-   "short": "KC",
-   "slug": "karmine-corp"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-18 13:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Semifinals_2",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Semifinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
-   "name": "Gen.G",
-   "short": "GEN",
-   "slug": "gen-g"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
-   "name": "Dplus Kia",
-   "short": "DK",
-   "slug": "dplus-kia"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
   "best_of": 5,
   "datetime_utc": "2026-07-19 08:00:00",
   "group": null,
@@ -781,60 +79,6 @@
   "team2_score": 1,
   "tournament": "LJL/2026 Season/Summer Championship",
   "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-19 10:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Third-Place Match_1",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Third-Place Match",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
-   "name": "Gen.G",
-   "short": "GEN",
-   "slug": "gen-g"
-  },
-  "team2_score": 2,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-07-19 12:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "Esports World Cup 2026_Finals_1",
-  "patch": "26.13",
-  "phase": null,
-  "round": null,
-  "tab": "Finals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
-   "name": "Karmine Corp",
-   "short": "KC",
-   "slug": "karmine-corp"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
-   "name": "Dplus Kia",
-   "short": "DK",
-   "slug": "dplus-kia"
-  },
-  "team2_score": 3,
-  "tournament": "Esports World Cup 2026",
-  "winner": 2
  },
  {
   "best_of": 5,
@@ -8439,16 +7683,16 @@
    "short": "HLE",
    "slug": "hanwha-life-esports"
   },
-  "team1_score": 0,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
    "name": "T1",
    "short": "T1",
    "slug": "t1"
   },
-  "team2_score": 1,
+  "team2_score": 2,
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8466,16 +7710,16 @@
    "short": "BW",
    "slug": "bushido-wildcats"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/SU_Esportslogo_square.png",
    "name": "SU Esports",
    "short": "SU",
    "slug": "su-esports"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "TCL/2026 Season/Summer Split",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8542,10 +7786,10 @@
   "round": null,
   "tab": "Round 4",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/SU_Esportslogo_square.png",
+   "name": "SU Esports",
+   "short": "SU",
+   "slug": "su-esports"
   },
   "team1_score": null,
   "team2": {
@@ -8711,10 +7955,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -8974,10 +8218,10 @@
   "round": null,
   "tab": "Round 3",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
   },
   "team1_score": null,
   "team2": {
@@ -9244,10 +8488,10 @@
   "round": null,
   "tab": "Finals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+   "name": "Bushido Wildcats",
+   "short": "BW",
+   "slug": "bushido-wildcats"
   },
   "team1_score": null,
   "team2": {
