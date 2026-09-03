@@ -161,6 +161,246 @@
  },
  {
   "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 2,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
+   "name": "GAM Esports",
+   "short": "GAM",
+   "slug": "gam-esports"
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 3,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 4,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/TBD_1logo_square.png",
+   "name": "TBD 1",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 5,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/TBD_10logo_square.png",
+   "name": "TBD 10",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 6,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/TBD_12logo_square.png",
+   "name": "TBD 12",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 7,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/63/TBD_4logo_square.png",
+   "name": "TBD 4",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 8,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/TBD_5logo_square.png",
+   "name": "TBD 5",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 9,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b2/TBD_6logo_square.png",
+   "name": "TBD 6",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 10,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/97/TBD_7logo_square.png",
+   "name": "TBD 7",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 11,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/TBD_8logo_square.png",
+   "name": "TBD 8",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 12,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/af/TBD_9logo_square.png",
+   "name": "TBD 9",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "Demacia Cup Global Invitational 2026",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 1,
   "loss_games": 19,
   "loss_series": 7,
   "place": 1,

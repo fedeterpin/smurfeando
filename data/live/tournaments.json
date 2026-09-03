@@ -35,7 +35,7 @@
   "year": "2026"
  },
  {
-  "games": 15,
+  "games": 19,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -107,6 +107,21 @@
   "year": "2026"
  },
  {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Demacia Cup Global Invitational",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Demacia_Cup_Global_Invitational_2026.png",
+  "league_short": "Demacia Cup Global Invitational",
+  "name": "Demacia Cup Global Invitational 2026",
+  "overview_page": "Demacia Cup Global Invitational 2026",
+  "patches": [],
+  "region": "international",
+  "region_label": "International",
+  "slug": "demacia-cup-global-invitational-2026",
+  "split": "",
+  "year": "2026"
+ },
+ {
   "games": 29,
   "is_playoffs": true,
   "league": "LoL Japan League",
@@ -162,7 +177,7 @@
   "year": "2026"
  },
  {
-  "games": 16,
+  "games": 21,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
@@ -265,7 +280,7 @@
   "year": "2026"
  },
  {
-  "games": 58,
+  "games": 62,
   "is_playoffs": false,
   "league": "Turkish Championship League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/TCL_logo_2025.png",
