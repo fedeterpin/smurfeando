@@ -35,7 +35,7 @@
   "year": "2026"
  },
  {
-  "games": 19,
+  "games": 23,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -177,7 +177,7 @@
   "year": "2026"
  },
  {
-  "games": 21,
+  "games": 25,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
@@ -248,7 +248,7 @@
   "year": "2026"
  },
  {
-  "games": 25,
+  "games": 28,
   "is_playoffs": false,
   "league": "Pacific Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/PCS_logo_full.png",
@@ -256,7 +256,8 @@
   "name": "PCS 2026 Summer",
   "overview_page": "PCS/2026 Season/Summer Season",
   "patches": [
-   "26.15"
+   "26.15",
+   "26.17"
   ],
   "region": "pacific",
   "region_label": "Pacific",

@@ -7825,9 +7825,9 @@
    "short": "DK",
    "slug": "dplus-kia"
   },
-  "team2_score": 0,
+  "team2_score": 3,
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -7845,16 +7845,16 @@
    "short": "AL",
    "slug": "anyone-s-legend"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
    "name": "LGD Gaming",
    "short": "LGD",
    "slug": "lgd-gaming"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -7862,7 +7862,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "PCS/2026 Season/Summer Season_Round 3_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 3",
@@ -7872,16 +7872,16 @@
    "short": "SSG",
    "slug": "sillysilly-gaming"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/53/Reignfalllogo_square.png",
    "name": "Reignfall",
    "short": "RNF",
    "slug": "reignfall"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "PCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -7997,7 +7997,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "PCS/2026 Season/Summer Season_Round 4_2",
-  "patch": "26.15",
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 4",
@@ -8009,10 +8009,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cd/SillySilly_Gaminglogo_square.png",
+   "name": "SillySilly Gaming",
+   "short": "SSG",
+   "slug": "sillysilly-gaming"
   },
   "team2_score": null,
   "tournament": "PCS/2026 Season/Summer Season",
@@ -8225,10 +8225,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia",
+   "short": "DK",
+   "slug": "dplus-kia"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -8252,10 +8252,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Grand Finals",
@@ -8267,7 +8267,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "PCS/2026 Season/Summer Season_Finals_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Finals",
@@ -8407,10 +8407,10 @@
   "round": null,
   "tab": "Round 4",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
   },
   "team1_score": null,
   "team2": {

@@ -229,10 +229,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/94/TBD_1logo_square.png",
-   "name": "TBD 1",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
   },
   "tie_series": 0,
   "tournament": "Demacia Cup Global Invitational 2026",
