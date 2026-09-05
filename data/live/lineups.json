@@ -4580,6 +4580,106 @@
   "tournament": "LPL/2026 Season/Grand Finals"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/JDG_Xiaoxu_2026_Split_1.png",
+  "player": "Xiaoxu",
+  "player_id": "Xiaoxu",
+  "role": "Top",
+  "slug": "xiaoxu",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/JDG_JunJia_2026_Split_1.png",
+  "player": "JunJia",
+  "player_id": "JunJia",
+  "role": "Jungle",
+  "slug": "junjia",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/JDG_HongQ_2026_Split_1.png",
+  "player": "HongQ",
+  "player_id": "HongQ",
+  "role": "Mid",
+  "slug": "hongq",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/JDG_GALA_2026_Split_1.png",
+  "player": "GALA",
+  "player_id": "GALA",
+  "role": "Bot",
+  "slug": "gala",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JDG_Vampire_2026_Split_1.png",
+  "player": "Vampire",
+  "player_id": "Vampire",
+  "role": "Support",
+  "slug": "vampire",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/TES_ZUIAN_2026_Split_2.png",
+  "player": "ZUIAN",
+  "player_id": "ZUIAN",
+  "role": "Top",
+  "slug": "zuian",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/TES_Tian_2026_Split_2.png",
+  "player": "Tian",
+  "player_id": "Tian",
+  "role": "Jungle",
+  "slug": "tian",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/TES_Creme_2026_Split_1.png",
+  "player": "Creme",
+  "player_id": "Creme",
+  "role": "Mid",
+  "slug": "creme",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/TES_JackeyLove_2026_Split_1.png",
+  "player": "JackeyLove",
+  "player_id": "JackeyLove",
+  "role": "Bot",
+  "slug": "jackeylove",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/TES_Zhuo_2026_Split_3.png",
+  "player": "Zhuo",
+  "player_id": "Zhuo",
+  "role": "Support",
+  "slug": "zhuo",
+  "source": "roster",
+  "team": "Top Esports",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",
   "player": "Breathe",
   "player_id": "Breathe",
@@ -5178,206 +5278,6 @@
   "source": "roster",
   "team": "Weibo Gaming",
   "tournament": "LPL/2026 Season/Split 3"
- },
- {
-  "image": null,
-  "player": "Yuji (Yang Xi-Qi)",
-  "player_id": "Yuji",
-  "role": "Top",
-  "slug": "yuji",
-  "source": "roster",
-  "team": "Embrace Whatever Happens",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Yue (Liu Yue)",
-  "player_id": "Yue",
-  "role": "Jungle",
-  "slug": "yue-2",
-  "source": "roster",
-  "team": "Embrace Whatever Happens",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Zoey",
-  "player_id": "Zoey",
-  "role": "Mid",
-  "slug": "zoey",
-  "source": "roster",
-  "team": "Embrace Whatever Happens",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Lucifer (Kim Jae-won)",
-  "player_id": "Lucifer",
-  "role": "Bot",
-  "slug": "lucifer",
-  "source": "roster",
-  "team": "Embrace Whatever Happens",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Zer0Fa",
-  "player_id": "Zer0Fa",
-  "role": "Support",
-  "slug": "zer0fa",
-  "source": "roster",
-  "team": "Embrace Whatever Happens",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8f/WBGY_Goldc_2024_Placements.png",
-  "player": "Goldc",
-  "player_id": "Goldc",
-  "role": "Top",
-  "slug": "goldc",
-  "source": "roster",
-  "team": "Mighty Eagle (Taiwanese Team)",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Liang (Ke Liang-Dai)",
-  "player_id": "Liang",
-  "role": "Jungle",
-  "slug": "liang-2",
-  "source": "roster",
-  "team": "Mighty Eagle (Taiwanese Team)",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/WE_BuLuKaKa_NEST_2024.png",
-  "player": "BuLuKaKa",
-  "player_id": "BuLuKaKa",
-  "role": "Mid",
-  "slug": "bulukaka",
-  "source": "roster",
-  "team": "Mighty Eagle (Taiwanese Team)",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "MadDogg9",
-  "player_id": "MadDogg9",
-  "role": "Bot",
-  "slug": "maddogg9",
-  "source": "roster",
-  "team": "Mighty Eagle (Taiwanese Team)",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "OverT1me",
-  "player_id": "OverT1me",
-  "role": "Support",
-  "slug": "overt1me",
-  "source": "roster",
-  "team": "Mighty Eagle (Taiwanese Team)",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Hedonist",
-  "player_id": "Hedonist",
-  "role": "Top",
-  "slug": "hedonist",
-  "source": "roster",
-  "team": "RogerSaMa",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "AIex",
-  "player_id": "AIex",
-  "role": "Jungle",
-  "slug": "aiex",
-  "source": "roster",
-  "team": "RogerSaMa",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Roger (Fu Po-Yu)",
-  "player_id": "Roger",
-  "role": "Mid",
-  "slug": "roger",
-  "source": "roster",
-  "team": "RogerSaMa",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Xiao Yu",
-  "player_id": "Xiao Yu",
-  "role": "Bot",
-  "slug": "xiao-yu",
-  "source": "roster",
-  "team": "RogerSaMa",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "WindBlows",
-  "player_id": "WindBlows",
-  "role": "Support",
-  "slug": "windblows",
-  "source": "roster",
-  "team": "RogerSaMa",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/PSG.A_Adizai_ASCI_2023.png",
-  "player": "Adizai",
-  "player_id": "Adizai",
-  "role": "Top",
-  "slug": "adizai",
-  "source": "roster",
-  "team": "Sponge Gaming",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/WP_RenYe_2024_Split_1.png",
-  "player": "RenYe",
-  "player_id": "RenYe",
-  "role": "Jungle",
-  "slug": "renye",
-  "source": "roster",
-  "team": "Sponge Gaming",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/WP_NuL1_2024_Split_1.png",
-  "player": "NuL1",
-  "player_id": "NuL1",
-  "role": "Mid",
-  "slug": "nul1",
-  "source": "roster",
-  "team": "Sponge Gaming",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": null,
-  "player": "Sniper1",
-  "player_id": "Sniper1",
-  "role": "Bot",
-  "slug": "sniper1",
-  "source": "roster",
-  "team": "Sponge Gaming",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d4/PSG.A_TNS_ASCI_2023.png",
-  "player": "TNS",
-  "player_id": "TNS",
-  "role": "Support",
-  "slug": "tns",
-  "source": "roster",
-  "team": "Sponge Gaming",
-  "tournament": "PCS/2026 Season/Summer Qualifier"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/CFOA_Zkai_2026_Split_2.png",
