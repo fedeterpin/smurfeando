@@ -122,7 +122,7 @@
   "year": "2026"
  },
  {
-  "games": 29,
+  "games": 32,
   "is_playoffs": true,
   "league": "LoL Japan League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cc/LJL_logo_2025.png",
@@ -132,7 +132,8 @@
   "patches": [
    "26.13",
    "26.14",
-   "26.15"
+   "26.15",
+   "26.17"
   ],
   "region": "japan",
   "region_label": "Japan",

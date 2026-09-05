@@ -14670,8 +14670,13 @@
   "wins": 4
  },
  {
-  "assists": 170,
+  "assists": 188,
   "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 3,
+    "wins": 2
+   },
    {
     "champion": "Jarvan IV",
     "games": 2,
@@ -14681,11 +14686,6 @@
     "champion": "Lee Sin",
     "games": 2,
     "wins": 0
-   },
-   {
-    "champion": "Naafiri",
-    "games": 2,
-    "wins": 2
    },
    {
     "champion": "Nidalee",
@@ -14698,17 +14698,17 @@
     "wins": 1
    }
   ],
-  "cspm": 6.46,
-  "deaths": 63,
-  "dpm": 541.2,
-  "games": 17,
-  "gpm": 394.9,
+  "cspm": 6.5,
+  "deaths": 72,
+  "dpm": 533.2,
+  "games": 20,
+  "gpm": 391.1,
   "image": null,
-  "kda": 3.87,
-  "kills": 74,
-  "kp": 0.6912,
-  "losses": 7,
-  "minutes": 567.4,
+  "kda": 3.76,
+  "kills": 83,
+  "kp": 0.6878,
+  "losses": 10,
+  "minutes": 652.5,
   "player": "Imagine (Ann Jae-won)",
   "player_id": "Imagine",
   "role": "Jungle",
@@ -14718,12 +14718,12 @@
   "team_short": "LGG",
   "team_slug": "l-guide-gaming",
   "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 1.93,
-  "win_rate": 0.5882,
+  "vspm": 1.9,
+  "win_rate": 0.5,
   "wins": 10
  },
  {
-  "assists": 253,
+  "assists": 282,
   "champions": [
    {
     "champion": "Rell",
@@ -14731,12 +14731,17 @@
     "wins": 3
    },
    {
+    "champion": "Karma",
+    "games": 3,
+    "wins": 1
+   },
+   {
     "champion": "Alistar",
     "games": 2,
     "wins": 0
    },
    {
-    "champion": "Karma",
+    "champion": "Bard",
     "games": 2,
     "wins": 1
    },
@@ -14744,24 +14749,19 @@
     "champion": "Leona",
     "games": 2,
     "wins": 0
-   },
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 1
    }
   ],
-  "cspm": 0.97,
-  "deaths": 50,
-  "dpm": 197.3,
-  "games": 17,
-  "gpm": 268.2,
+  "cspm": 0.99,
+  "deaths": 63,
+  "dpm": 202.5,
+  "games": 20,
+  "gpm": 266.7,
   "image": null,
-  "kda": 5.46,
-  "kills": 20,
-  "kp": 0.7734,
-  "losses": 7,
-  "minutes": 567.4,
+  "kda": 4.84,
+  "kills": 23,
+  "kp": 0.7741,
+  "losses": 10,
+  "minutes": 652.5,
   "player": "JustFocus",
   "player_id": "JustFocus",
   "role": "Support",
@@ -14771,13 +14771,18 @@
   "team_short": "LGG",
   "team_slug": "l-guide-gaming",
   "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 3.92,
-  "win_rate": 0.5882,
+  "vspm": 3.84,
+  "win_rate": 0.5,
   "wins": 10
  },
  {
-  "assists": 167,
+  "assists": 180,
   "champions": [
+   {
+    "champion": "Locke",
+    "games": 3,
+    "wins": 2
+   },
    {
     "champion": "Orianna",
     "games": 3,
@@ -14789,32 +14794,27 @@
     "wins": 0
    },
    {
-    "champion": "Locke",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Syndra",
+    "champion": "Cassiopeia",
     "games": 2,
     "wins": 1
    },
    {
-    "champion": "Taliyah",
+    "champion": "Sylas",
     "games": 2,
     "wins": 1
    }
   ],
-  "cspm": 8.44,
-  "deaths": 49,
-  "dpm": 777.9,
-  "games": 17,
-  "gpm": 433.4,
+  "cspm": 8.36,
+  "deaths": 63,
+  "dpm": 781.4,
+  "games": 20,
+  "gpm": 431.3,
   "image": null,
-  "kda": 5.51,
-  "kills": 103,
-  "kp": 0.7649,
-  "losses": 7,
-  "minutes": 567.4,
+  "kda": 4.81,
+  "kills": 123,
+  "kp": 0.769,
+  "losses": 10,
+  "minutes": 652.5,
   "player": "Rre",
   "player_id": "rre",
   "role": "Mid",
@@ -14824,16 +14824,16 @@
   "team_short": "LGG",
   "team_slug": "l-guide-gaming",
   "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 1.16,
-  "win_rate": 0.5882,
+  "vspm": 1.14,
+  "win_rate": 0.5,
   "wins": 10
  },
  {
-  "assists": 104,
+  "assists": 114,
   "champions": [
    {
     "champion": "K'Sante",
-    "games": 4,
+    "games": 5,
     "wins": 2
    },
    {
@@ -14847,27 +14847,27 @@
     "wins": 1
    },
    {
-    "champion": "Renekton",
+    "champion": "Ambessa",
     "games": 2,
     "wins": 1
    },
    {
-    "champion": "Yorick",
+    "champion": "Renekton",
     "games": 2,
-    "wins": 2
+    "wins": 1
    }
   ],
-  "cspm": 7.34,
-  "deaths": 64,
-  "dpm": 627.8,
-  "games": 17,
-  "gpm": 362.4,
+  "cspm": 7.36,
+  "deaths": 75,
+  "dpm": 609.5,
+  "games": 20,
+  "gpm": 355.7,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/SnowRabbit_L_Guide_Gaming_LJL_Spring_2026.png",
-  "kda": 2.48,
-  "kills": 55,
-  "kp": 0.4504,
-  "losses": 7,
-  "minutes": 567.4,
+  "kda": 2.28,
+  "kills": 57,
+  "kp": 0.434,
+  "losses": 10,
+  "minutes": 652.5,
   "player": "SnowRabbit",
   "player_id": "SnowRabbit",
   "role": "Top",
@@ -14877,12 +14877,12 @@
   "team_short": "LGG",
   "team_slug": "l-guide-gaming",
   "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 1.45,
-  "win_rate": 0.5882,
+  "vspm": 1.46,
+  "win_rate": 0.5,
   "wins": 10
  },
  {
-  "assists": 132,
+  "assists": 152,
   "champions": [
    {
     "champion": "Ezreal",
@@ -14895,32 +14895,32 @@
     "wins": 2
    },
    {
+    "champion": "Jhin",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Taliyah",
+    "games": 2,
+    "wins": 0
+   },
+   {
     "champion": "Veigar",
     "games": 2,
     "wins": 1
-   },
-   {
-    "champion": "Xerath",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 0
    }
   ],
-  "cspm": 8.76,
-  "deaths": 45,
-  "dpm": 761.7,
-  "games": 17,
-  "gpm": 474.3,
+  "cspm": 8.73,
+  "deaths": 58,
+  "dpm": 741.0,
+  "games": 20,
+  "gpm": 463.3,
   "image": null,
-  "kda": 5.18,
-  "kills": 101,
-  "kp": 0.6601,
-  "losses": 7,
-  "minutes": 567.4,
+  "kda": 4.48,
+  "kills": 108,
+  "kp": 0.6599,
+  "losses": 10,
+  "minutes": 652.5,
   "player": "Wanan (Inkai Ro)",
   "player_id": "wanan",
   "role": "Bot",
@@ -14930,9 +14930,274 @@
   "team_short": "LGG",
   "team_slug": "l-guide-gaming",
   "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 0.99,
-  "win_rate": 0.5882,
+  "vspm": 0.97,
+  "win_rate": 0.5,
   "wins": 10
+ },
+ {
+  "assists": 101,
+  "champions": [
+   {
+    "champion": "Anivia",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.68,
+  "deaths": 29,
+  "dpm": 746.7,
+  "games": 12,
+  "gpm": 390.9,
+  "image": null,
+  "kda": 5.17,
+  "kills": 49,
+  "kp": 0.6098,
+  "losses": 3,
+  "minutes": 360.6,
+  "player": "Enapon",
+  "player_id": "Enapon",
+  "role": "Mid",
+  "slug": "enapon",
+  "team": "New Meta",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
+  "team_short": "NM",
+  "team_slug": "new-meta",
+  "tournament": "LJL/2026 Season/Summer Championship",
+  "vspm": 1.28,
+  "win_rate": 0.75,
+  "wins": 9
+ },
+ {
+  "assists": 122,
+  "champions": [
+   {
+    "champion": "Xin Zhao",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Vi",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Maokai",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.67,
+  "deaths": 40,
+  "dpm": 503.7,
+  "games": 12,
+  "gpm": 401.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/V3_HRK_2024_Split_1.png",
+  "kda": 4.1,
+  "kills": 42,
+  "kp": 0.6667,
+  "losses": 3,
+  "minutes": 360.6,
+  "player": "HRK",
+  "player_id": "HRK",
+  "role": "Jungle",
+  "slug": "hrk",
+  "team": "New Meta",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
+  "team_short": "NM",
+  "team_slug": "new-meta",
+  "tournament": "LJL/2026 Season/Summer Championship",
+  "vspm": 2.04,
+  "win_rate": 0.75,
+  "wins": 9
+ },
+ {
+  "assists": 70,
+  "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Yunara",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Aphelios",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Hwei",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.93,
+  "deaths": 40,
+  "dpm": 906.0,
+  "games": 12,
+  "gpm": 541.4,
+  "image": null,
+  "kda": 3.98,
+  "kills": 89,
+  "kp": 0.6463,
+  "losses": 3,
+  "minutes": 360.6,
+  "player": "L1mit",
+  "player_id": "L1mit",
+  "role": "Bot",
+  "slug": "l1mit",
+  "team": "New Meta",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
+  "team_short": "NM",
+  "team_slug": "new-meta",
+  "tournament": "LJL/2026 Season/Summer Championship",
+  "vspm": 1.33,
+  "win_rate": 0.75,
+  "wins": 9
+ },
+ {
+  "assists": 168,
+  "champions": [
+   {
+    "champion": "Blitzcrank",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Nautilus",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Pyke",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.13,
+  "deaths": 40,
+  "dpm": 320.2,
+  "games": 12,
+  "gpm": 299.9,
+  "image": null,
+  "kda": 4.78,
+  "kills": 23,
+  "kp": 0.7764,
+  "losses": 3,
+  "minutes": 360.6,
+  "player": "R0se",
+  "player_id": "R0se",
+  "role": "Support",
+  "slug": "r0se",
+  "team": "New Meta",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
+  "team_short": "NM",
+  "team_slug": "new-meta",
+  "tournament": "LJL/2026 Season/Summer Championship",
+  "vspm": 3.51,
+  "win_rate": 0.75,
+  "wins": 9
+ },
+ {
+  "assists": 57,
+  "champions": [
+   {
+    "champion": "Yorick",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Tristana",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Fiora",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Gragas",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.12,
+  "deaths": 36,
+  "dpm": 646.6,
+  "games": 12,
+  "gpm": 411.4,
+  "image": null,
+  "kda": 2.78,
+  "kills": 43,
+  "kp": 0.4065,
+  "losses": 3,
+  "minutes": 360.6,
+  "player": "Tol2",
+  "player_id": "tol2",
+  "role": "Top",
+  "slug": "tol2",
+  "team": "New Meta",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
+  "team_short": "NM",
+  "team_slug": "new-meta",
+  "tournament": "LJL/2026 Season/Summer Championship",
+  "vspm": 1.17,
+  "win_rate": 0.75,
+  "wins": 9
  },
  {
   "assists": 73,
@@ -15198,271 +15463,6 @@
   "vspm": 4.0,
   "win_rate": 0.4545,
   "wins": 5
- },
- {
-  "assists": 75,
-  "champions": [
-   {
-    "champion": "Cassiopeia",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Galio",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.55,
-  "deaths": 23,
-  "dpm": 730.1,
-  "games": 9,
-  "gpm": 373.9,
-  "image": null,
-  "kda": 4.74,
-  "kills": 34,
-  "kp": 0.586,
-  "losses": 3,
-  "minutes": 275.5,
-  "player": "Enapon",
-  "player_id": "Enapon",
-  "role": "Mid",
-  "slug": "enapon",
-  "team": "New Meta",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
-  "team_short": "NM",
-  "team_slug": "new-meta",
-  "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 1.24,
-  "win_rate": 0.6667,
-  "wins": 6
- },
- {
-  "assists": 88,
-  "champions": [
-   {
-    "champion": "Jarvan IV",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Vi",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Xin Zhao",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Naafiri",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Poppy",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.79,
-  "deaths": 32,
-  "dpm": 507.4,
-  "games": 9,
-  "gpm": 404.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/V3_HRK_2024_Split_1.png",
-  "kda": 3.84,
-  "kills": 35,
-  "kp": 0.6613,
-  "losses": 3,
-  "minutes": 275.5,
-  "player": "HRK",
-  "player_id": "HRK",
-  "role": "Jungle",
-  "slug": "hrk",
-  "team": "New Meta",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
-  "team_short": "NM",
-  "team_slug": "new-meta",
-  "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 2.17,
-  "win_rate": 0.6667,
-  "wins": 6
- },
- {
-  "assists": 54,
-  "champions": [
-   {
-    "champion": "Ezreal",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Yunara",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Aphelios",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Hwei",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.99,
-  "deaths": 27,
-  "dpm": 917.8,
-  "games": 9,
-  "gpm": 548.0,
-  "image": null,
-  "kda": 4.52,
-  "kills": 68,
-  "kp": 0.6559,
-  "losses": 3,
-  "minutes": 275.5,
-  "player": "L1mit",
-  "player_id": "L1mit",
-  "role": "Bot",
-  "slug": "l1mit",
-  "team": "New Meta",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
-  "team_short": "NM",
-  "team_slug": "new-meta",
-  "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 1.36,
-  "win_rate": 0.6667,
-  "wins": 6
- },
- {
-  "assists": 129,
-  "champions": [
-   {
-    "champion": "Blitzcrank",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Nautilus",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Poppy",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.22,
-  "deaths": 31,
-  "dpm": 309.6,
-  "games": 9,
-  "gpm": 298.0,
-  "image": null,
-  "kda": 4.65,
-  "kills": 15,
-  "kp": 0.7742,
-  "losses": 3,
-  "minutes": 275.5,
-  "player": "R0se",
-  "player_id": "R0se",
-  "role": "Support",
-  "slug": "r0se",
-  "team": "New Meta",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
-  "team_short": "NM",
-  "team_slug": "new-meta",
-  "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 3.57,
-  "win_rate": 0.6667,
-  "wins": 6
- },
- {
-  "assists": 38,
-  "champions": [
-   {
-    "champion": "Yorick",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Tristana",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Fiora",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Gragas",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.28,
-  "deaths": 31,
-  "dpm": 626.3,
-  "games": 9,
-  "gpm": 415.6,
-  "image": null,
-  "kda": 2.32,
-  "kills": 34,
-  "kp": 0.3871,
-  "losses": 3,
-  "minutes": 275.5,
-  "player": "Tol2",
-  "player_id": "tol2",
-  "role": "Top",
-  "slug": "tol2",
-  "team": "New Meta",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
-  "team_short": "NM",
-  "team_slug": "new-meta",
-  "tournament": "LJL/2026 Season/Summer Championship",
-  "vspm": 1.1,
-  "win_rate": 0.6667,
-  "wins": 6
  },
  {
   "assists": 44,
