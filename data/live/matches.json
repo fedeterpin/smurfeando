@@ -8007,16 +8007,16 @@
    "short": "FL",
    "slug": "fennel"
   },
-  "team1_score": 2,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
    "name": "New Meta",
    "short": "NM",
    "slug": "new-meta"
   },
-  "team2_score": 1,
+  "team2_score": 2,
   "tournament": "LJL/2026 Season/Summer Championship",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8034,7 +8034,7 @@
    "short": "iG",
    "slug": "invictus-gaming"
   },
-  "team1_score": 2,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
    "name": "Team WE",
@@ -8043,7 +8043,7 @@
   },
   "team2_score": 1,
   "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8061,43 +8061,16 @@
    "short": "T1",
    "slug": "t1"
   },
-  "team1_score": 1,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
    "name": "Dplus Kia",
    "short": "DK",
    "slug": "dplus-kia"
   },
-  "team2_score": 0,
+  "team2_score": 1,
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "winner": null
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-09-06 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LPL/2026 Season/Grand Finals_Round 2_4",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Ninjas_in_Pyjamas.CNlogo_profile.png",
-   "name": "Ninjas in Pyjamas.CN",
-   "short": "NIP",
-   "slug": "ninjas-in-pyjamas-cn"
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
-   "name": "LGD Gaming",
-   "short": "LGD",
-   "slug": "lgd-gaming"
-  },
-  "team2_score": null,
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8115,16 +8088,43 @@
    "short": "FAK",
    "slug": "frank-esports"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
    "name": "CTBC Flying Oyster Academy",
    "short": "CFOA",
    "slug": "ctbc-flying-oyster-academy"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "PCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 2
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-06 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LPL/2026 Season/Grand Finals_Round 2_4",
+  "patch": "26.17",
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Ninjas_in_Pyjamas.CNlogo_profile.png",
+   "name": "Ninjas in Pyjamas.CN",
+   "short": "NIP",
+   "slug": "ninjas-in-pyjamas-cn"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "team2_score": 3,
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8142,16 +8142,16 @@
    "short": "KC",
    "slug": "karmine-corp"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
    "name": "G2 Esports",
    "short": "G2",
    "slug": "g2-esports"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LEC/2026 Season/Summer Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8169,16 +8169,16 @@
    "short": "FUR",
    "slug": "furia"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
    "name": "RED Canids",
    "short": "RED",
    "slug": "red-canids"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -8272,17 +8272,17 @@
   "round": null,
   "tab": "Round 3",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Grand Finals",
@@ -8360,10 +8360,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -8441,10 +8441,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+   "name": "paiN Gaming",
+   "short": "PAIN",
+   "slug": "pain-gaming"
   },
   "team2_score": null,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
@@ -8549,10 +8549,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
   },
   "team2_score": null,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
@@ -8623,17 +8623,17 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Regional Finals",
@@ -8731,10 +8731,10 @@
   "round": null,
   "tab": "Round 3",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
   },
   "team1_score": null,
   "team2": {
@@ -8758,10 +8758,10 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
   },
   "team1_score": null,
   "team2": {
@@ -8812,10 +8812,10 @@
   "round": null,
   "tab": "Finals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
   },
   "team1_score": null,
   "team2": {

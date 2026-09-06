@@ -4630,6 +4630,56 @@
   "tournament": "LPL/2026 Season/Regional Finals"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/WE_Cube_2026_Split_1.png",
+  "player": "Cube (Dai Yi)",
+  "player_id": "Cube",
+  "role": "Top",
+  "slug": "cube",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/WE_Monki_2026_Split_1.png",
+  "player": "Monki",
+  "player_id": "Monki",
+  "role": "Jungle",
+  "slug": "monki",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/WE_Karis_2026_Split_1.png",
+  "player": "Karis",
+  "player_id": "Karis",
+  "role": "Mid",
+  "slug": "karis",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/WE_About_2026_Split_1.png",
+  "player": "About",
+  "player_id": "About",
+  "role": "Bot",
+  "slug": "about",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/WE_Erha_2026_Split_2.png",
+  "player": "Erha",
+  "player_id": "Erha",
+  "role": "Support",
+  "slug": "erha",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/TES_ZUIAN_2026_Split_2.png",
   "player": "ZUIAN",
   "player_id": "ZUIAN",

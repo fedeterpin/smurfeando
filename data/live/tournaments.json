@@ -37,7 +37,7 @@
   "year": "2026"
  },
  {
-  "games": 31,
+  "games": 40,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -126,7 +126,7 @@
   "year": "2026"
  },
  {
-  "games": 32,
+  "games": 37,
   "is_playoffs": true,
   "league": "LoL Japan League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cc/LJL_logo_2025.png",
@@ -182,7 +182,7 @@
   "year": "2026"
  },
  {
-  "games": 29,
+  "games": 33,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
@@ -253,7 +253,7 @@
   "year": "2026"
  },
  {
-  "games": 33,
+  "games": 38,
   "is_playoffs": false,
   "league": "Pacific Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/PCS_logo_full.png",
