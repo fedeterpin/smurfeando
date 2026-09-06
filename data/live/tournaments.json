@@ -20,14 +20,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 4,
   "is_playoffs": true,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
   "league_short": "CBLOL",
   "name": "CBLOL 2026 Split 2 Playoffs",
   "overview_page": "CBLOL/2026 Season/Split 2 Playoffs",
-  "patches": [],
+  "patches": [
+   "26.17"
+  ],
   "region": "brazil",
   "region_label": "Brazil",
   "slug": "cblol-2026-season-split-2-playoffs",
@@ -197,7 +199,7 @@
   "year": "2026"
  },
  {
-  "games": 56,
+  "games": 60,
   "is_playoffs": false,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",

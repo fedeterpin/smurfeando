@@ -7916,7 +7916,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 1_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -7933,9 +7933,9 @@
    "short": "PAIN",
    "slug": "pain-gaming"
   },
-  "team2_score": 2,
+  "team2_score": 3,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -7943,7 +7943,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Season_Week 7_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 7",
@@ -7953,16 +7953,16 @@
    "short": "SEN",
    "slug": "sentinels"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
    "name": "Cloud9",
    "short": "C9",
    "slug": "cloud9"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -7970,7 +7970,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Season_Week 7_2",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 7",
@@ -7980,16 +7980,16 @@
    "short": "DIG",
    "slug": "dignitas"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
    "name": "Team Liquid",
    "short": "TL",
    "slug": "team-liquid"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LCS/2026 Season/Summer Season",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8007,14 +8007,14 @@
    "short": "FL",
    "slug": "fennel"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/New_Metalogo_profile.png",
    "name": "New Meta",
    "short": "NM",
    "slug": "new-meta"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LJL/2026 Season/Summer Championship",
   "winner": null
  },
@@ -8034,14 +8034,14 @@
    "short": "iG",
    "slug": "invictus-gaming"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
    "name": "Team WE",
    "short": "WE",
    "slug": "team-we"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LPL/2026 Season/Grand Finals",
   "winner": null
  },
@@ -8061,14 +8061,14 @@
    "short": "T1",
    "slug": "t1"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
    "name": "Dplus Kia",
    "short": "DK",
    "slug": "dplus-kia"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCK/2026 Season/Season Playoffs",
   "winner": null
  },
@@ -8159,7 +8159,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 1_2",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -8186,7 +8186,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Season_Week 7_3",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 7",
@@ -8213,7 +8213,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Season_Week 7_4",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Week 7",
@@ -8569,10 +8569,10 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+   "name": "Cloud9",
+   "short": "C9",
+   "slug": "cloud9"
   },
   "team1_score": null,
   "team2": {
@@ -8765,10 +8765,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+   "name": "Vivo Keyd Stars",
+   "short": "VKS",
+   "slug": "vivo-keyd-stars"
   },
   "team2_score": null,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
