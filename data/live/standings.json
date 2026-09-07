@@ -761,10 +761,30 @@
  },
  {
   "group": 1,
-  "loss_games": 3,
+  "loss_games": 2,
   "loss_series": 1,
   "place": 1,
   "place_label": "1",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+   "name": "LYON (2024 American Team)",
+   "short": "LYON",
+   "slug": "lyon-2024-american-team"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 13,
+  "win_series": 6
+ },
+ {
+  "group": 1,
+  "loss_games": 3,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -778,26 +798,6 @@
   "tournament": "LCS/2026 Season/Summer Season",
   "win_games": 12,
   "win_series": 6
- },
- {
-  "group": 1,
-  "loss_games": 2,
-  "loss_series": 1,
-  "place": 2,
-  "place_label": "2",
-  "points": 0,
-  "streak": 2,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-   "name": "LYON (2024 American Team)",
-   "short": "LYON",
-   "slug": "lyon-2024-american-team"
-  },
-  "tie_series": 0,
-  "tournament": "LCS/2026 Season/Summer Season",
-  "win_games": 11,
-  "win_series": 5
  },
  {
   "group": 1,
@@ -842,11 +842,31 @@
  {
   "group": 1,
   "loss_games": 8,
-  "loss_series": 3,
+  "loss_series": 4,
   "place": 5,
   "place_label": "5",
   "points": 0,
   "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
+  },
+  "tie_series": 0,
+  "tournament": "LCS/2026 Season/Summer Season",
+  "win_games": 6,
+  "win_series": 3
+ },
+ {
+  "group": 1,
+  "loss_games": 10,
+  "loss_series": 4,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 3,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
@@ -861,32 +881,12 @@
  },
  {
   "group": 1,
-  "loss_games": 8,
-  "loss_series": 4,
-  "place": 6,
-  "place_label": "6",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-   "name": "FlyQuest",
-   "short": "FLY",
-   "slug": "flyquest"
-  },
-  "tie_series": 0,
-  "tournament": "LCS/2026 Season/Summer Season",
-  "win_games": 4,
-  "win_series": 2
- },
- {
-  "group": 1,
-  "loss_games": 10,
-  "loss_series": 5,
+  "loss_games": 12,
+  "loss_series": 6,
   "place": 7,
   "place_label": "7",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",

@@ -900,6 +900,106 @@
   "tournament": "Demacia Cup Global Invitational 2026"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/HLE_Zeus_2026_Split_1.png",
+  "player": "Zeus",
+  "player_id": "Zeus",
+  "role": "Top",
+  "slug": "zeus",
+  "source": "roster",
+  "team": "South Korea (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/GEN_Canyon_2026_Split_1.png",
+  "player": "Canyon",
+  "player_id": "Canyon",
+  "role": "Jungle",
+  "slug": "canyon",
+  "source": "roster",
+  "team": "South Korea (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/36/HLE_Zeka_2026_Split_1.png",
+  "player": "Zeka (Kim Geon-woo)",
+  "player_id": "Zeka",
+  "role": "Mid",
+  "slug": "zeka",
+  "source": "roster",
+  "team": "South Korea (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/HLE_Gumayusi_2026_Split_1.png",
+  "player": "Gumayusi",
+  "player_id": "Gumayusi",
+  "role": "Bot",
+  "slug": "gumayusi",
+  "source": "roster",
+  "team": "South Korea (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/T1_Keria_2026_LCK_Cup.png",
+  "player": "Keria",
+  "player_id": "Keria",
+  "role": "Support",
+  "slug": "keria",
+  "source": "roster",
+  "team": "South Korea (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/GAM_Kiaya_2026_Split_1.png",
+  "player": "Kiaya",
+  "player_id": "Kiaya",
+  "role": "Top",
+  "slug": "kiaya",
+  "source": "roster",
+  "team": "Vietnam (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7a/TSW_Hizto_2026_Split_2.png",
+  "player": "Hizto",
+  "player_id": "Hizto",
+  "role": "Jungle",
+  "slug": "hizto",
+  "source": "roster",
+  "team": "Vietnam (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/TSW_Dire_2026_Split_2.png",
+  "player": "Dire",
+  "player_id": "Dire",
+  "role": "Mid",
+  "slug": "dire",
+  "source": "roster",
+  "team": "Vietnam (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7a/TSW_Eddie_2026_Split_2.png",
+  "player": "Eddie",
+  "player_id": "Eddie",
+  "role": "Bot",
+  "slug": "eddie",
+  "source": "roster",
+  "team": "Vietnam (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Taki_at_LCP_Split_3_2026.png",
+  "player": "Taki (Đinh Anh Tài)",
+  "player_id": "Taki",
+  "role": "Support",
+  "slug": "taki",
+  "source": "roster",
+  "team": "Vietnam (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
   "player": "Clear (Song Hyeon-min)",
   "player_id": "Clear",
