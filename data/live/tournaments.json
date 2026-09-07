@@ -37,7 +37,7 @@
   "year": "2026"
  },
  {
-  "games": 40,
+  "games": 43,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -303,6 +303,21 @@
   "region_label": "Turkey",
   "slug": "tcl-2026-season-summer-split",
   "split": "Summer",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Vietnam Championship Series",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",
+  "league_short": "VCS",
+  "name": "VCS 2026 Finals Stage 1",
+  "overview_page": "VCS/2026 Season/Finals Stage 1",
+  "patches": [],
+  "region": "vietnam",
+  "region_label": "Vietnam",
+  "slug": "vcs-2026-season-finals-stage-1",
+  "split": "Finals",
   "year": "2026"
  },
  {

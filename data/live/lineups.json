@@ -6218,5 +6218,255 @@
   "source": "roster",
   "team": "Team Phoenix (Turkish Team)",
   "tournament": "TCL/2026 Season/Summer Split"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/MVKE_Hasmed_2025_Split_1.png",
+  "player": "Hasmed",
+  "player_id": "Hasmed",
+  "role": "Top",
+  "slug": "hasmed",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f4/ZEN_Esports_SCP_VCS_Summer_2026.png",
+  "player": "SCP",
+  "player_id": "SCP",
+  "role": "Jungle",
+  "slug": "scp",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/ZEN_Esports_Gia_Qui_VCS_Summer_2026.png",
+  "player": "GiaQui",
+  "player_id": "GiaQui",
+  "role": "Mid",
+  "slug": "giaqui",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/ZEN_Esports_Charlington_VCS_Summer_2026.png",
+  "player": "Charlington",
+  "player_id": "Charlington",
+  "role": "Bot",
+  "slug": "charlington",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/ZEN_Esports_Zin_VCS_Summer_2026.png",
+  "player": "Zin",
+  "player_id": "Zin",
+  "role": "Support",
+  "slug": "zin",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/9G_Umi_VCS_2026_Spring_Playoffs.png",
+  "player": "Umi (Nguyễn Thế Dương)",
+  "player_id": "Umi",
+  "role": "Top",
+  "slug": "umi",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/MVK_NPC_2026_Split_2.png",
+  "player": "NPC",
+  "player_id": "NPC",
+  "role": "Jungle",
+  "slug": "npc",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/MVK_Seany_2026_Split_2.png",
+  "player": "Seany",
+  "player_id": "Seany",
+  "role": "Mid",
+  "slug": "seany",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/9G_Nuna_VCS_2026_Spring_Playoffs.png",
+  "player": "Nuna",
+  "player_id": "Nuna",
+  "role": "Bot",
+  "slug": "nuna",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/20/MVKA_Callian_VCS_2026_Spring_Playoffs.png",
+  "player": "Callian",
+  "player_id": "Callian",
+  "role": "Support",
+  "slug": "callian",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/DINO_Sparda_VCS_2025_Finals.png",
+  "player": "Sparda",
+  "player_id": "Sparda",
+  "role": "Top",
+  "slug": "sparda",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": null,
+  "player": "Rikk",
+  "player_id": "Rikk",
+  "role": "Jungle",
+  "slug": "rikk",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/SCBC_Vin_VCS_2026_Summer.png",
+  "player": "Vin (Trần Hoài Vinh)",
+  "player_id": "Vin",
+  "role": "Mid",
+  "slug": "vin",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/GAM_Pyshiro_2024_Split_1.png",
+  "player": "Pyshiro",
+  "player_id": "Pyshiro",
+  "role": "Bot",
+  "slug": "pyshiro",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/VKE_Kairi_2024_Split_1.png",
+  "player": "Kairi",
+  "player_id": "kairi",
+  "role": "Support",
+  "slug": "kairi",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/9G_Nanaue_VCS_2026_Spring_Playoffs.png",
+  "player": "Nanaue (Phùng Đức Tài)",
+  "player_id": "Nanaue",
+  "role": "Top",
+  "slug": "nanaue",
+  "source": "roster",
+  "team": "Saigon Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": null,
+  "player": "Tiphat",
+  "player_id": "tiphat",
+  "role": "Jungle",
+  "slug": "tiphat",
+  "source": "roster",
+  "team": "Saigon Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/SGW_TT_VCS_2026_Spring_Playoffs.png",
+  "player": "TT (Trần Quốc Thanh)",
+  "player_id": "TT",
+  "role": "Mid",
+  "slug": "tt",
+  "source": "roster",
+  "team": "Saigon Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/Easylove_Saigon_Dino_VCS_Summer_2026_Playoffs.png",
+  "player": "Easylove",
+  "player_id": "Easylove",
+  "role": "Bot",
+  "slug": "easylove",
+  "source": "roster",
+  "team": "Saigon Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/9G_Tahahy_VCS_2026_Summer.png",
+  "player": "Tahahy",
+  "player_id": "Tahahy",
+  "role": "Support",
+  "slug": "tahahy",
+  "source": "roster",
+  "team": "Saigon Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
+  "player": "Nern",
+  "player_id": "Nern",
+  "role": "Top",
+  "slug": "nern",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": null,
+  "player": "J1n5",
+  "player_id": "j1n5",
+  "role": "Jungle",
+  "slug": "j1n5",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SGW_AisyL_VCS_2026_Spring_Playoffs.png",
+  "player": "AisyL",
+  "player_id": "AisyL",
+  "role": "Mid",
+  "slug": "aisyl",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/DINO_Aomine_VCS_2025_Finals.png",
+  "player": "Aomine",
+  "player_id": "Aomine",
+  "role": "Bot",
+  "slug": "aomine",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
+  "player": "Elio",
+  "player_id": "Elio",
+  "role": "Support",
+  "slug": "elio",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
  }
 ]

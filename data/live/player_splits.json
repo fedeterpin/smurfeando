@@ -19568,6 +19568,112 @@
   "wins": 4
  },
  {
+  "assists": 38,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Rumble",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Gnar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.48,
+  "deaths": 11,
+  "dpm": 578.1,
+  "games": 7,
+  "gpm": 415.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/BLG_Bin_2026_Split_1.png",
+  "kda": 5.73,
+  "kills": 25,
+  "kp": 0.4632,
+  "losses": 1,
+  "minutes": 202.1,
+  "player": "Bin (Chen Ze-Bin)",
+  "player_id": "Bin",
+  "role": "Top",
+  "slug": "bin",
+  "team": "Bilibili Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+  "team_short": "BLG",
+  "team_slug": "bilibili-gaming",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.13,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 15,
+  "champions": [
+   {
+    "champion": "Nasus",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.0,
+  "deaths": 21,
+  "dpm": 372.7,
+  "games": 7,
+  "gpm": 348.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",
+  "kda": 1.24,
+  "kills": 11,
+  "kp": 0.4407,
+  "losses": 4,
+  "minutes": 209.5,
+  "player": "Breathe",
+  "player_id": "Breathe",
+  "role": "Top",
+  "slug": "breathe",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.48,
+  "win_rate": 0.4286,
+  "wins": 3
+ },
+ {
   "assists": 42,
   "champions": [
    {
@@ -19674,6 +19780,319 @@
   "wins": 1
  },
  {
+  "assists": 27,
+  "champions": [
+   {
+    "champion": "Corki",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.24,
+  "deaths": 18,
+  "dpm": 624.8,
+  "games": 7,
+  "gpm": 462.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/AL_Hope_2026_Split_1.png",
+  "kda": 2.33,
+  "kills": 15,
+  "kp": 0.7119,
+  "losses": 4,
+  "minutes": 209.5,
+  "player": "Hope (Wang Jie)",
+  "player_id": "Hope",
+  "role": "Bot",
+  "slug": "hope",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.63,
+  "win_rate": 0.4286,
+  "wins": 3
+ },
+ {
+  "assists": 40,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Neeko",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lux",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.21,
+  "deaths": 17,
+  "dpm": 225.3,
+  "games": 7,
+  "gpm": 257.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/AL_Kael_2026_Split_1.png",
+  "kda": 2.53,
+  "kills": 3,
+  "kp": 0.7288,
+  "losses": 4,
+  "minutes": 209.5,
+  "player": "Kael (Kim Jin-hong)",
+  "player_id": "Kael",
+  "role": "Support",
+  "slug": "kael",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 4.03,
+  "win_rate": 0.4286,
+  "wins": 3
+ },
+ {
+  "assists": 57,
+  "champions": [
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.69,
+  "deaths": 9,
+  "dpm": 668.7,
+  "games": 7,
+  "gpm": 457.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/BLG_Knight_2026_Split_1.png",
+  "kda": 10.0,
+  "kills": 33,
+  "kp": 0.6618,
+  "losses": 1,
+  "minutes": 202.1,
+  "player": "Knight (Zhuo Ding)",
+  "player_id": "Knight",
+  "role": "Mid",
+  "slug": "knight",
+  "team": "Bilibili Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+  "team_short": "BLG",
+  "team_slug": "bilibili-gaming",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.07,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 108,
+  "champions": [
+   {
+    "champion": "Lulu",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.16,
+  "deaths": 11,
+  "dpm": 221.4,
+  "games": 7,
+  "gpm": 293.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/BLG_ON_2026_Split_1.png",
+  "kda": 10.18,
+  "kills": 4,
+  "kp": 0.8235,
+  "losses": 1,
+  "minutes": 202.1,
+  "player": "ON",
+  "player_id": "ON",
+  "role": "Support",
+  "slug": "on",
+  "team": "Bilibili Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+  "team_short": "BLG",
+  "team_slug": "bilibili-gaming",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 4.07,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 22,
+  "champions": [
+   {
+    "champion": "Syndra",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.47,
+  "deaths": 21,
+  "dpm": 514.4,
+  "games": 7,
+  "gpm": 394.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/AL_Shanks_2026_Split_1.png",
+  "kda": 1.76,
+  "kills": 15,
+  "kp": 0.6271,
+  "losses": 4,
+  "minutes": 209.5,
+  "player": "Shanks",
+  "player_id": "Shanks",
+  "role": "Mid",
+  "slug": "shanks",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.15,
+  "win_rate": 0.4286,
+  "wins": 3
+ },
+ {
+  "assists": 27,
+  "champions": [
+   {
+    "champion": "Maokai",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.06,
+  "deaths": 19,
+  "dpm": 445.7,
+  "games": 7,
+  "gpm": 389.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/AL_Tarzan_2026_Split_1.png",
+  "kda": 2.21,
+  "kills": 15,
+  "kp": 0.7119,
+  "losses": 4,
+  "minutes": 209.5,
+  "player": "Tarzan (Lee Seung-yong)",
+  "player_id": "Tarzan",
+  "role": "Jungle",
+  "slug": "tarzan",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.71,
+  "win_rate": 0.4286,
+  "wins": 3
+ },
+ {
   "assists": 76,
   "champions": [
    {
@@ -19725,6 +20144,54 @@
   "vspm": 4.57,
   "win_rate": 0.1429,
   "wins": 1
+ },
+ {
+  "assists": 60,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Kalista",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Sivir",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.36,
+  "deaths": 14,
+  "dpm": 900.2,
+  "games": 7,
+  "gpm": 550.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/BLG_Viper_2026_Split_1.png",
+  "kda": 7.71,
+  "kills": 48,
+  "kp": 0.7941,
+  "losses": 1,
+  "minutes": 202.1,
+  "player": "Viper (Park Do-hyeon)",
+  "player_id": "Viper",
+  "role": "Bot",
+  "slug": "viper",
+  "team": "Bilibili Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+  "team_short": "BLG",
+  "team_slug": "bilibili-gaming",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.88,
+  "win_rate": 0.8571,
+  "wins": 6
  },
  {
   "assists": 29,
@@ -19780,6 +20247,59 @@
   "wins": 1
  },
  {
+  "assists": 79,
+  "champions": [
+   {
+    "champion": "Skarner",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Cho'Gath",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.88,
+  "deaths": 10,
+  "dpm": 465.0,
+  "games": 7,
+  "gpm": 420.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/BLG_Xun_2026_Split_1.png",
+  "kda": 10.5,
+  "kills": 26,
+  "kp": 0.7721,
+  "losses": 1,
+  "minutes": 202.1,
+  "player": "Xun",
+  "player_id": "Xun",
+  "role": "Jungle",
+  "slug": "xun",
+  "team": "Bilibili Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+  "team_short": "BLG",
+  "team_slug": "bilibili-gaming",
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "vspm": 1.62,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
   "assists": 26,
   "champions": [
    {
@@ -19826,486 +20346,6 @@
   "vspm": 1.91,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 19,
-  "champions": [
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Gnar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.42,
-  "deaths": 8,
-  "dpm": 668.1,
-  "games": 4,
-  "gpm": 406.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/18/BLG_Bin_2026_Split_1.png",
-  "kda": 4.12,
-  "kills": 14,
-  "kp": 0.4125,
-  "losses": 1,
-  "minutes": 113.1,
-  "player": "Bin (Chen Ze-Bin)",
-  "player_id": "Bin",
-  "role": "Top",
-  "slug": "bin",
-  "team": "Bilibili Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-  "team_short": "BLG",
-  "team_slug": "bilibili-gaming",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 1.07,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 11,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Nasus",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yorick",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.98,
-  "deaths": 12,
-  "dpm": 396.0,
-  "games": 4,
-  "gpm": 362.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",
-  "kda": 1.67,
-  "kills": 9,
-  "kp": 0.4444,
-  "losses": 1,
-  "minutes": 120.5,
-  "player": "Breathe",
-  "player_id": "Breathe",
-  "role": "Top",
-  "slug": "breathe",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 1.61,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 21,
-  "champions": [
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Corki",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Ezreal",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.67,
-  "deaths": 5,
-  "dpm": 644.3,
-  "games": 4,
-  "gpm": 499.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/AL_Hope_2026_Split_1.png",
-  "kda": 6.8,
-  "kills": 13,
-  "kp": 0.7556,
-  "losses": 1,
-  "minutes": 120.5,
-  "player": "Hope (Wang Jie)",
-  "player_id": "Hope",
-  "role": "Bot",
-  "slug": "hope",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 1.61,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 30,
-  "champions": [
-   {
-    "champion": "Lux",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Neeko",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.26,
-  "deaths": 8,
-  "dpm": 262.3,
-  "games": 4,
-  "gpm": 272.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/AL_Kael_2026_Split_1.png",
-  "kda": 4.12,
-  "kills": 3,
-  "kp": 0.7333,
-  "losses": 1,
-  "minutes": 120.5,
-  "player": "Kael (Kim Jin-hong)",
-  "player_id": "Kael",
-  "role": "Support",
-  "slug": "kael",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 4.23,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 35,
-  "champions": [
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Twisted Fate",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.75,
-  "deaths": 6,
-  "dpm": 725.9,
-  "games": 4,
-  "gpm": 447.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/BLG_Knight_2026_Split_1.png",
-  "kda": 8.67,
-  "kills": 17,
-  "kp": 0.65,
-  "losses": 1,
-  "minutes": 113.1,
-  "player": "Knight (Zhuo Ding)",
-  "player_id": "Knight",
-  "role": "Mid",
-  "slug": "knight",
-  "team": "Bilibili Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-  "team_short": "BLG",
-  "team_slug": "bilibili-gaming",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 0.93,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 61,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Karma",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Renata Glasc",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.15,
-  "deaths": 10,
-  "dpm": 252.2,
-  "games": 4,
-  "gpm": 294.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/BLG_ON_2026_Split_1.png",
-  "kda": 6.5,
-  "kills": 4,
-  "kp": 0.8125,
-  "losses": 1,
-  "minutes": 113.1,
-  "player": "ON",
-  "player_id": "ON",
-  "role": "Support",
-  "slug": "on",
-  "team": "Bilibili Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-  "team_short": "BLG",
-  "team_slug": "bilibili-gaming",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 3.92,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 19,
-  "champions": [
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yone",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.73,
-  "deaths": 9,
-  "dpm": 535.0,
-  "games": 4,
-  "gpm": 409.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/AL_Shanks_2026_Split_1.png",
-  "kda": 3.11,
-  "kills": 9,
-  "kp": 0.6222,
-  "losses": 1,
-  "minutes": 120.5,
-  "player": "Shanks",
-  "player_id": "Shanks",
-  "role": "Mid",
-  "slug": "shanks",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 1.27,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 21,
-  "champions": [
-   {
-    "champion": "Maokai",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Qiyana",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Trundle",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.29,
-  "deaths": 6,
-  "dpm": 521.9,
-  "games": 4,
-  "gpm": 420.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/AL_Tarzan_2026_Split_1.png",
-  "kda": 5.33,
-  "kills": 11,
-  "kp": 0.7111,
-  "losses": 1,
-  "minutes": 120.5,
-  "player": "Tarzan (Lee Seung-yong)",
-  "player_id": "Tarzan",
-  "role": "Jungle",
-  "slug": "tarzan",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 1.77,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 33,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Kalista",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Sivir",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.24,
-  "deaths": 9,
-  "dpm": 944.7,
-  "games": 4,
-  "gpm": 559.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/BLG_Viper_2026_Split_1.png",
-  "kda": 6.89,
-  "kills": 29,
-  "kp": 0.775,
-  "losses": 1,
-  "minutes": 113.1,
-  "player": "Viper (Park Do-hyeon)",
-  "player_id": "Viper",
-  "role": "Bot",
-  "slug": "viper",
-  "team": "Bilibili Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-  "team_short": "BLG",
-  "team_slug": "bilibili-gaming",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 1.87,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 47,
-  "champions": [
-   {
-    "champion": "Cho'Gath",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Skarner",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Vi",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.68,
-  "deaths": 8,
-  "dpm": 517.7,
-  "games": 4,
-  "gpm": 411.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/BLG_Xun_2026_Split_1.png",
-  "kda": 7.88,
-  "kills": 16,
-  "kp": 0.7875,
-  "losses": 1,
-  "minutes": 113.1,
-  "player": "Xun",
-  "player_id": "Xun",
-  "role": "Jungle",
-  "slug": "xun",
-  "team": "Bilibili Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-  "team_short": "BLG",
-  "team_slug": "bilibili-gaming",
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "vspm": 1.68,
-  "win_rate": 0.75,
-  "wins": 3
  },
  {
   "assists": 8,
