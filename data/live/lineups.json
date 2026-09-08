@@ -950,6 +950,56 @@
   "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/WU_Denathor_2023.PNG",
+  "player": "Denathor",
+  "player_id": "Denathor",
+  "role": "Top",
+  "slug": "denathor",
+  "source": "roster",
+  "team": "United States (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/FEAR_Perry.jpg",
+  "player": "Perry (Perry Norman)",
+  "player_id": "Perry",
+  "role": "Jungle",
+  "slug": "perry",
+  "source": "roster",
+  "team": "United States (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": null,
+  "player": "Aojune",
+  "player_id": "Aojune",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "United States (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DSG_ScaryJerry_2025_Split_1.png",
+  "player": "ScaryJerry",
+  "player_id": "ScaryJerry",
+  "role": "Bot",
+  "slug": "scaryjerry",
+  "source": "roster",
+  "team": "United States (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
+  "image": null,
+  "player": "Zyko",
+  "player_id": "Zyko",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "United States (National Team)",
+  "tournament": "KOREA Pre Evaluation for 2026 Asian Games"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/GAM_Kiaya_2026_Split_1.png",
   "player": "Kiaya",
   "player_id": "Kiaya",
@@ -6220,6 +6270,56 @@
   "tournament": "TCL/2026 Season/Summer Split"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/9G_Nanaue_VCS_2026_Spring_Playoffs.png",
+  "player": "Nanaue (Phùng Đức Tài)",
+  "player_id": "Nanaue",
+  "role": "Top",
+  "slug": "nanaue",
+  "source": "roster",
+  "team": "1TAP Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": null,
+  "player": "Tiphat",
+  "player_id": "tiphat",
+  "role": "Jungle",
+  "slug": "tiphat",
+  "source": "roster",
+  "team": "1TAP Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/SGW_TT_VCS_2026_Spring_Playoffs.png",
+  "player": "TT (Trần Quốc Thanh)",
+  "player_id": "TT",
+  "role": "Mid",
+  "slug": "tt",
+  "source": "roster",
+  "team": "1TAP Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/Easylove_Saigon_Dino_VCS_Summer_2026_Playoffs.png",
+  "player": "Easylove",
+  "player_id": "Easylove",
+  "role": "Bot",
+  "slug": "easylove",
+  "source": "roster",
+  "team": "1TAP Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/9G_Tahahy_VCS_2026_Summer.png",
+  "player": "Tahahy",
+  "player_id": "Tahahy",
+  "role": "Support",
+  "slug": "tahahy",
+  "source": "roster",
+  "team": "1TAP Dino",
+  "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/MVKE_Hasmed_2025_Split_1.png",
   "player": "Hasmed",
   "player_id": "Hasmed",
@@ -6367,56 +6467,6 @@
   "slug": "kairi",
   "source": "roster",
   "team": "SN CyberCore Esports",
-  "tournament": "VCS/2026 Season/Finals Stage 1"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/9G_Nanaue_VCS_2026_Spring_Playoffs.png",
-  "player": "Nanaue (Phùng Đức Tài)",
-  "player_id": "Nanaue",
-  "role": "Top",
-  "slug": "nanaue",
-  "source": "roster",
-  "team": "Saigon Dino",
-  "tournament": "VCS/2026 Season/Finals Stage 1"
- },
- {
-  "image": null,
-  "player": "Tiphat",
-  "player_id": "tiphat",
-  "role": "Jungle",
-  "slug": "tiphat",
-  "source": "roster",
-  "team": "Saigon Dino",
-  "tournament": "VCS/2026 Season/Finals Stage 1"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/SGW_TT_VCS_2026_Spring_Playoffs.png",
-  "player": "TT (Trần Quốc Thanh)",
-  "player_id": "TT",
-  "role": "Mid",
-  "slug": "tt",
-  "source": "roster",
-  "team": "Saigon Dino",
-  "tournament": "VCS/2026 Season/Finals Stage 1"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/Easylove_Saigon_Dino_VCS_Summer_2026_Playoffs.png",
-  "player": "Easylove",
-  "player_id": "Easylove",
-  "role": "Bot",
-  "slug": "easylove",
-  "source": "roster",
-  "team": "Saigon Dino",
-  "tournament": "VCS/2026 Season/Finals Stage 1"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/9G_Tahahy_VCS_2026_Summer.png",
-  "player": "Tahahy",
-  "player_id": "Tahahy",
-  "role": "Support",
-  "slug": "tahahy",
-  "source": "roster",
-  "team": "Saigon Dino",
   "tournament": "VCS/2026 Season/Finals Stage 1"
  },
  {

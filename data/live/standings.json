@@ -1369,6 +1369,26 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
+   "name": "1TAP Dino",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
    "name": "9Gaming",
    "short": "9G",
@@ -1393,26 +1413,6 @@
    "name": "MVK Esports Academy",
    "short": "MVKA",
    "slug": "mvk-esports-academy"
-  },
-  "tie_series": 0,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/Saigon_Dinologo_square.png",
-   "name": "Saigon Dino",
-   "short": "DINO",
-   "slug": "saigon-dino"
   },
   "tie_series": 0,
   "tournament": "VCS/2026 Season/Finals Stage 1",
