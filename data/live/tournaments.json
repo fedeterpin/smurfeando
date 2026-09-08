@@ -37,7 +37,22 @@
   "year": "2026"
  },
  {
-  "games": 43,
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Circuit Brazilian League of Legends",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
+  "league_short": "CBLOL",
+  "name": "CBLOL 2027 Promotion",
+  "overview_page": "CBLOL/2027 Season/Promotion",
+  "patches": [],
+  "region": "brazil",
+  "region_label": "Brazil",
+  "slug": "cblol-2027-season-promotion",
+  "split": "",
+  "year": "2027"
+ },
+ {
+  "games": 46,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -117,11 +132,11 @@
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Demacia_Cup_Global_Invitational_2026.png",
   "league_short": "Demacia Cup Global Invitational",
   "name": "Demacia Cup Global Invitational 2026",
-  "overview_page": "Demacia Cup Global Invitational 2026",
+  "overview_page": "2026 Demacia Cup Global Invitational",
   "patches": [],
   "region": "international",
   "region_label": "International",
-  "slug": "demacia-cup-global-invitational-2026",
+  "slug": "2026-demacia-cup-global-invitational",
   "split": "",
   "year": "2026"
  },
@@ -247,6 +262,21 @@
   "slug": "lcs-2026-season-summer-playoffs",
   "split": "Summer",
   "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "League of Legends Championship Series",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
+  "league_short": "LCS",
+  "name": "LCS 2027 Promotion",
+  "overview_page": "LCS/2027 Season/Promotion",
+  "patches": [],
+  "region": "north_america",
+  "region_label": "North America",
+  "slug": "lcs-2027-season-promotion",
+  "split": "",
+  "year": "2027"
  },
  {
   "games": 82,

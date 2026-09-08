@@ -1,5 +1,255 @@
 [
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
+  "player": "Clear (Song Hyeon-min)",
+  "player_id": "Clear",
+  "role": "Top",
+  "slug": "clear",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png",
+  "player": "Raptor (Jeon Eo-jin)",
+  "player_id": "Raptor",
+  "role": "Jungle",
+  "slug": "raptor",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png",
+  "player": "VicLa",
+  "player_id": "VicLa",
+  "role": "Mid",
+  "slug": "vicla",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png",
+  "player": "Taeyoon (Kim Tae-yoon)",
+  "player_id": "Taeyoon",
+  "role": "Bot",
+  "slug": "taeyoon",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png",
+  "player": "Kellin",
+  "player_id": "Kellin",
+  "role": "Support",
+  "slug": "kellin",
+  "source": "roster",
+  "team": "BNK FEARX",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/GAM_Kiaya_2026_Split_1.png",
+  "player": "Kiaya",
+  "player_id": "Kiaya",
+  "role": "Top",
+  "slug": "kiaya",
+  "source": "roster",
+  "team": "GAM Esports",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/GAM_Draktharr_2026_Split_1.png",
+  "player": "Draktharr",
+  "player_id": "Draktharr",
+  "role": "Jungle",
+  "slug": "draktharr",
+  "source": "roster",
+  "team": "GAM Esports",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Gloryy_at_LCP_Split_3_2026.png",
+  "player": "Gloryy",
+  "player_id": "Gloryy",
+  "role": "Mid",
+  "slug": "gloryy",
+  "source": "roster",
+  "team": "GAM Esports",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Artemis_at_LCP_Split_3_2026.png",
+  "player": "Artemis (Trần Quốc Hưng)",
+  "player_id": "Artemis",
+  "role": "Bot",
+  "slug": "artemis",
+  "source": "roster",
+  "team": "GAM Esports",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Taki_at_LCP_Split_3_2026.png",
+  "player": "Taki (Đinh Anh Tài)",
+  "player_id": "Taki",
+  "role": "Support",
+  "slug": "taki",
+  "source": "roster",
+  "team": "GAM Esports",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/BRO_Casting_2026_Split_1.png",
+  "player": "Casting",
+  "player_id": "Casting",
+  "role": "Top",
+  "slug": "casting",
+  "source": "roster",
+  "team": "HANJIN BRION",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/BRO_GIDEON_2026_Split_1.png",
+  "player": "GIDEON",
+  "player_id": "GIDEON",
+  "role": "Jungle",
+  "slug": "gideon",
+  "source": "roster",
+  "team": "HANJIN BRION",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/BRO_Roamer_2026_Split_1.png",
+  "player": "Roamer",
+  "player_id": "Roamer",
+  "role": "Mid",
+  "slug": "roamer",
+  "source": "roster",
+  "team": "HANJIN BRION",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BRO_Teddy_2026_Split_1.png",
+  "player": "Teddy",
+  "player_id": "Teddy",
+  "role": "Bot",
+  "slug": "teddy",
+  "source": "roster",
+  "team": "HANJIN BRION",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/BRO_Namgung_2026_Split_1.png",
+  "player": "Namgung",
+  "player_id": "Namgung",
+  "role": "Support",
+  "slug": "namgung",
+  "source": "roster",
+  "team": "HANJIN BRION",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
+  "player": "PerfecT (Lee Seung-min)",
+  "player_id": "PerfecT",
+  "role": "Top",
+  "slug": "perfect",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png",
+  "player": "Cuzz",
+  "player_id": "Cuzz",
+  "role": "Jungle",
+  "slug": "cuzz",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png",
+  "player": "Bdd",
+  "player_id": "Bdd",
+  "role": "Mid",
+  "slug": "bdd",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DRX_Jiwoo_2026_Split_2.png",
+  "player": "Jiwoo",
+  "player_id": "Jiwoo",
+  "role": "Bot",
+  "slug": "jiwoo",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png",
+  "player": "Effort",
+  "player_id": "Effort",
+  "role": "Support",
+  "slug": "effort",
+  "source": "roster",
+  "team": "KT Rolster",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LGD_Burdol_2026_Split_2.png",
+  "player": "Burdol",
+  "player_id": "Burdol",
+  "role": "Top",
+  "slug": "burdol",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/LGD_Heng_2026_Split_1.png",
+  "player": "Heng",
+  "player_id": "Heng",
+  "role": "Jungle",
+  "slug": "heng",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/LGD_Tangyuan_2026_Split_1.png",
+  "player": "Tangyuan",
+  "player_id": "Tangyuan",
+  "role": "Mid",
+  "slug": "tangyuan",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/LGD_Shaoye_2026_Split_1.png",
+  "player": "Shaoye",
+  "player_id": "Shaoye",
+  "role": "Bot",
+  "slug": "shaoye",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/LGD_Crisp_2026_Split_3.png",
+  "player": "Crisp",
+  "player_id": "Crisp",
+  "role": "Support",
+  "slug": "crisp",
+  "source": "roster",
+  "team": "LGD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/FUR_Guigo_2026_Split_2.png",
   "player": "Guigo",
   "player_id": "Guigo",
@@ -698,206 +948,6 @@
   "source": "roster",
   "team": "paiN Gaming",
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
-  "player": "Clear (Song Hyeon-min)",
-  "player_id": "Clear",
-  "role": "Top",
-  "slug": "clear",
-  "source": "roster",
-  "team": "BNK FEARX",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png",
-  "player": "Raptor (Jeon Eo-jin)",
-  "player_id": "Raptor",
-  "role": "Jungle",
-  "slug": "raptor",
-  "source": "roster",
-  "team": "BNK FEARX",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png",
-  "player": "VicLa",
-  "player_id": "VicLa",
-  "role": "Mid",
-  "slug": "vicla",
-  "source": "roster",
-  "team": "BNK FEARX",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png",
-  "player": "Taeyoon (Kim Tae-yoon)",
-  "player_id": "Taeyoon",
-  "role": "Bot",
-  "slug": "taeyoon",
-  "source": "roster",
-  "team": "BNK FEARX",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png",
-  "player": "Kellin",
-  "player_id": "Kellin",
-  "role": "Support",
-  "slug": "kellin",
-  "source": "roster",
-  "team": "BNK FEARX",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/GAM_Kiaya_2026_Split_1.png",
-  "player": "Kiaya",
-  "player_id": "Kiaya",
-  "role": "Top",
-  "slug": "kiaya",
-  "source": "roster",
-  "team": "GAM Esports",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/GAM_Draktharr_2026_Split_1.png",
-  "player": "Draktharr",
-  "player_id": "Draktharr",
-  "role": "Jungle",
-  "slug": "draktharr",
-  "source": "roster",
-  "team": "GAM Esports",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Gloryy_at_LCP_Split_3_2026.png",
-  "player": "Gloryy",
-  "player_id": "Gloryy",
-  "role": "Mid",
-  "slug": "gloryy",
-  "source": "roster",
-  "team": "GAM Esports",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Artemis_at_LCP_Split_3_2026.png",
-  "player": "Artemis (Trần Quốc Hưng)",
-  "player_id": "Artemis",
-  "role": "Bot",
-  "slug": "artemis",
-  "source": "roster",
-  "team": "GAM Esports",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Taki_at_LCP_Split_3_2026.png",
-  "player": "Taki (Đinh Anh Tài)",
-  "player_id": "Taki",
-  "role": "Support",
-  "slug": "taki",
-  "source": "roster",
-  "team": "GAM Esports",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/BRO_Casting_2026_Split_1.png",
-  "player": "Casting",
-  "player_id": "Casting",
-  "role": "Top",
-  "slug": "casting",
-  "source": "roster",
-  "team": "HANJIN BRION",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/BRO_GIDEON_2026_Split_1.png",
-  "player": "GIDEON",
-  "player_id": "GIDEON",
-  "role": "Jungle",
-  "slug": "gideon",
-  "source": "roster",
-  "team": "HANJIN BRION",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/BRO_Roamer_2026_Split_1.png",
-  "player": "Roamer",
-  "player_id": "Roamer",
-  "role": "Mid",
-  "slug": "roamer",
-  "source": "roster",
-  "team": "HANJIN BRION",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BRO_Teddy_2026_Split_1.png",
-  "player": "Teddy",
-  "player_id": "Teddy",
-  "role": "Bot",
-  "slug": "teddy",
-  "source": "roster",
-  "team": "HANJIN BRION",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/BRO_Namgung_2026_Split_1.png",
-  "player": "Namgung",
-  "player_id": "Namgung",
-  "role": "Support",
-  "slug": "namgung",
-  "source": "roster",
-  "team": "HANJIN BRION",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
-  "player": "PerfecT (Lee Seung-min)",
-  "player_id": "PerfecT",
-  "role": "Top",
-  "slug": "perfect",
-  "source": "roster",
-  "team": "KT Rolster",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png",
-  "player": "Cuzz",
-  "player_id": "Cuzz",
-  "role": "Jungle",
-  "slug": "cuzz",
-  "source": "roster",
-  "team": "KT Rolster",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png",
-  "player": "Bdd",
-  "player_id": "Bdd",
-  "role": "Mid",
-  "slug": "bdd",
-  "source": "roster",
-  "team": "KT Rolster",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DRX_Jiwoo_2026_Split_2.png",
-  "player": "Jiwoo",
-  "player_id": "Jiwoo",
-  "role": "Bot",
-  "slug": "jiwoo",
-  "source": "roster",
-  "team": "KT Rolster",
-  "tournament": "Demacia Cup Global Invitational 2026"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png",
-  "player": "Effort",
-  "player_id": "Effort",
-  "role": "Support",
-  "slug": "effort",
-  "source": "roster",
-  "team": "KT Rolster",
-  "tournament": "Demacia Cup Global Invitational 2026"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/HLE_Zeus_2026_Split_1.png",
