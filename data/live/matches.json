@@ -9359,8 +9359,8 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/20/Golden_Lionslogo_square.png",
+   "name": "Golden Lions",
    "short": null,
    "slug": null
   },
@@ -9386,8 +9386,8 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/9z_Globantlogo_square.png",
+   "name": "9z Globant",
    "short": null,
    "slug": null
   },

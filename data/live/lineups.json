@@ -950,6 +950,256 @@
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/9ZG_Nate_2026_Split_1.png",
+  "player": "Nate",
+  "player_id": "Nate",
+  "role": "Top",
+  "slug": "nate",
+  "source": "roster",
+  "team": "9z Globant",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Warsor",
+  "player_id": "Warsor",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "9z Globant",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b0/9ZG_Aloned_2026_Split_1.png",
+  "player": "Aloned",
+  "player_id": "Aloned",
+  "role": "Mid",
+  "slug": "aloned",
+  "source": "roster",
+  "team": "9z Globant",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "FIX",
+  "player_id": "FIX",
+  "role": "Bot",
+  "slug": "fix",
+  "source": "roster",
+  "team": "9z Globant",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Ux",
+  "player_id": "Ux",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "9z Globant",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/FLY_Bwipo_2025_MSI.png",
+  "player": "Bwipo",
+  "player_id": "Bwipo",
+  "role": "Top",
+  "slug": "bwipo",
+  "source": "roster",
+  "team": "Estral Esports",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/FUE_Oddie_2026_Split_1.png",
+  "player": "Oddie",
+  "player_id": "Oddie",
+  "role": "Jungle",
+  "slug": "oddie",
+  "source": "roster",
+  "team": "Estral Esports",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/LOUD_Envy_2026_Split_1.png",
+  "player": "Envy (Bruno Farias)",
+  "player_id": "Envy",
+  "role": "Mid",
+  "slug": "envy",
+  "source": "roster",
+  "team": "Estral Esports",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/EST_Brance_2026_Split_1.png",
+  "player": "Brance",
+  "player_id": "Brance",
+  "role": "Bot",
+  "slug": "brance",
+  "source": "roster",
+  "team": "Estral Esports",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/EST_Telas_2026_Split_1.png",
+  "player": "Telas",
+  "player_id": "Telas",
+  "role": "Support",
+  "slug": "telas",
+  "source": "roster",
+  "team": "Estral Esports",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/GL_Brayaron_2026_Split_2.png",
+  "player": "Brayaron",
+  "player_id": "Brayaron",
+  "role": "Top",
+  "slug": "brayaron",
+  "source": "roster",
+  "team": "Golden Lions",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/GL_Ganks_2026_Split_2.png",
+  "player": "Ganks",
+  "player_id": "Ganks",
+  "role": "Jungle",
+  "slug": "ganks",
+  "source": "roster",
+  "team": "Golden Lions",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/99/GL_Piqueos_2026_Split_2.png",
+  "player": "Piqueos",
+  "player_id": "Piqueos",
+  "role": "Mid",
+  "slug": "piqueos",
+  "source": "roster",
+  "team": "Golden Lions",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cd/INC_Scenari0_2021_Opening.png",
+  "player": "Scenari0",
+  "player_id": "Scenari0",
+  "role": "Bot",
+  "slug": "scenari0",
+  "source": "roster",
+  "team": "Golden Lions",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/GLE_Crecre_2026_Split_2.png",
+  "player": "Crecre",
+  "player_id": "Crecre",
+  "role": "Support",
+  "slug": "crecre",
+  "source": "roster",
+  "team": "Golden Lions",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/KBM_Yupps_2026_Split_1.png",
+  "player": "Yupps",
+  "player_id": "Yupps",
+  "role": "Top",
+  "slug": "yupps",
+  "source": "roster",
+  "team": "KaBuM! Ilha das Lendas",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/LEV_SCARY_LTA_2025_Split_1.png",
+  "player": "SCARY (Artur Queiroz)",
+  "player_id": "SCARY",
+  "role": "Jungle",
+  "slug": "scary",
+  "source": "roster",
+  "team": "KaBuM! Ilha das Lendas",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/KBM_Grevthar_2026_Split_1.png",
+  "player": "Grevthar",
+  "player_id": "Grevthar",
+  "role": "Mid",
+  "slug": "grevthar",
+  "source": "roster",
+  "team": "KaBuM! Ilha das Lendas",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/KBM_Kojima_2026_Split_1.png",
+  "player": "Kojima",
+  "player_id": "Kojima",
+  "role": "Bot",
+  "slug": "kojima",
+  "source": "roster",
+  "team": "KaBuM! Ilha das Lendas",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a3/KBM_Guigs_2026_Split_1.png",
+  "player": "Guigs",
+  "player_id": "Guigs",
+  "role": "Support",
+  "slug": "guigs",
+  "source": "roster",
+  "team": "KaBuM! Ilha das Lendas",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LOS_Zest_2026_Split_2.png",
+  "player": "Zest (Kim Dong-min)",
+  "player_id": "Zest",
+  "role": "Top",
+  "slug": "zest-2",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/LOS_Curse_2026_Split_2.png",
+  "player": "Curse (Raí Yamada)",
+  "player_id": "Curse",
+  "role": "Jungle",
+  "slug": "curse",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/LOS_Feisty_2026_Split_2.png",
+  "player": "Feisty",
+  "player_id": "Feisty",
+  "role": "Mid",
+  "slug": "feisty",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LOS_Duduhh_2026_Split_2.png",
+  "player": "Duduhh",
+  "player_id": "Duduhh",
+  "role": "Bot",
+  "slug": "duduhh",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/LOS_Ackerman_2026_Split_2.png",
+  "player": "Ackerman (Gabriel Aparicio)",
+  "player_id": "Ackerman",
+  "role": "Support",
+  "slug": "ackerman",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "CBLOL/2027 Season/Promotion"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/HLE_Zeus_2026_Split_1.png",
   "player": "Zeus",
   "player_id": "Zeus",
@@ -3198,6 +3448,206 @@
   "source": "roster",
   "team": "Team Liquid",
   "tournament": "LCS/2026 Season/Summer Season"
+ },
+ {
+  "image": null,
+  "player": "Horder",
+  "player_id": "Horder",
+  "role": "Top",
+  "slug": null,
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Music (Sean Wishko)",
+  "player_id": "Music",
+  "role": "Jungle",
+  "slug": "music",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/FxS_Ablazeolive_AC_2024.png",
+  "player": "Ablazeolive",
+  "player_id": "Ablazeolive",
+  "role": "Mid",
+  "slug": "ablazeolive",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/DIG_Mobility_2026_Split_1.png",
+  "player": "Mobility",
+  "player_id": "Mobility",
+  "role": "Bot",
+  "slug": "mobility",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c4/DIG_Breezy_2026_Split_1.png",
+  "player": "Breezy",
+  "player_id": "Breezy",
+  "role": "Support",
+  "slug": "breezy",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/DIG_Srtty_2025_Split_1.png",
+  "player": "Srtty",
+  "player_id": "Srtty",
+  "role": "Top",
+  "slug": "srtty",
+  "source": "roster",
+  "team": "Disguised",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "KryRa",
+  "player_id": "KryRa",
+  "role": "Jungle",
+  "slug": "kryra",
+  "source": "roster",
+  "team": "Disguised",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/DSG_Callme_2026_Split_1.png",
+  "player": "Callme",
+  "player_id": "Callme",
+  "role": "Mid",
+  "slug": "callme",
+  "source": "roster",
+  "team": "Disguised",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Sajed",
+  "player_id": "sajed",
+  "role": "Bot",
+  "slug": "sajed",
+  "source": "roster",
+  "team": "Disguised",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/DSG_Lyonz_2026_Split_1.png",
+  "player": "Lyonz",
+  "player_id": "Lyonz",
+  "role": "Support",
+  "slug": "lyonz",
+  "source": "roster",
+  "team": "Disguised",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/SDM_Jauny_2026_Split_1.png",
+  "player": "Jauny",
+  "player_id": "Jauny",
+  "role": "Top",
+  "slug": "jauny",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/AK_Grell_2024_Opening.png",
+  "player": "Grell",
+  "player_id": "Grell",
+  "role": "Jungle",
+  "slug": "grell",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/SDM_Skyy_2026_Split_1.png",
+  "player": "Skyy",
+  "player_id": "Skyy",
+  "role": "Mid",
+  "slug": "skyy",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/33/LEV_Snaker_2026_Split_1.png",
+  "player": "Snaker",
+  "player_id": "Snaker",
+  "role": "Bot",
+  "slug": "snaker",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/FUE_Ichiwin_2023_Closing.png",
+  "player": "Ichiwin",
+  "player_id": "Ichiwin",
+  "role": "Support",
+  "slug": "ichiwin",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/FUE_Keii_2023_Closing.png",
+  "player": "Keii",
+  "player_id": "Keii",
+  "role": "Top",
+  "slug": "keii",
+  "source": "roster",
+  "team": "Zeu5 Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Z5_BlindWalker_2026_Split_1.png",
+  "player": "Blind Walker",
+  "player_id": "Blind Walker",
+  "role": "Jungle",
+  "slug": "blind-walker",
+  "source": "roster",
+  "team": "Zeu5 Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1b/FUE_Zelt_2024_Opening.png",
+  "player": "Zelt",
+  "player_id": "Zelt",
+  "role": "Mid",
+  "slug": "zelt",
+  "source": "roster",
+  "team": "Zeu5 Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Raysito",
+  "player_id": "Raysito",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "Zeu5 Esports",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Kita",
+  "player_id": "Kita",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "Zeu5 Esports",
+  "tournament": "LCS/2027 Season/Promotion"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/53/G2_BrokenBlade_2026_Split_1.png",
