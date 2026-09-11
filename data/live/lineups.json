@@ -6830,11 +6830,11 @@
   "tournament": "VCS/2026 Season/Finals Stage 1"
  },
  {
-  "image": null,
-  "player": "Tiphat",
-  "player_id": "tiphat",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Wady.png",
+  "player": "Wady",
+  "player_id": "Wady",
   "role": "Jungle",
-  "slug": "tiphat",
+  "slug": "wady",
   "source": "roster",
   "team": "1TAP Dino",
   "tournament": "VCS/2026 Season/Finals Stage 1"
@@ -6850,11 +6850,11 @@
   "tournament": "VCS/2026 Season/Finals Stage 1"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/Easylove_Saigon_Dino_VCS_Summer_2026_Playoffs.png",
-  "player": "Easylove",
-  "player_id": "Easylove",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/SE_Vinboiz_2023_Split_1.png",
+  "player": "Vinboiz",
+  "player_id": "Vinboiz",
   "role": "Bot",
-  "slug": "easylove",
+  "slug": "vinboiz",
   "source": "roster",
   "team": "1TAP Dino",
   "tournament": "VCS/2026 Season/Finals Stage 1"
@@ -7031,10 +7031,10 @@
  },
  {
   "image": null,
-  "player": "J1n5",
-  "player_id": "j1n5",
+  "player": "Salvaje",
+  "player_id": "Salvaje",
   "role": "Jungle",
-  "slug": "j1n5",
+  "slug": null,
   "source": "roster",
   "team": "Saigon Warriors",
   "tournament": "VCS/2026 Season/Finals Stage 1"

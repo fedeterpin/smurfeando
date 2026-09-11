@@ -26693,6 +26693,324 @@
   "wins": 13
  },
  {
+  "assists": 159,
+  "champions": [
+   {
+    "champion": "Gnar",
+    "games": 5,
+    "wins": 2
+   },
+   {
+    "champion": "Rumble",
+    "games": 4,
+    "wins": 4
+   },
+   {
+    "champion": "K'Sante",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Olaf",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Ambessa",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.97,
+  "deaths": 61,
+  "dpm": 598.6,
+  "games": 23,
+  "gpm": 384.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ee/BGT_Aytekn_2024_Split_2.png",
+  "kda": 3.67,
+  "kills": 65,
+  "kp": 0.4776,
+  "losses": 6,
+  "minutes": 773.7,
+  "player": "Aytekn",
+  "player_id": "Aytekn",
+  "role": "Top",
+  "slug": "aytekn",
+  "team": "Bushido Wildcats",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+  "team_short": "BW",
+  "team_slug": "bushido-wildcats",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.16,
+  "win_rate": 0.7391,
+  "wins": 17
+ },
+ {
+  "assists": 203,
+  "champions": [
+   {
+    "champion": "Cassiopeia",
+    "games": 4,
+    "wins": 2
+   },
+   {
+    "champion": "Ahri",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Galio",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Aurora",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Lissandra",
+    "games": 2,
+    "wins": 2
+   }
+  ],
+  "cspm": 8.43,
+  "deaths": 46,
+  "dpm": 739.9,
+  "games": 23,
+  "gpm": 413.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/OTS_Camana_2026_Split_1.png",
+  "kda": 6.89,
+  "kills": 114,
+  "kp": 0.6759,
+  "losses": 6,
+  "minutes": 773.7,
+  "player": "Camana",
+  "player_id": "Camana",
+  "role": "Mid",
+  "slug": "camana",
+  "team": "Bushido Wildcats",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+  "team_short": "BW",
+  "team_slug": "bushido-wildcats",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.13,
+  "win_rate": 0.7391,
+  "wins": 17
+ },
+ {
+  "assists": 312,
+  "champions": [
+   {
+    "champion": "Bard",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Camille",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Lulu",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Seraphine",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Pyke",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.16,
+  "deaths": 87,
+  "dpm": 262.5,
+  "games": 23,
+  "gpm": 286.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cd/SUP_Carry_2024_Split_2.png",
+  "kda": 4.06,
+  "kills": 41,
+  "kp": 0.7527,
+  "losses": 6,
+  "minutes": 773.7,
+  "player": "Carry (Mustafa Selim Yılmaz)",
+  "player_id": "Carry",
+  "role": "Support",
+  "slug": "carry",
+  "team": "Bushido Wildcats",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+  "team_short": "BW",
+  "team_slug": "bushido-wildcats",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 4.26,
+  "win_rate": 0.7391,
+  "wins": 17
+ },
+ {
+  "assists": 218,
+  "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Pantheon",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Nocturne",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 2
+   }
+  ],
+  "cspm": 6.84,
+  "deaths": 73,
+  "dpm": 561.0,
+  "games": 23,
+  "gpm": 407.9,
+  "image": null,
+  "kda": 4.52,
+  "kills": 112,
+  "kp": 0.7036,
+  "losses": 6,
+  "minutes": 773.7,
+  "player": "Osman123",
+  "player_id": "Osman123",
+  "role": "Jungle",
+  "slug": "osman123",
+  "team": "Bushido Wildcats",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+  "team_short": "BW",
+  "team_slug": "bushido-wildcats",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.62,
+  "win_rate": 0.7391,
+  "wins": 17
+ },
+ {
+  "assists": 191,
+  "champions": [
+   {
+    "champion": "Yunara",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Ezreal",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Jhin",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Ashe",
+    "games": 2,
+    "wins": 2
+   }
+  ],
+  "cspm": 9.49,
+  "deaths": 52,
+  "dpm": 881.0,
+  "games": 23,
+  "gpm": 510.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/BGT_Ruep_2024_Split_1.png",
+  "kda": 6.31,
+  "kills": 137,
+  "kp": 0.6994,
+  "losses": 6,
+  "minutes": 773.7,
+  "player": "Ruep",
+  "player_id": "Ruep",
+  "role": "Bot",
+  "slug": "ruep",
+  "team": "Bushido Wildcats",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+  "team_short": "BW",
+  "team_slug": "bushido-wildcats",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.32,
+  "win_rate": 0.7391,
+  "wins": 17
+ },
+ {
+  "assists": 105,
+  "champions": [
+   {
+    "champion": "Olaf",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Aatrox",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ambessa",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Rumble",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.38,
+  "deaths": 40,
+  "dpm": 566.6,
+  "games": 22,
+  "gpm": 393.8,
+  "image": null,
+  "kda": 4.17,
+  "kills": 62,
+  "kp": 0.4418,
+  "losses": 8,
+  "minutes": 664.2,
+  "player": "Bayonetta",
+  "player_id": "Bayonetta",
+  "role": "Top",
+  "slug": "bayonetta",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 0.87,
+  "win_rate": 0.6364,
+  "wins": 14
+ },
+ {
   "assists": 278,
   "champions": [
    {
@@ -26797,6 +27115,59 @@
   "vspm": 1.08,
   "win_rate": 0.5,
   "wins": 11
+ },
+ {
+  "assists": 129,
+  "champions": [
+   {
+    "champion": "Ryze",
+    "games": 5,
+    "wins": 3
+   },
+   {
+    "champion": "Akali",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Orianna",
+    "games": 3,
+    "wins": 1
+   },
+   {
+    "champion": "Ahri",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.01,
+  "deaths": 74,
+  "dpm": 709.5,
+  "games": 22,
+  "gpm": 433.2,
+  "image": null,
+  "kda": 3.15,
+  "kills": 104,
+  "kp": 0.6164,
+  "losses": 8,
+  "minutes": 664.2,
+  "player": "FireAscept",
+  "player_id": "FireAscept",
+  "role": "Mid",
+  "slug": "fireascept",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.47,
+  "win_rate": 0.6364,
+  "wins": 14
  },
  {
   "assists": 123,
@@ -26905,6 +27276,165 @@
   "wins": 11
  },
  {
+  "assists": 256,
+  "champions": [
+   {
+    "champion": "Nautilus",
+    "games": 7,
+    "wins": 5
+   },
+   {
+    "champion": "Milio",
+    "games": 3,
+    "wins": 0
+   },
+   {
+    "champion": "Seraphine",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Rell",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.13,
+  "deaths": 67,
+  "dpm": 185.4,
+  "games": 22,
+  "gpm": 271.8,
+  "image": null,
+  "kda": 4.01,
+  "kills": 13,
+  "kp": 0.7116,
+  "losses": 8,
+  "minutes": 664.2,
+  "player": "MonkaS",
+  "player_id": "monkaS",
+  "role": "Support",
+  "slug": "monkas",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 3.24,
+  "win_rate": 0.6364,
+  "wins": 14
+ },
+ {
+  "assists": 151,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Ashe",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Lucian",
+    "games": 3,
+    "wins": 0
+   },
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Kalista",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.88,
+  "deaths": 67,
+  "dpm": 676.2,
+  "games": 22,
+  "gpm": 476.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/FUT_Scorth_2024_Split_2.png",
+  "kda": 3.61,
+  "kills": 91,
+  "kp": 0.6402,
+  "losses": 8,
+  "minutes": 664.2,
+  "player": "Scorth",
+  "player_id": "Scorth",
+  "role": "Bot",
+  "slug": "scorth",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 0.93,
+  "win_rate": 0.6364,
+  "wins": 14
+ },
+ {
+  "assists": 142,
+  "champions": [
+   {
+    "champion": "Xin Zhao",
+    "games": 5,
+    "wins": 4
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Locke",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Naafiri",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Olaf",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.84,
+  "deaths": 34,
+  "dpm": 487.9,
+  "games": 22,
+  "gpm": 432.3,
+  "image": null,
+  "kda": 7.35,
+  "kills": 108,
+  "kp": 0.6614,
+  "losses": 8,
+  "minutes": 664.2,
+  "player": "Stalken",
+  "player_id": "Stalken",
+  "role": "Jungle",
+  "slug": "stalken",
+  "team": "PCIFIC Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+  "team_short": "PCF",
+  "team_slug": "pcific-esports",
+  "tournament": "TCL/2026 Season/Summer Split",
+  "vspm": 1.49,
+  "win_rate": 0.6364,
+  "wins": 14
+ },
+ {
   "assists": 140,
   "champions": [
    {
@@ -26958,165 +27488,6 @@
   "wins": 11
  },
  {
-  "assists": 135,
-  "champions": [
-   {
-    "champion": "Gnar",
-    "games": 4,
-    "wins": 1
-   },
-   {
-    "champion": "Rumble",
-    "games": 4,
-    "wins": 4
-   },
-   {
-    "champion": "Olaf",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Ambessa",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Dr. Mundo",
-    "games": 2,
-    "wins": 2
-   }
-  ],
-  "cspm": 7.93,
-  "deaths": 54,
-  "dpm": 619.7,
-  "games": 20,
-  "gpm": 378.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ee/BGT_Aytekn_2024_Split_2.png",
-  "kda": 3.46,
-  "kills": 52,
-  "kp": 0.4495,
-  "losses": 6,
-  "minutes": 680.4,
-  "player": "Aytekn",
-  "player_id": "Aytekn",
-  "role": "Top",
-  "slug": "aytekn",
-  "team": "Bushido Wildcats",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
-  "team_short": "BW",
-  "team_slug": "bushido-wildcats",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.12,
-  "win_rate": 0.7,
-  "wins": 14
- },
- {
-  "assists": 181,
-  "champions": [
-   {
-    "champion": "Cassiopeia",
-    "games": 4,
-    "wins": 2
-   },
-   {
-    "champion": "Galio",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Ahri",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Aurora",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Lissandra",
-    "games": 2,
-    "wins": 2
-   }
-  ],
-  "cspm": 8.42,
-  "deaths": 43,
-  "dpm": 739.6,
-  "games": 20,
-  "gpm": 411.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/OTS_Camana_2026_Split_1.png",
-  "kda": 6.44,
-  "kills": 96,
-  "kp": 0.6659,
-  "losses": 6,
-  "minutes": 680.4,
-  "player": "Camana",
-  "player_id": "Camana",
-  "role": "Mid",
-  "slug": "camana",
-  "team": "Bushido Wildcats",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
-  "team_short": "BW",
-  "team_slug": "bushido-wildcats",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.11,
-  "win_rate": 0.7,
-  "wins": 14
- },
- {
-  "assists": 273,
-  "champions": [
-   {
-    "champion": "Bard",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Camille",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Lulu",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Pyke",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Seraphine",
-    "games": 2,
-    "wins": 2
-   }
-  ],
-  "cspm": 1.16,
-  "deaths": 80,
-  "dpm": 271.7,
-  "games": 20,
-  "gpm": 288.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cd/SUP_Carry_2024_Split_2.png",
-  "kda": 3.9,
-  "kills": 39,
-  "kp": 0.75,
-  "losses": 6,
-  "minutes": 680.4,
-  "player": "Carry (Mustafa Selim Yılmaz)",
-  "player_id": "Carry",
-  "role": "Support",
-  "slug": "carry",
-  "team": "Bushido Wildcats",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
-  "team_short": "BW",
-  "team_slug": "bushido-wildcats",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 4.3,
-  "win_rate": 0.7,
-  "wins": 14
- },
- {
   "assists": 123,
   "champions": [
    {
@@ -27168,377 +27539,6 @@
   "vspm": 0.74,
   "win_rate": 0.55,
   "wins": 11
- },
- {
-  "assists": 191,
-  "champions": [
-   {
-    "champion": "Naafiri",
-    "games": 4,
-    "wins": 3
-   },
-   {
-    "champion": "Pantheon",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Xin Zhao",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Nocturne",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Wukong",
-    "games": 2,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.8,
-  "deaths": 65,
-  "dpm": 578.8,
-  "games": 20,
-  "gpm": 409.7,
-  "image": null,
-  "kda": 4.54,
-  "kills": 104,
-  "kp": 0.7091,
-  "losses": 6,
-  "minutes": 680.4,
-  "player": "Osman123",
-  "player_id": "Osman123",
-  "role": "Jungle",
-  "slug": "osman123",
-  "team": "Bushido Wildcats",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
-  "team_short": "BW",
-  "team_slug": "bushido-wildcats",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.65,
-  "win_rate": 0.7,
-  "wins": 14
- },
- {
-  "assists": 168,
-  "champions": [
-   {
-    "champion": "Caitlyn",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Jhin",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Yunara",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Ashe",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Ezreal",
-    "games": 2,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.42,
-  "deaths": 46,
-  "dpm": 889.1,
-  "games": 20,
-  "gpm": 513.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/BGT_Ruep_2024_Split_1.png",
-  "kda": 6.37,
-  "kills": 125,
-  "kp": 0.7043,
-  "losses": 6,
-  "minutes": 680.4,
-  "player": "Ruep",
-  "player_id": "Ruep",
-  "role": "Bot",
-  "slug": "ruep",
-  "team": "Bushido Wildcats",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
-  "team_short": "BW",
-  "team_slug": "bushido-wildcats",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.32,
-  "win_rate": 0.7,
-  "wins": 14
- },
- {
-  "assists": 94,
-  "champions": [
-   {
-    "champion": "Aatrox",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Ambessa",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Galio",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Olaf",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Dr. Mundo",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.33,
-  "deaths": 33,
-  "dpm": 561.2,
-  "games": 19,
-  "gpm": 393.9,
-  "image": null,
-  "kda": 4.42,
-  "kills": 52,
-  "kp": 0.4207,
-  "losses": 5,
-  "minutes": 570.9,
-  "player": "Bayonetta",
-  "player_id": "Bayonetta",
-  "role": "Top",
-  "slug": "bayonetta",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 0.87,
-  "win_rate": 0.7368,
-  "wins": 14
- },
- {
-  "assists": 117,
-  "champions": [
-   {
-    "champion": "Ryze",
-    "games": 4,
-    "wins": 3
-   },
-   {
-    "champion": "Akali",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Ahri",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.16,
-  "deaths": 59,
-  "dpm": 714.5,
-  "games": 19,
-  "gpm": 447.9,
-  "image": null,
-  "kda": 3.66,
-  "kills": 99,
-  "kp": 0.6225,
-  "losses": 5,
-  "minutes": 570.9,
-  "player": "FireAscept",
-  "player_id": "FireAscept",
-  "role": "Mid",
-  "slug": "fireascept",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.46,
-  "win_rate": 0.7368,
-  "wins": 14
- },
- {
-  "assists": 231,
-  "champions": [
-   {
-    "champion": "Nautilus",
-    "games": 6,
-    "wins": 5
-   },
-   {
-    "champion": "Seraphine",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Milio",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Rell",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Shen",
-    "games": 2,
-    "wins": 2
-   }
-  ],
-  "cspm": 1.15,
-  "deaths": 55,
-  "dpm": 191.0,
-  "games": 19,
-  "gpm": 276.1,
-  "image": null,
-  "kda": 4.44,
-  "kills": 13,
-  "kp": 0.7032,
-  "losses": 5,
-  "minutes": 570.9,
-  "player": "MonkaS",
-  "player_id": "monkaS",
-  "role": "Support",
-  "slug": "monkas",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 3.24,
-  "win_rate": 0.7368,
-  "wins": 14
- },
- {
-  "assists": 140,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Jhin",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Ezreal",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Lucian",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Taliyah",
-    "games": 2,
-    "wins": 2
-   }
-  ],
-  "cspm": 9.88,
-  "deaths": 57,
-  "dpm": 671.1,
-  "games": 19,
-  "gpm": 478.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/FUT_Scorth_2024_Split_2.png",
-  "kda": 3.84,
-  "kills": 79,
-  "kp": 0.6311,
-  "losses": 5,
-  "minutes": 570.9,
-  "player": "Scorth",
-  "player_id": "Scorth",
-  "role": "Bot",
-  "slug": "scorth",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 0.85,
-  "win_rate": 0.7368,
-  "wins": 14
- },
- {
-  "assists": 129,
-  "champions": [
-   {
-    "champion": "Lee Sin",
-    "games": 4,
-    "wins": 3
-   },
-   {
-    "champion": "Xin Zhao",
-    "games": 4,
-    "wins": 4
-   },
-   {
-    "champion": "Locke",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Naafiri",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Olaf",
-    "games": 2,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.99,
-  "deaths": 25,
-  "dpm": 513.9,
-  "games": 19,
-  "gpm": 446.1,
-  "image": null,
-  "kda": 9.32,
-  "kills": 104,
-  "kp": 0.6715,
-  "losses": 5,
-  "minutes": 570.9,
-  "player": "Stalken",
-  "player_id": "Stalken",
-  "role": "Jungle",
-  "slug": "stalken",
-  "team": "PCIFIC Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-  "team_short": "PCF",
-  "team_slug": "pcific-esports",
-  "tournament": "TCL/2026 Season/Summer Split",
-  "vspm": 1.47,
-  "win_rate": 0.7368,
-  "wins": 14
  },
  {
   "assists": 36,
@@ -28827,5 +28827,435 @@
   "vspm": 1.52,
   "win_rate": 0.0,
   "wins": 0
+ },
+ {
+  "assists": 43,
+  "champions": [
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.32,
+  "deaths": 3,
+  "dpm": 175.4,
+  "games": 3,
+  "gpm": 290.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/VKE_Kairi_2024_Split_1.png",
+  "kda": 15.33,
+  "kills": 3,
+  "kp": 0.7667,
+  "losses": 1,
+  "minutes": 86.2,
+  "player": "Kairi",
+  "player_id": "kairi",
+  "role": "Support",
+  "slug": "kairi",
+  "team": "SN CyberCore Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
+  "team_short": "SCBC",
+  "team_slug": "sn-cybercore-esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 4.39,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 8,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yorick",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.71,
+  "deaths": 12,
+  "dpm": 642.4,
+  "games": 3,
+  "gpm": 389.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/9G_Nanaue_VCS_2026_Spring_Playoffs.png",
+  "kda": 1.17,
+  "kills": 6,
+  "kp": 0.5185,
+  "losses": 2,
+  "minutes": 86.2,
+  "player": "Nanaue (Phùng Đức Tài)",
+  "player_id": "Nanaue",
+  "role": "Top",
+  "slug": "nanaue",
+  "team": "1TAP Dino",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.37,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 23,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 11.36,
+  "deaths": 2,
+  "dpm": 1076.7,
+  "games": 3,
+  "gpm": 596.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/GAM_Pyshiro_2024_Split_1.png",
+  "kda": 23.5,
+  "kills": 24,
+  "kp": 0.7833,
+  "losses": 1,
+  "minutes": 86.2,
+  "player": "Pyshiro",
+  "player_id": "Pyshiro",
+  "role": "Bot",
+  "slug": "pyshiro",
+  "team": "SN CyberCore Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
+  "team_short": "SCBC",
+  "team_slug": "sn-cybercore-esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.39,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 30,
+  "champions": [
+   {
+    "champion": "Cho'Gath",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.49,
+  "deaths": 10,
+  "dpm": 536.4,
+  "games": 3,
+  "gpm": 424.1,
+  "image": null,
+  "kda": 4.6,
+  "kills": 16,
+  "kp": 0.7667,
+  "losses": 1,
+  "minutes": 86.2,
+  "player": "Rikk",
+  "player_id": "Rikk",
+  "role": "Jungle",
+  "slug": "rikk",
+  "team": "SN CyberCore Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
+  "team_short": "SCBC",
+  "team_slug": "sn-cybercore-esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.47,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 25,
+  "champions": [
+   {
+    "champion": "Gwen",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jax",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.73,
+  "deaths": 6,
+  "dpm": 737.8,
+  "games": 3,
+  "gpm": 434.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/DINO_Sparda_VCS_2025_Finals.png",
+  "kda": 5.33,
+  "kills": 7,
+  "kp": 0.5333,
+  "losses": 1,
+  "minutes": 86.2,
+  "player": "Sparda",
+  "player_id": "Sparda",
+  "role": "Top",
+  "slug": "sparda",
+  "team": "SN CyberCore Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
+  "team_short": "SCBC",
+  "team_slug": "sn-cybercore-esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.22,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Taliyah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.17,
+  "deaths": 12,
+  "dpm": 699.8,
+  "games": 3,
+  "gpm": 367.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/SGW_TT_VCS_2026_Spring_Playoffs.png",
+  "kda": 1.67,
+  "kills": 10,
+  "kp": 0.7407,
+  "losses": 2,
+  "minutes": 86.2,
+  "player": "TT (Trần Quốc Thanh)",
+  "player_id": "TT",
+  "role": "Mid",
+  "slug": "tt",
+  "team": "1TAP Dino",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.03,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 18,
+  "champions": [
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.27,
+  "deaths": 7,
+  "dpm": 191.6,
+  "games": 3,
+  "gpm": 252.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/9G_Tahahy_VCS_2026_Summer.png",
+  "kda": 2.71,
+  "kills": 1,
+  "kp": 0.7037,
+  "losses": 2,
+  "minutes": 86.2,
+  "player": "Tahahy",
+  "player_id": "Tahahy",
+  "role": "Support",
+  "slug": "tahahy",
+  "team": "1TAP Dino",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 3.33,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 19,
+  "champions": [
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Swain",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.69,
+  "deaths": 6,
+  "dpm": 615.1,
+  "games": 3,
+  "gpm": 399.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/SCBC_Vin_VCS_2026_Summer.png",
+  "kda": 4.83,
+  "kills": 10,
+  "kp": 0.4833,
+  "losses": 1,
+  "minutes": 86.2,
+  "player": "Vin (Trần Hoài Vinh)",
+  "player_id": "Vin",
+  "role": "Mid",
+  "slug": "vin",
+  "team": "SN CyberCore Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
+  "team_short": "SCBC",
+  "team_slug": "sn-cybercore-esports",
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.21,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 7,
+  "champions": [
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.8,
+  "deaths": 12,
+  "dpm": 596.2,
+  "games": 3,
+  "gpm": 439.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c6/SE_Vinboiz_2023_Split_1.png",
+  "kda": 1.42,
+  "kills": 10,
+  "kp": 0.6296,
+  "losses": 2,
+  "minutes": 86.2,
+  "player": "Vinboiz",
+  "player_id": "Vinboiz",
+  "role": "Bot",
+  "slug": "vinboiz",
+  "team": "1TAP Dino",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.69,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 19,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.42,
+  "deaths": 17,
+  "dpm": 349.7,
+  "games": 3,
+  "gpm": 332.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Wady.png",
+  "kda": 1.12,
+  "kills": 0,
+  "kp": 0.7037,
+  "losses": 2,
+  "minutes": 86.2,
+  "player": "Wady",
+  "player_id": "Wady",
+  "role": "Jungle",
+  "slug": "wady",
+  "team": "1TAP Dino",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "vspm": 1.88,
+  "win_rate": 0.3333,
+  "wins": 1
  }
 ]
