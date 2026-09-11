@@ -8344,6 +8344,33 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-09-11 14:30:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "TCL/2026 Season/Summer Split_Finals_1",
+  "patch": "26.17",
+  "phase": null,
+  "round": null,
+  "tab": "Finals",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
+   "name": "Bushido Wildcats",
+   "short": "BW",
+   "slug": "bushido-wildcats"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
+   "name": "PCIFIC Esports",
+   "short": "PCF",
+   "slug": "pcific-esports"
+  },
+  "team2_score": null,
+  "tournament": "TCL/2026 Season/Summer Split",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-09-11 15:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -8367,33 +8394,6 @@
   },
   "team2_score": null,
   "tournament": "LEC/2026 Season/Summer Playoffs",
-  "winner": null
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-09-11 15:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "TCL/2026 Season/Summer Split_Finals_1",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Finals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/Bushido_Wildcatslogo_square.png",
-   "name": "Bushido Wildcats",
-   "short": "BW",
-   "slug": "bushido-wildcats"
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/PCIFIC_Esportslogo_profile.png",
-   "name": "PCIFIC Esports",
-   "short": "PCF",
-   "slug": "pcific-esports"
-  },
-  "team2_score": null,
-  "tournament": "TCL/2026 Season/Summer Split",
   "winner": null
  },
  {

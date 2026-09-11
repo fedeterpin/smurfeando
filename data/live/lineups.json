@@ -3600,6 +3600,56 @@
   "tournament": "LCS/2027 Season/Promotion"
  },
  {
+  "image": null,
+  "player": "Crimson (Bilal Shoura)",
+  "player_id": "Crimson (Bilal Shoura)",
+  "role": "Top",
+  "slug": null,
+  "source": "roster",
+  "team": "Maryville University",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/TL_Yuuji_2025_Split_3.png",
+  "player": "Yuuji",
+  "player_id": "Yuuji",
+  "role": "Jungle",
+  "slug": "yuuji",
+  "source": "roster",
+  "team": "Maryville University",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Aojune",
+  "player_id": "Aojune",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "Maryville University",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DSG_ScaryJerry_2025_Split_1.png",
+  "player": "ScaryJerry",
+  "player_id": "ScaryJerry",
+  "role": "Bot",
+  "slug": "scaryjerry",
+  "source": "roster",
+  "team": "Maryville University",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/UCAM_Obstinatus_2024_Split_2.png",
+  "player": "Obstinatus",
+  "player_id": "Obstinatus",
+  "role": "Support",
+  "slug": "obstinatus",
+  "source": "roster",
+  "team": "Maryville University",
+  "tournament": "LCS/2027 Season/Promotion"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/FUE_Keii_2023_Closing.png",
   "player": "Keii",
   "player_id": "Keii",
