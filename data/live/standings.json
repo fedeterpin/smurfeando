@@ -1369,6 +1369,26 @@
   "streak": 1,
   "streak_direction": "W",
   "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports Academy",
+   "short": "MVKA",
+   "slug": "mvk-esports-academy"
+  },
+  "tie_series": 0,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 2,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
    "name": "9Gaming",
    "short": "9G",
@@ -1381,13 +1401,33 @@
  },
  {
   "group": 1,
-  "loss_games": 1,
-  "loss_series": 0,
+  "loss_games": 2,
+  "loss_series": 1,
   "place": 2,
   "place_label": "2",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "tie_series": 0,
+  "tournament": "VCS/2026 Season/Finals Stage 1",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 3,
+  "loss_series": 1,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
    "name": "SN CyberCore Esports",
@@ -1401,30 +1441,10 @@
  },
  {
   "group": 1,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 3,
-  "place_label": "3",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports Academy",
-   "short": "MVKA",
-   "slug": "mvk-esports-academy"
-  },
-  "tie_series": 0,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
   "loss_games": 2,
   "loss_series": 1,
-  "place": 4,
-  "place_label": "4",
+  "place": 5,
+  "place_label": "5",
   "points": 0,
   "streak": 1,
   "streak_direction": "L",
@@ -1437,26 +1457,6 @@
   "tie_series": 0,
   "tournament": "VCS/2026 Season/Finals Stage 1",
   "win_games": 1,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 2,
-  "loss_series": 1,
-  "place": 5,
-  "place_label": "5",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
-  },
-  "tie_series": 0,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "win_games": 0,
   "win_series": 0
  }
 ]

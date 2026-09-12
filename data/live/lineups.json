@@ -5280,6 +5280,56 @@
   "tournament": "LPL/2026 Season/Grand Finals"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/IG_TheShy_2025_Split_1.png",
+  "player": "TheShy",
+  "player_id": "TheShy",
+  "role": "Top",
+  "slug": "theshy",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/IG_Wei_2026_Split_1.png",
+  "player": "Wei (Yan Yang-Wei)",
+  "player_id": "Wei",
+  "role": "Jungle",
+  "slug": "wei",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1b/IG_Rookie_2026_Split_1.png",
+  "player": "Rookie",
+  "player_id": "Rookie",
+  "role": "Mid",
+  "slug": "rookie",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/TES_JiaQi_2026_Split_1.png",
+  "player": "JiaQi",
+  "player_id": "JiaQi",
+  "role": "Bot",
+  "slug": "jiaqi",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/IG_Meiko_2026_Split_1.png",
+  "player": "Meiko",
+  "player_id": "Meiko",
+  "role": "Support",
+  "slug": "meiko",
+  "source": "roster",
+  "team": "Invictus Gaming",
+  "tournament": "LPL/2026 Season/Regional Finals"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/JDG_Xiaoxu_2026_Split_1.png",
   "player": "Xiaoxu",
   "player_id": "Xiaoxu",

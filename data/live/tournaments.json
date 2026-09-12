@@ -52,7 +52,7 @@
   "year": "2027"
  },
  {
-  "games": 46,
+  "games": 51,
   "is_playoffs": true,
   "league": "Tencent LoL Pro League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
@@ -212,7 +212,7 @@
   "year": "2026"
  },
  {
-  "games": 33,
+  "games": 37,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
@@ -336,7 +336,7 @@
   "year": "2026"
  },
  {
-  "games": 4,
+  "games": 9,
   "is_playoffs": false,
   "league": "Vietnam Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",
