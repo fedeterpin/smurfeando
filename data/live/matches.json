@@ -8412,16 +8412,16 @@
    "short": "HLE",
    "slug": "hanwha-life-esports"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
    "name": "T1",
    "short": "T1",
    "slug": "t1"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LCK/2026 Season/Season Playoffs",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8603,10 +8603,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
   },
   "team2_score": null,
   "tournament": "LCK/2026 Season/Season Playoffs",
@@ -9892,8 +9892,8 @@
   "round": null,
   "tab": "Play-In",
   "team1": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
+   "name": "Maryville University",
    "short": null,
    "slug": null
   },
@@ -10027,8 +10027,8 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
    "short": null,
    "slug": null
   },

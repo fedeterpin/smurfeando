@@ -109,7 +109,7 @@
   "year": "2026"
  },
  {
-  "games": 11,
+  "games": 16,
   "is_playoffs": true,
   "league": "LoL EMEA Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/LEC_logo_small.png",
@@ -336,7 +336,7 @@
   "year": "2026"
  },
  {
-  "games": 3,
+  "games": 4,
   "is_playoffs": false,
   "league": "Vietnam Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",
