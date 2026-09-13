@@ -8655,16 +8655,16 @@
    "short": "BLG",
    "slug": "bilibili-gaming"
   },
-  "team1_score": 0,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
    "name": "Anyone's Legend",
    "short": "AL",
    "slug": "anyone-s-legend"
   },
-  "team2_score": 1,
+  "team2_score": 3,
   "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -8677,21 +8677,21 @@
   "round": null,
   "tab": "Week 1",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
-  },
-  "team1_score": null,
-  "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
    "name": "1TAP Dino",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": 2,
   "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -8709,16 +8709,16 @@
    "short": "MVKA",
    "slug": "mvk-esports-academy"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
    "name": "SN CyberCore Esports",
    "short": "SCBC",
    "slug": "sn-cybercore-esports"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8736,14 +8736,14 @@
    "short": "LOUD",
    "slug": "loud"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
    "name": "paiN Gaming",
    "short": "PAIN",
    "slug": "pain-gaming"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
   "winner": null
  },
