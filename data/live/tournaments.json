@@ -20,7 +20,7 @@
   "year": "2026"
  },
  {
-  "games": 7,
+  "games": 11,
   "is_playoffs": true,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -67,6 +67,21 @@
   "region_label": "China",
   "slug": "lpl-2026-season-grand-finals",
   "split": "Split 3",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Tencent LoL Pro League",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
+  "league_short": "LPL",
+  "name": "LPL 2026 Grand Finals Showmatch",
+  "overview_page": "LPL/2026 Season/Grand Finals/Showmatch",
+  "patches": [],
+  "region": "china",
+  "region_label": "China",
+  "slug": "lpl-2026-season-grand-finals-showmatch",
+  "split": "",
   "year": "2026"
  },
  {
@@ -249,14 +264,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 3,
   "is_playoffs": true,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
   "league_short": "LCS",
   "name": "LCS 2026 Summer Playoffs",
   "overview_page": "LCS/2026 Season/Summer Playoffs",
-  "patches": [],
+  "patches": [
+   "26.17"
+  ],
   "region": "north_america",
   "region_label": "North America",
   "slug": "lcs-2026-season-summer-playoffs",
