@@ -60,20 +60,10 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f6/GAM_Draktharr_2026_Split_1.png",
-  "player": "Draktharr",
-  "player_id": "Draktharr",
-  "role": "Jungle",
-  "slug": "draktharr",
-  "source": "roster",
-  "team": "GAM Esports",
-  "tournament": "2026 Demacia Cup Global Invitational"
- },
- {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Gloryy_at_LCP_Split_3_2026.png",
   "player": "Gloryy",
   "player_id": "Gloryy",
-  "role": "Mid",
+  "role": "Jungle",
   "slug": "gloryy",
   "source": "roster",
   "team": "GAM Esports",
@@ -83,7 +73,7 @@
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/62/Artemis_at_LCP_Split_3_2026.png",
   "player": "Artemis (Trần Quốc Hưng)",
   "player_id": "Artemis",
-  "role": "Bot",
+  "role": "Mid",
   "slug": "artemis",
   "source": "roster",
   "team": "GAM Esports",
@@ -93,8 +83,18 @@
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/Taki_at_LCP_Split_3_2026.png",
   "player": "Taki (Đinh Anh Tài)",
   "player_id": "Taki",
-  "role": "Support",
+  "role": "Bot",
   "slug": "taki",
+  "source": "roster",
+  "team": "GAM Esports",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/TS_Naul_2024_Split_2.png",
+  "player": "Naul",
+  "player_id": "Naul",
+  "role": "Support",
+  "slug": "naul",
   "source": "roster",
   "team": "GAM Esports",
   "tournament": "2026 Demacia Cup Global Invitational"
