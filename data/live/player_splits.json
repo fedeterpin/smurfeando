@@ -2247,6 +2247,271 @@
   "assists": 30,
   "champions": [
    {
+    "champion": "Ambessa",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Jayce",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Jax",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renekton",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.72,
+  "deaths": 18,
+  "dpm": 634.2,
+  "games": 8,
+  "gpm": 401.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/PAIN_Boal_2026_Split_2.png",
+  "kda": 3.28,
+  "kills": 29,
+  "kp": 0.5221,
+  "losses": 4,
+  "minutes": 256.4,
+  "player": "Boal",
+  "player_id": "Boal",
+  "role": "Top",
+  "slug": "boal",
+  "team": "paiN Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+  "team_short": "PAIN",
+  "team_slug": "pain-gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.31,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 58,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.97,
+  "deaths": 27,
+  "dpm": 406.8,
+  "games": 8,
+  "gpm": 385.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8f/PAIN_CarioK_2026_Split_2.png",
+  "kda": 3.15,
+  "kills": 27,
+  "kp": 0.7522,
+  "losses": 4,
+  "minutes": 256.4,
+  "player": "CarioK",
+  "player_id": "CarioK",
+  "role": "Jungle",
+  "slug": "cariok",
+  "team": "paiN Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+  "team_short": "PAIN",
+  "team_slug": "pain-gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.72,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 80,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Nautilus",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 0.98,
+  "deaths": 17,
+  "dpm": 139.3,
+  "games": 8,
+  "gpm": 254.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/PAIN_Ceos_2026_Split_2.png",
+  "kda": 4.82,
+  "kills": 2,
+  "kp": 0.7257,
+  "losses": 4,
+  "minutes": 256.4,
+  "player": "Ceos",
+  "player_id": "Ceos",
+  "role": "Support",
+  "slug": "ceos",
+  "team": "paiN Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+  "team_short": "PAIN",
+  "team_slug": "pain-gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 3.82,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 35,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Miss Fortune",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Varus",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.06,
+  "deaths": 19,
+  "dpm": 819.4,
+  "games": 8,
+  "gpm": 489.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/PAIN_Hena_2026_Split_2.png",
+  "kda": 3.63,
+  "kills": 34,
+  "kp": 0.6106,
+  "losses": 4,
+  "minutes": 256.4,
+  "player": "Hena",
+  "player_id": "Hena",
+  "role": "Bot",
+  "slug": "hena",
+  "team": "paiN Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+  "team_short": "PAIN",
+  "team_slug": "pain-gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.41,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 53,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Azir",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.32,
+  "deaths": 18,
+  "dpm": 589.2,
+  "games": 8,
+  "gpm": 425.4,
+  "image": null,
+  "kda": 4.11,
+  "kills": 21,
+  "kp": 0.6549,
+  "losses": 4,
+  "minutes": 256.4,
+  "player": "Namiru",
+  "player_id": "Namiru",
+  "role": "Mid",
+  "slug": null,
+  "team": "paiN Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+  "team_short": "PAIN",
+  "team_slug": "pain-gaming",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.37,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 30,
+  "champions": [
+   {
     "champion": "Ezreal",
     "games": 2,
     "wins": 1
@@ -2504,150 +2769,6 @@
   "wins": 3
  },
  {
-  "assists": 21,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Renekton",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.73,
-  "deaths": 5,
-  "dpm": 704.5,
-  "games": 4,
-  "gpm": 412.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/PAIN_Boal_2026_Split_2.png",
-  "kda": 7.2,
-  "kills": 15,
-  "kp": 0.5625,
-  "losses": 1,
-  "minutes": 125.5,
-  "player": "Boal",
-  "player_id": "Boal",
-  "role": "Top",
-  "slug": "boal",
-  "team": "paiN Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
-  "team_short": "PAIN",
-  "team_slug": "pain-gaming",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.1,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 29,
-  "champions": [
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Pantheon",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Sejuani",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Vi",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.92,
-  "deaths": 11,
-  "dpm": 419.3,
-  "games": 4,
-  "gpm": 392.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8f/PAIN_CarioK_2026_Split_2.png",
-  "kda": 4.0,
-  "kills": 15,
-  "kp": 0.6875,
-  "losses": 1,
-  "minutes": 125.5,
-  "player": "CarioK",
-  "player_id": "CarioK",
-  "role": "Jungle",
-  "slug": "cariok",
-  "team": "paiN Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
-  "team_short": "PAIN",
-  "team_slug": "pain-gaming",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.67,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
-  "assists": 45,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nautilus",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.0,
-  "deaths": 7,
-  "dpm": 164.0,
-  "games": 4,
-  "gpm": 264.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4e/PAIN_Ceos_2026_Split_2.png",
-  "kda": 6.57,
-  "kills": 1,
-  "kp": 0.7188,
-  "losses": 1,
-  "minutes": 125.5,
-  "player": "Ceos",
-  "player_id": "Ceos",
-  "role": "Support",
-  "slug": "ceos",
-  "team": "paiN Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
-  "team_short": "PAIN",
-  "team_slug": "pain-gaming",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 3.94,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
   "assists": 32,
   "champions": [
    {
@@ -2840,54 +2961,6 @@
   "wins": 3
  },
  {
-  "assists": 18,
-  "champions": [
-   {
-    "champion": "Ezreal",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jhin",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Varus",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 10.05,
-  "deaths": 3,
-  "dpm": 938.2,
-  "games": 4,
-  "gpm": 502.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/PAIN_Hena_2026_Split_2.png",
-  "kda": 12.0,
-  "kills": 18,
-  "kp": 0.5625,
-  "losses": 1,
-  "minutes": 125.5,
-  "player": "Hena",
-  "player_id": "Hena",
-  "role": "Bot",
-  "slug": "hena",
-  "team": "paiN Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
-  "team_short": "PAIN",
-  "team_slug": "pain-gaming",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.44,
-  "win_rate": 0.75,
-  "wins": 3
- },
- {
   "assists": 13,
   "champions": [
    {
@@ -2934,6 +3007,54 @@
   "vspm": 1.2,
   "win_rate": 0.25,
   "wins": 1
+ },
+ {
+  "assists": 24,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "LeBlanc",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.87,
+  "deaths": 6,
+  "dpm": 694.4,
+  "games": 4,
+  "gpm": 468.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/LOUD_Kaze_2026_Split_2.png",
+  "kda": 7.83,
+  "kills": 23,
+  "kp": 0.7015,
+  "losses": 1,
+  "minutes": 130.9,
+  "player": "Kaze (Lucas Fe)",
+  "player_id": "Kaze",
+  "role": "Mid",
+  "slug": "kaze",
+  "team": "LOUD",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+  "team_short": "LOUD",
+  "team_slug": "loud",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.07,
+  "win_rate": 0.75,
+  "wins": 3
  },
  {
   "assists": 10,
@@ -2984,50 +3105,50 @@
   "wins": 1
  },
  {
-  "assists": 30,
+  "assists": 25,
   "champions": [
    {
-    "champion": "Ahri",
+    "champion": "Ashe",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Azir",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Ryze",
+    "champion": "Ezreal",
     "games": 1,
     "wins": 0
    },
    {
-    "champion": "Sylas",
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sivir",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 9.17,
-  "deaths": 6,
-  "dpm": 727.8,
+  "cspm": 10.35,
+  "deaths": 12,
+  "dpm": 678.5,
   "games": 4,
-  "gpm": 439.5,
-  "image": null,
-  "kda": 7.5,
-  "kills": 15,
-  "kp": 0.7031,
+  "gpm": 510.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/LOUD_Rabelo_2026_Split_2.png",
+  "kda": 3.58,
+  "kills": 18,
+  "kp": 0.6418,
   "losses": 1,
-  "minutes": 125.5,
-  "player": "Namiru",
-  "player_id": "Namiru",
-  "role": "Mid",
-  "slug": null,
-  "team": "paiN Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
-  "team_short": "PAIN",
-  "team_slug": "pain-gaming",
+  "minutes": 130.9,
+  "player": "Rabelo",
+  "player_id": "Rabelo",
+  "role": "Bot",
+  "slug": "rabelo",
+  "team": "LOUD",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+  "team_short": "LOUD",
+  "team_slug": "loud",
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.35,
+  "vspm": 1.12,
   "win_rate": 0.75,
   "wins": 3
  },
@@ -3126,6 +3247,150 @@
   "vspm": 1.61,
   "win_rate": 0.25,
   "wins": 1
+ },
+ {
+  "assists": 35,
+  "champions": [
+   {
+    "champion": "Maokai",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.13,
+  "deaths": 13,
+  "dpm": 394.0,
+  "games": 4,
+  "gpm": 415.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/LOUD_Sinatra_2026_Split_2.png",
+  "kda": 3.54,
+  "kills": 11,
+  "kp": 0.6866,
+  "losses": 1,
+  "minutes": 130.9,
+  "player": "Sinatra",
+  "player_id": "Sinatra",
+  "role": "Jungle",
+  "slug": "sinatra",
+  "team": "LOUD",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+  "team_short": "LOUD",
+  "team_slug": "loud",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.82,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 47,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Leona",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.44,
+  "deaths": 7,
+  "dpm": 189.6,
+  "games": 4,
+  "gpm": 286.9,
+  "image": null,
+  "kda": 7.29,
+  "kills": 4,
+  "kp": 0.7612,
+  "losses": 1,
+  "minutes": 130.9,
+  "player": "UZent",
+  "player_id": "uZent",
+  "role": "Support",
+  "slug": "uzent",
+  "team": "LOUD",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+  "team_short": "LOUD",
+  "team_slug": "loud",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 4.72,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 27,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kled",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.05,
+  "deaths": 11,
+  "dpm": 609.2,
+  "games": 4,
+  "gpm": 412.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/LOUD_Xyno_2026_Split_1.png",
+  "kda": 3.45,
+  "kills": 11,
+  "kp": 0.5672,
+  "losses": 1,
+  "minutes": 130.9,
+  "player": "Xyno",
+  "player_id": "xyno",
+  "role": "Top",
+  "slug": "xyno",
+  "team": "LOUD",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+  "team_short": "LOUD",
+  "team_slug": "loud",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.27,
+  "win_rate": 0.75,
+  "wins": 3
  },
  {
   "assists": 11,

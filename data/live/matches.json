@@ -8736,7 +8736,7 @@
    "short": "LOUD",
    "slug": "loud"
   },
-  "team1_score": 2,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
    "name": "paiN Gaming",
@@ -8745,7 +8745,7 @@
   },
   "team2_score": 1,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8763,16 +8763,16 @@
    "short": "SEN",
    "slug": "sentinels"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
    "name": "FlyQuest",
    "short": "FLY",
    "slug": "flyquest"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8861,7 +8861,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Round 1_3",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -8873,10 +8873,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/26/Sentinelslogo_profile.png",
+   "name": "Sentinels",
+   "short": "SEN",
+   "slug": "sentinels"
   },
   "team2_score": null,
   "tournament": "LCS/2026 Season/Summer Playoffs",
@@ -9050,7 +9050,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Round 2_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 2",
@@ -9190,10 +9190,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/PaiN_Gaminglogo_square.png",
+   "name": "paiN Gaming",
+   "short": "PAIN",
+   "slug": "pain-gaming"
   },
   "team1_score": null,
   "team2": {
@@ -9212,7 +9212,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Round 2_2",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 2",
@@ -9224,10 +9224,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
   },
   "team2_score": null,
   "tournament": "LCS/2026 Season/Summer Playoffs",
@@ -9239,7 +9239,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Round 2_3",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 2",
@@ -9271,10 +9271,10 @@
   "round": null,
   "tab": "Round 3",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
   },
   "team1_score": null,
   "team2": {
@@ -9293,7 +9293,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Round 3_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 3",
@@ -9325,10 +9325,10 @@
   "round": null,
   "tab": "Round 4",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+   "name": "LOUD",
+   "short": "LOUD",
+   "slug": "loud"
   },
   "team1_score": null,
   "team2": {
@@ -9347,7 +9347,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Round 4_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 4",
@@ -9671,7 +9671,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Round 4_2",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 4",
@@ -9779,7 +9779,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2026 Season/Summer Playoffs_Finals_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Finals",
