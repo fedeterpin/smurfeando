@@ -10558,6 +10558,114 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-10-15 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Season World Championship/Play-In_Round 1_1",
+  "patch": "26.20",
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 Season World Championship/Play-In",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-15 19:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Season World Championship/Play-In_Round 1_2",
+  "patch": "26.20",
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 Season World Championship/Play-In",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-17 06:59:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Season World Championship/Play-In_Round 1_3",
+  "patch": "26.20",
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 Season World Championship/Play-In",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-17 06:59:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Season World Championship/Play-In_Round 2_1",
+  "patch": "26.20",
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 Season World Championship/Play-In",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-10-17 14:59:00",
   "group": null,
   "is_tiebreaker": false,
@@ -10581,6 +10689,60 @@
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-18 06:59:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Season World Championship/Play-In_Round 2_2",
+  "patch": "26.20",
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 Season World Championship/Play-In",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-18 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Season World Championship/Play-In_Round 3_1",
+  "patch": "26.20",
+  "phase": null,
+  "round": null,
+  "tab": "Round 3",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 Season World Championship/Play-In",
   "winner": null
  }
 ]

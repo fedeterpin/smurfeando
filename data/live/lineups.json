@@ -300,6 +300,56 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/MVK_Kratos_2026_Split_1.png",
+  "player": "Kratos (Ngô Đức Khánh)",
+  "player_id": "Kratos",
+  "role": "Top",
+  "slug": "kratos",
+  "source": "roster",
+  "team": "MVK Esports",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c5/MVK_Gury_2026_Split_1.png",
+  "player": "Gury",
+  "player_id": "Gury",
+  "role": "Jungle",
+  "slug": "gury",
+  "source": "roster",
+  "team": "MVK Esports",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/MVK_Chika_2026_Split_2.png",
+  "player": "Chika",
+  "player_id": "Chika",
+  "role": "Mid",
+  "slug": "chika",
+  "source": "roster",
+  "team": "MVK Esports",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cc/MVK_Harky_2026_Split_2.png",
+  "player": "Harky",
+  "player_id": "Harky",
+  "role": "Bot",
+  "slug": "harky",
+  "source": "roster",
+  "team": "MVK Esports",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/20/MVK_SiuLoong_2026_Split_2.png",
+  "player": "SiuLoong",
+  "player_id": "SiuLoong",
+  "role": "Support",
+  "slug": "siuloong",
+  "source": "roster",
+  "team": "MVK Esports",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/FUR_Guigo_2026_Split_2.png",
   "player": "Guigo",
   "player_id": "Guigo",

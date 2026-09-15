@@ -171,6 +171,21 @@
   "year": "2026"
  },
  {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "World Championship",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
+  "league_short": "WCS",
+  "name": "Worlds 2026 Play-In",
+  "overview_page": "2026 Season World Championship/Play-In",
+  "patches": [],
+  "region": "international",
+  "region_label": "International",
+  "slug": "2026-season-world-championship-play-in",
+  "split": "",
+  "year": "2026"
+ },
+ {
   "games": 37,
   "is_playoffs": true,
   "league": "LoL Japan League",
