@@ -9379,10 +9379,10 @@
   "round": null,
   "tab": "Play-In",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
+   "name": "KaBuM! Ilha das Lendas",
+   "short": "KBM",
+   "slug": "kabum-ilha-das-lendas"
   },
   "team1_score": null,
   "team2": {
@@ -9406,10 +9406,10 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
+   "name": "Estral Esports",
+   "short": "EST",
+   "slug": "estral-esports"
   },
   "team1_score": null,
   "team2": {
