@@ -6859,7 +6859,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-08-28 11:00:00",
+  "datetime_utc": "2026-08-28 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Grand Finals_Knight's Road_2",
@@ -7807,6 +7807,33 @@
   "datetime_utc": "2026-09-05 09:00:00",
   "group": null,
   "is_tiebreaker": false,
+  "match_id": "LPL/2026 Season/Grand Finals_Round 1_4",
+  "patch": "26.17",
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Ninjas_in_Pyjamas.CNlogo_profile.png",
+   "name": "Ninjas in Pyjamas.CN",
+   "short": "NIP",
+   "slug": "ninjas-in-pyjamas-cn"
+  },
+  "team1_score": 3,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
+  },
+  "team2_score": 0,
+  "tournament": "LPL/2026 Season/Grand Finals",
+  "winner": 1
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-05 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
   "match_id": "PCS/2026 Season/Summer Season_Round 4_2",
   "patch": "26.17",
   "phase": null,
@@ -7855,33 +7882,6 @@
   "team2_score": 3,
   "tournament": "LEC/2026 Season/Summer Playoffs",
   "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-09-05 11:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LPL/2026 Season/Grand Finals_Round 1_4",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/12/Ninjas_in_Pyjamas.CNlogo_profile.png",
-   "name": "Ninjas in Pyjamas.CN",
-   "short": "NIP",
-   "slug": "ninjas-in-pyjamas-cn"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-   "name": "JD Gaming",
-   "short": "JDG",
-   "slug": "jd-gaming"
-  },
-  "team2_score": 0,
-  "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": 1
  },
  {
   "best_of": 5,
@@ -8077,33 +8077,6 @@
   "datetime_utc": "2026-09-06 09:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "PCS/2026 Season/Summer Season_Finals_1",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Finals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
-   "name": "Frank Esports",
-   "short": "FAK",
-   "slug": "frank-esports"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
-   "name": "CTBC Flying Oyster Academy",
-   "short": "CFOA",
-   "slug": "ctbc-flying-oyster-academy"
-  },
-  "team2_score": 3,
-  "tournament": "PCS/2026 Season/Summer Season",
-  "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-09-06 10:00:00",
-  "group": null,
-  "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Grand Finals_Round 2_4",
   "patch": "26.17",
   "phase": null,
@@ -8124,6 +8097,33 @@
   },
   "team2_score": 3,
   "tournament": "LPL/2026 Season/Grand Finals",
+  "winner": 2
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-06 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "PCS/2026 Season/Summer Season_Finals_1",
+  "patch": "26.17",
+  "phase": null,
+  "round": null,
+  "tab": "Finals",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
+   "name": "Frank Esports",
+   "short": "FAK",
+   "slug": "frank-esports"
+  },
+  "team1_score": 2,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team2_score": 3,
+  "tournament": "PCS/2026 Season/Summer Season",
   "winner": 2
  },
  {
@@ -8780,7 +8780,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Regional Finals_Round 1_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -8790,14 +8790,14 @@
    "short": "TES",
    "slug": "top-esports"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
    "name": "Invictus Gaming",
    "short": "iG",
    "slug": "invictus-gaming"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "LPL/2026 Season/Regional Finals",
   "winner": null
  },
@@ -8807,7 +8807,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Regional Finals_Round 1_2",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -8888,7 +8888,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "KOREA Pre Evaluation for 2026 Asian Games_Day 1_1",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Day 1",
@@ -8915,7 +8915,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LPL/2026 Season/Regional Finals_Round 2_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 2",
@@ -9077,7 +9077,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "KOREA Pre Evaluation for 2026 Asian Games_Day 2_1",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Day 2",
