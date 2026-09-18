@@ -8790,7 +8790,7 @@
    "short": "TES",
    "slug": "top-esports"
   },
-  "team1_score": 0,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
    "name": "Invictus Gaming",
@@ -8799,7 +8799,7 @@
   },
   "team2_score": 1,
   "tournament": "LPL/2026 Season/Regional Finals",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -8920,10 +8920,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
   },
   "team1_score": null,
   "team2": {
@@ -9072,6 +9072,114 @@
   "winner": null
  },
  {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 07:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 08:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+   "name": "Bilibili Gaming Junior",
+   "short": "BLG.J",
+   "slug": "bilibili-gaming-junior"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+   "name": "Movistar KOI Fénix",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
   "best_of": 5,
   "datetime_utc": "2026-09-20 09:00:00",
   "group": null,
@@ -9126,6 +9234,87 @@
   "winner": null
  },
  {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_5",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 11:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_6",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 12:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_7",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+   "name": "Bilibili Gaming Junior",
+   "short": "BLG.J",
+   "slug": "bilibili-gaming-junior"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
   "best_of": 3,
   "datetime_utc": "2026-09-20 12:00:00",
   "group": null,
@@ -9150,6 +9339,33 @@
   },
   "team2_score": null,
   "tournament": "VCS/2026 Season/Finals Stage 1",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-20 13:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 1_8",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+   "name": "Movistar KOI Fénix",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
   "winner": null
  },
  {
@@ -9231,6 +9447,1086 @@
   },
   "team2_score": null,
   "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
+   "name": "Vivo Keyd Stars Academy",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia Challengers",
+   "short": "DK.C",
+   "slug": "dplus-kia-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 07:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
+   "name": "FENNEL",
+   "short": "FL",
+   "slug": "fennel"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 08:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
+   "name": "ZSK (Chinese Team)",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_5",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia Challengers",
+   "short": "DK.C",
+   "slug": "dplus-kia-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 11:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_6",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
+   "name": "FENNEL",
+   "short": "FL",
+   "slug": "fennel"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
+   "name": "Vivo Keyd Stars Academy",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 12:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_7",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
+   "name": "ZSK (Chinese Team)",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-21 13:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 2_8",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+   "name": "Movistar KOI Fénix",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+   "name": "Bilibili Gaming Junior",
+   "short": "BLG.J",
+   "slug": "bilibili-gaming-junior"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 07:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 08:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_5",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+   "name": "Bilibili Gaming Junior",
+   "short": "BLG.J",
+   "slug": "bilibili-gaming-junior"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 11:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_6",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+   "name": "Movistar KOI Fénix",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 12:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_7",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-22 13:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 3_8",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 3",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 07:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
+   "name": "ZSK (Chinese Team)",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 08:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
+   "name": "FENNEL",
+   "short": "FL",
+   "slug": "fennel"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia Challengers",
+   "short": "DK.C",
+   "slug": "dplus-kia-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
+   "name": "Vivo Keyd Stars Academy",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_5",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 11:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_6",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
+   "name": "ZSK (Chinese Team)",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 12:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_7",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
+   "name": "Vivo Keyd Stars Academy",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia Challengers",
+   "short": "DK.C",
+   "slug": "dplus-kia-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-23 13:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 4_8",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 4",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
+   "name": "FENNEL",
+   "short": "FL",
+   "slug": "fennel"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 07:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 08:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+   "name": "Bilibili Gaming Junior",
+   "short": "BLG.J",
+   "slug": "bilibili-gaming-junior"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+   "name": "Movistar KOI Fénix",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_5",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 11:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_6",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 12:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_7",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+   "name": "Movistar KOI Fénix",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+   "name": "Bilibili Gaming Junior",
+   "short": "BLG.J",
+   "slug": "bilibili-gaming-junior"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-24 13:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 5_8",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 5",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia Challengers",
+   "short": "DK.C",
+   "slug": "dplus-kia-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 07:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
+   "name": "FENNEL",
+   "short": "FL",
+   "slug": "fennel"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
+   "name": "Vivo Keyd Stars Academy",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 08:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
+   "name": "ZSK (Chinese Team)",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_5",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
+   "name": "FENNEL",
+   "short": "FL",
+   "slug": "fennel"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia Challengers",
+   "short": "DK.C",
+   "slug": "dplus-kia-challengers"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 11:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_6",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
+   "name": "Vivo Keyd Stars Academy",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 12:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_7",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 13:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_8",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
+   "name": "ZSK (Chinese Team)",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
   "winner": null
  },
  {
@@ -9316,6 +10612,60 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-09-27 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Quarterfinals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Quarterfinals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-27 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Quarterfinals_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Quarterfinals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-09-27 16:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -9366,6 +10716,60 @@
   },
   "team2_score": null,
   "tournament": "LCS/2026 Season/Summer Playoffs",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-28 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Quarterfinals_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Quarterfinals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-28 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Quarterfinals_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Quarterfinals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
   "winner": null
  },
  {
@@ -9424,6 +10828,60 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-09-30 06:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Semifinals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Semifinals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-30 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Semifinals_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Semifinals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-09-30 16:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -9474,6 +10932,33 @@
   },
   "team2_score": null,
   "tournament": "CBLOL/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-02 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Finals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Finals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 World Star Challengers Invitational",
   "winner": null
  },
  {

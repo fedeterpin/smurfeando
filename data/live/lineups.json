@@ -350,6 +350,796 @@
   "tournament": "2026 Season World Championship/Play-In"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/UP_Liangchen_2026_Split_1.png",
+  "player": "Liangchen",
+  "player_id": "Liangchen",
+  "role": "Top",
+  "slug": "liangchen",
+  "source": "roster",
+  "team": "Bilibili Gaming Junior",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Luoyiyu",
+  "player_id": "luoyiyu",
+  "role": "Jungle",
+  "slug": "luoyiyu",
+  "source": "roster",
+  "team": "Bilibili Gaming Junior",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Sanling.png",
+  "player": "Sanling",
+  "player_id": "Sanling",
+  "role": "Mid",
+  "slug": "sanling",
+  "source": "roster",
+  "team": "Bilibili Gaming Junior",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Chesterbb",
+  "player_id": "chesterbb",
+  "role": "Bot",
+  "slug": "chesterbb",
+  "source": "roster",
+  "team": "Bilibili Gaming Junior",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/WBG_TheHank_2026_Split_2.png",
+  "player": "TheHank",
+  "player_id": "TheHank",
+  "role": "Support",
+  "slug": "thehank",
+  "source": "roster",
+  "team": "Bilibili Gaming Junior",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/CFOA_Zkai_2026_Split_2.png",
+  "player": "Zkai",
+  "player_id": "Zkai",
+  "role": "Top",
+  "slug": "zkai",
+  "source": "roster",
+  "team": "CTBC Flying Oyster Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Yuhe",
+  "player_id": "Yuhe",
+  "role": "Mid",
+  "slug": "yuhe",
+  "source": "roster",
+  "team": "CTBC Flying Oyster Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/CFOA_Tracy_2026_Split_2.png",
+  "player": "Tracy (Lin Hong-Lin)",
+  "player_id": "Tracy",
+  "role": "Bot",
+  "slug": "tracy",
+  "source": "roster",
+  "team": "CTBC Flying Oyster Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/CFO_2274_2026_Split_1.png",
+  "player": "2274",
+  "player_id": "2274",
+  "role": "Support",
+  "slug": "2274",
+  "source": "roster",
+  "team": "CTBC Flying Oyster Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Horder",
+  "player_id": "Horder",
+  "role": "Top",
+  "slug": null,
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Music (Sean Wishko)",
+  "player_id": "Music",
+  "role": "Jungle",
+  "slug": "music",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/FxS_Ablazeolive_AC_2024.png",
+  "player": "Ablazeolive",
+  "player_id": "Ablazeolive",
+  "role": "Mid",
+  "slug": "ablazeolive",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/DIG_Mobility_2026_Split_1.png",
+  "player": "Mobility",
+  "player_id": "Mobility",
+  "role": "Bot",
+  "slug": "mobility",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c4/DIG_Breezy_2026_Split_1.png",
+  "player": "Breezy",
+  "player_id": "Breezy",
+  "role": "Support",
+  "slug": "breezy",
+  "source": "roster",
+  "team": "Cupid Esports",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/DNS.C_Lancer_2026_Split_1.png",
+  "player": "Lancer",
+  "player_id": "Lancer",
+  "role": "Top",
+  "slug": "lancer",
+  "source": "roster",
+  "team": "DN SOOPers Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/99/DNS.C_DDoiV_2026_Split_1.png",
+  "player": "DDoiV",
+  "player_id": "DDoiV",
+  "role": "Jungle",
+  "slug": "ddoiv",
+  "source": "roster",
+  "team": "DN SOOPers Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Flip (Kim Sang-wook)",
+  "player_id": "Flip (Kim Sang-wook)",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "DN SOOPers Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/DNS.C_Enosh_2026_Split_1.png",
+  "player": "Enosh",
+  "player_id": "Enosh",
+  "role": "Bot",
+  "slug": "enosh",
+  "source": "roster",
+  "team": "DN SOOPers Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/DNS.C_Quantum_2026_Split_1.png",
+  "player": "Quantum (Son Jeong-hwan)",
+  "player_id": "Quantum",
+  "role": "Support",
+  "slug": "quantum",
+  "source": "roster",
+  "team": "DN SOOPers Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bf/DK.C_Jaehyuk_2026_Split_1.png",
+  "player": "Jaehyuk",
+  "player_id": "Jaehyuk",
+  "role": "Top",
+  "slug": "jaehyuk",
+  "source": "roster",
+  "team": "Dplus Kia Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Solid (Nam Hyeon-seo)",
+  "player_id": "Solid (Nam Hyeon-seo)",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "Dplus Kia Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/DK.C_Garden_2026_Split_1.png",
+  "player": "Garden (Seol Jeong-won)",
+  "player_id": "Garden",
+  "role": "Mid",
+  "slug": "garden",
+  "source": "roster",
+  "team": "Dplus Kia Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/DK.C_Wayne_2026_Split_1.png",
+  "player": "Wayne (Hwang Seo-hyeon)",
+  "player_id": "Wayne",
+  "role": "Bot",
+  "slug": "wayne",
+  "source": "roster",
+  "team": "Dplus Kia Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/DK.C_Loopy_2026_Split_1.png",
+  "player": "Loopy",
+  "player_id": "Loopy",
+  "role": "Support",
+  "slug": "loopy",
+  "source": "roster",
+  "team": "Dplus Kia Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Hui (Xu Da)",
+  "player_id": "hui",
+  "role": "Top",
+  "slug": "hui-2",
+  "source": "roster",
+  "team": "EDward Gaming Youth Team",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/13Day.png",
+  "player": "13day",
+  "player_id": "13day",
+  "role": "Jungle",
+  "slug": "13day",
+  "source": "roster",
+  "team": "EDward Gaming Youth Team",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Wild (Yang Jia-Le)",
+  "player_id": "wild",
+  "role": "Mid",
+  "slug": "wild",
+  "source": "roster",
+  "team": "EDward Gaming Youth Team",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Linn",
+  "player_id": "linn",
+  "role": "Bot",
+  "slug": "linn",
+  "source": "roster",
+  "team": "EDward Gaming Youth Team",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/EDG.Y_Jerry_2025_Split_3.png",
+  "player": "Jerry (Zhou Ke-Xue)",
+  "player_id": "Jerry",
+  "role": "Support",
+  "slug": "jerry",
+  "source": "roster",
+  "team": "EDward Gaming Youth Team",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Kkkkkkkkk",
+  "player_id": "kkkkkkkkk",
+  "role": "Top",
+  "slug": "kkkkkkkkk",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/FL_Ellim_2026_Split_1.png",
+  "player": "Ellim",
+  "player_id": "Ellim",
+  "role": "Jungle",
+  "slug": "ellim",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/FL_DICE_2026_Split_1.png",
+  "player": "DICE (Hong Do-hyeon)",
+  "player_id": "DICE",
+  "role": "Mid",
+  "slug": "dice",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/FL_MayR_2026_Split_3.png",
+  "player": "MayR",
+  "player_id": "MayR",
+  "role": "Bot",
+  "slug": "mayr",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/08/FL_Bruce_2026_Split_1.png",
+  "player": "Bruce (Bruce Scott)",
+  "player_id": "Bruce",
+  "role": "Support",
+  "slug": "bruce-2",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/SDM_Jauny_2026_Split_1.png",
+  "player": "Jauny",
+  "player_id": "Jauny",
+  "role": "Top",
+  "slug": "jauny",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/AK_Grell_2024_Opening.png",
+  "player": "Grell",
+  "player_id": "Grell",
+  "role": "Jungle",
+  "slug": "grell",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/SDM_Skyy_2026_Split_1.png",
+  "player": "Skyy",
+  "player_id": "Skyy",
+  "role": "Mid",
+  "slug": "skyy",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/33/LEV_Snaker_2026_Split_1.png",
+  "player": "Snaker",
+  "player_id": "Snaker",
+  "role": "Bot",
+  "slug": "snaker",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/FUE_Ichiwin_2023_Closing.png",
+  "player": "Ichiwin",
+  "player_id": "Ichiwin",
+  "role": "Support",
+  "slug": "ichiwin",
+  "source": "roster",
+  "team": "Fuego",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/GL_Carlsen_2026_Split_1.png",
+  "player": "Carlsen",
+  "player_id": "Carlsen",
+  "role": "Top",
+  "slug": "carlsen",
+  "source": "roster",
+  "team": "Galions",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/GL_Thayger_2026_Split_1.png",
+  "player": "Thayger",
+  "player_id": "Thayger",
+  "role": "Jungle",
+  "slug": "thayger",
+  "source": "roster",
+  "team": "Galions",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "OMON",
+  "player_id": "OMON",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "Galions",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "HARPOON",
+  "player_id": "HARPOON",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "Galions",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/GL_Zoelys_2026_Split_1.png",
+  "player": "Zoelys",
+  "player_id": "Zoelys",
+  "role": "Support",
+  "slug": "zoelys",
+  "source": "roster",
+  "team": "Galions",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/39/KT.C_Sero_2026_Split_1.png",
+  "player": "Sero",
+  "player_id": "Sero",
+  "role": "Top",
+  "slug": "sero",
+  "source": "roster",
+  "team": "KT Rolster Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/KT.C_Sylvie_2026_Split_1.png",
+  "player": "Sylvie",
+  "player_id": "Sylvie",
+  "role": "Jungle",
+  "slug": "sylvie",
+  "source": "roster",
+  "team": "KT Rolster Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/KT.C_Hwichan_2026_Split_1.png",
+  "player": "Hwichan",
+  "player_id": "Hwichan",
+  "role": "Mid",
+  "slug": "hwichan",
+  "source": "roster",
+  "team": "KT Rolster Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dd/KT.C_FenRir_2026_Split_1.png",
+  "player": "FenRir (Park Kang-jun)",
+  "player_id": "FenRir",
+  "role": "Bot",
+  "slug": "fenrir",
+  "source": "roster",
+  "team": "KT Rolster Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/KT_Pollu_2026_Split_1.png",
+  "player": "Pollu",
+  "player_id": "Pollu",
+  "role": "Support",
+  "slug": "pollu",
+  "source": "roster",
+  "team": "KT Rolster Challengers",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "NightSlayer",
+  "player_id": "NightSlayer",
+  "role": "Top",
+  "slug": null,
+  "source": "roster",
+  "team": "Movistar KOI Fénix",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/43/BGT_XnS_2024_Split_2.png",
+  "player": "XnS",
+  "player_id": "XnS",
+  "role": "Jungle",
+  "slug": "xns",
+  "source": "roster",
+  "team": "Movistar KOI Fénix",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/MKF_Fresskowy_2026_Split_2.webp",
+  "player": "Fresskowy",
+  "player_id": "Fresskowy",
+  "role": "Mid",
+  "slug": "fresskowy",
+  "source": "roster",
+  "team": "Movistar KOI Fénix",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "13",
+  "player_id": "13",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "Movistar KOI Fénix",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/MKF_Myrtus_2026_Split_2.webp",
+  "player": "Myrtus",
+  "player_id": "Myrtus",
+  "role": "Support",
+  "slug": "myrtus",
+  "source": "roster",
+  "team": "Movistar KOI Fénix",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
+  "player": "Nern",
+  "player_id": "Nern",
+  "role": "Top",
+  "slug": "nern",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "J1n5",
+  "player_id": "j1n5",
+  "role": "Jungle",
+  "slug": "j1n5",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SGW_AisyL_VCS_2026_Spring_Playoffs.png",
+  "player": "AisyL",
+  "player_id": "AisyL",
+  "role": "Mid",
+  "slug": "aisyl",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/DINO_Aomine_VCS_2025_Finals.png",
+  "player": "Aomine",
+  "player_id": "Aomine",
+  "role": "Bot",
+  "slug": "aomine",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
+  "player": "Elio",
+  "player_id": "Elio",
+  "role": "Support",
+  "slug": "elio",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/SLY_Kryze_2025_Split_2.png",
+  "player": "Kryze",
+  "player_id": "Kryze",
+  "role": "Top",
+  "slug": "kryze",
+  "source": "roster",
+  "team": "Solary",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Zicssi",
+  "player_id": "Zicssi",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "Solary",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/LOUD_Jool_2025_Split_3.png",
+  "player": "Jool",
+  "player_id": "Jool",
+  "role": "Mid",
+  "slug": "jool",
+  "source": "roster",
+  "team": "Solary",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Aetinoth",
+  "player_id": "Aetinoth",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "Solary",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Piero (Kim Jung-hun)",
+  "player_id": "Piero (Kim Jung-hun)",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "Solary",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/T1.EA_Haetae_2026_Split_1.png",
+  "player": "Haetae",
+  "player_id": "Haetae",
+  "role": "Top",
+  "slug": "haetae",
+  "source": "roster",
+  "team": "T1 Esports Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/21/T1.EA_Painter_2026_Split_1.png",
+  "player": "Painter",
+  "player_id": "Painter",
+  "role": "Jungle",
+  "slug": "painter",
+  "source": "roster",
+  "team": "T1 Esports Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/T1.EA_Guti_2026_Split_1.png",
+  "player": "Guti (Moon Jeong-hwan)",
+  "player_id": "Guti",
+  "role": "Mid",
+  "slug": "guti",
+  "source": "roster",
+  "team": "T1 Esports Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Eclipse (Kim Min-jun)",
+  "player_id": "Eclipse (Kim Min-jun)",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "T1 Esports Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/T1.EA_Cloud_2026_Split_1.png",
+  "player": "Cloud (Moon Hyeon-ho)",
+  "player_id": "Cloud",
+  "role": "Support",
+  "slug": "cloud",
+  "source": "roster",
+  "team": "T1 Esports Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/42/EST_SuperCleber_2026_Split_1.png",
+  "player": "SuperCleber",
+  "player_id": "SuperCleber",
+  "role": "Top",
+  "slug": "supercleber",
+  "source": "roster",
+  "team": "Vivo Keyd Stars Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/VKS_Sarolu_2026_Split_1.png",
+  "player": "Sarolu",
+  "player_id": "sarolu",
+  "role": "Jungle",
+  "slug": "sarolu",
+  "source": "roster",
+  "team": "Vivo Keyd Stars Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c3/VKS_Qats_2026_Split_2.png",
+  "player": "Qats",
+  "player_id": "Qats",
+  "role": "Mid",
+  "slug": "qats",
+  "source": "roster",
+  "team": "Vivo Keyd Stars Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Buero",
+  "player_id": "Buero",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "Vivo Keyd Stars Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Zay",
+  "player_id": "zay",
+  "role": "Support",
+  "slug": "zay",
+  "source": "roster",
+  "team": "Vivo Keyd Stars Academy",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Zs",
+  "player_id": "zs",
+  "role": "Top",
+  "slug": "zs",
+  "source": "roster",
+  "team": "ZSK (Chinese Team)",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "Sorrow (Li De-Ming)",
+  "player_id": "sorrow",
+  "role": "Jungle",
+  "slug": "sorrow",
+  "source": "roster",
+  "team": "ZSK (Chinese Team)",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/FPB_Qing_2024_Split_1.png",
+  "player": "Qing",
+  "player_id": "Qing",
+  "role": "Mid",
+  "slug": "qing",
+  "source": "roster",
+  "team": "ZSK (Chinese Team)",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/08/FPX_Xingye_2024_Split_2.png",
+  "player": "Xingye",
+  "player_id": "Xingye",
+  "role": "Bot",
+  "slug": "xingye",
+  "source": "roster",
+  "team": "ZSK (Chinese Team)",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
+  "image": null,
+  "player": "wunai3",
+  "player_id": "wunai3",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "ZSK (Chinese Team)",
+  "tournament": "2026 World Star Challengers Invitational"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/FUR_Guigo_2026_Split_2.png",
   "player": "Guigo",
   "player_id": "Guigo",

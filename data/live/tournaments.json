@@ -173,6 +173,21 @@
  {
   "games": 0,
   "is_playoffs": false,
+  "league": "World Star Challengers Invitational",
+  "league_logo": null,
+  "league_short": "World Star Challengers Invitational",
+  "name": "World Star Challengers Invitational 2026",
+  "overview_page": "2026 World Star Challengers Invitational",
+  "patches": [],
+  "region": "international",
+  "region_label": "International",
+  "slug": "2026-world-star-challengers-invitational",
+  "split": "",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
   "league": "World Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
   "league_short": "WCS",
@@ -385,14 +400,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 4,
   "is_playoffs": false,
   "league": "World Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
   "league_short": "WCS",
   "name": "LPL 2026 Regional Finals",
   "overview_page": "LPL/2026 Season/Regional Finals",
-  "patches": [],
+  "patches": [
+   "26.17"
+  ],
   "region": null,
   "region_label": "China",
   "slug": "lpl-2026-season-regional-finals",
