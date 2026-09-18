@@ -8817,16 +8817,16 @@
    "short": "WE",
    "slug": "team-we"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
    "name": "JD Gaming",
    "short": "JDG",
    "slug": "jd-gaming"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LPL/2026 Season/Regional Finals",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8844,16 +8844,16 @@
    "short": "NAVI",
    "slug": "natus-vincere"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
    "name": "Movistar KOI",
    "short": "MKOI",
    "slug": "movistar-koi"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LEC/2026 Season/Summer Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -8927,10 +8927,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
   },
   "team2_score": null,
   "tournament": "LPL/2026 Season/Regional Finals",
@@ -9008,10 +9008,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
   },
   "team2_score": null,
   "tournament": "LEC/2026 Season/Summer Playoffs",
@@ -9078,7 +9078,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_1",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9105,7 +9105,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_2",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9132,7 +9132,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_3",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9159,7 +9159,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_4",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9240,7 +9240,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_5",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9267,7 +9267,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_6",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9294,7 +9294,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_7",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9348,7 +9348,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 1_8",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 1",
   "team1": {
@@ -9456,7 +9456,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_1",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9483,7 +9483,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_2",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9510,7 +9510,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_3",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9537,7 +9537,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_4",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9564,7 +9564,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_5",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9591,7 +9591,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_6",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9618,7 +9618,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_7",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9645,7 +9645,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 2_8",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 2",
   "team1": {
@@ -9672,7 +9672,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_1",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9699,7 +9699,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_2",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9726,7 +9726,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_3",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9753,7 +9753,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_4",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9780,7 +9780,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_5",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9807,7 +9807,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_6",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9834,7 +9834,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_7",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9861,7 +9861,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 3_8",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 3",
   "team1": {
@@ -9888,7 +9888,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_1",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -9915,7 +9915,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_2",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -9942,7 +9942,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_3",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -9969,7 +9969,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_4",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -9996,7 +9996,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_5",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -10023,7 +10023,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_6",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -10050,7 +10050,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_7",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -10077,7 +10077,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 4_8",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 4",
   "team1": {
@@ -10104,7 +10104,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_1",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10131,7 +10131,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_2",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10158,7 +10158,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_3",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10185,7 +10185,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_4",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10212,7 +10212,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_5",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10239,7 +10239,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_6",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10266,7 +10266,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_7",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10293,7 +10293,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 5_8",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 5",
   "team1": {
@@ -10320,7 +10320,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_1",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {
@@ -10347,7 +10347,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_2",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {
@@ -10374,7 +10374,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_3",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {
@@ -10401,7 +10401,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_4",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {
@@ -10428,7 +10428,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_5",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {
@@ -10455,7 +10455,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_6",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {
@@ -10482,7 +10482,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_7",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {
@@ -10509,7 +10509,7 @@
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_8",
   "patch": null,
-  "phase": null,
+  "phase": "Group Stage",
   "round": null,
   "tab": "Day 6",
   "team1": {

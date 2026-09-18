@@ -169,26 +169,6 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/TBD_5logo_square.png",
-   "name": "TBD 5",
-   "short": null,
-   "slug": null
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 10,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/97/TBD_7logo_square.png",
    "name": "TBD 7",
    "short": null,
@@ -200,7 +180,7 @@
   "win_series": 0
  },
  {
-  "group": 11,
+  "group": 10,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -220,7 +200,7 @@
   "win_series": 0
  },
  {
-  "group": 12,
+  "group": 11,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -233,6 +213,26 @@
    "name": "Team Vitality",
    "short": "VIT",
    "slug": "team-vitality"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 12,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",

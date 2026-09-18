@@ -250,6 +250,56 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/NAVI_Maynter_2026_Split_3.png",
+  "player": "Maynter",
+  "player_id": "Maynter",
+  "role": "Top",
+  "slug": "maynter",
+  "source": "roster",
+  "team": "Natus Vincere",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/NAVI_Rhilech_2026_Split_3.png",
+  "player": "Rhilech",
+  "player_id": "Rhilech",
+  "role": "Jungle",
+  "slug": "rhilech",
+  "source": "roster",
+  "team": "Natus Vincere",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/NAVI_Poby_2026_Split_3.png",
+  "player": "Poby",
+  "player_id": "Poby",
+  "role": "Mid",
+  "slug": "poby",
+  "source": "roster",
+  "team": "Natus Vincere",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/60/NAVI_SamD_2026_Split_3.png",
+  "player": "SamD",
+  "player_id": "SamD",
+  "role": "Bot",
+  "slug": "samd",
+  "source": "roster",
+  "team": "Natus Vincere",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2a/NAVI_Parus_2026_Split_3.png",
+  "player": "Parus",
+  "player_id": "Parus",
+  "role": "Support",
+  "slug": "parus",
+  "source": "roster",
+  "team": "Natus Vincere",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/VIT_Naak_Nako_2026_Split_3.png",
   "player": "Naak Nako",
   "player_id": "Naak Nako",
@@ -297,6 +347,56 @@
   "slug": "fleshy",
   "source": "roster",
   "team": "Team Vitality",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/WE_Cube_2026_Split_1.png",
+  "player": "Cube (Dai Yi)",
+  "player_id": "Cube",
+  "role": "Top",
+  "slug": "cube",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/WE_Monki_2026_Split_1.png",
+  "player": "Monki",
+  "player_id": "Monki",
+  "role": "Jungle",
+  "slug": "monki",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/WE_Karis_2026_Split_1.png",
+  "player": "Karis",
+  "player_id": "Karis",
+  "role": "Mid",
+  "slug": "karis",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/WE_About_2026_Split_1.png",
+  "player": "About",
+  "player_id": "About",
+  "role": "Bot",
+  "slug": "about",
+  "source": "roster",
+  "team": "Team WE",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/WE_Erha_2026_Split_2.png",
+  "player": "Erha",
+  "player_id": "Erha",
+  "role": "Support",
+  "slug": "erha",
+  "source": "roster",
+  "team": "Team WE",
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
