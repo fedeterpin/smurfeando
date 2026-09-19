@@ -8208,5 +8208,105 @@
   "source": "roster",
   "team": "Saigon Warriors",
   "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/DINO_Sparda_VCS_2025_Finals.png",
+  "player": "Sparda",
+  "player_id": "Sparda",
+  "role": "Top",
+  "slug": "sparda",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": null,
+  "player": "Rikk",
+  "player_id": "Rikk",
+  "role": "Jungle",
+  "slug": "rikk",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/SCBC_Vin_VCS_2026_Summer.png",
+  "player": "Vin (Trần Hoài Vinh)",
+  "player_id": "Vin",
+  "role": "Mid",
+  "slug": "vin",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/GAM_Pyshiro_2024_Split_1.png",
+  "player": "Pyshiro",
+  "player_id": "Pyshiro",
+  "role": "Bot",
+  "slug": "pyshiro",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/VKE_Kairi_2024_Split_1.png",
+  "player": "Kairi",
+  "player_id": "kairi",
+  "role": "Support",
+  "slug": "kairi",
+  "source": "roster",
+  "team": "SN CyberCore Esports",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
+  "player": "Nern",
+  "player_id": "Nern",
+  "role": "Top",
+  "slug": "nern",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": null,
+  "player": "Salvaje",
+  "player_id": "Salvaje",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SGW_AisyL_VCS_2026_Spring_Playoffs.png",
+  "player": "AisyL",
+  "player_id": "AisyL",
+  "role": "Mid",
+  "slug": "aisyl",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/DINO_Aomine_VCS_2025_Finals.png",
+  "player": "Aomine",
+  "player_id": "Aomine",
+  "role": "Bot",
+  "slug": "aomine",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
+  "player": "Elio",
+  "player_id": "Elio",
+  "role": "Support",
+  "slug": "elio",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
  }
 ]

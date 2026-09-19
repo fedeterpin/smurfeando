@@ -294,7 +294,7 @@
   "year": "2026"
  },
  {
-  "games": 6,
+  "games": 11,
   "is_playoffs": true,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
@@ -396,6 +396,21 @@
   "region": "vietnam",
   "region_label": "Vietnam",
   "slug": "vcs-2026-season-finals-stage-1",
+  "split": "Finals",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": true,
+  "league": "Vietnam Championship Series",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",
+  "league_short": "VCS",
+  "name": "VCS 2026 Finals Stage 2",
+  "overview_page": "VCS/2026 Season/Finals Stage 2",
+  "patches": [],
+  "region": "vietnam",
+  "region_label": "Vietnam",
+  "slug": "vcs-2026-season-finals-stage-2",
   "split": "Finals",
   "year": "2026"
  },
