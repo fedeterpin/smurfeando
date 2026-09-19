@@ -400,6 +400,56 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/KC_Canna_2026_Split_2.png",
+  "player": "Canna",
+  "player_id": "Canna",
+  "role": "Top",
+  "slug": "canna",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/KC_Yike_2026_Split_2.png",
+  "player": "Yike",
+  "player_id": "Yike",
+  "role": "Jungle",
+  "slug": "yike",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": null,
+  "player": "Kyeahoo",
+  "player_id": "kyeahoo",
+  "role": "Mid",
+  "slug": "kyeahoo",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/KC_Caliste_2026_Split_2.png",
+  "player": "Caliste",
+  "player_id": "Caliste",
+  "role": "Bot",
+  "slug": "caliste",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/KC_Busio_2026_Split_2.png",
+  "player": "Busio",
+  "player_id": "Busio",
+  "role": "Support",
+  "slug": "busio",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/MVK_Kratos_2026_Split_1.png",
   "player": "Kratos (Ngô Đức Khánh)",
   "player_id": "Kratos",
@@ -8208,6 +8258,56 @@
   "source": "roster",
   "team": "Saigon Warriors",
   "tournament": "VCS/2026 Season/Finals Stage 1"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/MVK_Stellar_2026_Split_2.png",
+  "player": "Steller",
+  "player_id": "Steller",
+  "role": "Top",
+  "slug": "steller",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/MVK_NPC_2026_Split_2.png",
+  "player": "NPC",
+  "player_id": "NPC",
+  "role": "Jungle",
+  "slug": "npc",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/MVK_Seany_2026_Split_2.png",
+  "player": "Seany",
+  "player_id": "Seany",
+  "role": "Mid",
+  "slug": "seany",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/9G_Nuna_VCS_2026_Spring_Playoffs.png",
+  "player": "Nuna",
+  "player_id": "Nuna",
+  "role": "Bot",
+  "slug": "nuna",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/20/MVKA_Callian_VCS_2026_Spring_Playoffs.png",
+  "player": "Callian",
+  "player_id": "Callian",
+  "role": "Support",
+  "slug": "callian",
+  "source": "roster",
+  "team": "MVK Esports Academy",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/DINO_Sparda_VCS_2025_Finals.png",
