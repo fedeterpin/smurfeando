@@ -8260,6 +8260,56 @@
   "tournament": "VCS/2026 Season/Finals Stage 1"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/MVKE_Hasmed_2025_Split_1.png",
+  "player": "Hasmed",
+  "player_id": "Hasmed",
+  "role": "Top",
+  "slug": "hasmed",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f4/ZEN_Esports_SCP_VCS_Summer_2026.png",
+  "player": "SCP",
+  "player_id": "SCP",
+  "role": "Jungle",
+  "slug": "scp",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/ZEN_Esports_Gia_Qui_VCS_Summer_2026.png",
+  "player": "GiaQui",
+  "player_id": "GiaQui",
+  "role": "Mid",
+  "slug": "giaqui",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/ZEN_Esports_Charlington_VCS_Summer_2026.png",
+  "player": "Charlington",
+  "player_id": "Charlington",
+  "role": "Bot",
+  "slug": "charlington",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/ZEN_Esports_Zin_VCS_Summer_2026.png",
+  "player": "Zin",
+  "player_id": "Zin",
+  "role": "Support",
+  "slug": "zin",
+  "source": "roster",
+  "team": "9Gaming",
+  "tournament": "VCS/2026 Season/Finals Stage 2"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/MVK_Stellar_2026_Split_2.png",
   "player": "Steller",
   "player_id": "Steller",
