@@ -20,7 +20,7 @@
   "year": "2026"
  },
  {
-  "games": 15,
+  "games": 18,
   "is_playoffs": true,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -173,14 +173,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 4,
   "is_playoffs": false,
   "league": "World Star Challengers Invitational",
   "league_logo": null,
   "league_short": "World Star Challengers Invitational",
   "name": "World Star Challengers Invitational 2026",
   "overview_page": "2026 World Star Challengers Invitational",
-  "patches": [],
+  "patches": [
+   "26.18"
+  ],
   "region": "international",
   "region_label": "International",
   "slug": "2026-world-star-challengers-invitational",
@@ -296,7 +298,7 @@
   "year": "2026"
  },
  {
-  "games": 11,
+  "games": 15,
   "is_playoffs": true,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",

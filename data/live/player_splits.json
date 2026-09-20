@@ -1,5 +1,1325 @@
 [
  {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.97,
+  "deaths": 4,
+  "dpm": 822.3,
+  "games": 1,
+  "gpm": 474.5,
+  "image": null,
+  "kda": 4.0,
+  "kills": 6,
+  "kp": 0.8,
+  "losses": 0,
+  "minutes": 26.6,
+  "player": "13",
+  "player_id": "13",
+  "role": "Bot",
+  "slug": null,
+  "team": "Movistar KOI Fénix",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.09,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 20,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.22,
+  "deaths": 1,
+  "dpm": 572.8,
+  "games": 1,
+  "gpm": 472.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/13Day.png",
+  "kda": 27.0,
+  "kills": 7,
+  "kp": 0.9643,
+  "losses": 0,
+  "minutes": 30.4,
+  "player": "13day",
+  "player_id": "13day",
+  "role": "Jungle",
+  "slug": "13day",
+  "team": "EDward Gaming Youth Team",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+  "team_short": "EDG.Y",
+  "team_slug": "edward-gaming-youth-team",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.48,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 9,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 0.98,
+  "deaths": 2,
+  "dpm": 221.2,
+  "games": 1,
+  "gpm": 265.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/CFO_2274_2026_Split_1.png",
+  "kda": 5.0,
+  "kills": 1,
+  "kp": 0.9091,
+  "losses": 1,
+  "minutes": 26.6,
+  "player": "2274",
+  "player_id": "2274",
+  "role": "Support",
+  "slug": "2274",
+  "team": "CTBC Flying Oyster Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+  "team_short": "CFOA",
+  "team_slug": "ctbc-flying-oyster-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 3.46,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 1,
+  "champions": [
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 11.65,
+  "deaths": 1,
+  "dpm": 655.4,
+  "games": 1,
+  "gpm": 527.7,
+  "image": null,
+  "kda": 7.0,
+  "kills": 6,
+  "kp": 0.4667,
+  "losses": 1,
+  "minutes": 33.8,
+  "player": "Chesterbb",
+  "player_id": "chesterbb",
+  "role": "Bot",
+  "slug": "chesterbb",
+  "team": "Bilibili Gaming Junior",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+  "team_short": "BLG.J",
+  "team_slug": "bilibili-gaming-junior",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.36,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.35,
+  "deaths": 8,
+  "dpm": 377.8,
+  "games": 1,
+  "gpm": 293.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/T1.EA_Cloud_2026_Split_1.png",
+  "kda": 1.0,
+  "kills": 3,
+  "kp": 0.7273,
+  "losses": 1,
+  "minutes": 30.4,
+  "player": "Cloud (Moon Hyeon-ho)",
+  "player_id": "Cloud",
+  "role": "Support",
+  "slug": "cloud",
+  "team": "T1 Esports Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1.EA",
+  "team_slug": "t1-esports-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 5.23,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 11,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.62,
+  "deaths": 0,
+  "dpm": 447.0,
+  "games": 1,
+  "gpm": 403.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/99/DNS.C_DDoiV_2026_Split_1.png",
+  "kda": 12.0,
+  "kills": 1,
+  "kp": 0.8571,
+  "losses": 0,
+  "minutes": 20.8,
+  "player": "DDoiV",
+  "player_id": "DDoiV",
+  "role": "Jungle",
+  "slug": "ddoiv",
+  "team": "DN SOOPers Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+  "team_short": "DNS.C",
+  "team_slug": "dn-soopers-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.15,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 3,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.22,
+  "deaths": 6,
+  "dpm": 555.4,
+  "games": 1,
+  "gpm": 432.9,
+  "image": null,
+  "kda": 0.83,
+  "kills": 2,
+  "kp": 0.4545,
+  "losses": 1,
+  "minutes": 30.4,
+  "player": "Eclipse (Kim Min-jun)",
+  "player_id": "Eclipse",
+  "role": "Bot",
+  "slug": null,
+  "team": "T1 Esports Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1.EA",
+  "team_slug": "t1-esports-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.25,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.62,
+  "deaths": 4,
+  "dpm": 886.2,
+  "games": 1,
+  "gpm": 467.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dd/KT.C_FenRir_2026_Split_1.png",
+  "kda": 1.75,
+  "kills": 2,
+  "kp": 0.4118,
+  "losses": 0,
+  "minutes": 33.8,
+  "player": "FenRir (Park Kang-jun)",
+  "player_id": "FenRir",
+  "role": "Bot",
+  "slug": "fenrir",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 2.04,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 4,
+  "champions": [
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.02,
+  "deaths": 3,
+  "dpm": 770.1,
+  "games": 1,
+  "gpm": 437.8,
+  "image": null,
+  "kda": 3.33,
+  "kills": 6,
+  "kp": 0.7143,
+  "losses": 0,
+  "minutes": 20.8,
+  "player": "Flip (Kim Sang-wook)",
+  "player_id": "Flip",
+  "role": "Mid",
+  "slug": null,
+  "team": "DN SOOPers Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+  "team_short": "DNS.C",
+  "team_slug": "dn-soopers-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.15,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 9,
+  "champions": [
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.92,
+  "deaths": 0,
+  "dpm": 1120.3,
+  "games": 1,
+  "gpm": 437.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/MKF_Fresskowy_2026_Split_2.webp",
+  "kda": 13.0,
+  "kills": 4,
+  "kp": 0.65,
+  "losses": 0,
+  "minutes": 26.6,
+  "player": "Fresskowy",
+  "player_id": "Fresskowy",
+  "role": "Mid",
+  "slug": "fresskowy",
+  "team": "Movistar KOI Fénix",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.02,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 1,
+  "champions": [
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.82,
+  "deaths": 4,
+  "dpm": 250.8,
+  "games": 1,
+  "gpm": 395.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/AK_Grell_2024_Opening.png",
+  "kda": 0.75,
+  "kills": 2,
+  "kp": 1.0,
+  "losses": 1,
+  "minutes": 20.8,
+  "player": "Grell",
+  "player_id": "Grell",
+  "role": "Jungle",
+  "slug": "grell",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.1,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 4,
+  "champions": [
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.85,
+  "deaths": 4,
+  "dpm": 767.2,
+  "games": 1,
+  "gpm": 351.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/T1.EA_Guti_2026_Split_1.png",
+  "kda": 1.25,
+  "kills": 1,
+  "kp": 0.4545,
+  "losses": 1,
+  "minutes": 30.4,
+  "player": "Guti (Moon Jeong-hwan)",
+  "player_id": "Guti",
+  "role": "Mid",
+  "slug": "guti",
+  "team": "T1 Esports Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1.EA",
+  "team_slug": "t1-esports-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.35,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 4,
+  "champions": [
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.39,
+  "deaths": 3,
+  "dpm": 444.5,
+  "games": 1,
+  "gpm": 373.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/T1.EA_Haetae_2026_Split_1.png",
+  "kda": 2.0,
+  "kills": 2,
+  "kp": 0.5455,
+  "losses": 1,
+  "minutes": 30.4,
+  "player": "Haetae",
+  "player_id": "Haetae",
+  "role": "Top",
+  "slug": "haetae",
+  "team": "T1 Esports Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1.EA",
+  "team_slug": "t1-esports-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.02,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 9,
+  "champions": [
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.6,
+  "deaths": 3,
+  "dpm": 608.0,
+  "games": 1,
+  "gpm": 384.3,
+  "image": null,
+  "kda": 4.67,
+  "kills": 5,
+  "kp": 0.5,
+  "losses": 0,
+  "minutes": 30.4,
+  "player": "Hui (Xu Da)",
+  "player_id": "hui",
+  "role": "Top",
+  "slug": "hui-2",
+  "team": "EDward Gaming Youth Team",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+  "team_short": "EDG.Y",
+  "team_slug": "edward-gaming-youth-team",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.35,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.37,
+  "deaths": 4,
+  "dpm": 571.9,
+  "games": 1,
+  "gpm": 414.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/KT.C_Hwichan_2026_Split_1.png",
+  "kda": 2.25,
+  "kills": 4,
+  "kp": 0.5294,
+  "losses": 0,
+  "minutes": 33.8,
+  "player": "Hwichan",
+  "player_id": "Hwichan",
+  "role": "Mid",
+  "slug": "hwichan",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.45,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 0,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.25,
+  "deaths": 3,
+  "dpm": 147.2,
+  "games": 1,
+  "gpm": 245.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/FUE_Ichiwin_2023_Closing.png",
+  "kda": 0.33,
+  "kills": 1,
+  "kp": 0.3333,
+  "losses": 1,
+  "minutes": 20.8,
+  "player": "Ichiwin",
+  "player_id": "Ichiwin",
+  "role": "Support",
+  "slug": "ichiwin",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 2.06,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 0,
+  "champions": [
+   {
+    "champion": "Yorick",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.59,
+  "deaths": 1,
+  "dpm": 330.8,
+  "games": 1,
+  "gpm": 368.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/SDM_Jauny_2026_Split_1.png",
+  "kda": 0.0,
+  "kills": 0,
+  "kp": 0.0,
+  "losses": 1,
+  "minutes": 20.8,
+  "player": "Jauny",
+  "player_id": "Jauny",
+  "role": "Top",
+  "slug": "jauny",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.39,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 21,
+  "champions": [
+   {
+    "champion": "Leona",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.55,
+  "deaths": 3,
+  "dpm": 173.5,
+  "games": 1,
+  "gpm": 292.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/EDG.Y_Jerry_2025_Split_3.png",
+  "kda": 7.0,
+  "kills": 0,
+  "kp": 0.75,
+  "losses": 0,
+  "minutes": 30.4,
+  "player": "Jerry (Zhou Ke-Xue)",
+  "player_id": "Jerry",
+  "role": "Support",
+  "slug": "jerry",
+  "team": "EDward Gaming Youth Team",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+  "team_short": "EDG.Y",
+  "team_slug": "edward-gaming-youth-team",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 4.97,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 3,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.37,
+  "deaths": 0,
+  "dpm": 641.1,
+  "games": 1,
+  "gpm": 465.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/73/DNS.C_Lancer_2026_Split_1.png",
+  "kda": 4.0,
+  "kills": 1,
+  "kp": 0.2857,
+  "losses": 0,
+  "minutes": 20.8,
+  "player": "Lancer",
+  "player_id": "Lancer",
+  "role": "Top",
+  "slug": "lancer",
+  "team": "DN SOOPers Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+  "team_short": "DNS.C",
+  "team_slug": "dn-soopers-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.58,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 8,
+  "champions": [
+   {
+    "champion": "Maokai",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 5.86,
+  "deaths": 7,
+  "dpm": 589.2,
+  "games": 1,
+  "gpm": 344.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/CFOA_Leaky_2026_Split_2.png",
+  "kda": 1.29,
+  "kills": 1,
+  "kp": 0.8182,
+  "losses": 1,
+  "minutes": 26.6,
+  "player": "Leaky",
+  "player_id": "Leaky",
+  "role": "Jungle",
+  "slug": "leaky",
+  "team": "CTBC Flying Oyster Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+  "team_short": "CFOA",
+  "team_slug": "ctbc-flying-oyster-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.47,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 4,
+  "champions": [
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.58,
+  "deaths": 5,
+  "dpm": 756.6,
+  "games": 1,
+  "gpm": 366.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/UP_Liangchen_2026_Split_1.png",
+  "kda": 1.4,
+  "kills": 3,
+  "kp": 0.4667,
+  "losses": 1,
+  "minutes": 33.8,
+  "player": "Liangchen",
+  "player_id": "Liangchen",
+  "role": "Top",
+  "slug": "liangchen",
+  "team": "Bilibili Gaming Junior",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+  "team_short": "BLG.J",
+  "team_slug": "bilibili-gaming-junior",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.21,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Corki",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.53,
+  "deaths": 2,
+  "dpm": 638.3,
+  "games": 1,
+  "gpm": 586.7,
+  "image": null,
+  "kda": 10.0,
+  "kills": 10,
+  "kp": 0.7143,
+  "losses": 0,
+  "minutes": 30.4,
+  "player": "Linn",
+  "player_id": "linn",
+  "role": "Bot",
+  "slug": "linn",
+  "team": "EDward Gaming Youth Team",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+  "team_short": "EDG.Y",
+  "team_slug": "edward-gaming-youth-team",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.71,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 3,
+  "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.24,
+  "deaths": 5,
+  "dpm": 444.7,
+  "games": 1,
+  "gpm": 379.8,
+  "image": null,
+  "kda": 1.6,
+  "kills": 5,
+  "kp": 0.5333,
+  "losses": 1,
+  "minutes": 33.8,
+  "player": "Luoyiyu",
+  "player_id": "luoyiyu",
+  "role": "Jungle",
+  "slug": "luoyiyu",
+  "team": "Bilibili Gaming Junior",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+  "team_short": "BLG.J",
+  "team_slug": "bilibili-gaming-junior",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.21,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 14,
+  "champions": [
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.58,
+  "deaths": 4,
+  "dpm": 322.9,
+  "games": 1,
+  "gpm": 278.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/MKF_Myrtus_2026_Split_2.webp",
+  "kda": 3.5,
+  "kills": 0,
+  "kp": 0.7,
+  "losses": 0,
+  "minutes": 26.6,
+  "player": "Myrtus",
+  "player_id": "Myrtus",
+  "role": "Support",
+  "slug": "myrtus",
+  "team": "Movistar KOI Fénix",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 3.57,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 7,
+  "champions": [
+   {
+    "champion": "Dr. Mundo",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.5,
+  "deaths": 0,
+  "dpm": 974.0,
+  "games": 1,
+  "gpm": 460.7,
+  "image": null,
+  "kda": 13.0,
+  "kills": 6,
+  "kp": 0.65,
+  "losses": 0,
+  "minutes": 26.6,
+  "player": "NightSlayer",
+  "player_id": "NightSlayer",
+  "role": "Top",
+  "slug": null,
+  "team": "Movistar KOI Fénix",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 0.79,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 6,
+  "champions": [
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.47,
+  "deaths": 7,
+  "dpm": 442.1,
+  "games": 1,
+  "gpm": 438.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/21/T1.EA_Painter_2026_Split_1.png",
+  "kda": 1.29,
+  "kills": 3,
+  "kp": 0.8182,
+  "losses": 1,
+  "minutes": 30.4,
+  "player": "Painter",
+  "player_id": "Painter",
+  "role": "Jungle",
+  "slug": "painter",
+  "team": "T1 Esports Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1.EA",
+  "team_slug": "t1-esports-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 2.3,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 12,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.83,
+  "deaths": 3,
+  "dpm": 149.6,
+  "games": 1,
+  "gpm": 288.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/KT_Pollu_2026_Split_1.png",
+  "kda": 4.0,
+  "kills": 0,
+  "kp": 0.7059,
+  "losses": 0,
+  "minutes": 33.8,
+  "player": "Pollu",
+  "player_id": "Pollu",
+  "role": "Support",
+  "slug": "pollu",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 3.84,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 11,
+  "champions": [
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.1,
+  "deaths": 0,
+  "dpm": 251.4,
+  "games": 1,
+  "gpm": 346.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a0/DNS.C_Quantum_2026_Split_1.png",
+  "kda": 12.0,
+  "kills": 1,
+  "kp": 0.8571,
+  "losses": 0,
+  "minutes": 20.8,
+  "player": "Quantum (Son Jeong-hwan)",
+  "player_id": "Quantum",
+  "role": "Support",
+  "slug": "quantum",
+  "team": "DN SOOPers Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+  "team_short": "DNS.C",
+  "team_slug": "dn-soopers-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 3.31,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.18,
+  "deaths": 0,
+  "dpm": 720.8,
+  "games": 1,
+  "gpm": 553.3,
+  "image": null,
+  "kda": 10.0,
+  "kills": 5,
+  "kp": 0.7143,
+  "losses": 0,
+  "minutes": 20.8,
+  "player": "Revenge (Yoon Jeong-bin)",
+  "player_id": "Revenge",
+  "role": "Bot",
+  "slug": null,
+  "team": "DN SOOPers Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+  "team_short": "DNS.C",
+  "team_slug": "dn-soopers-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.2,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 6,
+  "champions": [
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.31,
+  "deaths": 5,
+  "dpm": 413.2,
+  "games": 1,
+  "gpm": 347.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Sanling.png",
+  "kda": 1.4,
+  "kills": 1,
+  "kp": 0.4667,
+  "losses": 1,
+  "minutes": 33.8,
+  "player": "Sanling",
+  "player_id": "Sanling",
+  "role": "Mid",
+  "slug": "sanling",
+  "team": "Bilibili Gaming Junior",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+  "team_short": "BLG.J",
+  "team_slug": "bilibili-gaming-junior",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.72,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 3,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.59,
+  "deaths": 1,
+  "dpm": 944.9,
+  "games": 1,
+  "gpm": 570.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/39/KT.C_Sero_2026_Split_1.png",
+  "kda": 14.0,
+  "kills": 11,
+  "kp": 0.8235,
+  "losses": 0,
+  "minutes": 33.8,
+  "player": "Sero",
+  "player_id": "Sero",
+  "role": "Top",
+  "slug": "sero",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.09,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.85,
+  "deaths": 2,
+  "dpm": 517.3,
+  "games": 1,
+  "gpm": 423.3,
+  "image": null,
+  "kda": 8.0,
+  "kills": 6,
+  "kp": 0.5714,
+  "losses": 0,
+  "minutes": 30.4,
+  "player": "Sinian",
+  "player_id": "sinian",
+  "role": "Mid",
+  "slug": "sinian",
+  "team": "EDward Gaming Youth Team",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+  "team_short": "EDG.Y",
+  "team_slug": "edward-gaming-youth-team",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.25,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 2,
+  "champions": [
+   {
+    "champion": "Aurora",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.59,
+  "deaths": 3,
+  "dpm": 745.4,
+  "games": 1,
+  "gpm": 349.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/SDM_Skyy_2026_Split_1.png",
+  "kda": 0.67,
+  "kills": 0,
+  "kp": 0.6667,
+  "losses": 1,
+  "minutes": 20.8,
+  "player": "Skyy",
+  "player_id": "Skyy",
+  "role": "Mid",
+  "slug": "skyy",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.06,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 0,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.31,
+  "deaths": 3,
+  "dpm": 300.5,
+  "games": 1,
+  "gpm": 360.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/33/LEV_Snaker_2026_Split_1.png",
+  "kda": 0.0,
+  "kills": 0,
+  "kp": 0.0,
+  "losses": 1,
+  "minutes": 20.8,
+  "player": "Snaker",
+  "player_id": "Snaker",
+  "role": "Bot",
+  "slug": "snaker",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 0.96,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 15,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.3,
+  "deaths": 3,
+  "dpm": 387.3,
+  "games": 1,
+  "gpm": 374.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/KT.C_Sylvie_2026_Split_1.png",
+  "kda": 5.0,
+  "kills": 0,
+  "kp": 0.8824,
+  "losses": 0,
+  "minutes": 33.8,
+  "player": "Sylvie",
+  "player_id": "Sylvie",
+  "role": "Jungle",
+  "slug": "sylvie",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.57,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.24,
+  "deaths": 1,
+  "dpm": 110.5,
+  "games": 1,
+  "gpm": 246.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0e/WBG_TheHank_2026_Split_2.png",
+  "kda": 10.0,
+  "kills": 0,
+  "kp": 0.6667,
+  "losses": 1,
+  "minutes": 33.8,
+  "player": "TheHank",
+  "player_id": "TheHank",
+  "role": "Support",
+  "slug": "thehank",
+  "team": "Bilibili Gaming Junior",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
+  "team_short": "BLG.J",
+  "team_slug": "bilibili-gaming-junior",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 3.87,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.7,
+  "deaths": 2,
+  "dpm": 1048.3,
+  "games": 1,
+  "gpm": 460.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/CFOA_Tracy_2026_Split_2.png",
+  "kda": 5.0,
+  "kills": 5,
+  "kp": 0.9091,
+  "losses": 1,
+  "minutes": 26.6,
+  "player": "Tracy (Lin Hong-Lin)",
+  "player_id": "Tracy",
+  "role": "Bot",
+  "slug": "tracy",
+  "team": "CTBC Flying Oyster Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+  "team_short": "CFOA",
+  "team_slug": "ctbc-flying-oyster-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.24,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 14,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.63,
+  "deaths": 3,
+  "dpm": 632.5,
+  "games": 1,
+  "gpm": 446.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/43/BGT_XnS_2024_Split_2.png",
+  "kda": 6.0,
+  "kills": 4,
+  "kp": 0.9,
+  "losses": 0,
+  "minutes": 26.6,
+  "player": "XnS",
+  "player_id": "XnS",
+  "role": "Jungle",
+  "slug": "xns",
+  "team": "Movistar KOI Fénix",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.69,
+  "win_rate": 1.0,
+  "wins": 1
+ },
+ {
+  "assists": 2,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.14,
+  "deaths": 6,
+  "dpm": 526.1,
+  "games": 1,
+  "gpm": 298.5,
+  "image": null,
+  "kda": 0.67,
+  "kills": 2,
+  "kp": 0.3636,
+  "losses": 1,
+  "minutes": 26.6,
+  "player": "Yuhe",
+  "player_id": "Yuhe",
+  "role": "Mid",
+  "slug": "yuhe",
+  "team": "CTBC Flying Oyster Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+  "team_short": "CFOA",
+  "team_slug": "ctbc-flying-oyster-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.09,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 3,
+  "champions": [
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.95,
+  "deaths": 3,
+  "dpm": 805.7,
+  "games": 1,
+  "gpm": 351.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ae/CFOA_Zkai_2026_Split_2.png",
+  "kda": 1.67,
+  "kills": 2,
+  "kp": 0.4545,
+  "losses": 1,
+  "minutes": 26.6,
+  "player": "Zkai",
+  "player_id": "Zkai",
+  "role": "Top",
+  "slug": "zkai",
+  "team": "CTBC Flying Oyster Academy",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+  "team_short": "CFOA",
+  "team_slug": "ctbc-flying-oyster-academy",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.02,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
   "assists": 115,
   "champions": [
    {
@@ -2562,6 +3882,59 @@
   "wins": 4
  },
  {
+  "assists": 29,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Cho'Gath",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.26,
+  "deaths": 19,
+  "dpm": 352.6,
+  "games": 7,
+  "gpm": 374.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/VKS_Disamis_2026_Split_1.png",
+  "kda": 2.11,
+  "kills": 11,
+  "kp": 0.8,
+  "losses": 6,
+  "minutes": 228.1,
+  "player": "Disamis",
+  "player_id": "Disamis",
+  "role": "Jungle",
+  "slug": "disamis",
+  "team": "Vivo Keyd Stars",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+  "team_short": "VKS",
+  "team_slug": "vivo-keyd-stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.49,
+  "win_rate": 0.1429,
+  "wins": 1
+ },
+ {
   "assists": 28,
   "champions": [
    {
@@ -2613,6 +3986,59 @@
   "vspm": 1.35,
   "win_rate": 0.5714,
   "wins": 4
+ },
+ {
+  "assists": 20,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kai'Sa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Sivir",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.59,
+  "deaths": 19,
+  "dpm": 498.7,
+  "games": 7,
+  "gpm": 424.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/VKS_Jeskla_2026_Split_2.png",
+  "kda": 1.68,
+  "kills": 12,
+  "kp": 0.64,
+  "losses": 6,
+  "minutes": 228.1,
+  "player": "Jeskla",
+  "player_id": "Jeskla",
+  "role": "Bot",
+  "slug": "jeskla",
+  "team": "Vivo Keyd Stars",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+  "team_short": "VKS",
+  "team_slug": "vivo-keyd-stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.11,
+  "win_rate": 0.1429,
+  "wins": 1
  },
  {
   "assists": 57,
@@ -2668,6 +4094,112 @@
   "wins": 4
  },
  {
+  "assists": 16,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.25,
+  "deaths": 31,
+  "dpm": 588.8,
+  "games": 7,
+  "gpm": 395.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e1/VKS_Mireu_2026_Split_1.png",
+  "kda": 1.19,
+  "kills": 21,
+  "kp": 0.74,
+  "losses": 6,
+  "minutes": 228.1,
+  "player": "Mireu",
+  "player_id": "Mireu",
+  "role": "Mid",
+  "slug": "mireu",
+  "team": "Vivo Keyd Stars",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+  "team_short": "VKS",
+  "team_slug": "vivo-keyd-stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.14,
+  "win_rate": 0.1429,
+  "wins": 1
+ },
+ {
+  "assists": 36,
+  "champions": [
+   {
+    "champion": "Seraphine",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Braum",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.21,
+  "deaths": 24,
+  "dpm": 138.8,
+  "games": 7,
+  "gpm": 234.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/VKS_Scamber_2026_Split_1.png",
+  "kda": 1.54,
+  "kills": 1,
+  "kp": 0.74,
+  "losses": 6,
+  "minutes": 228.1,
+  "player": "Scamber",
+  "player_id": "scamber",
+  "role": "Support",
+  "slug": "scamber",
+  "team": "Vivo Keyd Stars",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+  "team_short": "VKS",
+  "team_slug": "vivo-keyd-stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 4.22,
+  "win_rate": 0.1429,
+  "wins": 1
+ },
+ {
   "assists": 35,
   "champions": [
    {
@@ -2719,6 +4251,319 @@
   "vspm": 1.27,
   "win_rate": 0.5714,
   "wins": 4
+ },
+ {
+  "assists": 17,
+  "champions": [
+   {
+    "champion": "K'Sante",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Aatrox",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Dr. Mundo",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Gnar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kennen",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.85,
+  "deaths": 29,
+  "dpm": 532.8,
+  "games": 7,
+  "gpm": 322.8,
+  "image": null,
+  "kda": 0.76,
+  "kills": 5,
+  "kp": 0.44,
+  "losses": 6,
+  "minutes": 228.1,
+  "player": "Zekas",
+  "player_id": "zekas",
+  "role": "Top",
+  "slug": "zekas",
+  "team": "Vivo Keyd Stars",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
+  "team_short": "VKS",
+  "team_slug": "vivo-keyd-stars",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.46,
+  "win_rate": 0.1429,
+  "wins": 1
+ },
+ {
+  "assists": 31,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Sylas",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.56,
+  "deaths": 14,
+  "dpm": 575.1,
+  "games": 6,
+  "gpm": 376.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/RED_Fuuu_2026_Split_2.png",
+  "kda": 3.36,
+  "kills": 16,
+  "kp": 0.6351,
+  "losses": 3,
+  "minutes": 205.2,
+  "player": "Fuuu",
+  "player_id": "Fuuu",
+  "role": "Mid",
+  "slug": "fuuu",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.35,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 53,
+  "champions": [
+   {
+    "champion": "Lulu",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Leona",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rell",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.88,
+  "deaths": 10,
+  "dpm": 131.1,
+  "games": 6,
+  "gpm": 246.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/RED_Manel_2026_Split_2.png",
+  "kda": 5.5,
+  "kills": 2,
+  "kp": 0.7432,
+  "losses": 3,
+  "minutes": 205.2,
+  "player": "Manel",
+  "player_id": "Manel",
+  "role": "Support",
+  "slug": "manel",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 4.26,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 26,
+  "champions": [
+   {
+    "champion": "Yunara",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ziggs",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.49,
+  "deaths": 9,
+  "dpm": 770.4,
+  "games": 6,
+  "gpm": 502.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/RED_Morttheus_2026_Split_2.png",
+  "kda": 6.0,
+  "kills": 28,
+  "kp": 0.7297,
+  "losses": 3,
+  "minutes": 205.2,
+  "player": "Morttheus",
+  "player_id": "Morttheus",
+  "role": "Bot",
+  "slug": "morttheus",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.34,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 32,
+  "champions": [
+   {
+    "champion": "Wukong",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.06,
+  "deaths": 14,
+  "dpm": 357.7,
+  "games": 6,
+  "gpm": 375.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/RED_STEPZ_2026_Split_2.png",
+  "kda": 3.36,
+  "kills": 15,
+  "kp": 0.6351,
+  "losses": 3,
+  "minutes": 205.2,
+  "player": "STEPZ (Eloy Rodríguez)",
+  "player_id": "STEPZ",
+  "role": "Jungle",
+  "slug": "stepz",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 2.13,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 23,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Olaf",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kennen",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.89,
+  "deaths": 10,
+  "dpm": 494.6,
+  "games": 6,
+  "gpm": 382.0,
+  "image": null,
+  "kda": 3.6,
+  "kills": 13,
+  "kp": 0.4865,
+  "losses": 3,
+  "minutes": 205.2,
+  "player": "Zynts",
+  "player_id": "zynts",
+  "role": "Top",
+  "slug": "zynts",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
+  "vspm": 1.43,
+  "win_rate": 0.5,
+  "wins": 3
  },
  {
   "assists": 31,
@@ -2820,54 +4665,6 @@
   "assists": 21,
   "champions": [
    {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Olaf",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Trundle",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Wukong",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.27,
-  "deaths": 12,
-  "dpm": 364.4,
-  "games": 4,
-  "gpm": 369.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/VKS_Disamis_2026_Split_1.png",
-  "kda": 2.17,
-  "kills": 5,
-  "kp": 0.8125,
-  "losses": 3,
-  "minutes": 125.5,
-  "player": "Disamis",
-  "player_id": "Disamis",
-  "role": "Jungle",
-  "slug": "disamis",
-  "team": "Vivo Keyd Stars",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
-  "team_short": "VKS",
-  "team_slug": "vivo-keyd-stars",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.28,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
-  "assists": 21,
-  "champions": [
-   {
     "champion": "Kai'Sa",
     "games": 1,
     "wins": 1
@@ -2961,54 +4758,6 @@
   "wins": 3
  },
  {
-  "assists": 13,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Sivir",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.7,
-  "deaths": 9,
-  "dpm": 543.9,
-  "games": 4,
-  "gpm": 432.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/VKS_Jeskla_2026_Split_2.png",
-  "kda": 2.44,
-  "kills": 9,
-  "kp": 0.6875,
-  "losses": 3,
-  "minutes": 125.5,
-  "player": "Jeskla",
-  "player_id": "Jeskla",
-  "role": "Bot",
-  "slug": "jeskla",
-  "team": "Vivo Keyd Stars",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
-  "team_short": "VKS",
-  "team_slug": "vivo-keyd-stars",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.2,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
   "assists": 24,
   "champions": [
    {
@@ -3057,54 +4806,6 @@
   "wins": 3
  },
  {
-  "assists": 10,
-  "champions": [
-   {
-    "champion": "Galio",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Locke",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.92,
-  "deaths": 17,
-  "dpm": 710.7,
-  "games": 4,
-  "gpm": 393.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e1/VKS_Mireu_2026_Split_1.png",
-  "kda": 1.47,
-  "kills": 15,
-  "kp": 0.7812,
-  "losses": 3,
-  "minutes": 125.5,
-  "player": "Mireu",
-  "player_id": "Mireu",
-  "role": "Mid",
-  "slug": "mireu",
-  "team": "Vivo Keyd Stars",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
-  "team_short": "VKS",
-  "team_slug": "vivo-keyd-stars",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.19,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
   "assists": 25,
   "champions": [
    {
@@ -3151,54 +4852,6 @@
   "vspm": 1.12,
   "win_rate": 0.75,
   "wins": 3
- },
- {
-  "assists": 24,
-  "champions": [
-   {
-    "champion": "Braum",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Karma",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.26,
-  "deaths": 9,
-  "dpm": 154.3,
-  "games": 4,
-  "gpm": 242.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3c/VKS_Scamber_2026_Split_1.png",
-  "kda": 2.78,
-  "kills": 1,
-  "kp": 0.7812,
-  "losses": 3,
-  "minutes": 125.5,
-  "player": "Scamber",
-  "player_id": "scamber",
-  "role": "Support",
-  "slug": "scamber",
-  "team": "Vivo Keyd Stars",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
-  "team_short": "VKS",
-  "team_slug": "vivo-keyd-stars",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 3.98,
-  "win_rate": 0.25,
-  "wins": 1
  },
  {
   "assists": 22,
@@ -3393,54 +5046,6 @@
   "wins": 3
  },
  {
-  "assists": 11,
-  "champions": [
-   {
-    "champion": "Aatrox",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Dr. Mundo",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Kennen",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.78,
-  "deaths": 17,
-  "dpm": 547.3,
-  "games": 4,
-  "gpm": 317.4,
-  "image": null,
-  "kda": 0.76,
-  "kills": 2,
-  "kp": 0.4062,
-  "losses": 3,
-  "minutes": 125.5,
-  "player": "Zekas",
-  "player_id": "zekas",
-  "role": "Top",
-  "slug": "zekas",
-  "team": "Vivo Keyd Stars",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0b/Vivo_Keyd_Starslogo_profile.png",
-  "team_short": "VKS",
-  "team_slug": "vivo-keyd-stars",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.34,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
   "assists": 19,
   "champions": [
    {
@@ -3489,178 +5094,6 @@
   "wins": 3
  },
  {
-  "assists": 4,
-  "champions": [
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Cassiopeia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Sylas",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.6,
-  "deaths": 10,
-  "dpm": 551.1,
-  "games": 3,
-  "gpm": 345.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/RED_Fuuu_2026_Split_2.png",
-  "kda": 0.7,
-  "kills": 3,
-  "kp": 0.4375,
-  "losses": 3,
-  "minutes": 102.6,
-  "player": "Fuuu",
-  "player_id": "Fuuu",
-  "role": "Mid",
-  "slug": "fuuu",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.23,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 11,
-  "champions": [
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Leona",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 0.84,
-  "deaths": 6,
-  "dpm": 149.5,
-  "games": 3,
-  "gpm": 226.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/RED_Manel_2026_Split_2.png",
-  "kda": 2.0,
-  "kills": 1,
-  "kp": 0.75,
-  "losses": 3,
-  "minutes": 102.6,
-  "player": "Manel",
-  "player_id": "Manel",
-  "role": "Support",
-  "slug": "manel",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 4.31,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 4,
-  "champions": [
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Ziggs",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 10.08,
-  "deaths": 6,
-  "dpm": 548.4,
-  "games": 3,
-  "gpm": 461.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/RED_Morttheus_2026_Split_2.png",
-  "kda": 2.0,
-  "kills": 8,
-  "kp": 0.75,
-  "losses": 3,
-  "minutes": 102.6,
-  "player": "Morttheus",
-  "player_id": "Morttheus",
-  "role": "Bot",
-  "slug": "morttheus",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.11,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 9,
-  "champions": [
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Qiyana",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Wukong",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.56,
-  "deaths": 9,
-  "dpm": 285.1,
-  "games": 3,
-  "gpm": 333.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/RED_STEPZ_2026_Split_2.png",
-  "kda": 1.11,
-  "kills": 1,
-  "kp": 0.625,
-  "losses": 3,
-  "minutes": 102.6,
-  "player": "STEPZ (Eloy Rodríguez)",
-  "player_id": "STEPZ",
-  "role": "Jungle",
-  "slug": "stepz",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.88,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
   "assists": 21,
   "champions": [
    {
@@ -3702,49 +5135,6 @@
   "vspm": 2.15,
   "win_rate": 1.0,
   "wins": 3
- },
- {
-  "assists": 5,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Olaf",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.77,
-  "deaths": 8,
-  "dpm": 415.5,
-  "games": 3,
-  "gpm": 358.8,
-  "image": null,
-  "kda": 1.0,
-  "kills": 3,
-  "kp": 0.5,
-  "losses": 3,
-  "minutes": 102.6,
-  "player": "Zynts",
-  "player_id": "zynts",
-  "role": "Top",
-  "slug": "zynts",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "vspm": 1.37,
-  "win_rate": 0.0,
-  "wins": 0
  },
  {
   "assists": 6,
@@ -12312,15 +13702,20 @@
   "wins": 3
  },
  {
-  "assists": 33,
+  "assists": 64,
   "champions": [
    {
-    "champion": "Lee Sin",
+    "champion": "Nocturne",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Jarvan IV",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Nocturne",
+    "champion": "Lee Sin",
     "games": 1,
     "wins": 1
    },
@@ -12328,19 +13723,24 @@
     "champion": "Sejuani",
     "games": 1,
     "wins": 1
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 0
    }
   ],
-  "cspm": 6.76,
-  "deaths": 9,
-  "dpm": 390.4,
-  "games": 3,
-  "gpm": 395.7,
+  "cspm": 7.12,
+  "deaths": 16,
+  "dpm": 347.6,
+  "games": 7,
+  "gpm": 389.4,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/C9_Blaber_2026_Split_1.png",
-  "kda": 4.67,
-  "kills": 9,
-  "kp": 0.7241,
-  "losses": 0,
-  "minutes": 106.2,
+  "kda": 5.0,
+  "kills": 16,
+  "kp": 0.6897,
+  "losses": 1,
+  "minutes": 258.6,
   "player": "Blaber",
   "player_id": "Blaber",
   "role": "Jungle",
@@ -12350,9 +13750,461 @@
   "team_short": "C9",
   "team_slug": "cloud9",
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.84,
-  "win_rate": 1.0,
-  "wins": 3
+  "vspm": 1.83,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 41,
+  "champions": [
+   {
+    "champion": "Syndra",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sylas",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.18,
+  "deaths": 17,
+  "dpm": 674.3,
+  "games": 7,
+  "gpm": 417.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/C9_Loki_2025_Split_1.png",
+  "kda": 4.24,
+  "kills": 31,
+  "kp": 0.6207,
+  "losses": 1,
+  "minutes": 258.6,
+  "player": "Loki (Lee Sang-min)",
+  "player_id": "Loki",
+  "role": "Mid",
+  "slug": "loki",
+  "team": "Cloud9",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+  "team_short": "C9",
+  "team_slug": "cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.42,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 40,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Corki",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.32,
+  "deaths": 11,
+  "dpm": 722.6,
+  "games": 7,
+  "gpm": 497.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/IMT_Tactical_2023_Split_1.png",
+  "kda": 6.0,
+  "kills": 26,
+  "kp": 0.569,
+  "losses": 1,
+  "minutes": 258.6,
+  "player": "Tactical",
+  "player_id": "Tactical",
+  "role": "Bot",
+  "slug": "tactical",
+  "team": "Cloud9",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+  "team_short": "C9",
+  "team_slug": "cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.49,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 41,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Kennen",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.17,
+  "deaths": 15,
+  "dpm": 617.9,
+  "games": 7,
+  "gpm": 401.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png",
+  "kda": 5.0,
+  "kills": 34,
+  "kp": 0.6466,
+  "losses": 1,
+  "minutes": 258.6,
+  "player": "Thanatos (Park Seung-gyu)",
+  "player_id": "Thanatos",
+  "role": "Top",
+  "slug": "thanatos",
+  "team": "Cloud9",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+  "team_short": "C9",
+  "team_slug": "cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.49,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 84,
+  "champions": [
+   {
+    "champion": "Seraphine",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.01,
+  "deaths": 5,
+  "dpm": 194.7,
+  "games": 7,
+  "gpm": 275.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/C9_Vulcan_2026_Split_1.png",
+  "kda": 18.6,
+  "kills": 9,
+  "kp": 0.8017,
+  "losses": 1,
+  "minutes": 258.6,
+  "player": "Vulcan (Philippe Laflamme)",
+  "player_id": "Vulcan",
+  "role": "Support",
+  "slug": "vulcan",
+  "team": "Cloud9",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+  "team_short": "C9",
+  "team_slug": "cloud9",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 3.95,
+  "win_rate": 0.8571,
+  "wins": 6
+ },
+ {
+  "assists": 14,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sivir",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.6,
+  "deaths": 12,
+  "dpm": 695.6,
+  "games": 4,
+  "gpm": 443.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/LYON_Berserker_2026_Split_1.png",
+  "kda": 2.0,
+  "kills": 10,
+  "kp": 0.75,
+  "losses": 3,
+  "minutes": 152.4,
+  "player": "Berserker (Kim Min-cheol)",
+  "player_id": "Berserker",
+  "role": "Bot",
+  "slug": "berserker",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.4,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 2,
+  "champions": [
+   {
+    "champion": "Gnar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Gwen",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renekton",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Varus",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.32,
+  "deaths": 15,
+  "dpm": 491.9,
+  "games": 4,
+  "gpm": 370.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LYON_Dhokla_2026_Split_1.png",
+  "kda": 0.6,
+  "kills": 7,
+  "kp": 0.2812,
+  "losses": 3,
+  "minutes": 152.4,
+  "player": "Dhokla",
+  "player_id": "Dhokla",
+  "role": "Top",
+  "slug": "dhokla",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.31,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 19,
+  "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Wukong",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.51,
+  "deaths": 9,
+  "dpm": 319.7,
+  "games": 4,
+  "gpm": 358.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/LYON_Inspired_2026_Split_1.png",
+  "kda": 2.56,
+  "kills": 4,
+  "kp": 0.7188,
+  "losses": 3,
+  "minutes": 152.4,
+  "player": "Inspired",
+  "player_id": "Inspired",
+  "role": "Jungle",
+  "slug": "inspired",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.32,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 25,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rell",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.97,
+  "deaths": 12,
+  "dpm": 98.3,
+  "games": 4,
+  "gpm": 234.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/LYON_Isles_2026_Split_1.png",
+  "kda": 2.17,
+  "kills": 1,
+  "kp": 0.8125,
+  "losses": 3,
+  "minutes": 152.4,
+  "player": "Isles",
+  "player_id": "Isles",
+  "role": "Support",
+  "slug": "isles",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 4.26,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 16,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.0,
+  "deaths": 10,
+  "dpm": 651.2,
+  "games": 4,
+  "gpm": 384.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/LYON_Saint_2026_Split_1.png",
+  "kda": 2.6,
+  "kills": 10,
+  "kp": 0.8125,
+  "losses": 3,
+  "minutes": 152.4,
+  "player": "Saint (Kang Sung-in)",
+  "player_id": "Saint",
+  "role": "Mid",
+  "slug": "saint",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.61,
+  "win_rate": 0.25,
+  "wins": 1
  },
  {
   "assists": 47,
@@ -12484,49 +14336,6 @@
   "wins": 3
  },
  {
-  "assists": 20,
-  "champions": [
-   {
-    "champion": "Akali",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Viktor",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.96,
-  "deaths": 7,
-  "dpm": 725.4,
-  "games": 3,
-  "gpm": 426.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/C9_Loki_2025_Split_1.png",
-  "kda": 5.14,
-  "kills": 16,
-  "kp": 0.6207,
-  "losses": 0,
-  "minutes": 106.2,
-  "player": "Loki (Lee Sang-min)",
-  "player_id": "Loki",
-  "role": "Mid",
-  "slug": "loki",
-  "team": "Cloud9",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
-  "team_short": "C9",
-  "team_slug": "cloud9",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.36,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
   "assists": 21,
   "champions": [
    {
@@ -12609,135 +14418,6 @@
   "team_slug": "flyquest",
   "tournament": "LCS/2026 Season/Summer Playoffs",
   "vspm": 1.4,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 23,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Kalista",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.59,
-  "deaths": 5,
-  "dpm": 803.5,
-  "games": 3,
-  "gpm": 535.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/IMT_Tactical_2023_Split_1.png",
-  "kda": 7.6,
-  "kills": 15,
-  "kp": 0.6552,
-  "losses": 0,
-  "minutes": 106.2,
-  "player": "Tactical",
-  "player_id": "Tactical",
-  "role": "Bot",
-  "slug": "tactical",
-  "team": "Cloud9",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
-  "team_short": "C9",
-  "team_slug": "cloud9",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.67,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 17,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Olaf",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.25,
-  "deaths": 10,
-  "dpm": 618.0,
-  "games": 3,
-  "gpm": 412.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png",
-  "kda": 3.3,
-  "kills": 16,
-  "kp": 0.569,
-  "losses": 0,
-  "minutes": 106.2,
-  "player": "Thanatos (Park Seung-gyu)",
-  "player_id": "Thanatos",
-  "role": "Top",
-  "slug": "thanatos",
-  "team": "Cloud9",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
-  "team_short": "C9",
-  "team_slug": "cloud9",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.59,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 44,
-  "champions": [
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Renata Glasc",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.05,
-  "deaths": 1,
-  "dpm": 185.6,
-  "games": 3,
-  "gpm": 283.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/C9_Vulcan_2026_Split_1.png",
-  "kda": 46.0,
-  "kills": 2,
-  "kp": 0.7931,
-  "losses": 0,
-  "minutes": 106.2,
-  "player": "Vulcan (Philippe Laflamme)",
-  "player_id": "Vulcan",
-  "role": "Support",
-  "slug": "vulcan",
-  "team": "Cloud9",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
-  "team_short": "C9",
-  "team_slug": "cloud9",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 3.66,
   "win_rate": 1.0,
   "wins": 3
  },

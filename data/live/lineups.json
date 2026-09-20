@@ -670,11 +670,11 @@
   "tournament": "2026 World Star Challengers Invitational"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/DNS.C_Enosh_2026_Split_1.png",
-  "player": "Enosh",
-  "player_id": "Enosh",
+  "image": null,
+  "player": "Revenge (Yoon Jeong-bin)",
+  "player_id": "Revenge (Yoon Jeong-bin)",
   "role": "Bot",
-  "slug": "enosh",
+  "slug": null,
   "source": "roster",
   "team": "DN SOOPers Challengers",
   "tournament": "2026 World Star Challengers Invitational"
@@ -761,10 +761,10 @@
  },
  {
   "image": null,
-  "player": "Wild (Yang Jia-Le)",
-  "player_id": "wild",
+  "player": "Sinian",
+  "player_id": "sinian",
   "role": "Mid",
-  "slug": "wild",
+  "slug": "sinian",
   "source": "roster",
   "team": "EDward Gaming Youth Team",
   "tournament": "2026 World Star Challengers Invitational"
