@@ -9438,16 +9438,16 @@
    "short": "TL",
    "slug": "team-liquid"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
    "name": "FlyQuest",
    "short": "FLY",
    "slug": "flyquest"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -9465,16 +9465,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
    "name": "Dplus Kia Challengers",
    "short": "DK.C",
    "slug": "dplus-kia-challengers"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -9492,16 +9492,16 @@
    "short": "FL",
    "slug": "fennel"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
    "name": "Cupid Esports",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -9519,16 +9519,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
    "name": "Saigon Warriors",
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -9546,16 +9546,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
    "name": "ZSK (Chinese Team)",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -9573,16 +9573,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
    "name": "Dplus Kia Challengers",
    "short": "DK.C",
    "slug": "dplus-kia-challengers"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -10621,10 +10621,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
   },
   "team1_score": null,
   "team2": {
@@ -10844,10 +10844,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
+   "name": "Team Liquid",
+   "short": "TL",
+   "slug": "team-liquid"
   },
   "team2_score": null,
   "tournament": "LCS/2026 Season/Summer Playoffs",

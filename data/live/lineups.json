@@ -1251,10 +1251,10 @@
  },
  {
   "image": null,
-  "player": "Sorrow (Li De-Ming)",
-  "player_id": "sorrow",
+  "player": "sorrow1",
+  "player_id": "sorrow1",
   "role": "Jungle",
-  "slug": "sorrow",
+  "slug": null,
   "source": "roster",
   "team": "ZSK (Chinese Team)",
   "tournament": "2026 World Star Challengers Invitational"
