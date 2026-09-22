@@ -150,6 +150,56 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/JDG_Xiaoxu_2026_Split_1.png",
+  "player": "Xiaoxu",
+  "player_id": "Xiaoxu",
+  "role": "Top",
+  "slug": "xiaoxu",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/JDG_JunJia_2026_Split_1.png",
+  "player": "JunJia",
+  "player_id": "JunJia",
+  "role": "Jungle",
+  "slug": "junjia",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/JDG_HongQ_2026_Split_1.png",
+  "player": "HongQ",
+  "player_id": "HongQ",
+  "role": "Mid",
+  "slug": "hongq",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/JDG_GALA_2026_Split_1.png",
+  "player": "GALA",
+  "player_id": "GALA",
+  "role": "Bot",
+  "slug": "gala",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JDG_Vampire_2026_Split_1.png",
+  "player": "Vampire",
+  "player_id": "Vampire",
+  "role": "Support",
+  "slug": "vampire",
+  "source": "roster",
+  "team": "JD Gaming",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
   "player": "PerfecT (Lee Seung-min)",
   "player_id": "PerfecT",

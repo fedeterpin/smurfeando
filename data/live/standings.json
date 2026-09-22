@@ -246,7 +246,7 @@
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 3,
+  "streak": 4,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
@@ -256,8 +256,8 @@
   },
   "tie_series": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 3,
-  "win_series": 3
+  "win_games": 4,
+  "win_series": 4
  },
  {
   "group": 1,
@@ -266,7 +266,7 @@
   "place": 2,
   "place_label": "2",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
@@ -276,17 +276,17 @@
   },
   "tie_series": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
+  "win_games": 3,
+  "win_series": 3
  },
  {
   "group": 1,
-  "loss_games": 2,
-  "loss_series": 2,
+  "loss_games": 3,
+  "loss_series": 3,
   "place": 3,
   "place_label": "3",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
@@ -301,12 +301,12 @@
  },
  {
   "group": 1,
-  "loss_games": 3,
-  "loss_series": 3,
+  "loss_games": 4,
+  "loss_series": 4,
   "place": 4,
   "place_label": "4",
   "points": 0,
-  "streak": 3,
+  "streak": 4,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
@@ -321,6 +321,86 @@
  },
  {
   "group": 2,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 3,
+  "win_series": 3
+ },
+ {
+  "group": 2,
+  "loss_games": 2,
+  "loss_series": 2,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 2,
+  "win_series": 2
+ },
+ {
+  "group": 2,
+  "loss_games": 2,
+  "loss_series": 2,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 2,
+  "win_series": 2
+ },
+ {
+  "group": 2,
+  "loss_games": 3,
+  "loss_series": 3,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 3,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -340,7 +420,7 @@
   "win_series": 2
  },
  {
-  "group": 2,
+  "group": 3,
   "loss_games": 1,
   "loss_series": 1,
   "place": 2,
@@ -360,7 +440,7 @@
   "win_series": 1
  },
  {
-  "group": 2,
+  "group": 3,
   "loss_games": 1,
   "loss_series": 1,
   "place": 2,
@@ -380,7 +460,7 @@
   "win_series": 1
  },
  {
-  "group": 2,
+  "group": 3,
   "loss_games": 2,
   "loss_series": 2,
   "place": 4,
@@ -393,86 +473,6 @@
    "name": "FENNEL",
    "short": "FL",
    "slug": "fennel"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 3,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 2,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
-   "name": "EDward Gaming Youth Team",
-   "short": "EDG.Y",
-   "slug": "edward-gaming-youth-team"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
- },
- {
-  "group": 3,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 2,
-  "place_label": "2",
-  "points": 0,
-  "streak": 2,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1 Esports Academy",
-   "short": "T1.EA",
-   "slug": "t1-esports-academy"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
- },
- {
-  "group": 3,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 3,
-  "place_label": "3",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
-   "name": "DN SOOPers Challengers",
-   "short": "DNS.C",
-   "slug": "dn-soopers-challengers"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 3,
-  "loss_games": 3,
-  "loss_series": 3,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 3,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
-   "name": "Fuego",
-   "short": null,
-   "slug": null
   },
   "tie_series": 0,
   "tournament": "2026 World Star Challengers Invitational",
