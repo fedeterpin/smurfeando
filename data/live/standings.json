@@ -246,7 +246,7 @@
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
@@ -256,8 +256,8 @@
   },
   "tie_series": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
+  "win_games": 3,
+  "win_series": 3
  },
  {
   "group": 1,
@@ -268,6 +268,26 @@
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 2,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 2,
+  "loss_series": 2,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
    "name": "Bilibili Gaming Junior",
@@ -281,32 +301,12 @@
  },
  {
   "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 2,
-  "place_label": "2",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-   "name": "KT Rolster Challengers",
-   "short": "KT.C",
-   "slug": "kt-rolster-challengers"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 1,
-  "loss_games": 2,
-  "loss_series": 2,
+  "loss_games": 3,
+  "loss_series": 3,
   "place": 4,
   "place_label": "4",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
@@ -426,6 +426,26 @@
   "place": 2,
   "place_label": "2",
   "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 2,
+  "win_series": 2
+ },
+ {
+  "group": 3,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
   "streak": 1,
   "streak_direction": "L",
   "team": {
@@ -441,32 +461,12 @@
  },
  {
   "group": 3,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 2,
-  "place_label": "2",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1 Esports Academy",
-   "short": "T1.EA",
-   "slug": "t1-esports-academy"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 3,
-  "loss_games": 2,
-  "loss_series": 2,
+  "loss_games": 3,
+  "loss_series": 3,
   "place": 4,
   "place_label": "4",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
