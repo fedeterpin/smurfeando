@@ -173,7 +173,7 @@
   "year": "2026"
  },
  {
-  "games": 26,
+  "games": 31,
   "is_playoffs": false,
   "league": "World Star Challengers Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/WSCI_Logo.png",
@@ -186,6 +186,21 @@
   "region": "international",
   "region_label": "International",
   "slug": "2026-world-star-challengers-invitational",
+  "split": "",
+  "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "World Championship",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
+  "league_short": "WCS",
+  "name": "Worlds 2026 Main Event",
+  "overview_page": "2026 Season World Championship/Main Event",
+  "patches": [],
+  "region": "international",
+  "region_label": "International",
+  "slug": "2026-season-world-championship-main-event",
   "split": "",
   "year": "2026"
  },
