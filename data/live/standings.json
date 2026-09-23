@@ -321,92 +321,12 @@
  },
  {
   "group": 2,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 3,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1 Esports Academy",
-   "short": "T1.EA",
-   "slug": "t1-esports-academy"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 3,
-  "win_series": 3
- },
- {
-  "group": 2,
-  "loss_games": 2,
-  "loss_series": 2,
-  "place": 2,
-  "place_label": "2",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
-   "name": "DN SOOPers Challengers",
-   "short": "DNS.C",
-   "slug": "dn-soopers-challengers"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
- },
- {
-  "group": 2,
-  "loss_games": 2,
-  "loss_series": 2,
-  "place": 2,
-  "place_label": "2",
-  "points": 0,
-  "streak": 2,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
-   "name": "EDward Gaming Youth Team",
-   "short": "EDG.Y",
-   "slug": "edward-gaming-youth-team"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
- },
- {
-  "group": 2,
-  "loss_games": 3,
-  "loss_series": 3,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
-   "name": "Fuego",
-   "short": null,
-   "slug": null
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 3,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
@@ -416,11 +336,11 @@
   },
   "tie_series": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
+  "win_games": 3,
+  "win_series": 3
  },
  {
-  "group": 3,
+  "group": 2,
   "loss_games": 1,
   "loss_series": 1,
   "place": 2,
@@ -440,7 +360,7 @@
   "win_series": 1
  },
  {
-  "group": 3,
+  "group": 2,
   "loss_games": 1,
   "loss_series": 1,
   "place": 2,
@@ -460,13 +380,13 @@
   "win_series": 1
  },
  {
-  "group": 3,
-  "loss_games": 2,
-  "loss_series": 2,
+  "group": 2,
+  "loss_games": 3,
+  "loss_series": 3,
   "place": 4,
   "place_label": "4",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
@@ -480,19 +400,39 @@
   "win_series": 0
  },
  {
-  "group": 4,
-  "loss_games": 0,
-  "loss_series": 0,
+  "group": 3,
+  "loss_games": 1,
+  "loss_series": 1,
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "W",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
-   "name": "Solary",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 3,
+  "win_series": 3
+ },
+ {
+  "group": 3,
+  "loss_games": 2,
+  "loss_series": 2,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
   },
   "tie_series": 0,
   "tournament": "2026 World Star Challengers Invitational",
@@ -500,17 +440,37 @@
   "win_series": 2
  },
  {
-  "group": 4,
-  "loss_games": 1,
-  "loss_series": 1,
+  "group": 3,
+  "loss_games": 2,
+  "loss_series": 2,
   "place": 2,
   "place_label": "2",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
-   "name": "Galions",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
+   "name": "EDward Gaming Youth Team",
+   "short": "EDG.Y",
+   "slug": "edward-gaming-youth-team"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 2,
+  "win_series": 2
+ },
+ {
+  "group": 3,
+  "loss_games": 3,
+  "loss_series": 3,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+   "name": "Fuego",
    "short": null,
    "slug": null
   },
@@ -521,6 +481,26 @@
  },
  {
   "group": 4,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 3,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 3,
+  "win_series": 3
+ },
+ {
+  "group": 4,
   "loss_games": 1,
   "loss_series": 1,
   "place": 2,
@@ -528,6 +508,26 @@
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 2,
+  "win_series": 2
+ },
+ {
+  "group": 4,
+  "loss_games": 2,
+  "loss_series": 2,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
    "name": "Saigon Warriors",
@@ -541,12 +541,12 @@
  },
  {
   "group": 4,
-  "loss_games": 2,
-  "loss_series": 2,
+  "loss_games": 3,
+  "loss_series": 3,
   "place": 4,
   "place_label": "4",
   "points": 0,
-  "streak": 2,
+  "streak": 3,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/10/ZSK_(Chinese_Team)logo_square.png",
