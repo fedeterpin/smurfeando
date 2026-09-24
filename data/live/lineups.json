@@ -3490,11 +3490,11 @@
   "tournament": "LCK/2026 Season/Rounds 3-4"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/T1_Doran_2026_LCK_Cup.png",
-  "player": "Doran (Choi Hyeon-joon)",
-  "player_id": "Doran",
+  "image": null,
+  "player": "Doran (Choi Hyeon-jun)",
+  "player_id": "Doran (Choi Hyeon-jun)",
   "role": "Top",
-  "slug": "doran",
+  "slug": null,
   "source": "roster",
   "team": "T1",
   "tournament": "LCK/2026 Season/Rounds 3-4"
@@ -3990,11 +3990,11 @@
   "tournament": "LCK/2026 Season/Season Playoffs"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/T1_Doran_2026_LCK_Cup.png",
-  "player": "Doran (Choi Hyeon-joon)",
-  "player_id": "Doran",
+  "image": null,
+  "player": "Doran (Choi Hyeon-jun)",
+  "player_id": "Doran (Choi Hyeon-jun)",
   "role": "Top",
-  "slug": "doran",
+  "slug": null,
   "source": "roster",
   "team": "T1",
   "tournament": "LCK/2026 Season/Season Playoffs"
