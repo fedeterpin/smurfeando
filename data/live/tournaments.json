@@ -173,7 +173,7 @@
   "year": "2026"
  },
  {
-  "games": 34,
+  "games": 40,
   "is_playoffs": false,
   "league": "World Star Challengers Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/WSCI_Logo.png",
@@ -419,14 +419,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 6,
   "is_playoffs": true,
   "league": "Vietnam Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",
   "league_short": "VCS",
   "name": "VCS 2026 Finals Stage 2",
   "overview_page": "VCS/2026 Season/Finals Stage 2",
-  "patches": [],
+  "patches": [
+   "26.18"
+  ],
   "region": "vietnam",
   "region_label": "Vietnam",
   "slug": "vcs-2026-season-finals-stage-2",

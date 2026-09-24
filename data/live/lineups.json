@@ -8970,11 +8970,11 @@
   "tournament": "VCS/2026 Season/Finals Stage 2"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/MVK_NPC_2026_Split_2.png",
-  "player": "NPC",
-  "player_id": "NPC",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/9G_Umi_VCS_2026_Spring_Playoffs.png",
+  "player": "Umi (Nguyễn Thế Dương)",
+  "player_id": "Umi",
   "role": "Jungle",
-  "slug": "npc",
+  "slug": "umi",
   "source": "roster",
   "team": "MVK Esports Academy",
   "tournament": "VCS/2026 Season/Finals Stage 2"
@@ -9021,10 +9021,10 @@
  },
  {
   "image": null,
-  "player": "Rikk",
-  "player_id": "Rikk",
+  "player": "Yongbel",
+  "player_id": "Yongbel",
   "role": "Jungle",
-  "slug": "rikk",
+  "slug": null,
   "source": "roster",
   "team": "SN CyberCore Esports",
   "tournament": "VCS/2026 Season/Finals Stage 2"
@@ -9071,10 +9071,10 @@
  },
  {
   "image": null,
-  "player": "Salvaje",
-  "player_id": "Salvaje",
+  "player": "J1n5",
+  "player_id": "j1n5",
   "role": "Jungle",
-  "slug": null,
+  "slug": "j1n5",
   "source": "roster",
   "team": "Saigon Warriors",
   "tournament": "VCS/2026 Season/Finals Stage 2"

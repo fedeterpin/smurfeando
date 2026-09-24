@@ -10221,16 +10221,16 @@
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
    "name": "9Gaming",
    "short": "9G",
    "slug": "9gaming"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "VCS/2026 Season/Finals Stage 2",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -10248,16 +10248,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
    "name": "T1 Esports Academy",
    "short": "T1.EA",
    "slug": "t1-esports-academy"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -10275,16 +10275,16 @@
    "short": "DNS.C",
    "slug": "dn-soopers-challengers"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/EDward_Gaming_Youth_Teamlogo_square.png",
    "name": "EDward Gaming Youth Team",
    "short": "EDG.Y",
    "slug": "edward-gaming-youth-team"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -10302,16 +10302,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/Bilibili_Gaming_Juniorlogo_square.png",
    "name": "Bilibili Gaming Junior",
    "short": "BLG.J",
    "slug": "bilibili-gaming-junior"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -10329,16 +10329,16 @@
    "short": "SCBC",
    "slug": "sn-cybercore-esports"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
    "name": "MVK Esports Academy",
    "short": "MVKA",
    "slug": "mvk-esports-academy"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "VCS/2026 Season/Finals Stage 2",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -10356,16 +10356,16 @@
    "short": "CFOA",
    "slug": "ctbc-flying-oyster-academy"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
    "name": "KT Rolster Challengers",
    "short": "KT.C",
    "slug": "kt-rolster-challengers"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -10486,17 +10486,17 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
+   "name": "9Gaming",
+   "short": "9G",
+   "slug": "9gaming"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
+   "name": "SN CyberCore Esports",
+   "short": "SCBC",
+   "slug": "sn-cybercore-esports"
   },
   "team2_score": null,
   "tournament": "VCS/2026 Season/Finals Stage 2",
@@ -10648,17 +10648,17 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports Academy",
+   "short": "MVKA",
+   "slug": "mvk-esports-academy"
   },
   "team2_score": null,
   "tournament": "VCS/2026 Season/Finals Stage 2",
