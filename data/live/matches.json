@@ -10383,16 +10383,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
    "name": "Dplus Kia Challengers",
    "short": "DK.C",
    "slug": "dplus-kia-challengers"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -10410,16 +10410,16 @@
    "short": "FL",
    "slug": "fennel"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
    "name": "Vivo Keyd Stars Academy",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -10437,20 +10437,20 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
    "name": "Saigon Warriors",
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-09-25 09:00:00",
+  "datetime_utc": "2026-09-25 08:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_4",
@@ -10464,47 +10464,20 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
    "name": "Galions",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-09-25 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 2_Round 1_3",
-  "patch": "26.18",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
-   "name": "9Gaming",
-   "short": "9G",
-   "slug": "9gaming"
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
-   "name": "SN CyberCore Esports",
-   "short": "SCBC",
-   "slug": "sn-cybercore-esports"
-  },
-  "team2_score": null,
-  "tournament": "VCS/2026 Season/Finals Stage 2",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-09-25 10:00:00",
+  "datetime_utc": "2026-09-25 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_5",
@@ -10518,20 +10491,47 @@
    "short": "FL",
    "slug": "fennel"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
    "name": "Dplus Kia Challengers",
    "short": "DK.C",
    "slug": "dplus-kia-challengers"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
+  "winner": 2
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-09-25 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "VCS/2026 Season/Finals Stage 2_Round 2_1",
+  "patch": "26.18",
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports Academy",
+   "short": "MVKA",
+   "slug": "mvk-esports-academy"
+  },
+  "team2_score": 1,
+  "tournament": "VCS/2026 Season/Finals Stage 2",
   "winner": null
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-09-25 11:00:00",
+  "datetime_utc": "2026-09-25 10:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_6",
@@ -10558,34 +10558,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-09-25 12:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "2026 World Star Challengers Invitational_Day 6_7",
-  "patch": "26.18",
-  "phase": "Group Stage",
-  "round": null,
-  "tab": "Day 6",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
-   "name": "Solary",
-   "short": null,
-   "slug": null
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
-  },
-  "team2_score": null,
-  "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-09-25 13:00:00",
+  "datetime_utc": "2026-09-25 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 World Star Challengers Invitational_Day 6_8",
@@ -10609,6 +10582,33 @@
   "team2_score": null,
   "tournament": "2026 World Star Challengers Invitational",
   "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-09-25 12:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 World Star Challengers Invitational_Day 6_7",
+  "patch": "26.18",
+  "phase": "Group Stage",
+  "round": null,
+  "tab": "Day 6",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": 1,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
+  },
+  "team2_score": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -10642,23 +10642,23 @@
   "datetime_utc": "2026-09-26 09:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 2_Round 2_1",
+  "match_id": "VCS/2026 Season/Finals Stage 2_Round 1_3",
   "patch": "26.18",
   "phase": null,
   "round": null,
-  "tab": "Round 2",
+  "tab": "Round 1",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
+   "name": "9Gaming",
+   "short": "9G",
+   "slug": "9gaming"
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports Academy",
-   "short": "MVKA",
-   "slug": "mvk-esports-academy"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
+   "name": "SN CyberCore Esports",
+   "short": "SCBC",
+   "slug": "sn-cybercore-esports"
   },
   "team2_score": null,
   "tournament": "VCS/2026 Season/Finals Stage 2",
@@ -12205,7 +12205,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-15 16:00:00",
+  "datetime_utc": "2026-10-15 18:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Play-In_Round 1_1",
@@ -12232,7 +12232,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-15 19:00:00",
+  "datetime_utc": "2026-10-15 23:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Play-In_Round 1_2",
@@ -12259,14 +12259,14 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-17 06:59:00",
+  "datetime_utc": "2026-10-16 18:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "2026 Season World Championship/Play-In_Round 1_3",
+  "match_id": "2026 Season World Championship/Play-In_Round 2_1",
   "patch": "26.20",
   "phase": null,
   "round": null,
-  "tab": "Round 1",
+  "tab": "Round 2",
   "team1": {
    "logo": null,
    "name": "TBD",
@@ -12286,14 +12286,14 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-17 06:59:00",
+  "datetime_utc": "2026-10-16 23:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "2026 Season World Championship/Play-In_Round 2_1",
+  "match_id": "2026 Season World Championship/Play-In_Round 1_3",
   "patch": "26.20",
   "phase": null,
   "round": null,
-  "tab": "Round 2",
+  "tab": "Round 1",
   "team1": {
    "logo": null,
    "name": "TBD",
@@ -12340,7 +12340,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-18 06:59:00",
+  "datetime_utc": "2026-10-17 18:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Play-In_Round 2_2",
@@ -12367,7 +12367,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-18 16:00:00",
+  "datetime_utc": "2026-10-18 18:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Play-In_Round 3_1",
@@ -12825,8 +12825,8 @@
   "winner": null
  },
  {
-  "best_of": 3,
-  "datetime_utc": "2026-10-26 06:59:00",
+  "best_of": 1,
+  "datetime_utc": "2026-10-25 17:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_1",
@@ -12852,8 +12852,8 @@
   "winner": null
  },
  {
-  "best_of": 3,
-  "datetime_utc": "2026-10-26 06:59:00",
+  "best_of": 1,
+  "datetime_utc": "2026-10-25 18:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_2",
@@ -12879,8 +12879,8 @@
   "winner": null
  },
  {
-  "best_of": 1,
-  "datetime_utc": "2026-10-26 06:59:00",
+  "best_of": 3,
+  "datetime_utc": "2026-10-25 19:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_3",
@@ -12906,8 +12906,8 @@
   "winner": null
  },
  {
-  "best_of": 1,
-  "datetime_utc": "2026-10-26 06:59:00",
+  "best_of": 3,
+  "datetime_utc": "2026-10-25 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_4",
@@ -12934,7 +12934,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-27 06:59:00",
+  "datetime_utc": "2026-10-26 17:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_5",
@@ -12961,7 +12961,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-27 06:59:00",
+  "datetime_utc": "2026-10-26 18:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_6",
@@ -12988,7 +12988,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-27 06:59:00",
+  "datetime_utc": "2026-10-26 19:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_7",
@@ -13015,7 +13015,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-27 06:59:00",
+  "datetime_utc": "2026-10-26 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 3_8",
@@ -13042,7 +13042,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-28 17:00:00",
+  "datetime_utc": "2026-10-28 20:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 4_1",
@@ -13069,7 +13069,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-28 20:00:00",
+  "datetime_utc": "2026-10-28 23:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 4_2",
@@ -13096,7 +13096,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-29 17:00:00",
+  "datetime_utc": "2026-10-29 20:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 4_3",
@@ -13123,7 +13123,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-29 20:00:00",
+  "datetime_utc": "2026-10-29 23:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 4_4",
@@ -13150,7 +13150,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-30 17:00:00",
+  "datetime_utc": "2026-10-30 20:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 4_5",
@@ -13177,7 +13177,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-30 20:00:00",
+  "datetime_utc": "2026-10-30 23:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 4_6",
@@ -13285,7 +13285,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-11-03 18:00:00",
+  "datetime_utc": "2026-11-03 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Quarterfinals_1",
@@ -13312,7 +13312,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-11-04 18:00:00",
+  "datetime_utc": "2026-11-04 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Quarterfinals_2",
@@ -13339,7 +13339,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-11-05 18:00:00",
+  "datetime_utc": "2026-11-05 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Quarterfinals_3",
@@ -13366,7 +13366,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-11-06 18:00:00",
+  "datetime_utc": "2026-11-06 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Quarterfinals_4",
@@ -13393,7 +13393,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-11-07 18:00:00",
+  "datetime_utc": "2026-11-07 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Semifinals_1",
@@ -13420,7 +13420,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-11-08 18:00:00",
+  "datetime_utc": "2026-11-08 22:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Semifinals_2",
@@ -13447,7 +13447,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-11-14 18:00:00",
+  "datetime_utc": "2026-11-14 19:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Finals_1",
