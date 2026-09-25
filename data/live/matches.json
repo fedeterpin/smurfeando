@@ -10518,7 +10518,7 @@
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team1_score": 0,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
    "name": "MVK Esports Academy",
@@ -10527,7 +10527,7 @@
   },
   "team2_score": 1,
   "tournament": "VCS/2026 Season/Finals Stage 2",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -10545,16 +10545,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
    "name": "Vivo Keyd Stars Academy",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -10572,16 +10572,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
    "name": "Galions",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 1,
@@ -10729,15 +10729,15 @@
   "round": null,
   "tab": "Quarterfinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/Solarylogo_square.png",
+   "name": "Solary",
    "short": null,
    "slug": null
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/Movistar_KOI_Fénixlogo_square.png",
+   "name": "Movistar KOI Fénix",
    "short": null,
    "slug": null
   },
@@ -10756,17 +10756,17 @@
   "round": null,
   "tab": "Quarterfinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
+   "name": "Dplus Kia Challengers",
+   "short": "DK.C",
+   "slug": "dplus-kia-challengers"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/DN_SOOPerslogo_profile.png",
+   "name": "DN SOOPers Challengers",
+   "short": "DNS.C",
+   "slug": "dn-soopers-challengers"
   },
   "team2_score": null,
   "tournament": "2026 World Star Challengers Invitational",
@@ -10783,10 +10783,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports Academy",
+   "short": "MVKA",
+   "slug": "mvk-esports-academy"
   },
   "team1_score": null,
   "team2": {
@@ -10864,15 +10864,15 @@
   "round": null,
   "tab": "Quarterfinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
    "short": null,
    "slug": null
   },
@@ -10891,15 +10891,15 @@
   "round": null,
   "tab": "Quarterfinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster Challengers",
+   "short": "KT.C",
+   "slug": "kt-rolster-challengers"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
    "short": null,
    "slug": null
   },
@@ -11971,10 +11971,10 @@
   "round": null,
   "tab": "Finals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
   },
   "team1_score": null,
   "team2": {
