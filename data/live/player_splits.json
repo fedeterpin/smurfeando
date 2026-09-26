@@ -16083,8 +16083,23 @@
   "wins": 1
  },
  {
-  "assists": 26,
+  "assists": 39,
   "champions": [
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Xayah",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 2,
+    "wins": 0
+   },
    {
     "champion": "Caitlyn",
     "games": 1,
@@ -16094,34 +16109,19 @@
     "champion": "Ezreal",
     "games": 1,
     "wins": 1
-   },
-   {
-    "champion": "Kalista",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Miss Fortune",
-    "games": 1,
-    "wins": 1
    }
   ],
-  "cspm": 10.0,
-  "deaths": 22,
-  "dpm": 662.2,
-  "games": 8,
-  "gpm": 445.7,
+  "cspm": 9.84,
+  "deaths": 33,
+  "dpm": 639.7,
+  "games": 13,
+  "gpm": 447.6,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/SR_Bvoy_2026_Split_1.png",
-  "kda": 2.09,
-  "kills": 20,
-  "kp": 0.5897,
-  "losses": 5,
-  "minutes": 260.2,
+  "kda": 2.27,
+  "kills": 36,
+  "kp": 0.5474,
+  "losses": 7,
+  "minutes": 396.9,
   "player": "Bvoy",
   "player_id": "Bvoy",
   "role": "Bot",
@@ -16131,50 +16131,50 @@
   "team_short": "SR",
   "team_slug": "shopify-rebellion",
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.52,
-  "win_rate": 0.375,
-  "wins": 3
+  "vspm": 1.4,
+  "win_rate": 0.4615,
+  "wins": 6
  },
  {
-  "assists": 38,
+  "assists": 60,
   "champions": [
    {
     "champion": "Naafiri",
-    "games": 2,
-    "wins": 1
+    "games": 3,
+    "wins": 2
    },
    {
     "champion": "Wukong",
-    "games": 2,
+    "games": 3,
     "wins": 1
    },
    {
     "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Skarner",
-    "games": 1,
-    "wins": 0
+    "games": 2,
+    "wins": 1
    },
    {
     "champion": "Vi",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
     "games": 1,
     "wins": 0
    }
   ],
-  "cspm": 7.02,
-  "deaths": 24,
-  "dpm": 320.0,
-  "games": 8,
-  "gpm": 360.3,
+  "cspm": 7.05,
+  "deaths": 37,
+  "dpm": 334.5,
+  "games": 13,
+  "gpm": 383.1,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/SR_Contractz_2026_Split_1.png",
-  "kda": 2.12,
-  "kills": 13,
-  "kp": 0.6538,
-  "losses": 5,
-  "minutes": 260.2,
+  "kda": 2.59,
+  "kills": 36,
+  "kp": 0.7007,
+  "losses": 7,
+  "minutes": 396.9,
   "player": "Contractz",
   "player_id": "Contractz",
   "role": "Jungle",
@@ -16184,9 +16184,433 @@
   "team_short": "SR",
   "team_slug": "shopify-rebellion",
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.57,
-  "win_rate": 0.375,
-  "wins": 3
+  "vspm": 1.48,
+  "win_rate": 0.4615,
+  "wins": 6
+ },
+ {
+  "assists": 48,
+  "champions": [
+   {
+    "champion": "K'Sante",
+    "games": 3,
+    "wins": 0
+   },
+   {
+    "champion": "Gnar",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Olaf",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.77,
+  "deaths": 34,
+  "dpm": 532.3,
+  "games": 13,
+  "gpm": 384.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/SR_Fudge_2026_Split_1.png",
+  "kda": 2.24,
+  "kills": 28,
+  "kp": 0.5547,
+  "losses": 7,
+  "minutes": 396.9,
+  "player": "Fudge",
+  "player_id": "Fudge",
+  "role": "Top",
+  "slug": "fudge",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.23,
+  "win_rate": 0.4615,
+  "wins": 6
+ },
+ {
+  "assists": 100,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Lulu",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Rakan",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Amumu",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.98,
+  "deaths": 27,
+  "dpm": 152.0,
+  "games": 13,
+  "gpm": 247.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/SR_Zeyzal_2024_Split_1.png",
+  "kda": 3.85,
+  "kills": 4,
+  "kp": 0.7591,
+  "losses": 7,
+  "minutes": 396.9,
+  "player": "Zeyzal",
+  "player_id": "Zeyzal",
+  "role": "Support",
+  "slug": "zeyzal",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 3.59,
+  "win_rate": 0.4615,
+  "wins": 6
+ },
+ {
+  "assists": 64,
+  "champions": [
+   {
+    "champion": "Annie",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Lissandra",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Locke",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Sylas",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.69,
+  "deaths": 33,
+  "dpm": 562.7,
+  "games": 13,
+  "gpm": 387.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/SR_Zinie_2026_Split_1.png",
+  "kda": 2.94,
+  "kills": 33,
+  "kp": 0.708,
+  "losses": 7,
+  "minutes": 396.9,
+  "player": "Zinie",
+  "player_id": "Zinie",
+  "role": "Mid",
+  "slug": "zinie",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.48,
+  "win_rate": 0.4615,
+  "wins": 6
+ },
+ {
+  "assists": 84,
+  "champions": [
+   {
+    "champion": "Nautilus",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.16,
+  "deaths": 26,
+  "dpm": 178.5,
+  "games": 11,
+  "gpm": 256.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/FLY_Cryogen_2026_Split_1.png",
+  "kda": 3.42,
+  "kills": 5,
+  "kp": 0.7607,
+  "losses": 6,
+  "minutes": 345.3,
+  "player": "Cryogen",
+  "player_id": "Cryogen",
+  "role": "Support",
+  "slug": "cryogen",
+  "team": "FlyQuest",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+  "team_short": "FLY",
+  "team_slug": "flyquest",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 4.13,
+  "win_rate": 0.4545,
+  "wins": 5
+ },
+ {
+  "assists": 52,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Rumble",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Gwen",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.37,
+  "deaths": 24,
+  "dpm": 580.0,
+  "games": 11,
+  "gpm": 390.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/FLY_Gakgos_2026_Split_1.png",
+  "kda": 3.12,
+  "kills": 23,
+  "kp": 0.641,
+  "losses": 6,
+  "minutes": 345.3,
+  "player": "Gakgos",
+  "player_id": "Gakgos",
+  "role": "Top",
+  "slug": "gakgos",
+  "team": "FlyQuest",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+  "team_short": "FLY",
+  "team_slug": "flyquest",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.28,
+  "win_rate": 0.4545,
+  "wins": 5
+ },
+ {
+  "assists": 60,
+  "champions": [
+   {
+    "champion": "Pantheon",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Wukong",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ivern",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.31,
+  "deaths": 29,
+  "dpm": 363.6,
+  "games": 11,
+  "gpm": 402.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/FLY_Gryffinn_2026_Split_1.png",
+  "kda": 2.9,
+  "kills": 24,
+  "kp": 0.7179,
+  "losses": 6,
+  "minutes": 345.3,
+  "player": "Gryffinn",
+  "player_id": "Gryffinn",
+  "role": "Jungle",
+  "slug": "gryffinn",
+  "team": "FlyQuest",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+  "team_short": "FLY",
+  "team_slug": "flyquest",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.61,
+  "win_rate": 0.4545,
+  "wins": 5
+ },
+ {
+  "assists": 42,
+  "champions": [
+   {
+    "champion": "Ziggs",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Kalista",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.69,
+  "deaths": 29,
+  "dpm": 673.6,
+  "games": 11,
+  "gpm": 457.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FLY_Massu_2026_Split_1.png",
+  "kda": 2.86,
+  "kills": 41,
+  "kp": 0.7094,
+  "losses": 6,
+  "minutes": 345.3,
+  "player": "Massu",
+  "player_id": "Massu",
+  "role": "Bot",
+  "slug": "massu",
+  "team": "FlyQuest",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+  "team_short": "FLY",
+  "team_slug": "flyquest",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.29,
+  "win_rate": 0.4545,
+  "wins": 5
+ },
+ {
+  "assists": 52,
+  "champions": [
+   {
+    "champion": "Orianna",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Sylas",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Hwei",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.67,
+  "deaths": 25,
+  "dpm": 581.5,
+  "games": 11,
+  "gpm": 376.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/FLY_Quad_2026_Split_1.png",
+  "kda": 3.04,
+  "kills": 24,
+  "kp": 0.6496,
+  "losses": 6,
+  "minutes": 345.3,
+  "player": "Quad",
+  "player_id": "Quad",
+  "role": "Mid",
+  "slug": "quad",
+  "team": "FlyQuest",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+  "team_short": "FLY",
+  "team_slug": "flyquest",
+  "tournament": "LCS/2026 Season/Summer Playoffs",
+  "vspm": 1.31,
+  "win_rate": 0.4545,
+  "wins": 5
  },
  {
   "assists": 42,
@@ -16240,59 +16664,6 @@
   "vspm": 1.45,
   "win_rate": 0.25,
   "wins": 2
- },
- {
-  "assists": 31,
-  "champions": [
-   {
-    "champion": "K'Sante",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Gnar",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Malphite",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.98,
-  "deaths": 23,
-  "dpm": 542.2,
-  "games": 8,
-  "gpm": 388.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/SR_Fudge_2026_Split_1.png",
-  "kda": 2.13,
-  "kills": 18,
-  "kp": 0.6282,
-  "losses": 5,
-  "minutes": 260.2,
-  "player": "Fudge",
-  "player_id": "Fudge",
-  "role": "Top",
-  "slug": "fudge",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.28,
-  "win_rate": 0.375,
-  "wins": 3
  },
  {
   "assists": 46,
@@ -16505,112 +16876,6 @@
   "vspm": 1.43,
   "win_rate": 0.25,
   "wins": 2
- },
- {
-  "assists": 61,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Leona",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 0.91,
-  "deaths": 22,
-  "dpm": 144.5,
-  "games": 8,
-  "gpm": 242.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/SR_Zeyzal_2024_Split_1.png",
-  "kda": 2.86,
-  "kills": 2,
-  "kp": 0.8077,
-  "losses": 5,
-  "minutes": 260.2,
-  "player": "Zeyzal",
-  "player_id": "Zeyzal",
-  "role": "Support",
-  "slug": "zeyzal",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 3.57,
-  "win_rate": 0.375,
-  "wins": 3
- },
- {
-  "assists": 30,
-  "champions": [
-   {
-    "champion": "Annie",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Lissandra",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Locke",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Ryze",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.58,
-  "deaths": 24,
-  "dpm": 592.7,
-  "games": 8,
-  "gpm": 387.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/SR_Zinie_2026_Split_1.png",
-  "kda": 2.29,
-  "kills": 25,
-  "kp": 0.7051,
-  "losses": 5,
-  "minutes": 260.2,
-  "player": "Zinie",
-  "player_id": "Zinie",
-  "role": "Mid",
-  "slug": "zinie",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.35,
-  "win_rate": 0.375,
-  "wins": 3
  },
  {
   "assists": 64,
@@ -16876,261 +17141,6 @@
   "vspm": 3.95,
   "win_rate": 0.8571,
   "wins": 6
- },
- {
-  "assists": 57,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nautilus",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Renata Glasc",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.06,
-  "deaths": 17,
-  "dpm": 157.8,
-  "games": 6,
-  "gpm": 250.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/FLY_Cryogen_2026_Split_1.png",
-  "kda": 3.47,
-  "kills": 2,
-  "kp": 0.8551,
-  "losses": 3,
-  "minutes": 208.6,
-  "player": "Cryogen",
-  "player_id": "Cryogen",
-  "role": "Support",
-  "slug": "cryogen",
-  "team": "FlyQuest",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-  "team_short": "FLY",
-  "team_slug": "flyquest",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 4.14,
-  "win_rate": 0.5,
-  "wins": 3
- },
- {
-  "assists": 32,
-  "champions": [
-   {
-    "champion": "Jayce",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Rumble",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Twisted Fate",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.28,
-  "deaths": 16,
-  "dpm": 614.5,
-  "games": 6,
-  "gpm": 389.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/FLY_Gakgos_2026_Split_1.png",
-  "kda": 2.81,
-  "kills": 13,
-  "kp": 0.6522,
-  "losses": 3,
-  "minutes": 208.6,
-  "player": "Gakgos",
-  "player_id": "Gakgos",
-  "role": "Top",
-  "slug": "gakgos",
-  "team": "FlyQuest",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-  "team_short": "FLY",
-  "team_slug": "flyquest",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.4,
-  "win_rate": 0.5,
-  "wins": 3
- },
- {
-  "assists": 35,
-  "champions": [
-   {
-    "champion": "Pantheon",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Wukong",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.35,
-  "deaths": 13,
-  "dpm": 364.3,
-  "games": 6,
-  "gpm": 394.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/FLY_Gryffinn_2026_Split_1.png",
-  "kda": 3.69,
-  "kills": 13,
-  "kp": 0.6957,
-  "losses": 3,
-  "minutes": 208.6,
-  "player": "Gryffinn",
-  "player_id": "Gryffinn",
-  "role": "Jungle",
-  "slug": "gryffinn",
-  "team": "FlyQuest",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-  "team_short": "FLY",
-  "team_slug": "flyquest",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.64,
-  "win_rate": 0.5,
-  "wins": 3
- },
- {
-  "assists": 24,
-  "champions": [
-   {
-    "champion": "Ziggs",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Ezreal",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Kalista",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.86,
-  "deaths": 15,
-  "dpm": 714.5,
-  "games": 6,
-  "gpm": 465.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FLY_Massu_2026_Split_1.png",
-  "kda": 3.47,
-  "kills": 28,
-  "kp": 0.7536,
-  "losses": 3,
-  "minutes": 208.6,
-  "player": "Massu",
-  "player_id": "Massu",
-  "role": "Bot",
-  "slug": "massu",
-  "team": "FlyQuest",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-  "team_short": "FLY",
-  "team_slug": "flyquest",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.28,
-  "win_rate": 0.5,
-  "wins": 3
- },
- {
-  "assists": 36,
-  "champions": [
-   {
-    "champion": "Sylas",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Hwei",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Taliyah",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Viktor",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.47,
-  "deaths": 13,
-  "dpm": 606.3,
-  "games": 6,
-  "gpm": 365.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/FLY_Quad_2026_Split_1.png",
-  "kda": 3.77,
-  "kills": 13,
-  "kp": 0.7101,
-  "losses": 3,
-  "minutes": 208.6,
-  "player": "Quad",
-  "player_id": "Quad",
-  "role": "Mid",
-  "slug": "quad",
-  "team": "FlyQuest",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-  "team_short": "FLY",
-  "team_slug": "flyquest",
-  "tournament": "LCS/2026 Season/Summer Playoffs",
-  "vspm": 1.29,
-  "win_rate": 0.5,
-  "wins": 3
  },
  {
   "assists": 14,

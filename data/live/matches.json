@@ -10626,16 +10626,16 @@
    "short": "FLY",
    "slug": "flyquest"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
    "name": "Shopify Rebellion",
    "short": "SR",
    "slug": "shopify-rebellion"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -10709,10 +10709,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+   "name": "Shopify Rebellion",
+   "short": "SR",
+   "slug": "shopify-rebellion"
   },
   "team2_score": null,
   "tournament": "LCS/2026 Season/Summer Playoffs",
