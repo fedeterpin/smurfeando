@@ -20,7 +20,7 @@
   "year": "2026"
  },
  {
-  "games": 22,
+  "games": 27,
   "is_playoffs": true,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -173,7 +173,7 @@
   "year": "2026"
  },
  {
-  "games": 45,
+  "games": 49,
   "is_playoffs": false,
   "league": "World Star Challengers Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/WSCI_Logo.png",
@@ -313,7 +313,7 @@
   "year": "2026"
  },
  {
-  "games": 23,
+  "games": 27,
   "is_playoffs": true,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
@@ -419,7 +419,7 @@
   "year": "2026"
  },
  {
-  "games": 10,
+  "games": 13,
   "is_playoffs": true,
   "league": "Vietnam Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",

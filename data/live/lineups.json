@@ -400,6 +400,106 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
+  "image": null,
+  "player": "Zynts",
+  "player_id": "zynts",
+  "role": "Top",
+  "slug": "zynts",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/RED_STEPZ_2026_Split_2.png",
+  "player": "STEPZ (Eloy Rodríguez)",
+  "player_id": "STEPZ",
+  "role": "Jungle",
+  "slug": "stepz",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/RED_Fuuu_2026_Split_2.png",
+  "player": "Fuuu",
+  "player_id": "Fuuu",
+  "role": "Mid",
+  "slug": "fuuu",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/RED_Morttheus_2026_Split_2.png",
+  "player": "Morttheus",
+  "player_id": "Morttheus",
+  "role": "Bot",
+  "slug": "morttheus",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/RED_Manel_2026_Split_2.png",
+  "player": "Manel",
+  "player_id": "Manel",
+  "role": "Support",
+  "slug": "manel",
+  "source": "roster",
+  "team": "RED Canids",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/SR_Fudge_2026_Split_1.png",
+  "player": "Fudge",
+  "player_id": "Fudge",
+  "role": "Top",
+  "slug": "fudge",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/SR_Contractz_2026_Split_1.png",
+  "player": "Contractz",
+  "player_id": "Contractz",
+  "role": "Jungle",
+  "slug": "contractz",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/SR_Zinie_2026_Split_1.png",
+  "player": "Zinie",
+  "player_id": "Zinie",
+  "role": "Mid",
+  "slug": "zinie",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/SR_Bvoy_2026_Split_1.png",
+  "player": "Bvoy",
+  "player_id": "Bvoy",
+  "role": "Bot",
+  "slug": "bvoy",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/SR_Zeyzal_2024_Split_1.png",
+  "player": "Zeyzal",
+  "player_id": "Zeyzal",
+  "role": "Support",
+  "slug": "zeyzal",
+  "source": "roster",
+  "team": "Shopify Rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/34/VIT_Naak_Nako_2026_Split_3.png",
   "player": "Naak Nako",
   "player_id": "Naak Nako",
