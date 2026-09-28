@@ -10822,9 +10822,9 @@
    "short": "LOS",
    "slug": "l-s"
   },
-  "team2_score": 2,
+  "team2_score": 3,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -10842,16 +10842,16 @@
    "short": "C9",
    "slug": "cloud9"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
    "name": "Team Liquid",
    "short": "TL",
    "slug": "team-liquid"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -10869,16 +10869,16 @@
    "short": "T1.EA",
    "slug": "t1-esports-academy"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
    "name": "Cupid Esports",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -10896,20 +10896,20 @@
    "short": "KT.C",
    "slug": "kt-rolster-challengers"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
    "name": "Galions",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "2026 World Star Challengers Invitational",
   "winner": null
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-09-28 16:00:00",
+  "datetime_utc": "2026-09-28 21:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2027 Season/Promotion_Play-In_1",
@@ -10936,7 +10936,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-09-29 16:00:00",
+  "datetime_utc": "2026-09-29 21:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2027 Season/Promotion_Round 1_1",
@@ -10999,10 +10999,10 @@
   "round": null,
   "tab": "Semifinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
   },
   "team1_score": null,
   "team2": {
@@ -11017,7 +11017,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-09-30 16:00:00",
+  "datetime_utc": "2026-09-30 21:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2027 Season/Promotion_Round 1_2",
@@ -11044,7 +11044,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-01 16:00:00",
+  "datetime_utc": "2026-10-01 21:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2027 Season/Promotion_Round 2_1",
@@ -11098,7 +11098,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-03 14:59:00",
+  "datetime_utc": "2026-10-03 08:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 1_1",
@@ -11125,7 +11125,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-03 14:59:00",
+  "datetime_utc": "2026-10-03 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 1_2",
@@ -11152,7 +11152,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-03 14:59:00",
+  "datetime_utc": "2026-10-03 10:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 1_3",
@@ -11179,7 +11179,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-03 14:59:00",
+  "datetime_utc": "2026-10-03 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 1_4",
@@ -11206,7 +11206,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-03 14:59:00",
+  "datetime_utc": "2026-10-03 12:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 1_5",
@@ -11233,7 +11233,7 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-03 14:59:00",
+  "datetime_utc": "2026-10-03 13:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 1_6",
@@ -11269,10 +11269,10 @@
   "round": null,
   "tab": "Round 4",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/LOUDlogo_profile.png",
+   "name": "LOUD",
+   "short": "LOUD",
+   "slug": "loud"
   },
   "team1_score": null,
   "team2": {
@@ -11296,10 +11296,10 @@
   "round": null,
   "tab": "Round 4",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+   "name": "Cloud9",
+   "short": "C9",
+   "slug": "cloud9"
   },
   "team1_score": null,
   "team2": {
@@ -11314,7 +11314,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-04 14:59:00",
+  "datetime_utc": "2026-10-04 07:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 2_1",
@@ -11341,7 +11341,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-04 14:59:00",
+  "datetime_utc": "2026-10-04 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 2_2",
@@ -11368,7 +11368,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-04 14:59:00",
+  "datetime_utc": "2026-10-04 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 2_3",
@@ -11404,10 +11404,10 @@
   "round": null,
   "tab": "Finals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
+   "name": "Team Liquid",
+   "short": "TL",
+   "slug": "team-liquid"
   },
   "team1_score": null,
   "team2": {
@@ -11422,7 +11422,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-05 14:59:00",
+  "datetime_utc": "2026-10-05 07:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 2_4",
@@ -11449,7 +11449,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-05 14:59:00",
+  "datetime_utc": "2026-10-05 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 2_5",
@@ -11476,7 +11476,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-05 14:59:00",
+  "datetime_utc": "2026-10-05 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 2_6",
@@ -11499,33 +11499,6 @@
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-10-05 16:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "CBLOL/2027 Season/Promotion_Round 1_3",
-  "patch": null,
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "team2_score": null,
-  "tournament": "CBLOL/2027 Season/Promotion",
   "winner": null
  },
  {
@@ -11556,8 +11529,35 @@
   "winner": null
  },
  {
+  "best_of": 5,
+  "datetime_utc": "2026-10-05 21:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2027 Season/Promotion_Round 1_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "winner": null
+ },
+ {
   "best_of": 3,
-  "datetime_utc": "2026-10-06 14:59:00",
+  "datetime_utc": "2026-10-06 07:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 3_1",
@@ -11584,7 +11584,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-06 14:59:00",
+  "datetime_utc": "2026-10-06 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 3_2",
@@ -11611,7 +11611,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-06 14:59:00",
+  "datetime_utc": "2026-10-06 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 3_3",
@@ -11634,33 +11634,6 @@
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-10-06 16:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "CBLOL/2027 Season/Promotion_Round 2_2",
-  "patch": null,
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "team2_score": null,
-  "tournament": "CBLOL/2027 Season/Promotion",
   "winner": null
  },
  {
@@ -11691,8 +11664,35 @@
   "winner": null
  },
  {
+  "best_of": 5,
+  "datetime_utc": "2026-10-06 21:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2027 Season/Promotion_Round 2_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "winner": null
+ },
+ {
   "best_of": 3,
-  "datetime_utc": "2026-10-07 14:59:00",
+  "datetime_utc": "2026-10-07 07:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 3_4",
@@ -11719,7 +11719,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-07 14:59:00",
+  "datetime_utc": "2026-10-07 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 3_5",
@@ -11746,7 +11746,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-07 14:59:00",
+  "datetime_utc": "2026-10-07 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 3_6",
@@ -11800,7 +11800,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-08 14:59:00",
+  "datetime_utc": "2026-10-08 07:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 4_1",
@@ -11827,7 +11827,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-08 14:59:00",
+  "datetime_utc": "2026-10-08 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 4_2",
@@ -11917,10 +11917,10 @@
   "round": null,
   "tab": "Finals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
   },
   "team1_score": null,
   "team2": {
@@ -11989,7 +11989,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-12 14:59:00",
+  "datetime_utc": "2026-10-12 06:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_1",
@@ -12016,7 +12016,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-12 14:59:00",
+  "datetime_utc": "2026-10-12 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_2",
@@ -12039,33 +12039,6 @@
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-10-12 16:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "CBLOL/2027 Season/Promotion_Finals_1",
-  "patch": null,
-  "phase": null,
-  "round": null,
-  "tab": "Finals",
-  "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "team2_score": null,
-  "tournament": "CBLOL/2027 Season/Promotion",
   "winner": null
  },
  {
@@ -12097,7 +12070,34 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-13 14:59:00",
+  "datetime_utc": "2026-10-12 21:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2027 Season/Promotion_Finals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Finals",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-13 06:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_3",
@@ -12124,7 +12124,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-13 14:59:00",
+  "datetime_utc": "2026-10-13 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_4",
@@ -12151,7 +12151,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-14 14:59:00",
+  "datetime_utc": "2026-10-14 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Semifinals_1",
@@ -12178,7 +12178,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-14 14:59:00",
+  "datetime_utc": "2026-10-15 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Semifinals_2",
@@ -12313,7 +12313,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-17 14:59:00",
+  "datetime_utc": "2026-10-17 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Finals_1",

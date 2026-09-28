@@ -1100,6 +1100,56 @@
   "tournament": "2026 Season World Championship/Main Event"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3a/TL_Morgan_2026_Split_1.png",
+  "player": "Morgan",
+  "player_id": "Morgan",
+  "role": "Top",
+  "slug": "morgan",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/TL_Josedeodo_2026_Split_1.png",
+  "player": "Josedeodo",
+  "player_id": "Josedeodo",
+  "role": "Jungle",
+  "slug": "josedeodo",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/TL_Quid_2026_Split_1.png",
+  "player": "Quid",
+  "player_id": "Quid",
+  "role": "Mid",
+  "slug": "quid",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/TL_Yeon_2026_Split_1.png",
+  "player": "Yeon (Sean Sung)",
+  "player_id": "Yeon",
+  "role": "Bot",
+  "slug": "yeon",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/TL_CoreJJ_2026_Split_1.png",
+  "player": "CoreJJ",
+  "player_id": "CoreJJ",
+  "role": "Support",
+  "slug": "corejj",
+  "source": "roster",
+  "team": "Team Liquid",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/TSW_Pun_2026_Split_2.png",
   "player": "Pun",
   "player_id": "Pun",

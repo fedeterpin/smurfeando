@@ -569,10 +569,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/af/TBD_9logo_square.png",
-   "name": "TBD 9",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
+   "name": "Team Liquid",
+   "short": "TL",
+   "slug": "team-liquid"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
