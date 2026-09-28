@@ -1378,6 +1378,218 @@
   "wins": 8
  },
  {
+  "assists": 52,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Camille",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "K'Sante",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Cho'Gath",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.21,
+  "deaths": 16,
+  "dpm": 618.5,
+  "games": 9,
+  "gpm": 411.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/GL_Carlsen_2026_Split_1.png",
+  "kda": 5.5,
+  "kills": 36,
+  "kp": 0.4536,
+  "losses": 2,
+  "minutes": 269.6,
+  "player": "Carlsen",
+  "player_id": "Carlsen",
+  "role": "Top",
+  "slug": "carlsen",
+  "team": "Galions",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.0,
+  "win_rate": 0.7778,
+  "wins": 7
+ },
+ {
+  "assists": 54,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.93,
+  "deaths": 35,
+  "dpm": 930.8,
+  "games": 9,
+  "gpm": 512.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dd/KT.C_FenRir_2026_Split_1.png",
+  "kda": 2.86,
+  "kills": 46,
+  "kp": 0.6369,
+  "losses": 4,
+  "minutes": 276.5,
+  "player": "FenRir (Park Kang-jun)",
+  "player_id": "FenRir",
+  "role": "Bot",
+  "slug": "fenrir",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.48,
+  "win_rate": 0.5556,
+  "wins": 5
+ },
+ {
+  "assists": 77,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.58,
+  "deaths": 37,
+  "dpm": 853.5,
+  "games": 9,
+  "gpm": 525.7,
+  "image": null,
+  "kda": 3.43,
+  "kills": 50,
+  "kp": 0.6546,
+  "losses": 2,
+  "minutes": 269.6,
+  "player": "HARPOON",
+  "player_id": "HARPOON",
+  "role": "Bot",
+  "slug": null,
+  "team": "Galions",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.13,
+  "win_rate": 0.7778,
+  "wins": 7
+ },
+ {
+  "assists": 46,
+  "champions": [
+   {
+    "champion": "Syndra",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "LeBlanc",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lissandra",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.43,
+  "deaths": 26,
+  "dpm": 817.1,
+  "games": 9,
+  "gpm": 445.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/KT.C_Hwichan_2026_Split_1.png",
+  "kda": 3.31,
+  "kills": 40,
+  "kp": 0.5478,
+  "losses": 4,
+  "minutes": 276.5,
+  "player": "Hwichan",
+  "player_id": "Hwichan",
+  "role": "Mid",
+  "slug": "hwichan",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.12,
+  "win_rate": 0.5556,
+  "wins": 5
+ },
+ {
   "assists": 79,
   "champions": [
    {
@@ -1484,6 +1696,59 @@
   "wins": 8
  },
  {
+  "assists": 63,
+  "champions": [
+   {
+    "champion": "Cassiopeia",
+    "games": 3,
+    "wins": 1
+   },
+   {
+    "champion": "Locke",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ryze",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.84,
+  "deaths": 35,
+  "dpm": 653.2,
+  "games": 9,
+  "gpm": 407.0,
+  "image": null,
+  "kda": 3.23,
+  "kills": 50,
+  "kp": 0.5825,
+  "losses": 2,
+  "minutes": 269.6,
+  "player": "OMON",
+  "player_id": "OMON",
+  "role": "Mid",
+  "slug": null,
+  "team": "Galions",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.21,
+  "win_rate": 0.7778,
+  "wins": 7
+ },
+ {
   "assists": 145,
   "champions": [
    {
@@ -1537,6 +1802,218 @@
   "wins": 8
  },
  {
+  "assists": 102,
+  "champions": [
+   {
+    "champion": "Nautilus",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.89,
+  "deaths": 40,
+  "dpm": 220.6,
+  "games": 9,
+  "gpm": 280.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/KT_Pollu_2026_Split_1.png",
+  "kda": 2.7,
+  "kills": 6,
+  "kp": 0.6879,
+  "losses": 4,
+  "minutes": 276.5,
+  "player": "Pollu",
+  "player_id": "Pollu",
+  "role": "Support",
+  "slug": "pollu",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 3.86,
+  "win_rate": 0.5556,
+  "wins": 5
+ },
+ {
+  "assists": 34,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 4,
+    "wins": 4
+   },
+   {
+    "champion": "Irelia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.27,
+  "deaths": 35,
+  "dpm": 727.6,
+  "games": 9,
+  "gpm": 407.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/39/KT.C_Sero_2026_Split_1.png",
+  "kda": 1.94,
+  "kills": 34,
+  "kp": 0.4331,
+  "losses": 4,
+  "minutes": 276.5,
+  "player": "Sero",
+  "player_id": "Sero",
+  "role": "Top",
+  "slug": "sero",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.08,
+  "win_rate": 0.5556,
+  "wins": 5
+ },
+ {
+  "assists": 74,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Pantheon",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.55,
+  "deaths": 30,
+  "dpm": 441.4,
+  "games": 9,
+  "gpm": 391.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/KT.C_Sylvie_2026_Split_1.png",
+  "kda": 3.5,
+  "kills": 31,
+  "kp": 0.6688,
+  "losses": 4,
+  "minutes": 276.5,
+  "player": "Sylvie",
+  "player_id": "Sylvie",
+  "role": "Jungle",
+  "slug": "sylvie",
+  "team": "KT Rolster Challengers",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT.C",
+  "team_slug": "kt-rolster-challengers",
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.65,
+  "win_rate": 0.5556,
+  "wins": 5
+ },
+ {
+  "assists": 77,
+  "champions": [
+   {
+    "champion": "Wukong",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.2,
+  "deaths": 24,
+  "dpm": 539.7,
+  "games": 9,
+  "gpm": 453.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/GL_Thayger_2026_Split_1.png",
+  "kda": 5.12,
+  "kills": 46,
+  "kp": 0.634,
+  "losses": 2,
+  "minutes": 269.6,
+  "player": "Thayger",
+  "player_id": "Thayger",
+  "role": "Jungle",
+  "slug": "thayger",
+  "team": "Galions",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 1.36,
+  "win_rate": 0.7778,
+  "wins": 7
+ },
+ {
   "assists": 86,
   "champions": [
    {
@@ -1588,6 +2065,59 @@
   "vspm": 1.64,
   "win_rate": 0.8889,
   "wins": 8
+ },
+ {
+  "assists": 144,
+  "champions": [
+   {
+    "champion": "Seraphine",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Lulu",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lux",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.11,
+  "deaths": 27,
+  "dpm": 290.8,
+  "games": 9,
+  "gpm": 299.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/GL_Zoelys_2026_Split_1.png",
+  "kda": 5.78,
+  "kills": 12,
+  "kp": 0.8041,
+  "losses": 2,
+  "minutes": 269.6,
+  "player": "Zoelys",
+  "player_id": "Zoelys",
+  "role": "Support",
+  "slug": "zoelys",
+  "team": "Galions",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "2026 World Star Challengers Invitational",
+  "vspm": 3.56,
+  "win_rate": 0.7778,
+  "wins": 7
  },
  {
   "assists": 53,
@@ -1792,59 +2322,6 @@
   "wins": 2
  },
  {
-  "assists": 28,
-  "champions": [
-   {
-    "champion": "K'Sante",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Akali",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Galio",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.67,
-  "deaths": 12,
-  "dpm": 662.3,
-  "games": 6,
-  "gpm": 420.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/GL_Carlsen_2026_Split_1.png",
-  "kda": 4.17,
-  "kills": 22,
-  "kp": 0.4762,
-  "losses": 2,
-  "minutes": 169.5,
-  "player": "Carlsen",
-  "player_id": "Carlsen",
-  "role": "Top",
-  "slug": "carlsen",
-  "team": "Galions",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 0.99,
-  "win_rate": 0.6667,
-  "wins": 4
- },
- {
   "assists": 33,
   "champions": [
    {
@@ -1999,59 +2476,6 @@
   "wins": 0
  },
  {
-  "assists": 32,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jhin",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Xayah",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.14,
-  "deaths": 16,
-  "dpm": 829.5,
-  "games": 6,
-  "gpm": 518.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dd/KT.C_FenRir_2026_Split_1.png",
-  "kda": 4.0,
-  "kills": 32,
-  "kp": 0.5766,
-  "losses": 1,
-  "minutes": 176.4,
-  "player": "FenRir (Park Kang-jun)",
-  "player_id": "FenRir",
-  "role": "Bot",
-  "slug": "fenrir",
-  "team": "KT Rolster Challengers",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT.C",
-  "team_slug": "kt-rolster-challengers",
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 1.56,
-  "win_rate": 0.8333,
-  "wins": 5
- },
- {
   "assists": 17,
   "champions": [
    {
@@ -2105,54 +2529,6 @@
   "wins": 1
  },
  {
-  "assists": 30,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Kalista",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.87,
-  "deaths": 24,
-  "dpm": 609.8,
-  "games": 6,
-  "gpm": 509.6,
-  "image": null,
-  "kda": 2.29,
-  "kills": 25,
-  "kp": 0.5238,
-  "losses": 2,
-  "minutes": 169.5,
-  "player": "HARPOON",
-  "player_id": "HARPOON",
-  "role": "Bot",
-  "slug": null,
-  "team": "Galions",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 1.09,
-  "win_rate": 0.6667,
-  "wins": 4
- },
- {
   "assists": 31,
   "champions": [
    {
@@ -2194,49 +2570,6 @@
   "vspm": 1.38,
   "win_rate": 0.5,
   "wins": 3
- },
- {
-  "assists": 32,
-  "champions": [
-   {
-    "champion": "Syndra",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Cassiopeia",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.58,
-  "deaths": 12,
-  "dpm": 732.2,
-  "games": 6,
-  "gpm": 449.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/KT.C_Hwichan_2026_Split_1.png",
-  "kda": 4.92,
-  "kills": 27,
-  "kp": 0.5315,
-  "losses": 1,
-  "minutes": 176.4,
-  "player": "Hwichan",
-  "player_id": "Hwichan",
-  "role": "Mid",
-  "slug": "hwichan",
-  "team": "KT Rolster Challengers",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT.C",
-  "team_slug": "kt-rolster-challengers",
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 1.24,
-  "win_rate": 0.8333,
-  "wins": 5
  },
  {
   "assists": 44,
@@ -2686,107 +3019,6 @@
   "wins": 0
  },
  {
-  "assists": 31,
-  "champions": [
-   {
-    "champion": "Cassiopeia",
-    "games": 3,
-    "wins": 1
-   },
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Locke",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Ryze",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.75,
-  "deaths": 25,
-  "dpm": 623.3,
-  "games": 6,
-  "gpm": 399.1,
-  "image": null,
-  "kda": 2.44,
-  "kills": 30,
-  "kp": 0.581,
-  "losses": 2,
-  "minutes": 169.5,
-  "player": "OMON",
-  "player_id": "OMON",
-  "role": "Mid",
-  "slug": null,
-  "team": "Galions",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 1.23,
-  "win_rate": 0.6667,
-  "wins": 4
- },
- {
-  "assists": 68,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nautilus",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 0.92,
-  "deaths": 17,
-  "dpm": 221.2,
-  "games": 6,
-  "gpm": 293.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/KT_Pollu_2026_Split_1.png",
-  "kda": 4.24,
-  "kills": 4,
-  "kp": 0.6486,
-  "losses": 1,
-  "minutes": 176.4,
-  "player": "Pollu",
-  "player_id": "Pollu",
-  "role": "Support",
-  "slug": "pollu",
-  "team": "KT Rolster Challengers",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT.C",
-  "team_slug": "kt-rolster-challengers",
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 3.76,
-  "win_rate": 0.8333,
-  "wins": 5
- },
- {
   "assists": 35,
   "champions": [
    {
@@ -2919,49 +3151,6 @@
   "vspm": 1.58,
   "win_rate": 0.3333,
   "wins": 2
- },
- {
-  "assists": 24,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 4,
-    "wins": 4
-   },
-   {
-    "champion": "Irelia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.03,
-  "deaths": 18,
-  "dpm": 804.3,
-  "games": 6,
-  "gpm": 458.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/39/KT.C_Sero_2026_Split_1.png",
-  "kda": 3.06,
-  "kills": 31,
-  "kp": 0.4955,
-  "losses": 1,
-  "minutes": 176.4,
-  "player": "Sero",
-  "player_id": "Sero",
-  "role": "Top",
-  "slug": "sero",
-  "team": "KT Rolster Challengers",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT.C",
-  "team_slug": "kt-rolster-challengers",
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 1.04,
-  "win_rate": 0.8333,
-  "wins": 5
  },
  {
   "assists": 36,
@@ -3159,102 +3348,6 @@
   "vspm": 1.24,
   "win_rate": 0.3333,
   "wins": 2
- },
- {
-  "assists": 53,
-  "champions": [
-   {
-    "champion": "Pantheon",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Jarvan IV",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.84,
-  "deaths": 14,
-  "dpm": 424.9,
-  "games": 6,
-  "gpm": 405.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/KT.C_Sylvie_2026_Split_1.png",
-  "kda": 5.0,
-  "kills": 17,
-  "kp": 0.6306,
-  "losses": 1,
-  "minutes": 176.4,
-  "player": "Sylvie",
-  "player_id": "Sylvie",
-  "role": "Jungle",
-  "slug": "sylvie",
-  "team": "KT Rolster Challengers",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT.C",
-  "team_slug": "kt-rolster-challengers",
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 1.68,
-  "win_rate": 0.8333,
-  "wins": 5
- },
- {
-  "assists": 42,
-  "champions": [
-   {
-    "champion": "Wukong",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Naafiri",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Vi",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.34,
-  "deaths": 14,
-  "dpm": 403.8,
-  "games": 6,
-  "gpm": 436.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d5/GL_Thayger_2026_Split_1.png",
-  "kda": 4.5,
-  "kills": 21,
-  "kp": 0.6,
-  "losses": 2,
-  "minutes": 169.5,
-  "player": "Thayger",
-  "player_id": "Thayger",
-  "role": "Jungle",
-  "slug": "thayger",
-  "team": "Galions",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 1.32,
-  "win_rate": 0.6667,
-  "wins": 4
  },
  {
   "assists": 72,
@@ -3520,59 +3613,6 @@
   "vspm": 1.08,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 68,
-  "champions": [
-   {
-    "champion": "Seraphine",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lux",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Renata Glasc",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.14,
-  "deaths": 18,
-  "dpm": 252.0,
-  "games": 6,
-  "gpm": 293.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/GL_Zoelys_2026_Split_1.png",
-  "kda": 4.17,
-  "kills": 7,
-  "kp": 0.7143,
-  "losses": 2,
-  "minutes": 169.5,
-  "player": "Zoelys",
-  "player_id": "Zoelys",
-  "role": "Support",
-  "slug": "zoelys",
-  "team": "Galions",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "2026 World Star Challengers Invitational",
-  "vspm": 3.58,
-  "win_rate": 0.6667,
-  "wins": 4
  },
  {
   "assists": 29,

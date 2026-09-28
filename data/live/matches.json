@@ -10903,9 +10903,9 @@
    "short": null,
    "slug": null
   },
-  "team2_score": 2,
+  "team2_score": 3,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -11006,8 +11006,8 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
+   "name": "Galions",
    "short": null,
    "slug": null
   },
