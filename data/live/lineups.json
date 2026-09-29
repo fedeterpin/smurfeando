@@ -210,21 +210,21 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/JDG_JunJia_2026_Split_1.png",
-  "player": "JunJia",
-  "player_id": "JunJia",
+  "image": null,
+  "player": "Xiaofang",
+  "player_id": "xiaofang",
   "role": "Jungle",
-  "slug": "junjia",
+  "slug": "xiaofang",
   "source": "roster",
   "team": "JD Gaming",
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/JDG_HongQ_2026_Split_1.png",
-  "player": "HongQ",
-  "player_id": "HongQ",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/EDG_Angel_2026_Split_1.png",
+  "player": "Angel (Xiang Tao)",
+  "player_id": "Angel",
   "role": "Mid",
-  "slug": "hongq",
+  "slug": "angel",
   "source": "roster",
   "team": "JD Gaming",
   "tournament": "2026 Demacia Cup Global Invitational"
@@ -410,11 +410,11 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4a/RED_STEPZ_2026_Split_2.png",
-  "player": "STEPZ (Eloy Rodríguez)",
-  "player_id": "STEPZ",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/TSS_Aegis_2026_Split_1.png",
+  "player": "Aegis (Gabriel Lemos)",
+  "player_id": "Aegis",
   "role": "Jungle",
-  "slug": "stepz",
+  "slug": "aegis",
   "source": "roster",
   "team": "RED Canids",
   "tournament": "2026 Demacia Cup Global Invitational"

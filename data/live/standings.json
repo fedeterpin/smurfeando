@@ -29,50 +29,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
+   "name": "Team Vitality",
+   "short": "VIT",
+   "slug": "team-vitality"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -100,6 +60,26 @@
   "win_series": 0
  },
  {
+  "group": 2,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
   "group": 3,
   "loss_games": 0,
   "loss_series": 0,
@@ -113,6 +93,26 @@
    "name": "GAM Esports",
    "short": "GAM",
    "slug": "gam-esports"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 3,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -140,7 +140,7 @@
   "win_series": 0
  },
  {
-  "group": 5,
+  "group": 4,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -160,7 +160,7 @@
   "win_series": 0
  },
  {
-  "group": 6,
+  "group": 5,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -180,67 +180,7 @@
   "win_series": 0
  },
  {
-  "group": 7,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
-   "name": "LGD Gaming",
-   "short": "LGD",
-   "slug": "lgd-gaming"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 8,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
-   "name": "Natus Vincere",
-   "short": "NAVI",
-   "slug": "natus-vincere"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 9,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-   "name": "RED Canids",
-   "short": "RED",
-   "slug": "red-canids"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 10,
+  "group": 5,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -260,7 +200,7 @@
   "win_series": 0
  },
  {
-  "group": 11,
+  "group": 6,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -269,10 +209,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
-   "name": "Team Vitality",
-   "short": "VIT",
-   "slug": "team-vitality"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -280,7 +220,7 @@
   "win_series": 0
  },
  {
-  "group": 12,
+  "group": 6,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -289,10 +229,70 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-   "name": "Team WE",
-   "short": "WE",
-   "slug": "team-we"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 7,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 7,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 7,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",

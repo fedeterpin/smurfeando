@@ -37,14 +37,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 2,
   "is_playoffs": false,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
   "league_short": "CBLOL",
   "name": "CBLOL 2027 Promotion",
   "overview_page": "CBLOL/2027 Season/Promotion",
-  "patches": [],
+  "patches": [
+   "26.17"
+  ],
   "region": "brazil",
   "region_label": "Brazil",
   "slug": "cblol-2027-season-promotion",
