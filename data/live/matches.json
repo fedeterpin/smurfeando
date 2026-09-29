@@ -11107,6 +11107,60 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
+  },
+  "team2_score": null,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-10-03 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Demacia Cup Global Invitational_Round 1_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
+  },
+  "team2_score": null,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-10-03 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Demacia Cup Global Invitational_Round 1_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
    "name": "Shopify Rebellion",
    "short": "SR",
@@ -11125,37 +11179,10 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-03 09:00:00",
+  "datetime_utc": "2026-10-03 11:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "2026 Demacia Cup Global Invitational_Round 1_2",
-  "patch": null,
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-   "name": "HANJIN BRION",
-   "short": "BRO",
-   "slug": "hanjin-brion"
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-   "name": "JD Gaming",
-   "short": "JDG",
-   "slug": "jd-gaming"
-  },
-  "team2_score": null,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-10-03 10:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "2026 Demacia Cup Global Invitational_Round 1_3",
+  "match_id": "2026 Demacia Cup Global Invitational_Round 1_4",
   "patch": null,
   "phase": null,
   "round": null,
@@ -11172,33 +11199,6 @@
    "name": "BNK FEARX",
    "short": "BFX",
    "slug": "bnk-fearx"
-  },
-  "team2_score": null,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-10-03 11:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "2026 Demacia Cup Global Invitational_Round 1_4",
-  "patch": null,
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
-   "name": "LGD Gaming",
-   "short": "LGD",
-   "slug": "lgd-gaming"
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-   "name": "FlyQuest",
-   "short": "FLY",
-   "slug": "flyquest"
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -11242,17 +11242,17 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-   "name": "RED Canids",
-   "short": "RED",
-   "slug": "red-canids"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
-   "name": "Natus Vincere",
-   "short": "NAVI",
-   "slug": "natus-vincere"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -11800,7 +11800,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-08 07:00:00",
+  "datetime_utc": "2026-10-08 09:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 4_1",
@@ -11827,7 +11827,7 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-10-08 09:00:00",
+  "datetime_utc": "2026-10-08 11:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Round 4_2",
