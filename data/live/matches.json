@@ -11004,16 +11004,16 @@
    "short": "T1.EA",
    "slug": "t1-esports-academy"
   },
-  "team1_score": 2,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/61/Galionslogo_square.png",
    "name": "Galions",
    "short": null,
    "slug": null
   },
-  "team2_score": 0,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -11087,10 +11087,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1 Esports Academy",
+   "short": "T1.EA",
+   "slug": "t1-esports-academy"
   },
   "team2_score": null,
   "tournament": "2026 World Star Challengers Invitational",
