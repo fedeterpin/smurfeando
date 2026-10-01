@@ -7972,6 +7972,299 @@
   "wins": 1
  },
  {
+  "assists": 26,
+  "champions": [
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lissandra",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Taliyah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.66,
+  "deaths": 9,
+  "dpm": 608.8,
+  "games": 5,
+  "gpm": 391.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/KBM_Grevthar_2026_Split_1.png",
+  "kda": 4.67,
+  "kills": 16,
+  "kp": 0.5753,
+  "losses": 3,
+  "minutes": 139.4,
+  "player": "Grevthar",
+  "player_id": "Grevthar",
+  "role": "Mid",
+  "slug": "grevthar",
+  "team": "KaBuM! Ilha das Lendas",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
+  "team_short": "KBM",
+  "team_slug": "kabum-ilha-das-lendas",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.2,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 55,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.17,
+  "deaths": 16,
+  "dpm": 197.0,
+  "games": 5,
+  "gpm": 266.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a3/KBM_Guigs_2026_Split_1.png",
+  "kda": 3.56,
+  "kills": 2,
+  "kp": 0.7808,
+  "losses": 3,
+  "minutes": 139.4,
+  "player": "Guigs",
+  "player_id": "Guigs",
+  "role": "Support",
+  "slug": "guigs",
+  "team": "KaBuM! Ilha das Lendas",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
+  "team_short": "KBM",
+  "team_slug": "kabum-ilha-das-lendas",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 3.99,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 26,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Corki",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Sivir",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.2,
+  "deaths": 17,
+  "dpm": 847.9,
+  "games": 5,
+  "gpm": 481.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/KBM_Kojima_2026_Split_1.png",
+  "kda": 3.06,
+  "kills": 26,
+  "kp": 0.7123,
+  "losses": 3,
+  "minutes": 139.4,
+  "player": "Kojima",
+  "player_id": "Kojima",
+  "role": "Bot",
+  "slug": "kojima",
+  "team": "KaBuM! Ilha das Lendas",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
+  "team_short": "KBM",
+  "team_slug": "kabum-ilha-das-lendas",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.38,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 28,
+  "champions": [
+   {
+    "champion": "Nocturne",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.25,
+  "deaths": 21,
+  "dpm": 425.3,
+  "games": 5,
+  "gpm": 394.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/LEV_SCARY_LTA_2025_Split_1.png",
+  "kda": 2.33,
+  "kills": 21,
+  "kp": 0.6712,
+  "losses": 3,
+  "minutes": 139.4,
+  "player": "SCARY (Artur Queiroz)",
+  "player_id": "SCARY",
+  "role": "Jungle",
+  "slug": "scary",
+  "team": "KaBuM! Ilha das Lendas",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
+  "team_short": "KBM",
+  "team_slug": "kabum-ilha-das-lendas",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.25,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 19,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Gnar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.65,
+  "deaths": 16,
+  "dpm": 535.1,
+  "games": 5,
+  "gpm": 347.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/KBM_Yupps_2026_Split_1.png",
+  "kda": 1.69,
+  "kills": 8,
+  "kp": 0.3699,
+  "losses": 3,
+  "minutes": 139.4,
+  "player": "Yupps",
+  "player_id": "Yupps",
+  "role": "Top",
+  "slug": "yupps",
+  "team": "KaBuM! Ilha das Lendas",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
+  "team_short": "KBM",
+  "team_slug": "kabum-ilha-das-lendas",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 0.99,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 43,
+  "champions": [
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.11,
+  "deaths": 5,
+  "dpm": 317.6,
+  "games": 3,
+  "gpm": 313.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/LOS_Ackerman_2026_Split_2.png",
+  "kda": 10.2,
+  "kills": 8,
+  "kp": 0.8361,
+  "losses": 0,
+  "minutes": 89.8,
+  "player": "Ackerman (Gabriel Aparicio)",
+  "player_id": "Ackerman",
+  "role": "Support",
+  "slug": "ackerman",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 4.51,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
   "assists": 5,
   "champions": [
    {
@@ -8101,6 +8394,92 @@
   "wins": 3
  },
  {
+  "assists": 35,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Wukong",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.75,
+  "deaths": 12,
+  "dpm": 424.9,
+  "games": 3,
+  "gpm": 400.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/LOS_Curse_2026_Split_2.png",
+  "kda": 3.67,
+  "kills": 9,
+  "kp": 0.7213,
+  "losses": 0,
+  "minutes": 89.8,
+  "player": "Curse (Raí Yamada)",
+  "player_id": "Curse",
+  "role": "Jungle",
+  "slug": "curse",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.69,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 23,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.65,
+  "deaths": 9,
+  "dpm": 861.4,
+  "games": 3,
+  "gpm": 516.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LOS_Duduhh_2026_Split_2.png",
+  "kda": 4.44,
+  "kills": 17,
+  "kp": 0.6557,
+  "losses": 0,
+  "minutes": 89.8,
+  "player": "Duduhh",
+  "player_id": "Duduhh",
+  "role": "Bot",
+  "slug": "duduhh",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.24,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
   "assists": 14,
   "champions": [
    {
@@ -8185,6 +8564,49 @@
   "vspm": 0.7,
   "win_rate": 0.0,
   "wins": 0
+ },
+ {
+  "assists": 16,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.15,
+  "deaths": 7,
+  "dpm": 786.7,
+  "games": 3,
+  "gpm": 410.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/LOS_Feisty_2026_Split_2.png",
+  "kda": 4.14,
+  "kills": 13,
+  "kp": 0.4754,
+  "losses": 0,
+  "minutes": 89.8,
+  "player": "Feisty",
+  "player_id": "Feisty",
+  "role": "Mid",
+  "slug": "feisty",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.27,
+  "win_rate": 1.0,
+  "wins": 3
  },
  {
   "assists": 6,
@@ -8402,6 +8824,49 @@
   "wins": 0
  },
  {
+  "assists": 13,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Tristana",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.01,
+  "deaths": 5,
+  "dpm": 738.8,
+  "games": 3,
+  "gpm": 478.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LOS_Zest_2026_Split_2.png",
+  "kda": 5.4,
+  "kills": 14,
+  "kp": 0.4426,
+  "losses": 0,
+  "minutes": 89.8,
+  "player": "Zest (Kim Dong-min)",
+  "player_id": "Zest",
+  "role": "Top",
+  "slug": "zest-2",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.64,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
   "assists": 5,
   "champions": [
    {
@@ -8516,120 +8981,6 @@
   "wins": 0
  },
  {
-  "assists": 12,
-  "champions": [
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.59,
-  "deaths": 3,
-  "dpm": 651.6,
-  "games": 2,
-  "gpm": 399.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/KBM_Grevthar_2026_Split_1.png",
-  "kda": 6.0,
-  "kills": 6,
-  "kp": 0.5143,
-  "losses": 0,
-  "minutes": 49.6,
-  "player": "Grevthar",
-  "player_id": "Grevthar",
-  "role": "Mid",
-  "slug": "grevthar",
-  "team": "KaBuM! Ilha das Lendas",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
-  "team_short": "KBM",
-  "team_slug": "kabum-ilha-das-lendas",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.39,
-  "win_rate": 1.0,
-  "wins": 2
- },
- {
-  "assists": 28,
-  "champions": [
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Rakan",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.11,
-  "deaths": 5,
-  "dpm": 211.1,
-  "games": 2,
-  "gpm": 300.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a3/KBM_Guigs_2026_Split_1.png",
-  "kda": 6.0,
-  "kills": 2,
-  "kp": 0.8571,
-  "losses": 0,
-  "minutes": 49.6,
-  "player": "Guigs",
-  "player_id": "Guigs",
-  "role": "Support",
-  "slug": "guigs",
-  "team": "KaBuM! Ilha das Lendas",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
-  "team_short": "KBM",
-  "team_slug": "kabum-ilha-das-lendas",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 3.79,
-  "win_rate": 1.0,
-  "wins": 2
- },
- {
-  "assists": 12,
-  "champions": [
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Sivir",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.08,
-  "deaths": 3,
-  "dpm": 993.6,
-  "games": 2,
-  "gpm": 512.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f1/KBM_Kojima_2026_Split_1.png",
-  "kda": 7.67,
-  "kills": 11,
-  "kp": 0.6571,
-  "losses": 0,
-  "minutes": 49.6,
-  "player": "Kojima",
-  "player_id": "Kojima",
-  "role": "Bot",
-  "slug": "kojima",
-  "team": "KaBuM! Ilha das Lendas",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
-  "team_short": "KBM",
-  "team_slug": "kabum-ilha-das-lendas",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.57,
-  "win_rate": 1.0,
-  "wins": 2
- },
- {
   "assists": 5,
   "champions": [
    {
@@ -8668,44 +9019,6 @@
   "wins": 0
  },
  {
-  "assists": 16,
-  "champions": [
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.37,
-  "deaths": 4,
-  "dpm": 481.5,
-  "games": 2,
-  "gpm": 421.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/LEV_SCARY_LTA_2025_Split_1.png",
-  "kda": 6.25,
-  "kills": 9,
-  "kp": 0.7143,
-  "losses": 0,
-  "minutes": 49.6,
-  "player": "SCARY (Artur Queiroz)",
-  "player_id": "SCARY",
-  "role": "Jungle",
-  "slug": "scary",
-  "team": "KaBuM! Ilha das Lendas",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
-  "team_short": "KBM",
-  "team_slug": "kabum-ilha-das-lendas",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.25,
-  "win_rate": 1.0,
-  "wins": 2
- },
- {
   "assists": 6,
   "champions": [
    {
@@ -8742,44 +9055,6 @@
   "vspm": 1.01,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 10,
-  "champions": [
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.95,
-  "deaths": 3,
-  "dpm": 549.2,
-  "games": 2,
-  "gpm": 428.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/KBM_Yupps_2026_Split_1.png",
-  "kda": 5.67,
-  "kills": 7,
-  "kp": 0.4857,
-  "losses": 0,
-  "minutes": 49.6,
-  "player": "Yupps",
-  "player_id": "Yupps",
-  "role": "Top",
-  "slug": "yupps",
-  "team": "KaBuM! Ilha das Lendas",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
-  "team_short": "KBM",
-  "team_slug": "kabum-ilha-das-lendas",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.11,
-  "win_rate": 1.0,
-  "wins": 2
  },
  {
   "assists": 58,
