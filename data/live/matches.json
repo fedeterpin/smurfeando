@@ -11058,16 +11058,16 @@
    "short": "LOS",
    "slug": "l-s"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
    "name": "Estral Esports",
    "short": "EST",
    "slug": "estral-esports"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "CBLOL/2027 Season/Promotion",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -11085,14 +11085,14 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
    "name": "T1 Esports Academy",
    "short": "T1.EA",
    "slug": "t1-esports-academy"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
   "winner": null
  },
@@ -11674,10 +11674,10 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
+   "name": "Estral Esports",
+   "short": "EST",
+   "slug": "estral-esports"
   },
   "team1_score": null,
   "team2": {
@@ -12079,10 +12079,10 @@
   "round": null,
   "tab": "Finals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
   },
   "team1_score": null,
   "team2": {

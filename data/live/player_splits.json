@@ -7972,6 +7972,531 @@
   "wins": 1
  },
  {
+  "assists": 86,
+  "champions": [
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.94,
+  "deaths": 9,
+  "dpm": 274.6,
+  "games": 6,
+  "gpm": 291.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/LOS_Ackerman_2026_Split_2.png",
+  "kda": 10.56,
+  "kills": 9,
+  "kp": 0.7787,
+  "losses": 0,
+  "minutes": 197.1,
+  "player": "Ackerman (Gabriel Aparicio)",
+  "player_id": "Ackerman",
+  "role": "Support",
+  "slug": "ackerman",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 4.19,
+  "win_rate": 1.0,
+  "wins": 6
+ },
+ {
+  "assists": 43,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Sivir",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.32,
+  "deaths": 18,
+  "dpm": 755.4,
+  "games": 6,
+  "gpm": 491.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/EST_Brance_2026_Split_1.png",
+  "kda": 4.06,
+  "kills": 30,
+  "kp": 0.5448,
+  "losses": 3,
+  "minutes": 188.9,
+  "player": "Brance",
+  "player_id": "Brance",
+  "role": "Bot",
+  "slug": "brance",
+  "team": "Estral Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
+  "team_short": "EST",
+  "team_slug": "estral-esports",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.72,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 37,
+  "champions": [
+   {
+    "champion": "Rumble",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nasus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Poppy",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.84,
+  "deaths": 22,
+  "dpm": 734.1,
+  "games": 6,
+  "gpm": 378.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/FLY_Bwipo_2025_MSI.png",
+  "kda": 2.41,
+  "kills": 16,
+  "kp": 0.3955,
+  "losses": 3,
+  "minutes": 188.9,
+  "player": "Bwipo",
+  "player_id": "Bwipo",
+  "role": "Top",
+  "slug": "bwipo",
+  "team": "Estral Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
+  "team_short": "EST",
+  "team_slug": "estral-esports",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.22,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 58,
+  "champions": [
+   {
+    "champion": "Wukong",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.57,
+  "deaths": 21,
+  "dpm": 430.1,
+  "games": 6,
+  "gpm": 401.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/LOS_Curse_2026_Split_2.png",
+  "kda": 3.95,
+  "kills": 25,
+  "kp": 0.6803,
+  "losses": 0,
+  "minutes": 197.1,
+  "player": "Curse (Raí Yamada)",
+  "player_id": "Curse",
+  "role": "Jungle",
+  "slug": "curse",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.86,
+  "win_rate": 1.0,
+  "wins": 6
+ },
+ {
+  "assists": 45,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.87,
+  "deaths": 19,
+  "dpm": 880.1,
+  "games": 6,
+  "gpm": 504.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LOS_Duduhh_2026_Split_2.png",
+  "kda": 4.0,
+  "kills": 31,
+  "kp": 0.623,
+  "losses": 0,
+  "minutes": 197.1,
+  "player": "Duduhh",
+  "player_id": "Duduhh",
+  "role": "Bot",
+  "slug": "duduhh",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.46,
+  "win_rate": 1.0,
+  "wins": 6
+ },
+ {
+  "assists": 24,
+  "champions": [
+   {
+    "champion": "Locke",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Aurora",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.05,
+  "deaths": 18,
+  "dpm": 797.5,
+  "games": 6,
+  "gpm": 441.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/LOUD_Envy_2026_Split_1.png",
+  "kda": 4.11,
+  "kills": 50,
+  "kp": 0.5522,
+  "losses": 3,
+  "minutes": 188.9,
+  "player": "Envy (Bruno Farias)",
+  "player_id": "Envy",
+  "role": "Mid",
+  "slug": "envy",
+  "team": "Estral Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
+  "team_short": "EST",
+  "team_slug": "estral-esports",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 0.98,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 33,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Taliyah",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.33,
+  "deaths": 15,
+  "dpm": 810.4,
+  "games": 6,
+  "gpm": 419.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/LOS_Feisty_2026_Split_2.png",
+  "kda": 4.33,
+  "kills": 32,
+  "kp": 0.5328,
+  "losses": 0,
+  "minutes": 197.1,
+  "player": "Feisty",
+  "player_id": "Feisty",
+  "role": "Mid",
+  "slug": "feisty",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.21,
+  "win_rate": 1.0,
+  "wins": 6
+ },
+ {
+  "assists": 48,
+  "champions": [
+   {
+    "champion": "Cho'Gath",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.66,
+  "deaths": 14,
+  "dpm": 523.8,
+  "games": 6,
+  "gpm": 407.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/FUE_Oddie_2026_Split_1.png",
+  "kda": 5.57,
+  "kills": 30,
+  "kp": 0.5821,
+  "losses": 3,
+  "minutes": 188.9,
+  "player": "Oddie",
+  "player_id": "Oddie",
+  "role": "Jungle",
+  "slug": "oddie",
+  "team": "Estral Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
+  "team_short": "EST",
+  "team_slug": "estral-esports",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.45,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 82,
+  "champions": [
+   {
+    "champion": "Seraphine",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yuumi",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.2,
+  "deaths": 16,
+  "dpm": 293.5,
+  "games": 6,
+  "gpm": 295.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/EST_Telas_2026_Split_1.png",
+  "kda": 5.62,
+  "kills": 8,
+  "kp": 0.6716,
+  "losses": 3,
+  "minutes": 188.9,
+  "player": "Telas",
+  "player_id": "Telas",
+  "role": "Support",
+  "slug": "telas",
+  "team": "Estral Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
+  "team_short": "EST",
+  "team_slug": "estral-esports",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 3.95,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 37,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Tristana",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.61,
+  "deaths": 16,
+  "dpm": 796.4,
+  "games": 6,
+  "gpm": 452.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LOS_Zest_2026_Split_2.png",
+  "kda": 3.88,
+  "kills": 25,
+  "kp": 0.5082,
+  "losses": 0,
+  "minutes": 197.1,
+  "player": "Zest (Kim Dong-min)",
+  "player_id": "Zest",
+  "role": "Top",
+  "slug": "zest-2",
+  "team": "LØS",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+  "team_short": "LOS",
+  "team_slug": "l-s",
+  "tournament": "CBLOL/2027 Season/Promotion",
+  "vspm": 1.5,
+  "win_rate": 1.0,
+  "wins": 6
+ },
+ {
   "assists": 26,
   "champions": [
    {
@@ -8222,49 +8747,6 @@
   "wins": 2
  },
  {
-  "assists": 43,
-  "champions": [
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Karma",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.11,
-  "deaths": 5,
-  "dpm": 317.6,
-  "games": 3,
-  "gpm": 313.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/LOS_Ackerman_2026_Split_2.png",
-  "kda": 10.2,
-  "kills": 8,
-  "kp": 0.8361,
-  "losses": 0,
-  "minutes": 89.8,
-  "player": "Ackerman (Gabriel Aparicio)",
-  "player_id": "Ackerman",
-  "role": "Support",
-  "slug": "ackerman",
-  "team": "LØS",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-  "team_short": "LOS",
-  "team_slug": "l-s",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 4.51,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
   "assists": 5,
   "champions": [
    {
@@ -8306,221 +8788,6 @@
   "vspm": 1.33,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 29,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Sivir",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.01,
-  "deaths": 5,
-  "dpm": 887.5,
-  "games": 3,
-  "gpm": 554.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/EST_Brance_2026_Split_1.png",
-  "kda": 9.4,
-  "kills": 18,
-  "kp": 0.5109,
-  "losses": 0,
-  "minutes": 81.7,
-  "player": "Brance",
-  "player_id": "Brance",
-  "role": "Bot",
-  "slug": "brance",
-  "team": "Estral Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
-  "team_short": "EST",
-  "team_slug": "estral-esports",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.63,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 25,
-  "champions": [
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Poppy",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.74,
-  "deaths": 7,
-  "dpm": 812.2,
-  "games": 3,
-  "gpm": 414.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/FLY_Bwipo_2025_MSI.png",
-  "kda": 5.29,
-  "kills": 12,
-  "kp": 0.4022,
-  "losses": 0,
-  "minutes": 81.7,
-  "player": "Bwipo",
-  "player_id": "Bwipo",
-  "role": "Top",
-  "slug": "bwipo",
-  "team": "Estral Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
-  "team_short": "EST",
-  "team_slug": "estral-esports",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.03,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 35,
-  "champions": [
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Wukong",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.75,
-  "deaths": 12,
-  "dpm": 424.9,
-  "games": 3,
-  "gpm": 400.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/LOS_Curse_2026_Split_2.png",
-  "kda": 3.67,
-  "kills": 9,
-  "kp": 0.7213,
-  "losses": 0,
-  "minutes": 89.8,
-  "player": "Curse (Raí Yamada)",
-  "player_id": "Curse",
-  "role": "Jungle",
-  "slug": "curse",
-  "team": "LØS",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-  "team_short": "LOS",
-  "team_slug": "l-s",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.69,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 23,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Ezreal",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.65,
-  "deaths": 9,
-  "dpm": 861.4,
-  "games": 3,
-  "gpm": 516.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LOS_Duduhh_2026_Split_2.png",
-  "kda": 4.44,
-  "kills": 17,
-  "kp": 0.6557,
-  "losses": 0,
-  "minutes": 89.8,
-  "player": "Duduhh",
-  "player_id": "Duduhh",
-  "role": "Bot",
-  "slug": "duduhh",
-  "team": "LØS",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-  "team_short": "LOS",
-  "team_slug": "l-s",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.24,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 14,
-  "champions": [
-   {
-    "champion": "Cassiopeia",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Locke",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Ryze",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.3,
-  "deaths": 5,
-  "dpm": 936.9,
-  "games": 3,
-  "gpm": 494.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/LOUD_Envy_2026_Split_1.png",
-  "kda": 9.6,
-  "kills": 34,
-  "kp": 0.5217,
-  "losses": 0,
-  "minutes": 81.7,
-  "player": "Envy (Bruno Farias)",
-  "player_id": "Envy",
-  "role": "Mid",
-  "slug": "envy",
-  "team": "Estral Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
-  "team_short": "EST",
-  "team_slug": "estral-esports",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 0.94,
-  "win_rate": 1.0,
-  "wins": 3
  },
  {
   "assists": 8,
@@ -8566,49 +8833,6 @@
   "wins": 0
  },
  {
-  "assists": 16,
-  "champions": [
-   {
-    "champion": "Akali",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Viktor",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.15,
-  "deaths": 7,
-  "dpm": 786.7,
-  "games": 3,
-  "gpm": 410.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/LOS_Feisty_2026_Split_2.png",
-  "kda": 4.14,
-  "kills": 13,
-  "kp": 0.4754,
-  "losses": 0,
-  "minutes": 89.8,
-  "player": "Feisty",
-  "player_id": "Feisty",
-  "role": "Mid",
-  "slug": "feisty",
-  "team": "LØS",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-  "team_short": "LOS",
-  "team_slug": "l-s",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.27,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
   "assists": 6,
   "champions": [
    {
@@ -8650,92 +8874,6 @@
   "vspm": 0.91,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 32,
-  "champions": [
-   {
-    "champion": "Cho'Gath",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Skarner",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.92,
-  "deaths": 5,
-  "dpm": 566.9,
-  "games": 3,
-  "gpm": 445.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/FUE_Oddie_2026_Split_1.png",
-  "kda": 10.6,
-  "kills": 21,
-  "kp": 0.5761,
-  "losses": 0,
-  "minutes": 81.7,
-  "player": "Oddie",
-  "player_id": "Oddie",
-  "role": "Jungle",
-  "slug": "oddie",
-  "team": "Estral Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
-  "team_short": "EST",
-  "team_slug": "estral-esports",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.25,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 57,
-  "champions": [
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yuumi",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.05,
-  "deaths": 4,
-  "dpm": 391.4,
-  "games": 3,
-  "gpm": 347.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/EST_Telas_2026_Split_1.png",
-  "kda": 16.0,
-  "kills": 7,
-  "kp": 0.6957,
-  "losses": 0,
-  "minutes": 81.7,
-  "player": "Telas",
-  "player_id": "Telas",
-  "role": "Support",
-  "slug": "telas",
-  "team": "Estral Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/Estral_Esportslogo_profile.png",
-  "team_short": "EST",
-  "team_slug": "estral-esports",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 3.49,
-  "win_rate": 1.0,
-  "wins": 3
  },
  {
   "assists": 10,
@@ -8822,49 +8960,6 @@
   "vspm": 1.13,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 13,
-  "champions": [
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Tristana",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.01,
-  "deaths": 5,
-  "dpm": 738.8,
-  "games": 3,
-  "gpm": 478.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LOS_Zest_2026_Split_2.png",
-  "kda": 5.4,
-  "kills": 14,
-  "kp": 0.4426,
-  "losses": 0,
-  "minutes": 89.8,
-  "player": "Zest (Kim Dong-min)",
-  "player_id": "Zest",
-  "role": "Top",
-  "slug": "zest-2",
-  "team": "LØS",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-  "team_short": "LOS",
-  "team_slug": "l-s",
-  "tournament": "CBLOL/2027 Season/Promotion",
-  "vspm": 1.64,
-  "win_rate": 1.0,
-  "wins": 3
  },
  {
   "assists": 5,
