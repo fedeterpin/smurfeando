@@ -143,14 +143,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 1,
   "is_playoffs": false,
   "league": "Demacia Cup Global Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Demacia_Cup_Global_Invitational_2026.png",
   "league_short": "Demacia Cup Global Invitational",
   "name": "Demacia Cup Global Invitational 2026",
   "overview_page": "2026 Demacia Cup Global Invitational",
-  "patches": [],
+  "patches": [
+   "26.18"
+  ],
   "region": "international",
   "region_label": "International",
   "slug": "2026-demacia-cup-global-invitational",
@@ -175,7 +177,7 @@
   "year": "2026"
  },
  {
-  "games": 69,
+  "games": 74,
   "is_playoffs": false,
   "league": "World Star Challengers Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/WSCI_Logo.png",
