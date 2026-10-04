@@ -1000,6 +1000,56 @@
   "tournament": "2026 Season World Championship/Main Event"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LYON_Dhokla_2026_Split_1.png",
+  "player": "Dhokla",
+  "player_id": "Dhokla",
+  "role": "Top",
+  "slug": "dhokla",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/LYON_Inspired_2026_Split_1.png",
+  "player": "Inspired",
+  "player_id": "Inspired",
+  "role": "Jungle",
+  "slug": "inspired",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/LYON_Saint_2026_Split_1.png",
+  "player": "Saint (Kang Sung-in)",
+  "player_id": "Saint",
+  "role": "Mid",
+  "slug": "saint",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/LYON_Berserker_2026_Split_1.png",
+  "player": "Berserker (Kim Min-cheol)",
+  "player_id": "Berserker",
+  "role": "Bot",
+  "slug": "berserker",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/LYON_Isles_2026_Split_1.png",
+  "player": "Isles",
+  "player_id": "Isles",
+  "role": "Support",
+  "slug": "isles",
+  "source": "roster",
+  "team": "LYON (2024 American Team)",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/MKOI_Myrwn_2026_Split_1.png",
   "player": "Myrwn",
   "player_id": "Myrwn",
@@ -1248,6 +1298,56 @@
   "source": "roster",
   "team": "Top Esports",
   "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png",
+  "player": "Thanatos (Park Seung-gyu)",
+  "player_id": "Thanatos",
+  "role": "Top",
+  "slug": "thanatos",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4f/C9_Blaber_2026_Split_1.png",
+  "player": "Blaber",
+  "player_id": "Blaber",
+  "role": "Jungle",
+  "slug": "blaber",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/C9_Loki_2025_Split_1.png",
+  "player": "Loki (Lee Sang-min)",
+  "player_id": "Loki",
+  "role": "Mid",
+  "slug": "loki",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c7/IMT_Tactical_2023_Split_1.png",
+  "player": "Tactical",
+  "player_id": "Tactical",
+  "role": "Bot",
+  "slug": "tactical",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/C9_Vulcan_2026_Split_1.png",
+  "player": "Vulcan (Philippe Laflamme)",
+  "player_id": "Vulcan",
+  "role": "Support",
+  "slug": "vulcan",
+  "source": "roster",
+  "team": "Cloud9",
+  "tournament": "2026 Season World Championship/Play-In"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/KC_Canna_2026_Split_2.png",

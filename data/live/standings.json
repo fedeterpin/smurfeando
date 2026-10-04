@@ -1,12 +1,12 @@
 [
  {
   "group": 1,
-  "loss_games": 0,
+  "loss_games": 1,
   "loss_series": 0,
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
@@ -16,15 +16,15 @@
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 1,
-  "win_series": 1
+  "win_games": 3,
+  "win_series": 2
  },
  {
   "group": 1,
   "loss_games": 0,
   "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
+  "place": 2,
+  "place_label": "2",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -43,8 +43,8 @@
   "group": 1,
   "loss_games": 0,
   "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
+  "place": 2,
+  "place_label": "2",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -63,28 +63,8 @@
   "group": 1,
   "loss_games": 0,
   "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
-   "name": "LGD Gaming",
-   "short": "LGD",
-   "slug": "lgd-gaming"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 1,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
+  "place": 2,
+  "place_label": "2",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -103,8 +83,8 @@
   "group": 1,
   "loss_games": 0,
   "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
+  "place": 2,
+  "place_label": "2",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -117,6 +97,26 @@
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
   "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 2,
+  "loss_series": 1,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 2,
   "win_series": 1
  },
  {
@@ -469,10 +469,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+   "name": "LYON (2024 American Team)",
+   "short": "LYON",
+   "slug": "lyon-2024-american-team"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
@@ -489,10 +489,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
@@ -509,10 +509,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/TBD_10logo_square.png",
-   "name": "TBD 10",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",

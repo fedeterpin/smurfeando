@@ -11264,7 +11264,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Round 4_2",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Round 4",
@@ -11301,16 +11301,16 @@
    "short": "C9",
    "slug": "cloud9"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
    "name": "LYON (2024 American Team)",
    "short": "LYON",
    "slug": "lyon-2024-american-team"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCS/2026 Season/Summer Playoffs",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -11328,43 +11328,16 @@
    "short": "LGD",
    "slug": "lgd-gaming"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
    "name": "BNK FEARX",
    "short": "BFX",
    "slug": "bnk-fearx"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-10-04 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "2026 Demacia Cup Global Invitational_Round 2_2",
-  "patch": "26.18",
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-   "name": "RED Canids",
-   "short": "RED",
-   "slug": "red-canids"
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-   "name": "KT Rolster",
-   "short": "KT",
-   "slug": "kt-rolster"
-  },
-  "team2_score": null,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 3,
@@ -11411,10 +11384,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+   "name": "LYON (2024 American Team)",
+   "short": "LYON",
+   "slug": "lyon-2024-american-team"
   },
   "team2_score": null,
   "tournament": "LCS/2026 Season/Summer Playoffs",
@@ -11912,7 +11885,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "CBLOL/2026 Season/Split 2 Playoffs_Finals_1",
-  "patch": null,
+  "patch": "26.17",
   "phase": null,
   "round": null,
   "tab": "Finals",
