@@ -11341,6 +11341,33 @@
  },
  {
   "best_of": 3,
+  "datetime_utc": "2026-10-04 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Demacia Cup Global Invitational_Round 2_2",
+  "patch": "26.18",
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
+  },
+  "team2_score": 2,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "winner": 2
+ },
+ {
+  "best_of": 3,
   "datetime_utc": "2026-10-04 11:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -11355,16 +11382,16 @@
    "short": "WE",
    "slug": "team-we"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
    "name": "HANJIN BRION",
    "short": "BRO",
    "slug": "hanjin-brion"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -11539,10 +11566,10 @@
   "round": null,
   "tab": "Round 3",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
+   "name": "LGD Gaming",
+   "short": "LGD",
+   "slug": "lgd-gaming"
   },
   "team1_score": null,
   "team2": {
@@ -11566,10 +11593,10 @@
   "round": null,
   "tab": "Round 3",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+   "name": "RED Canids",
+   "short": "RED",
+   "slug": "red-canids"
   },
   "team1_score": null,
   "team2": {
@@ -11593,10 +11620,10 @@
   "round": null,
   "tab": "Round 3",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
   },
   "team1_score": null,
   "team2": {

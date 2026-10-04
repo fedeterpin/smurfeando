@@ -1,5 +1,53 @@
 [
  {
+  "assists": 20,
+  "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.13,
+  "deaths": 7,
+  "dpm": 806.6,
+  "games": 4,
+  "gpm": 505.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/WE_About_2026_Split_1.png",
+  "kda": 5.14,
+  "kills": 16,
+  "kp": 0.72,
+  "losses": 1,
+  "minutes": 116.2,
+  "player": "About",
+  "player_id": "About",
+  "role": "Bot",
+  "slug": "about",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.64,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
   "assists": 18,
   "champions": [
    {
@@ -44,6 +92,49 @@
   "team_slug": "lgd-gaming",
   "tournament": "2026 Demacia Cup Global Invitational",
   "vspm": 1.39,
+  "win_rate": 0.5,
+  "wins": 2
+ },
+ {
+  "assists": 22,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renekton",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.64,
+  "deaths": 10,
+  "dpm": 504.9,
+  "games": 4,
+  "gpm": 383.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/BRO_Casting_2026_Split_1.png",
+  "kda": 3.1,
+  "kills": 9,
+  "kp": 0.5636,
+  "losses": 2,
+  "minutes": 129.3,
+  "player": "Casting",
+  "player_id": "Casting",
+  "role": "Top",
+  "slug": "casting",
+  "team": "HANJIN BRION",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+  "team_short": "BRO",
+  "team_slug": "hanjin-brion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.36,
   "win_rate": 0.5,
   "wins": 2
  },
@@ -134,6 +225,145 @@
   "wins": 2
  },
  {
+  "assists": 18,
+  "champions": [
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ornn",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yorick",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.3,
+  "deaths": 5,
+  "dpm": 417.1,
+  "games": 4,
+  "gpm": 377.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/WE_Cube_2026_Split_1.png",
+  "kda": 5.0,
+  "kills": 7,
+  "kp": 0.5,
+  "losses": 1,
+  "minutes": 116.2,
+  "player": "Cube (Dai Yi)",
+  "player_id": "Cube",
+  "role": "Top",
+  "slug": "cube",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.2,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 43,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.1,
+  "deaths": 8,
+  "dpm": 129.1,
+  "games": 4,
+  "gpm": 267.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/WE_Erha_2026_Split_2.png",
+  "kda": 5.5,
+  "kills": 1,
+  "kp": 0.88,
+  "losses": 1,
+  "minutes": 116.2,
+  "player": "Erha",
+  "player_id": "Erha",
+  "role": "Support",
+  "slug": "erha",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 4.41,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 32,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.98,
+  "deaths": 11,
+  "dpm": 340.9,
+  "games": 4,
+  "gpm": 392.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/BRO_GIDEON_2026_Split_1.png",
+  "kda": 4.18,
+  "kills": 14,
+  "kp": 0.8364,
+  "losses": 2,
+  "minutes": 129.3,
+  "player": "GIDEON",
+  "player_id": "GIDEON",
+  "role": "Jungle",
+  "slug": "gideon",
+  "team": "HANJIN BRION",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+  "team_short": "BRO",
+  "team_slug": "hanjin-brion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.73,
+  "win_rate": 0.5,
+  "wins": 2
+ },
+ {
   "assists": 33,
   "champions": [
    {
@@ -177,6 +407,54 @@
   "wins": 2
  },
  {
+  "assists": 25,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.98,
+  "deaths": 9,
+  "dpm": 578.0,
+  "games": 4,
+  "gpm": 410.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/WE_Karis_2026_Split_1.png",
+  "kda": 4.56,
+  "kills": 16,
+  "kp": 0.82,
+  "losses": 1,
+  "minutes": 116.2,
+  "player": "Karis",
+  "player_id": "Karis",
+  "role": "Mid",
+  "slug": "karis",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.57,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
   "assists": 38,
   "champions": [
    {
@@ -218,6 +496,102 @@
   "vspm": 4.17,
   "win_rate": 0.75,
   "wins": 3
+ },
+ {
+  "assists": 30,
+  "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sejuani",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.8,
+  "deaths": 9,
+  "dpm": 422.0,
+  "games": 4,
+  "gpm": 414.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/WE_Monki_2026_Split_1.png",
+  "kda": 4.44,
+  "kills": 10,
+  "kp": 0.8,
+  "losses": 1,
+  "minutes": 116.2,
+  "player": "Monki",
+  "player_id": "Monki",
+  "role": "Jungle",
+  "slug": "monki",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.83,
+  "win_rate": 0.75,
+  "wins": 3
+ },
+ {
+  "assists": 41,
+  "champions": [
+   {
+    "champion": "Elise",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.16,
+  "deaths": 8,
+  "dpm": 265.3,
+  "games": 4,
+  "gpm": 272.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/BRO_Namgung_2026_Split_1.png",
+  "kda": 5.75,
+  "kills": 5,
+  "kp": 0.8364,
+  "losses": 2,
+  "minutes": 129.3,
+  "player": "Namgung",
+  "player_id": "Namgung",
+  "role": "Support",
+  "slug": "namgung",
+  "team": "HANJIN BRION",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+  "team_short": "BRO",
+  "team_slug": "hanjin-brion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 4.72,
+  "win_rate": 0.5,
+  "wins": 2
  },
  {
   "assists": 25,
@@ -266,6 +640,49 @@
   "vspm": 1.8,
   "win_rate": 0.75,
   "wins": 3
+ },
+ {
+  "assists": 28,
+  "champions": [
+   {
+    "champion": "Ryze",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.09,
+  "deaths": 9,
+  "dpm": 652.5,
+  "games": 4,
+  "gpm": 398.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/BRO_Roamer_2026_Split_1.png",
+  "kda": 4.78,
+  "kills": 15,
+  "kp": 0.7818,
+  "losses": 2,
+  "minutes": 129.3,
+  "player": "Roamer",
+  "player_id": "Roamer",
+  "role": "Mid",
+  "slug": "roamer",
+  "team": "HANJIN BRION",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+  "team_short": "BRO",
+  "team_slug": "hanjin-brion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.28,
+  "win_rate": 0.5,
+  "wins": 2
  },
  {
   "assists": 18,
@@ -402,6 +819,54 @@
   "wins": 2
  },
  {
+  "assists": 28,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Miss Fortune",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sivir",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Varus",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 11.03,
+  "deaths": 5,
+  "dpm": 743.1,
+  "games": 4,
+  "gpm": 522.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BRO_Teddy_2026_Split_1.png",
+  "kda": 8.0,
+  "kills": 12,
+  "kp": 0.7273,
+  "losses": 2,
+  "minutes": 129.3,
+  "player": "Teddy",
+  "player_id": "Teddy",
+  "role": "Bot",
+  "slug": "teddy",
+  "team": "HANJIN BRION",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+  "team_short": "BRO",
+  "team_slug": "hanjin-brion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.33,
+  "win_rate": 0.5,
+  "wins": 2
+ },
+ {
   "assists": 25,
   "champions": [
    {
@@ -445,58 +910,35 @@
   "wins": 3
  },
  {
-  "assists": 3,
-  "champions": [
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.23,
-  "deaths": 1,
-  "dpm": 946.8,
-  "games": 1,
-  "gpm": 569.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/WE_About_2026_Split_1.png",
-  "kda": 11.0,
-  "kills": 8,
-  "kp": 0.6471,
-  "losses": 0,
-  "minutes": 24.3,
-  "player": "About",
-  "player_id": "About",
-  "role": "Bot",
-  "slug": "about",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.4,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
-  "assists": 11,
+  "assists": 15,
   "champions": [
    {
     "champion": "Jarvan IV",
     "games": 1,
     "wins": 1
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Wukong",
+    "games": 1,
+    "wins": 0
    }
   ],
-  "cspm": 6.9,
-  "deaths": 1,
-  "dpm": 216.1,
-  "games": 1,
-  "gpm": 386.4,
+  "cspm": 6.12,
+  "deaths": 14,
+  "dpm": 236.0,
+  "games": 3,
+  "gpm": 332.3,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/TSS_Aegis_2026_Split_1.png",
-  "kda": 12.0,
-  "kills": 1,
-  "kp": 0.75,
-  "losses": 0,
-  "minutes": 34.5,
+  "kda": 1.21,
+  "kills": 2,
+  "kp": 0.7727,
+  "losses": 2,
+  "minutes": 85.6,
   "player": "Aegis (Gabriel Lemos)",
   "player_id": "Aegis",
   "role": "Jungle",
@@ -506,8 +948,370 @@
   "team_short": "RED",
   "team_slug": "red-canids",
   "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.65,
+  "vspm": 1.29,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 27,
+  "champions": [
+   {
+    "champion": "Ryze",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.13,
+  "deaths": 3,
+  "dpm": 936.8,
+  "games": 3,
+  "gpm": 522.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png",
+  "kda": 17.33,
+  "kills": 25,
+  "kp": 0.7647,
+  "losses": 0,
+  "minutes": 78.5,
+  "player": "Bdd",
+  "player_id": "Bdd",
+  "role": "Mid",
+  "slug": "bdd",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.38,
   "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 27,
+  "champions": [
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.7,
+  "deaths": 4,
+  "dpm": 599.2,
+  "games": 3,
+  "gpm": 504.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png",
+  "kda": 10.75,
+  "kills": 16,
+  "kp": 0.6324,
+  "losses": 0,
+  "minutes": 78.5,
+  "player": "Cuzz",
+  "player_id": "Cuzz",
+  "role": "Jungle",
+  "slug": "cuzz",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 2.01,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 49,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Leona",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.33,
+  "deaths": 6,
+  "dpm": 227.3,
+  "games": 3,
+  "gpm": 309.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png",
+  "kda": 8.67,
+  "kills": 3,
+  "kp": 0.7647,
+  "losses": 0,
+  "minutes": 78.5,
+  "player": "Effort",
+  "player_id": "Effort",
+  "role": "Support",
+  "slug": "effort",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 4.41,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 4,
+  "champions": [
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.11,
+  "deaths": 11,
+  "dpm": 442.2,
+  "games": 3,
+  "gpm": 344.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/RED_Fuuu_2026_Split_2.png",
+  "kda": 1.0,
+  "kills": 7,
+  "kp": 0.5,
+  "losses": 2,
+  "minutes": 85.6,
+  "player": "Fuuu",
+  "player_id": "Fuuu",
+  "role": "Mid",
+  "slug": "fuuu",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.27,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 33,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.76,
+  "deaths": 3,
+  "dpm": 857.6,
+  "games": 3,
+  "gpm": 545.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DRX_Jiwoo_2026_Split_2.png",
+  "kda": 16.0,
+  "kills": 15,
+  "kp": 0.7059,
+  "losses": 0,
+  "minutes": 78.5,
+  "player": "Jiwoo",
+  "player_id": "Jiwoo",
+  "role": "Bot",
+  "slug": "jiwoo",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.18,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 17,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 0.84,
+  "deaths": 9,
+  "dpm": 164.7,
+  "games": 3,
+  "gpm": 254.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/RED_Manel_2026_Split_2.png",
+  "kda": 2.11,
+  "kills": 2,
+  "kp": 0.8636,
+  "losses": 2,
+  "minutes": 85.6,
+  "player": "Manel",
+  "player_id": "Manel",
+  "role": "Support",
+  "slug": "manel",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 3.9,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 6,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Corki",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.27,
+  "deaths": 8,
+  "dpm": 863.7,
+  "games": 3,
+  "gpm": 465.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/RED_Morttheus_2026_Split_2.png",
+  "kda": 1.88,
+  "kills": 9,
+  "kp": 0.6818,
+  "losses": 2,
+  "minutes": 85.6,
+  "player": "Morttheus",
+  "player_id": "Morttheus",
+  "role": "Bot",
+  "slug": "morttheus",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.59,
+  "win_rate": 0.3333,
+  "wins": 1
+ },
+ {
+  "assists": 17,
+  "champions": [
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.17,
+  "deaths": 2,
+  "dpm": 502.9,
+  "games": 3,
+  "gpm": 437.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
+  "kda": 13.0,
+  "kills": 9,
+  "kp": 0.3824,
+  "losses": 0,
+  "minutes": 78.5,
+  "player": "PerfecT (Lee Seung-min)",
+  "player_id": "PerfecT",
+  "role": "Top",
+  "slug": "perfect",
+  "team": "KT Rolster",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+  "team_short": "KT",
+  "team_slug": "kt-rolster",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.15,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.02,
+  "deaths": 8,
+  "dpm": 378.7,
+  "games": 3,
+  "gpm": 323.0,
+  "image": null,
+  "kda": 0.88,
+  "kills": 2,
+  "kp": 0.3182,
+  "losses": 2,
+  "minutes": 85.6,
+  "player": "Zynts",
+  "player_id": "zynts",
+  "role": "Top",
+  "slug": "zynts",
+  "team": "RED Canids",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
+  "team_short": "RED",
+  "team_slug": "red-canids",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.19,
+  "win_rate": 0.3333,
   "wins": 1
  },
  {
@@ -577,39 +1381,6 @@
   "wins": 0
  },
  {
-  "assists": 10,
-  "champions": [
-   {
-    "champion": "Ryze",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.07,
-  "deaths": 2,
-  "dpm": 859.1,
-  "games": 1,
-  "gpm": 536.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/KT_Bdd_2026_Split_1.png",
-  "kda": 8.5,
-  "kills": 7,
-  "kp": 0.8095,
-  "losses": 0,
-  "minutes": 27.4,
-  "player": "Bdd",
-  "player_id": "Bdd",
-  "role": "Mid",
-  "slug": "bdd",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 0.91,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
   "assists": 3,
   "champions": [
    {
@@ -676,39 +1447,6 @@
   "wins": 0
  },
  {
-  "assists": 9,
-  "champions": [
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.63,
-  "deaths": 4,
-  "dpm": 778.3,
-  "games": 1,
-  "gpm": 434.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/BRO_Casting_2026_Split_1.png",
-  "kda": 3.75,
-  "kills": 6,
-  "kp": 0.7143,
-  "losses": 0,
-  "minutes": 37.4,
-  "player": "Casting",
-  "player_id": "Casting",
-  "role": "Top",
-  "slug": "casting",
-  "team": "HANJIN BRION",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-  "team_short": "BRO",
-  "team_slug": "hanjin-brion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.26,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
   "assists": 5,
   "champions": [
    {
@@ -773,138 +1511,6 @@
   "vspm": 2.92,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 5,
-  "champions": [
-   {
-    "champion": "Galio",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.21,
-  "deaths": 0,
-  "dpm": 450.6,
-  "games": 1,
-  "gpm": 413.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/WE_Cube_2026_Split_1.png",
-  "kda": 7.0,
-  "kills": 2,
-  "kp": 0.4118,
-  "losses": 0,
-  "minutes": 24.3,
-  "player": "Cube (Dai Yi)",
-  "player_id": "Cube",
-  "role": "Top",
-  "slug": "cube",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.03,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
-  "assists": 9,
-  "champions": [
-   {
-    "champion": "Qiyana",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.87,
-  "deaths": 3,
-  "dpm": 685.8,
-  "games": 1,
-  "gpm": 522.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/15/KT_Cuzz_2026_Split_1.png",
-  "kda": 4.67,
-  "kills": 5,
-  "kp": 0.6667,
-  "losses": 0,
-  "minutes": 27.4,
-  "player": "Cuzz",
-  "player_id": "Cuzz",
-  "role": "Jungle",
-  "slug": "cuzz",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 2.15,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
-  "assists": 16,
-  "champions": [
-   {
-    "champion": "Leona",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.64,
-  "deaths": 4,
-  "dpm": 253.8,
-  "games": 1,
-  "gpm": 309.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/KT.C_Effort_2026_Split_1.png",
-  "kda": 4.25,
-  "kills": 1,
-  "kp": 0.8095,
-  "losses": 0,
-  "minutes": 27.4,
-  "player": "Effort",
-  "player_id": "Effort",
-  "role": "Support",
-  "slug": "effort",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 5.22,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
-  "assists": 15,
-  "champions": [
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.32,
-  "deaths": 0,
-  "dpm": 135.1,
-  "games": 1,
-  "gpm": 311.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/WE_Erha_2026_Split_2.png",
-  "kda": 15.0,
-  "kills": 0,
-  "kp": 0.8824,
-  "losses": 0,
-  "minutes": 24.3,
-  "player": "Erha",
-  "player_id": "Erha",
-  "role": "Support",
-  "slug": "erha",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 3.66,
-  "win_rate": 1.0,
-  "wins": 1
  },
  {
   "assists": 3,
@@ -1006,39 +1612,6 @@
   "wins": 0
  },
  {
-  "assists": 3,
-  "champions": [
-   {
-    "champion": "Cassiopeia",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.84,
-  "deaths": 0,
-  "dpm": 411.7,
-  "games": 1,
-  "gpm": 406.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/RED_Fuuu_2026_Split_2.png",
-  "kda": 8.0,
-  "kills": 5,
-  "kp": 0.5,
-  "losses": 0,
-  "minutes": 34.5,
-  "player": "Fuuu",
-  "player_id": "Fuuu",
-  "role": "Mid",
-  "slug": "fuuu",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.45,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
   "assists": 4,
   "champions": [
    {
@@ -1070,39 +1643,6 @@
   "vspm": 1.07,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 9,
-  "champions": [
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.48,
-  "deaths": 1,
-  "dpm": 440.2,
-  "games": 1,
-  "gpm": 438.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/BRO_GIDEON_2026_Split_1.png",
-  "kda": 15.0,
-  "kills": 6,
-  "kp": 0.7143,
-  "losses": 0,
-  "minutes": 37.4,
-  "player": "GIDEON",
-  "player_id": "GIDEON",
-  "role": "Jungle",
-  "slug": "gideon",
-  "team": "HANJIN BRION",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-  "team_short": "BRO",
-  "team_slug": "hanjin-brion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.84,
-  "win_rate": 1.0,
-  "wins": 1
  },
  {
   "assists": 0,
@@ -1204,72 +1744,6 @@
   "wins": 0
  },
  {
-  "assists": 8,
-  "champions": [
-   {
-    "champion": "Jhin",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.93,
-  "deaths": 1,
-  "dpm": 736.4,
-  "games": 1,
-  "gpm": 526.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3e/DRX_Jiwoo_2026_Split_2.png",
-  "kda": 13.0,
-  "kills": 5,
-  "kp": 0.619,
-  "losses": 0,
-  "minutes": 27.4,
-  "player": "Jiwoo",
-  "player_id": "Jiwoo",
-  "role": "Bot",
-  "slug": "jiwoo",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 0.77,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
-  "assists": 8,
-  "champions": [
-   {
-    "champion": "Ahri",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.75,
-  "deaths": 1,
-  "dpm": 745.6,
-  "games": 1,
-  "gpm": 428.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/WE_Karis_2026_Split_1.png",
-  "kda": 12.0,
-  "kills": 4,
-  "kp": 0.7059,
-  "losses": 0,
-  "minutes": 24.3,
-  "player": "Karis",
-  "player_id": "Karis",
-  "role": "Mid",
-  "slug": "karis",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.81,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
   "assists": 1,
   "champions": [
    {
@@ -1334,39 +1808,6 @@
   "vspm": 1.03,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 13,
-  "champions": [
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 0.78,
-  "deaths": 1,
-  "dpm": 119.7,
-  "games": 1,
-  "gpm": 276.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/RED_Manel_2026_Split_2.png",
-  "kda": 14.0,
-  "kills": 1,
-  "kp": 0.875,
-  "losses": 0,
-  "minutes": 34.5,
-  "player": "Manel",
-  "player_id": "Manel",
-  "role": "Support",
-  "slug": "manel",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 3.74,
-  "win_rate": 1.0,
-  "wins": 1
  },
  {
   "assists": 0,
@@ -1435,72 +1876,6 @@
   "wins": 0
  },
  {
-  "assists": 10,
-  "champions": [
-   {
-    "champion": "Qiyana",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.84,
-  "deaths": 2,
-  "dpm": 586.9,
-  "games": 1,
-  "gpm": 471.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/WE_Monki_2026_Split_1.png",
-  "kda": 6.5,
-  "kills": 3,
-  "kp": 0.7647,
-  "losses": 0,
-  "minutes": 24.3,
-  "player": "Monki",
-  "player_id": "Monki",
-  "role": "Jungle",
-  "slug": "monki",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.44,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
-  "assists": 3,
-  "champions": [
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.96,
-  "deaths": 0,
-  "dpm": 1017.7,
-  "games": 1,
-  "gpm": 548.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/RED_Morttheus_2026_Split_2.png",
-  "kda": 10.0,
-  "kills": 7,
-  "kp": 0.625,
-  "losses": 0,
-  "minutes": 34.5,
-  "player": "Morttheus",
-  "player_id": "Morttheus",
-  "role": "Bot",
-  "slug": "morttheus",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.8,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
   "assists": 1,
   "champions": [
    {
@@ -1534,39 +1909,6 @@
   "wins": 0
  },
  {
-  "assists": 12,
-  "champions": [
-   {
-    "champion": "Nautilus",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.12,
-  "deaths": 2,
-  "dpm": 122.0,
-  "games": 1,
-  "gpm": 273.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d8/BRO_Namgung_2026_Split_1.png",
-  "kda": 6.5,
-  "kills": 1,
-  "kp": 0.619,
-  "losses": 0,
-  "minutes": 37.4,
-  "player": "Namgung",
-  "player_id": "Namgung",
-  "role": "Support",
-  "slug": "namgung",
-  "team": "HANJIN BRION",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-  "team_short": "BRO",
-  "team_slug": "hanjin-brion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 4.22,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
   "assists": 2,
   "champions": [
    {
@@ -1598,39 +1940,6 @@
   "vspm": 4.67,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 4,
-  "champions": [
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.34,
-  "deaths": 1,
-  "dpm": 429.8,
-  "games": 1,
-  "gpm": 442.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/93/KT_PerfecT_2026_Split_1.png",
-  "kda": 7.0,
-  "kills": 3,
-  "kp": 0.3333,
-  "losses": 0,
-  "minutes": 27.4,
-  "player": "PerfecT (Lee Seung-min)",
-  "player_id": "PerfecT",
-  "role": "Top",
-  "slug": "perfect",
-  "team": "KT Rolster",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-  "team_short": "KT",
-  "team_slug": "kt-rolster",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.28,
-  "win_rate": 1.0,
-  "wins": 1
  },
  {
   "assists": 1,
@@ -1732,39 +2041,6 @@
   "wins": 0
  },
  {
-  "assists": 11,
-  "champions": [
-   {
-    "champion": "Ryze",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.63,
-  "deaths": 2,
-  "dpm": 683.4,
-  "games": 1,
-  "gpm": 442.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/BRO_Roamer_2026_Split_1.png",
-  "kda": 7.0,
-  "kills": 3,
-  "kp": 0.6667,
-  "losses": 0,
-  "minutes": 37.4,
-  "player": "Roamer",
-  "player_id": "Roamer",
-  "role": "Mid",
-  "slug": "roamer",
-  "team": "HANJIN BRION",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-  "team_short": "BRO",
-  "team_slug": "hanjin-brion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.71,
-  "win_rate": 1.0,
-  "wins": 1
- },
- {
   "assists": 0,
   "champions": [
    {
@@ -1829,39 +2105,6 @@
   "vspm": 3.08,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 9,
-  "champions": [
-   {
-    "champion": "Miss Fortune",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 11.06,
-  "deaths": 1,
-  "dpm": 880.6,
-  "games": 1,
-  "gpm": 580.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BRO_Teddy_2026_Split_1.png",
-  "kda": 14.0,
-  "kills": 5,
-  "kp": 0.6667,
-  "losses": 0,
-  "minutes": 37.4,
-  "player": "Teddy",
-  "player_id": "Teddy",
-  "role": "Bot",
-  "slug": "teddy",
-  "team": "HANJIN BRION",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-  "team_short": "BRO",
-  "team_slug": "hanjin-brion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.1,
-  "win_rate": 1.0,
-  "wins": 1
  },
  {
   "assists": 2,
@@ -2060,39 +2303,6 @@
   "vspm": 0.95,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 5,
-  "champions": [
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.5,
-  "deaths": 1,
-  "dpm": 369.5,
-  "games": 1,
-  "gpm": 363.9,
-  "image": null,
-  "kda": 7.0,
-  "kills": 2,
-  "kp": 0.4375,
-  "losses": 0,
-  "minutes": 34.5,
-  "player": "Zynts",
-  "player_id": "zynts",
-  "role": "Top",
-  "slug": "zynts",
-  "team": "RED Canids",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
-  "team_short": "RED",
-  "team_slug": "red-canids",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.54,
-  "win_rate": 1.0,
-  "wins": 1
  },
  {
   "assists": 262,
