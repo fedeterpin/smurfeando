@@ -29,10 +29,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -69,10 +69,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
+   "name": "GAM Esports",
+   "short": "GAM",
+   "slug": "gam-esports"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -89,10 +89,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+   "name": "Shopify Rebellion",
+   "short": "SR",
+   "slug": "shopify-rebellion"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -141,6 +141,26 @@
  },
  {
   "group": 1,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+   "name": "JD Gaming",
+   "short": "JDG",
+   "slug": "jd-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
   "loss_games": 2,
   "loss_series": 1,
   "place": 4,
@@ -153,6 +173,26 @@
    "name": "LGD Gaming",
    "short": "LGD",
    "slug": "lgd-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
+   "name": "Natus Vincere",
+   "short": "NAVI",
+   "slug": "natus-vincere"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -183,10 +223,30 @@
   "group": 1,
   "loss_games": 1,
   "loss_series": 1,
-  "place": 7,
-  "place_label": "7",
+  "place": 4,
+  "place_label": "4",
   "points": 0,
   "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
+   "name": "Team Vitality",
+   "short": "VIT",
+   "slug": "team-vitality"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 2,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 3,
+  "loss_series": 2,
+  "place": 10,
+  "place_label": "10",
+  "points": 0,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
@@ -201,12 +261,12 @@
  },
  {
   "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 7,
-  "place_label": "7",
+  "loss_games": 3,
+  "loss_series": 2,
+  "place": 10,
+  "place_label": "10",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
@@ -221,78 +281,18 @@
  },
  {
   "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 7,
-  "place_label": "7",
+  "loss_games": 3,
+  "loss_series": 2,
+  "place": 10,
+  "place_label": "10",
   "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-   "name": "JD Gaming",
-   "short": "JDG",
-   "slug": "jd-gaming"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 7,
-  "place_label": "7",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
-   "name": "Natus Vincere",
-   "short": "NAVI",
-   "slug": "natus-vincere"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 7,
-  "place_label": "7",
-  "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
    "name": "Shopify Rebellion",
    "short": "SR",
    "slug": "shopify-rebellion"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 7,
-  "place_label": "7",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
-   "name": "Team Vitality",
-   "short": "VIT",
-   "slug": "team-vitality"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",

@@ -143,7 +143,7 @@
   "year": "2026"
  },
  {
-  "games": 14,
+  "games": 18,
   "is_playoffs": false,
   "league": "Demacia Cup Global Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Demacia_Cup_Global_Invitational_2026.png",
@@ -317,7 +317,7 @@
   "year": "2026"
  },
  {
-  "games": 35,
+  "games": 39,
   "is_playoffs": true,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
