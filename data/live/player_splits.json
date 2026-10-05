@@ -953,6 +953,49 @@
   "wins": 1
  },
  {
+  "assists": 26,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Twisted Fate",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.81,
+  "deaths": 4,
+  "dpm": 732.3,
+  "games": 3,
+  "gpm": 445.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/EDG_Angel_2026_Split_1.png",
+  "kda": 8.0,
+  "kills": 6,
+  "kp": 0.7619,
+  "losses": 1,
+  "minutes": 93.1,
+  "player": "Angel (Xiang Tao)",
+  "player_id": "Angel",
+  "role": "Mid",
+  "slug": "angel",
+  "team": "JD Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+  "team_short": "JDG",
+  "team_slug": "jd-gaming",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.49,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
   "assists": 6,
   "champions": [
    {
@@ -1034,6 +1077,49 @@
   "wins": 3
  },
  {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Varus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.57,
+  "deaths": 10,
+  "dpm": 578.9,
+  "games": 3,
+  "gpm": 419.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/SR_Bvoy_2026_Split_1.png",
+  "kda": 1.2,
+  "kills": 2,
+  "kp": 0.6,
+  "losses": 3,
+  "minutes": 83.1,
+  "player": "Bvoy",
+  "player_id": "Bvoy",
+  "role": "Bot",
+  "slug": "bvoy",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.35,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
   "assists": 18,
   "champions": [
    {
@@ -1075,6 +1161,44 @@
   "vspm": 1.5,
   "win_rate": 0.6667,
   "wins": 2
+ },
+ {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Pantheon",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.19,
+  "deaths": 12,
+  "dpm": 274.4,
+  "games": 3,
+  "gpm": 353.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/SR_Contractz_2026_Split_1.png",
+  "kda": 1.42,
+  "kills": 7,
+  "kp": 0.85,
+  "losses": 3,
+  "minutes": 83.1,
+  "player": "Contractz",
+  "player_id": "Contractz",
+  "role": "Jungle",
+  "slug": "contractz",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.65,
+  "win_rate": 0.0,
+  "wins": 0
  },
  {
   "assists": 15,
@@ -1287,6 +1411,49 @@
   "wins": 2
  },
  {
+  "assists": 6,
+  "champions": [
+   {
+    "champion": "Ornn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Zaahen",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.84,
+  "deaths": 8,
+  "dpm": 575.5,
+  "games": 3,
+  "gpm": 336.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/SR_Fudge_2026_Split_1.png",
+  "kda": 1.5,
+  "kills": 6,
+  "kp": 0.6,
+  "losses": 3,
+  "minutes": 83.1,
+  "player": "Fudge",
+  "player_id": "Fudge",
+  "role": "Top",
+  "slug": "fudge",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.07,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
   "assists": 4,
   "champions": [
    {
@@ -1328,6 +1495,49 @@
   "vspm": 1.27,
   "win_rate": 0.3333,
   "wins": 1
+ },
+ {
+  "assists": 16,
+  "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.9,
+  "deaths": 4,
+  "dpm": 790.7,
+  "games": 3,
+  "gpm": 501.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/JDG_GALA_2026_Split_1.png",
+  "kda": 7.25,
+  "kills": 13,
+  "kp": 0.6905,
+  "losses": 1,
+  "minutes": 93.1,
+  "player": "GALA",
+  "player_id": "GALA",
+  "role": "Bot",
+  "slug": "gala",
+  "team": "JD Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+  "team_short": "JDG",
+  "team_slug": "jd-gaming",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.74,
+  "win_rate": 0.6667,
+  "wins": 2
  },
  {
   "assists": 9,
@@ -2117,6 +2327,216 @@
   "wins": 0
  },
  {
+  "assists": 35,
+  "champions": [
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.9,
+  "deaths": 7,
+  "dpm": 166.2,
+  "games": 3,
+  "gpm": 274.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JDG_Vampire_2026_Split_1.png",
+  "kda": 5.0,
+  "kills": 0,
+  "kp": 0.8333,
+  "losses": 1,
+  "minutes": 93.1,
+  "player": "Vampire",
+  "player_id": "Vampire",
+  "role": "Support",
+  "slug": "vampire",
+  "team": "JD Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+  "team_short": "JDG",
+  "team_slug": "jd-gaming",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 4.34,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 19,
+  "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.95,
+  "deaths": 9,
+  "dpm": 571.3,
+  "games": 3,
+  "gpm": 416.4,
+  "image": null,
+  "kda": 3.44,
+  "kills": 12,
+  "kp": 0.7381,
+  "losses": 1,
+  "minutes": 93.1,
+  "player": "Xiaofang",
+  "player_id": "xiaofang",
+  "role": "Jungle",
+  "slug": "xiaofang",
+  "team": "JD Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+  "team_short": "JDG",
+  "team_slug": "jd-gaming",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.88,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 12,
+  "champions": [
+   {
+    "champion": "Renekton",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yorick",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.7,
+  "deaths": 6,
+  "dpm": 577.1,
+  "games": 3,
+  "gpm": 432.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/JDG_Xiaoxu_2026_Split_1.png",
+  "kda": 3.83,
+  "kills": 11,
+  "kp": 0.5476,
+  "losses": 1,
+  "minutes": 93.1,
+  "player": "Xiaoxu",
+  "player_id": "Xiaoxu",
+  "role": "Top",
+  "slug": "xiaoxu",
+  "team": "JD Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
+  "team_short": "JDG",
+  "team_slug": "jd-gaming",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.54,
+  "win_rate": 0.6667,
+  "wins": 2
+ },
+ {
+  "assists": 14,
+  "champions": [
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.08,
+  "deaths": 14,
+  "dpm": 147.8,
+  "games": 3,
+  "gpm": 235.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/SR_Zeyzal_2024_Split_1.png",
+  "kda": 1.07,
+  "kills": 1,
+  "kp": 0.75,
+  "losses": 3,
+  "minutes": 83.1,
+  "player": "Zeyzal",
+  "player_id": "Zeyzal",
+  "role": "Support",
+  "slug": "zeyzal",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 3.44,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 13,
+  "champions": [
+   {
+    "champion": "Orianna",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.15,
+  "deaths": 9,
+  "dpm": 592.2,
+  "games": 3,
+  "gpm": 350.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/SR_Zinie_2026_Split_1.png",
+  "kda": 1.89,
+  "kills": 4,
+  "kp": 0.85,
+  "losses": 3,
+  "minutes": 83.1,
+  "player": "Zinie",
+  "player_id": "Zinie",
+  "role": "Mid",
+  "slug": "zinie",
+  "team": "Shopify Rebellion",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+  "team_short": "SR",
+  "team_slug": "shopify-rebellion",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.49,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
   "assists": 5,
   "champions": [
    {
@@ -2158,336 +2578,6 @@
   "vspm": 1.19,
   "win_rate": 0.3333,
   "wins": 1
- },
- {
-  "assists": 8,
-  "champions": [
-   {
-    "champion": "Twisted Fate",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.16,
-  "deaths": 3,
-  "dpm": 620.4,
-  "games": 1,
-  "gpm": 422.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/EDG_Angel_2026_Split_1.png",
-  "kda": 3.0,
-  "kills": 1,
-  "kp": 0.9,
-  "losses": 1,
-  "minutes": 37.4,
-  "player": "Angel (Xiang Tao)",
-  "player_id": "Angel",
-  "role": "Mid",
-  "slug": "angel",
-  "team": "JD Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-  "team_short": "JDG",
-  "team_slug": "jd-gaming",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.82,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 3,
-  "champions": [
-   {
-    "champion": "Varus",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 10.55,
-  "deaths": 3,
-  "dpm": 538.5,
-  "games": 1,
-  "gpm": 433.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/27/SR_Bvoy_2026_Split_1.png",
-  "kda": 1.67,
-  "kills": 2,
-  "kp": 0.4545,
-  "losses": 1,
-  "minutes": 27.4,
-  "player": "Bvoy",
-  "player_id": "Bvoy",
-  "role": "Bot",
-  "slug": "bvoy",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.75,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 5,
-  "champions": [
-   {
-    "champion": "Pantheon",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.72,
-  "deaths": 4,
-  "dpm": 359.3,
-  "games": 1,
-  "gpm": 418.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/SR_Contractz_2026_Split_1.png",
-  "kda": 2.25,
-  "kills": 4,
-  "kp": 0.8182,
-  "losses": 1,
-  "minutes": 27.4,
-  "player": "Contractz",
-  "player_id": "Contractz",
-  "role": "Jungle",
-  "slug": "contractz",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.64,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 4,
-  "champions": [
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.21,
-  "deaths": 3,
-  "dpm": 466.8,
-  "games": 1,
-  "gpm": 331.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/SR_Fudge_2026_Split_1.png",
-  "kda": 2.0,
-  "kills": 2,
-  "kp": 0.5455,
-  "losses": 1,
-  "minutes": 27.4,
-  "player": "Fudge",
-  "player_id": "Fudge",
-  "role": "Top",
-  "slug": "fudge",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.5,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 4,
-  "champions": [
-   {
-    "champion": "Ezreal",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 10.15,
-  "deaths": 2,
-  "dpm": 482.0,
-  "games": 1,
-  "gpm": 422.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/JDG_GALA_2026_Split_1.png",
-  "kda": 2.0,
-  "kills": 0,
-  "kp": 0.4,
-  "losses": 1,
-  "minutes": 37.4,
-  "player": "GALA",
-  "player_id": "GALA",
-  "role": "Bot",
-  "slug": "gala",
-  "team": "JD Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-  "team_short": "JDG",
-  "team_slug": "jd-gaming",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.07,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 8,
-  "champions": [
-   {
-    "champion": "Karma",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 0.72,
-  "deaths": 4,
-  "dpm": 188.4,
-  "games": 1,
-  "gpm": 246.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d0/JDG_Vampire_2026_Split_1.png",
-  "kda": 2.0,
-  "kills": 0,
-  "kp": 0.8,
-  "losses": 1,
-  "minutes": 37.4,
-  "player": "Vampire",
-  "player_id": "Vampire",
-  "role": "Support",
-  "slug": "vampire",
-  "team": "JD Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-  "team_short": "JDG",
-  "team_slug": "jd-gaming",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 4.86,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 2,
-  "champions": [
-   {
-    "champion": "Pantheon",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.3,
-  "deaths": 6,
-  "dpm": 658.7,
-  "games": 1,
-  "gpm": 411.4,
-  "image": null,
-  "kda": 1.5,
-  "kills": 7,
-  "kp": 0.9,
-  "losses": 1,
-  "minutes": 37.4,
-  "player": "Xiaofang",
-  "player_id": "xiaofang",
-  "role": "Jungle",
-  "slug": "xiaofang",
-  "team": "JD Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-  "team_short": "JDG",
-  "team_slug": "jd-gaming",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.87,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 5,
-  "champions": [
-   {
-    "champion": "Yorick",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.91,
-  "deaths": 6,
-  "dpm": 502.1,
-  "games": 1,
-  "gpm": 377.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/JDG_Xiaoxu_2026_Split_1.png",
-  "kda": 1.17,
-  "kills": 2,
-  "kp": 0.7,
-  "losses": 1,
-  "minutes": 37.4,
-  "player": "Xiaoxu",
-  "player_id": "Xiaoxu",
-  "role": "Top",
-  "slug": "xiaoxu",
-  "team": "JD Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
-  "team_short": "JDG",
-  "team_slug": "jd-gaming",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.55,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 6,
-  "champions": [
-   {
-    "champion": "Nautilus",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.17,
-  "deaths": 6,
-  "dpm": 137.5,
-  "games": 1,
-  "gpm": 243.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/SR_Zeyzal_2024_Split_1.png",
-  "kda": 1.17,
-  "kills": 1,
-  "kp": 0.6364,
-  "losses": 1,
-  "minutes": 27.4,
-  "player": "Zeyzal",
-  "player_id": "Zeyzal",
-  "role": "Support",
-  "slug": "zeyzal",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 3.8,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 8,
-  "champions": [
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.39,
-  "deaths": 5,
-  "dpm": 646.6,
-  "games": 1,
-  "gpm": 358.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/SR_Zinie_2026_Split_1.png",
-  "kda": 2.0,
-  "kills": 2,
-  "kp": 0.9091,
-  "losses": 1,
-  "minutes": 27.4,
-  "player": "Zinie",
-  "player_id": "Zinie",
-  "role": "Mid",
-  "slug": "zinie",
-  "team": "Shopify Rebellion",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-  "team_short": "SR",
-  "team_slug": "shopify-rebellion",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 0.95,
-  "win_rate": 0.0,
-  "wins": 0
  },
  {
   "assists": 262,
