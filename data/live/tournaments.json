@@ -37,7 +37,7 @@
   "year": "2026"
  },
  {
-  "games": 11,
+  "games": 15,
   "is_playoffs": false,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -143,7 +143,7 @@
   "year": "2026"
  },
  {
-  "games": 20,
+  "games": 23,
   "is_playoffs": false,
   "league": "Demacia Cup Global Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Demacia_Cup_Global_Invitational_2026.png",
@@ -334,14 +334,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 4,
   "is_playoffs": false,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
   "league_short": "LCS",
   "name": "LCS 2027 Promotion",
   "overview_page": "LCS/2027 Season/Promotion",
-  "patches": [],
+  "patches": [
+   "26.17"
+  ],
   "region": "north_america",
   "region_label": "North America",
   "slug": "lcs-2027-season-promotion",

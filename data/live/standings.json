@@ -121,13 +121,13 @@
  },
  {
   "group": 1,
-  "loss_games": 2,
+  "loss_games": 3,
   "loss_series": 1,
   "place": 4,
   "place_label": "4",
   "points": 0,
   "streak": 1,
-  "streak_direction": "L",
+  "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
    "name": "HANJIN BRION",
@@ -136,8 +136,8 @@
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 2,
-  "win_series": 1
+  "win_games": 4,
+  "win_series": 2
  },
  {
   "group": 1,
@@ -145,6 +145,26 @@
   "loss_series": 1,
   "place": 4,
   "place_label": "4",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
+   "name": "Team Vitality",
+   "short": "VIT",
+   "slug": "team-vitality"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 4,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 6,
+  "place_label": "6",
   "points": 0,
   "streak": 1,
   "streak_direction": "W",
@@ -163,8 +183,8 @@
   "group": 1,
   "loss_games": 2,
   "loss_series": 1,
-  "place": 4,
-  "place_label": "4",
+  "place": 6,
+  "place_label": "6",
   "points": 0,
   "streak": 1,
   "streak_direction": "L",
@@ -181,13 +201,13 @@
  },
  {
   "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 4,
-  "place_label": "4",
+  "loss_games": 3,
+  "loss_series": 2,
+  "place": 8,
+  "place_label": "8",
   "points": 0,
   "streak": 1,
-  "streak_direction": "W",
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/Natus_Vincerelogo_square.png",
    "name": "Natus Vincere",
@@ -196,17 +216,17 @@
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 2,
+  "win_games": 3,
   "win_series": 1
  },
  {
   "group": 1,
-  "loss_games": 2,
-  "loss_series": 1,
-  "place": 4,
-  "place_label": "4",
+  "loss_games": 4,
+  "loss_series": 2,
+  "place": 8,
+  "place_label": "8",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/RED_Canidslogo_profile.png",
@@ -217,26 +237,6 @@
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
   "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
-   "name": "Team Vitality",
-   "short": "VIT",
-   "slug": "team-vitality"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 2,
   "win_series": 1
  },
  {
