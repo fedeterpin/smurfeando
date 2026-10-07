@@ -37,7 +37,7 @@
   "year": "2026"
  },
  {
-  "games": 15,
+  "games": 20,
   "is_playoffs": false,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -87,25 +87,6 @@
   "year": "2026"
  },
  {
-  "games": 167,
-  "is_playoffs": false,
-  "league": "Tencent LoL Pro League",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
-  "league_short": "LPL",
-  "name": "LPL 2026 Split 3",
-  "overview_page": "LPL/2026 Season/Split 3",
-  "patches": [
-   "26.14",
-   "26.15",
-   "26.16"
-  ],
-  "region": "china",
-  "region_label": "China",
-  "slug": "lpl-2026-season-split-3",
-  "split": "Split 3",
-  "year": "2026"
- },
- {
   "games": 106,
   "is_playoffs": false,
   "league": "LoL EMEA Championship",
@@ -143,7 +124,7 @@
   "year": "2026"
  },
  {
-  "games": 23,
+  "games": 31,
   "is_playoffs": false,
   "league": "Demacia Cup Global Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Demacia_Cup_Global_Invitational_2026.png",
@@ -244,25 +225,6 @@
   "year": "2026"
  },
  {
-  "games": 98,
-  "is_playoffs": false,
-  "league": "LoL Champions Korea",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
-  "league_short": "LCK",
-  "name": "LCK 2026 Rounds 3-4",
-  "overview_page": "LCK/2026 Season/Rounds 3-4",
-  "patches": [
-   "26.14",
-   "26.15",
-   "26.16"
-  ],
-  "region": "korea",
-  "region_label": "Korea",
-  "slug": "lck-2026-season-rounds-3-4",
-  "split": "Rounds 3-4",
-  "year": "2026"
- },
- {
   "games": 14,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
@@ -334,7 +296,7 @@
   "year": "2026"
  },
  {
-  "games": 4,
+  "games": 7,
   "is_playoffs": false,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
