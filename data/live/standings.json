@@ -21,12 +21,12 @@
  },
  {
   "group": 1,
-  "loss_games": 0,
+  "loss_games": 1,
   "loss_series": 0,
   "place": 1,
   "place_label": "1",
   "points": 0,
-  "streak": 1,
+  "streak": 2,
   "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
@@ -36,8 +36,8 @@
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 2,
-  "win_series": 1
+  "win_games": 4,
+  "win_series": 2
  },
  {
   "group": 1,
@@ -61,26 +61,6 @@
  },
  {
   "group": 1,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-   "name": "Shopify Rebellion",
-   "short": "SR",
-   "slug": "shopify-rebellion"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 2,
-  "win_series": 1
- },
- {
-  "group": 1,
   "loss_games": 1,
   "loss_series": 0,
   "place": 1,
@@ -98,6 +78,26 @@
   "tournament": "2026 Demacia Cup Global Invitational",
   "win_games": 3,
   "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 2,
+  "loss_series": 1,
+  "place": 2,
+  "place_label": "2",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+   "name": "Shopify Rebellion",
+   "short": "SR",
+   "slug": "shopify-rebellion"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 3,
+  "win_series": 1
  },
  {
   "group": 1,
@@ -186,6 +186,26 @@
   "place": 7,
   "place_label": "7",
   "points": 0,
+  "streak": 2,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
+   "name": "FlyQuest",
+   "short": "FLY",
+   "slug": "flyquest"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "win_games": 0,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 3,
+  "loss_series": 2,
+  "place": 7,
+  "place_label": "7",
+  "points": 0,
   "streak": 1,
   "streak_direction": "L",
   "team": {
@@ -242,37 +262,17 @@
  {
   "group": 1,
   "loss_games": 3,
-  "loss_series": 2,
-  "place": 10,
-  "place_label": "10",
+  "loss_series": 3,
+  "place": 11,
+  "place_label": "11",
   "points": 0,
   "streak": 2,
   "streak_direction": "L",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
-   "name": "FlyQuest",
-   "short": "FLY",
-   "slug": "flyquest"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 3,
-  "loss_series": 2,
-  "place": 10,
-  "place_label": "10",
-  "points": 0,
-  "streak": 2,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
-   "name": "Shopify Rebellion",
-   "short": "SR",
-   "slug": "shopify-rebellion"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
+   "name": "GAM Esports",
+   "short": "GAM",
+   "slug": "gam-esports"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -283,16 +283,16 @@
   "group": 1,
   "loss_games": 3,
   "loss_series": 3,
-  "place": 12,
-  "place_label": "12",
+  "place": 11,
+  "place_label": "11",
   "points": 0,
   "streak": 2,
   "streak_direction": "L",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/Shopify_Rebellionlogo_profile.png",
+   "name": "Shopify Rebellion",
+   "short": "SR",
+   "slug": "shopify-rebellion"
   },
   "tie_series": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
