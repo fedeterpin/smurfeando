@@ -21529,12 +21529,12 @@
   "wins": 6
  },
  {
-  "assists": 19,
+  "assists": 43,
   "champions": [
    {
     "champion": "Anivia",
-    "games": 1,
-    "wins": 1
+    "games": 2,
+    "wins": 2
    },
    {
     "champion": "Azir",
@@ -21547,22 +21547,27 @@
     "wins": 0
    },
    {
-    "champion": "Ryze",
+    "champion": "Locke",
     "games": 1,
     "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
    }
   ],
-  "cspm": 8.77,
-  "deaths": 8,
-  "dpm": 627.8,
-  "games": 4,
-  "gpm": 428.1,
+  "cspm": 8.84,
+  "deaths": 16,
+  "dpm": 760.0,
+  "games": 8,
+  "gpm": 438.2,
   "image": null,
-  "kda": 4.75,
-  "kills": 19,
-  "kp": 0.5588,
-  "losses": 1,
-  "minutes": 129.7,
+  "kda": 5.5,
+  "kills": 45,
+  "kp": 0.5946,
+  "losses": 2,
+  "minutes": 248.7,
   "player": "Aojune",
   "player_id": "Aojune",
   "role": "Mid",
@@ -21572,9 +21577,221 @@
   "team_short": null,
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.48,
+  "vspm": 1.44,
   "win_rate": 0.75,
-  "wins": 3
+  "wins": 6
+ },
+ {
+  "assists": 61,
+  "champions": [
+   {
+    "champion": "Gnar",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sion",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.56,
+  "deaths": 17,
+  "dpm": 585.8,
+  "games": 8,
+  "gpm": 372.9,
+  "image": null,
+  "kda": 4.82,
+  "kills": 21,
+  "kp": 0.5541,
+  "losses": 2,
+  "minutes": 248.7,
+  "player": "Crimson (Bilal Shoura)",
+  "player_id": "Crimson",
+  "role": "Top",
+  "slug": null,
+  "team": "Maryville University",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.2,
+  "win_rate": 0.75,
+  "wins": 6
+ },
+ {
+  "assists": 95,
+  "champions": [
+   {
+    "champion": "Karma",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Nautilus",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Seraphine",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.32,
+  "deaths": 21,
+  "dpm": 231.5,
+  "games": 8,
+  "gpm": 283.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/UCAM_Obstinatus_2024_Split_2.png",
+  "kda": 4.81,
+  "kills": 6,
+  "kp": 0.6824,
+  "losses": 2,
+  "minutes": 248.7,
+  "player": "Obstinatus",
+  "player_id": "Obstinatus",
+  "role": "Support",
+  "slug": "obstinatus",
+  "team": "Maryville University",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 4.71,
+  "win_rate": 0.75,
+  "wins": 6
+ },
+ {
+  "assists": 58,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ziggs",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.1,
+  "deaths": 13,
+  "dpm": 837.5,
+  "games": 8,
+  "gpm": 507.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DSG_ScaryJerry_2025_Split_1.png",
+  "kda": 6.92,
+  "kills": 32,
+  "kp": 0.6081,
+  "losses": 2,
+  "minutes": 248.7,
+  "player": "ScaryJerry",
+  "player_id": "ScaryJerry",
+  "role": "Bot",
+  "slug": "scaryjerry",
+  "team": "Maryville University",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.03,
+  "win_rate": 0.75,
+  "wins": 6
+ },
+ {
+  "assists": 58,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Wukong",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Sejuani",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.65,
+  "deaths": 22,
+  "dpm": 605.8,
+  "games": 8,
+  "gpm": 445.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/TL_Yuuji_2025_Split_3.png",
+  "kda": 4.64,
+  "kills": 44,
+  "kp": 0.6892,
+  "losses": 2,
+  "minutes": 248.7,
+  "player": "Yuuji",
+  "player_id": "Yuuji",
+  "role": "Jungle",
+  "slug": "yuuji",
+  "team": "Maryville University",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.45,
+  "win_rate": 0.75,
+  "wins": 6
  },
  {
   "assists": 26,
@@ -21625,52 +21842,52 @@
   "wins": 1
  },
  {
-  "assists": 26,
+  "assists": 17,
   "champions": [
    {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Gnar",
+    "champion": "Ahri",
     "games": 1,
     "wins": 0
    },
    {
-    "champion": "K'Sante",
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Sylas",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Sion",
+    "champion": "Syndra",
     "games": 1,
-    "wins": 1
+    "wins": 0
    }
   ],
-  "cspm": 7.57,
-  "deaths": 11,
-  "dpm": 562.8,
+  "cspm": 9.06,
+  "deaths": 18,
+  "dpm": 620.3,
   "games": 4,
-  "gpm": 364.3,
-  "image": null,
-  "kda": 3.18,
-  "kills": 9,
-  "kp": 0.5147,
-  "losses": 1,
-  "minutes": 129.7,
-  "player": "Crimson (Bilal Shoura)",
-  "player_id": "Crimson",
-  "role": "Top",
-  "slug": null,
-  "team": "Maryville University",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
-  "team_short": null,
-  "team_slug": null,
+  "gpm": 411.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/DSG_Callme_2026_Split_1.png",
+  "kda": 1.56,
+  "kills": 11,
+  "kp": 0.7,
+  "losses": 3,
+  "minutes": 119.0,
+  "player": "Callme",
+  "player_id": "Callme",
+  "role": "Mid",
+  "slug": "callme",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.2,
-  "win_rate": 0.75,
-  "wins": 3
+  "vspm": 1.21,
+  "win_rate": 0.25,
+  "wins": 1
  },
  {
   "assists": 13,
@@ -21769,7 +21986,55 @@
   "wins": 1
  },
  {
-  "assists": 42,
+  "assists": 18,
+  "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.7,
+  "deaths": 15,
+  "dpm": 442.3,
+  "games": 4,
+  "gpm": 364.0,
+  "image": null,
+  "kda": 1.73,
+  "kills": 8,
+  "kp": 0.65,
+  "losses": 3,
+  "minutes": 119.0,
+  "player": "KryRa",
+  "player_id": "KryRa",
+  "role": "Jungle",
+  "slug": "kryra",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.29,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 28,
   "champions": [
    {
     "champion": "Bard",
@@ -21777,44 +22042,44 @@
     "wins": 0
    },
    {
-    "champion": "Karma",
+    "champion": "Lulu",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Nautilus",
+    "champion": "Milio",
     "games": 1,
-    "wins": 1
+    "wins": 0
    },
    {
-    "champion": "Seraphine",
+    "champion": "Shen",
     "games": 1,
-    "wins": 1
+    "wins": 0
    }
   ],
-  "cspm": 1.36,
-  "deaths": 13,
-  "dpm": 231.1,
+  "cspm": 0.94,
+  "deaths": 14,
+  "dpm": 178.9,
   "games": 4,
-  "gpm": 278.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/UCAM_Obstinatus_2024_Split_2.png",
-  "kda": 3.46,
-  "kills": 3,
-  "kp": 0.6618,
-  "losses": 1,
-  "minutes": 129.7,
-  "player": "Obstinatus",
-  "player_id": "Obstinatus",
+  "gpm": 271.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/DSG_Lyonz_2026_Split_1.png",
+  "kda": 2.43,
+  "kills": 6,
+  "kp": 0.85,
+  "losses": 3,
+  "minutes": 119.0,
+  "player": "Lyonz",
+  "player_id": "Lyonz",
   "role": "Support",
-  "slug": "obstinatus",
-  "team": "Maryville University",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
-  "team_short": null,
-  "team_slug": null,
+  "slug": "lyonz",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 4.91,
-  "win_rate": 0.75,
-  "wins": 3
+  "vspm": 3.98,
+  "win_rate": 0.25,
+  "wins": 1
  },
  {
   "assists": 20,
@@ -21865,100 +22130,100 @@
   "wins": 1
  },
  {
-  "assists": 27,
+  "assists": 18,
   "champions": [
    {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Caitlyn",
+    "champion": "Jhin",
     "games": 1,
     "wins": 0
    },
    {
-    "champion": "Ezreal",
+    "champion": "Kai'Sa",
     "games": 1,
-    "wins": 1
+    "wins": 0
    },
    {
-    "champion": "Ziggs",
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yunara",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 10.58,
-  "deaths": 4,
-  "dpm": 848.3,
+  "cspm": 9.46,
+  "deaths": 16,
+  "dpm": 661.2,
   "games": 4,
-  "gpm": 505.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DSG_ScaryJerry_2025_Split_1.png",
-  "kda": 9.75,
-  "kills": 12,
-  "kp": 0.5735,
-  "losses": 1,
-  "minutes": 129.7,
-  "player": "ScaryJerry",
-  "player_id": "ScaryJerry",
+  "gpm": 432.1,
+  "image": null,
+  "kda": 1.5,
+  "kills": 6,
+  "kp": 0.6,
+  "losses": 3,
+  "minutes": 119.0,
+  "player": "Sajed",
+  "player_id": "sajed",
   "role": "Bot",
-  "slug": "scaryjerry",
-  "team": "Maryville University",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
-  "team_short": null,
-  "team_slug": null,
+  "slug": "sajed",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.06,
-  "win_rate": 0.75,
-  "wins": 3
+  "vspm": 1.04,
+  "win_rate": 0.25,
+  "wins": 1
  },
  {
-  "assists": 23,
+  "assists": 13,
   "champions": [
    {
-    "champion": "Lee Sin",
+    "champion": "Ambessa",
     "games": 1,
     "wins": 0
    },
    {
-    "champion": "Qiyana",
+    "champion": "Camille",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jayce",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Vi",
+    "champion": "Yorick",
     "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Wukong",
-    "games": 1,
-    "wins": 1
+    "wins": 0
    }
   ],
-  "cspm": 7.79,
-  "deaths": 13,
-  "dpm": 609.1,
+  "cspm": 8.75,
+  "deaths": 17,
+  "dpm": 555.5,
   "games": 4,
-  "gpm": 444.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/TL_Yuuji_2025_Split_3.png",
-  "kda": 3.69,
-  "kills": 25,
-  "kp": 0.7059,
-  "losses": 1,
-  "minutes": 129.7,
-  "player": "Yuuji",
-  "player_id": "Yuuji",
-  "role": "Jungle",
-  "slug": "yuuji",
-  "team": "Maryville University",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
-  "team_short": null,
-  "team_slug": null,
+  "gpm": 417.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/DIG_Srtty_2025_Split_1.png",
+  "kda": 1.29,
+  "kills": 9,
+  "kp": 0.55,
+  "losses": 3,
+  "minutes": 119.0,
+  "player": "Srtty",
+  "player_id": "Srtty",
+  "role": "Top",
+  "slug": "srtty",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.49,
-  "win_rate": 0.75,
-  "wins": 3
+  "vspm": 1.35,
+  "win_rate": 0.25,
+  "wins": 1
  },
  {
   "assists": 13,
