@@ -8952,7 +8952,7 @@
    "short": null,
    "slug": null
   },
-  "team1_score": 1,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
    "name": "Cupid Esports",
@@ -8961,7 +8961,7 @@
   },
   "team2_score": 0,
   "tournament": "LCS/2027 Season/Promotion",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -9028,8 +9028,8 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+   "name": "Cupid Esports",
    "short": null,
    "slug": null
   },
@@ -9163,8 +9163,8 @@
   "round": null,
   "tab": "Finals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/Maryville_Universitylogo_square.png",
+   "name": "Maryville University",
    "short": null,
    "slug": null
   },

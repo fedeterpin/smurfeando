@@ -21579,7 +21579,7 @@
   "wins": 6
  },
  {
-  "assists": 43,
+  "assists": 56,
   "champions": [
    {
     "champion": "Anivia",
@@ -21587,37 +21587,37 @@
     "wins": 2
    },
    {
+    "champion": "Ryze",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Viktor",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
     "champion": "Azir",
     "games": 1,
     "wins": 1
-   },
-   {
-    "champion": "Cassiopeia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Locke",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 0
    }
   ],
-  "cspm": 8.84,
-  "deaths": 16,
-  "dpm": 760.0,
-  "games": 8,
-  "gpm": 438.2,
+  "cspm": 8.81,
+  "deaths": 19,
+  "dpm": 692.5,
+  "games": 11,
+  "gpm": 425.3,
   "image": null,
-  "kda": 5.5,
-  "kills": 45,
-  "kp": 0.5946,
+  "kda": 5.68,
+  "kills": 52,
+  "kp": 0.5902,
   "losses": 2,
-  "minutes": 248.7,
+  "minutes": 346.0,
   "player": "Aojune",
   "player_id": "Aojune",
   "role": "Mid",
@@ -21627,17 +21627,22 @@
   "team_short": null,
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.44,
-  "win_rate": 0.75,
-  "wins": 6
+  "vspm": 1.49,
+  "win_rate": 0.8182,
+  "wins": 9
  },
  {
-  "assists": 61,
+  "assists": 76,
   "champions": [
    {
     "champion": "Gnar",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Ambessa",
     "games": 2,
-    "wins": 1
+    "wins": 2
    },
    {
     "champion": "K'Sante",
@@ -21645,14 +21650,9 @@
     "wins": 1
    },
    {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 1
-   },
-   {
     "champion": "Rumble",
-    "games": 1,
-    "wins": 1
+    "games": 2,
+    "wins": 2
    },
    {
     "champion": "Sion",
@@ -21660,17 +21660,17 @@
     "wins": 1
    }
   ],
-  "cspm": 7.56,
+  "cspm": 7.97,
   "deaths": 17,
-  "dpm": 585.8,
-  "games": 8,
-  "gpm": 372.9,
+  "dpm": 568.6,
+  "games": 11,
+  "gpm": 378.3,
   "image": null,
-  "kda": 4.82,
-  "kills": 21,
-  "kp": 0.5541,
+  "kda": 5.94,
+  "kills": 25,
+  "kp": 0.5519,
   "losses": 2,
-  "minutes": 248.7,
+  "minutes": 346.0,
   "player": "Crimson (Bilal Shoura)",
   "player_id": "Crimson",
   "role": "Top",
@@ -21680,17 +21680,17 @@
   "team_short": null,
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.2,
-  "win_rate": 0.75,
-  "wins": 6
+  "vspm": 1.29,
+  "win_rate": 0.8182,
+  "wins": 9
  },
  {
-  "assists": 95,
+  "assists": 126,
   "champions": [
    {
     "champion": "Karma",
-    "games": 2,
-    "wins": 2
+    "games": 3,
+    "wins": 3
    },
    {
     "champion": "Nautilus",
@@ -21708,22 +21708,22 @@
     "wins": 0
    },
    {
-    "champion": "Rakan",
+    "champion": "Nami",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 1.32,
-  "deaths": 21,
-  "dpm": 231.5,
-  "games": 8,
-  "gpm": 283.2,
+  "cspm": 1.29,
+  "deaths": 26,
+  "dpm": 213.8,
+  "games": 11,
+  "gpm": 280.5,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/UCAM_Obstinatus_2024_Split_2.png",
-  "kda": 4.81,
-  "kills": 6,
-  "kp": 0.6824,
+  "kda": 5.12,
+  "kills": 7,
+  "kp": 0.7268,
   "losses": 2,
-  "minutes": 248.7,
+  "minutes": 346.0,
   "player": "Obstinatus",
   "player_id": "Obstinatus",
   "role": "Support",
@@ -21733,50 +21733,50 @@
   "team_short": null,
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 4.71,
-  "win_rate": 0.75,
-  "wins": 6
+  "vspm": 4.69,
+  "win_rate": 0.8182,
+  "wins": 9
  },
  {
-  "assists": 58,
+  "assists": 70,
   "champions": [
+   {
+    "champion": "Caitlyn",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Ezreal",
+    "games": 3,
+    "wins": 3
+   },
    {
     "champion": "Ashe",
     "games": 2,
     "wins": 1
    },
    {
-    "champion": "Caitlyn",
-    "games": 2,
+    "champion": "Kalista",
+    "games": 1,
     "wins": 1
-   },
-   {
-    "champion": "Ezreal",
-    "games": 2,
-    "wins": 2
    },
    {
     "champion": "Xayah",
     "games": 1,
     "wins": 1
-   },
-   {
-    "champion": "Ziggs",
-    "games": 1,
-    "wins": 1
    }
   ],
-  "cspm": 10.1,
-  "deaths": 13,
-  "dpm": 837.5,
-  "games": 8,
-  "gpm": 507.8,
+  "cspm": 10.05,
+  "deaths": 15,
+  "dpm": 810.8,
+  "games": 11,
+  "gpm": 505.4,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DSG_ScaryJerry_2025_Split_1.png",
-  "kda": 6.92,
-  "kills": 32,
-  "kp": 0.6081,
+  "kda": 7.73,
+  "kills": 46,
+  "kp": 0.6339,
   "losses": 2,
-  "minutes": 248.7,
+  "minutes": 346.0,
   "player": "ScaryJerry",
   "player_id": "ScaryJerry",
   "role": "Bot",
@@ -21786,13 +21786,18 @@
   "team_short": null,
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.03,
-  "win_rate": 0.75,
-  "wins": 6
+  "vspm": 1.06,
+  "win_rate": 0.8182,
+  "wins": 9
  },
  {
-  "assists": 58,
+  "assists": 75,
   "champions": [
+   {
+    "champion": "Wukong",
+    "games": 3,
+    "wins": 3
+   },
    {
     "champion": "Lee Sin",
     "games": 2,
@@ -21804,32 +21809,27 @@
     "wins": 2
    },
    {
-    "champion": "Wukong",
-    "games": 2,
-    "wins": 2
-   },
-   {
     "champion": "Sejuani",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Vi",
+    "champion": "Trundle",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 7.65,
-  "deaths": 22,
-  "dpm": 605.8,
-  "games": 8,
-  "gpm": 445.5,
+  "cspm": 7.74,
+  "deaths": 25,
+  "dpm": 531.7,
+  "games": 11,
+  "gpm": 439.0,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9e/TL_Yuuji_2025_Split_3.png",
-  "kda": 4.64,
-  "kills": 44,
-  "kp": 0.6892,
+  "kda": 5.12,
+  "kills": 53,
+  "kp": 0.6995,
   "losses": 2,
-  "minutes": 248.7,
+  "minutes": 346.0,
   "player": "Yuuji",
   "player_id": "Yuuji",
   "role": "Jungle",
@@ -21839,9 +21839,264 @@
   "team_short": null,
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.45,
-  "win_rate": 0.75,
-  "wins": 6
+  "vspm": 1.43,
+  "win_rate": 0.8182,
+  "wins": 9
+ },
+ {
+  "assists": 35,
+  "champions": [
+   {
+    "champion": "Orianna",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.56,
+  "deaths": 13,
+  "dpm": 714.8,
+  "games": 6,
+  "gpm": 390.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/FxS_Ablazeolive_AC_2024.png",
+  "kda": 4.08,
+  "kills": 18,
+  "kp": 0.631,
+  "losses": 3,
+  "minutes": 196.8,
+  "player": "Ablazeolive",
+  "player_id": "Ablazeolive",
+  "role": "Mid",
+  "slug": "ablazeolive",
+  "team": "Cupid Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.32,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 54,
+  "champions": [
+   {
+    "champion": "Bard",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Shen",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.09,
+  "deaths": 13,
+  "dpm": 195.9,
+  "games": 6,
+  "gpm": 269.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c4/DIG_Breezy_2026_Split_1.png",
+  "kda": 4.62,
+  "kills": 6,
+  "kp": 0.7143,
+  "losses": 3,
+  "minutes": 196.8,
+  "player": "Breezy",
+  "player_id": "Breezy",
+  "role": "Support",
+  "slug": "breezy",
+  "team": "Cupid Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 3.9,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 30,
+  "champions": [
+   {
+    "champion": "Camille",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Gnar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.52,
+  "deaths": 14,
+  "dpm": 635.7,
+  "games": 6,
+  "gpm": 408.1,
+  "image": null,
+  "kda": 3.43,
+  "kills": 18,
+  "kp": 0.5714,
+  "losses": 3,
+  "minutes": 196.8,
+  "player": "Horder",
+  "player_id": "Horder",
+  "role": "Top",
+  "slug": null,
+  "team": "Cupid Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.44,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 21,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Corki",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.29,
+  "deaths": 11,
+  "dpm": 748.5,
+  "games": 6,
+  "gpm": 488.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/DIG_Mobility_2026_Split_1.png",
+  "kda": 4.64,
+  "kills": 30,
+  "kp": 0.6071,
+  "losses": 3,
+  "minutes": 196.8,
+  "player": "Mobility",
+  "player_id": "Mobility",
+  "role": "Bot",
+  "slug": "mobility",
+  "team": "Cupid Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.61,
+  "win_rate": 0.5,
+  "wins": 3
+ },
+ {
+  "assists": 37,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Maokai",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.81,
+  "deaths": 20,
+  "dpm": 363.8,
+  "games": 6,
+  "gpm": 370.1,
+  "image": null,
+  "kda": 2.45,
+  "kills": 12,
+  "kp": 0.5833,
+  "losses": 3,
+  "minutes": 196.8,
+  "player": "Music (Sean Wishko)",
+  "player_id": "Music",
+  "role": "Jungle",
+  "slug": "music",
+  "team": "Cupid Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.67,
+  "win_rate": 0.5,
+  "wins": 3
  },
  {
   "assists": 26,
@@ -22324,92 +22579,6 @@
   "wins": 1
  },
  {
-  "assists": 29,
-  "champions": [
-   {
-    "champion": "Ahri",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Ryze",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.46,
-  "deaths": 8,
-  "dpm": 820.3,
-  "games": 3,
-  "gpm": 434.4,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/FxS_Ablazeolive_AC_2024.png",
-  "kda": 5.62,
-  "kills": 16,
-  "kp": 0.6338,
-  "losses": 0,
-  "minutes": 99.5,
-  "player": "Ablazeolive",
-  "player_id": "Ablazeolive",
-  "role": "Mid",
-  "slug": "ablazeolive",
-  "team": "Cupid Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.18,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 47,
-  "champions": [
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Shen",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 0.91,
-  "deaths": 6,
-  "dpm": 248.3,
-  "games": 3,
-  "gpm": 292.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c4/DIG_Breezy_2026_Split_1.png",
-  "kda": 8.5,
-  "kills": 4,
-  "kp": 0.7183,
-  "losses": 0,
-  "minutes": 99.5,
-  "player": "Breezy",
-  "player_id": "Breezy",
-  "role": "Support",
-  "slug": "breezy",
-  "team": "Cupid Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 3.56,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
   "assists": 16,
   "champions": [
    {
@@ -22451,49 +22620,6 @@
   "vspm": 1.27,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 27,
-  "champions": [
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Gnar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.66,
-  "deaths": 5,
-  "dpm": 846.1,
-  "games": 3,
-  "gpm": 474.8,
-  "image": null,
-  "kda": 8.6,
-  "kills": 16,
-  "kp": 0.6056,
-  "losses": 0,
-  "minutes": 99.5,
-  "player": "Horder",
-  "player_id": "Horder",
-  "role": "Top",
-  "slug": null,
-  "team": "Cupid Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.47,
-  "win_rate": 1.0,
-  "wins": 3
  },
  {
   "assists": 24,
@@ -22580,92 +22706,6 @@
   "vspm": 0.99,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 17,
-  "champions": [
-   {
-    "champion": "Corki",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jhin",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.16,
-  "deaths": 6,
-  "dpm": 942.7,
-  "games": 3,
-  "gpm": 538.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f0/DIG_Mobility_2026_Split_1.png",
-  "kda": 7.17,
-  "kills": 26,
-  "kp": 0.6056,
-  "losses": 0,
-  "minutes": 99.5,
-  "player": "Mobility",
-  "player_id": "Mobility",
-  "role": "Bot",
-  "slug": "mobility",
-  "team": "Cupid Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.59,
-  "win_rate": 1.0,
-  "wins": 3
- },
- {
-  "assists": 32,
-  "champions": [
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Naafiri",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 6.96,
-  "deaths": 11,
-  "dpm": 430.4,
-  "games": 3,
-  "gpm": 402.4,
-  "image": null,
-  "kda": 3.73,
-  "kills": 9,
-  "kp": 0.5775,
-  "losses": 0,
-  "minutes": 99.5,
-  "player": "Music (Sean Wishko)",
-  "player_id": "Music",
-  "role": "Jungle",
-  "slug": "music",
-  "team": "Cupid Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ac/Cupid_Esportslogo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.86,
-  "win_rate": 1.0,
-  "wins": 3
  },
  {
   "assists": 14,
