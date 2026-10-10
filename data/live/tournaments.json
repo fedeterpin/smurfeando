@@ -20,6 +20,21 @@
   "year": "2026"
  },
  {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Circuit Brazilian League of Legends",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
+  "league_short": "CBLOL",
+  "name": "CBLOL 2026 Split 2 Finals Showmatch",
+  "overview_page": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch",
+  "patches": [],
+  "region": "brazil",
+  "region_label": "Brazil",
+  "slug": "cblol-2026-season-split-2-playoffs-showmatch",
+  "split": "Split 2",
+  "year": "2026"
+ },
+ {
   "games": 35,
   "is_playoffs": true,
   "league": "Circuit Brazilian League of Legends",
@@ -368,6 +383,21 @@
   "slug": "tcl-2026-season-summer-split",
   "split": "Summer",
   "year": "2026"
+ },
+ {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Turkish Championship League",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/TCL_logo_2025.png",
+  "league_short": "TCL",
+  "name": "TCL 2027 Promotion",
+  "overview_page": "TCL/2027 Season/Promotion",
+  "patches": [],
+  "region": "turkey",
+  "region_label": "Turkey",
+  "slug": "tcl-2027-season-promotion",
+  "split": "",
+  "year": "2027"
  },
  {
   "games": 23,

@@ -8992,6 +8992,60 @@
  },
  {
   "best_of": 5,
+  "datetime_utc": "2026-10-10 14:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "TCL/2027 Season/Promotion_Round 1_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/BoostGate_Esportslogo_square.png",
+   "name": "BoostGate Esports",
+   "short": "BGT",
+   "slug": "boostgate-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Shark_Attacklogo_square.png",
+   "name": "Shark Attack",
+   "short": "SA",
+   "slug": "shark-attack"
+  },
+  "team2_score": null,
+  "tournament": "TCL/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-10 14:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "TCL/2027 Season/Promotion_Round 1_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ee/ITU_Rangerslogo_square.png",
+   "name": "ITU Rangers",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/BDL_Esportslogo_square.png",
+   "name": "BDL Esports",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "TCL/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
   "datetime_utc": "2026-10-10 16:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -9006,16 +9060,43 @@
    "short": "LOS",
    "slug": "l-s"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
    "name": "FURIA",
    "short": "FUR",
    "slug": "furia"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
   "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-10-10 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch_Day 1_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Day 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a8/Ilha_das_Lendaslogo_square.png",
+   "name": "Ilha das Lendas",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": 0,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4d/Sucatalogo_square.png",
+   "name": "Sucata",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": 1,
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch",
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -9069,6 +9150,33 @@
   },
   "team2_score": null,
   "tournament": "VCS/2026 Season/Finals Stage 2",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-10-11 14:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "TCL/2027 Season/Promotion_Round 2_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "TCL/2027 Season/Promotion",
   "winner": null
  },
  {

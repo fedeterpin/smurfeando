@@ -2940,6 +2940,106 @@
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/82/INTZ_Tay_2024_Split_1.png",
+  "player": "Tay",
+  "player_id": "Tay",
+  "role": "Top",
+  "slug": "tay",
+  "source": "roster",
+  "team": "Ilha das Lendas",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/66/IDL_Minerva_2024.png",
+  "player": "Minerva",
+  "player_id": "Minerva",
+  "role": "Jungle",
+  "slug": "minerva",
+  "source": "roster",
+  "team": "Ilha das Lendas",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/SL_Brucer_2021_Opening.png",
+  "player": "Brucer",
+  "player_id": "Brucer",
+  "role": "Mid",
+  "slug": "brucer",
+  "source": "roster",
+  "team": "Ilha das Lendas",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/de/IDL_Absolut_2025.png",
+  "player": "Absolut",
+  "player_id": "Absolut",
+  "role": "Bot",
+  "slug": "absolut",
+  "source": "roster",
+  "team": "Ilha das Lendas",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e1/IDL_Esa_CBOLÃO.png",
+  "player": "EsA",
+  "player_id": "esA",
+  "role": "Support",
+  "slug": "esa",
+  "source": "roster",
+  "team": "Ilha das Lendas",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/IDL_Ayel_2024_Split_2.png",
+  "player": "Ayel",
+  "player_id": "Ayel",
+  "role": "Top",
+  "slug": "ayel",
+  "source": "roster",
+  "team": "Sucata",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": null,
+  "player": "Durodo",
+  "player_id": "Durodo",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "Sucata",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": null,
+  "player": "DyNquedo",
+  "player_id": "dyNquedo",
+  "role": "Mid",
+  "slug": "dynquedo",
+  "source": "roster",
+  "team": "Sucata",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/KBM_DudsTheBoy_2023_Split_1.png",
+  "player": "DudsTheBoy",
+  "player_id": "DudsTheBoy",
+  "role": "Bot",
+  "slug": "dudstheboy",
+  "source": "roster",
+  "team": "Sucata",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
+  "image": null,
+  "player": "Isa",
+  "player_id": "Isa",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "Sucata",
+  "tournament": "CBLOL/2026 Season/Split 2 Playoffs/Showmatch"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/9ZG_Nate_2026_Split_1.png",
   "player": "Nate",
   "player_id": "Nate",
@@ -7858,6 +7958,206 @@
   "source": "roster",
   "team": "Team Phoenix (Turkish Team)",
   "tournament": "TCL/2026 Season/Summer Split"
+ },
+ {
+  "image": null,
+  "player": "Damo",
+  "player_id": "Damo",
+  "role": "Top",
+  "slug": null,
+  "source": "roster",
+  "team": "BDL Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Utky",
+  "player_id": "Utky",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "BDL Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Zoycade",
+  "player_id": "Zoycade",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "BDL Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Mudi",
+  "player_id": "Mudi",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "BDL Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Virgo (Faruk Civelek)",
+  "player_id": "Virgo",
+  "role": "Support",
+  "slug": "virgo-2",
+  "source": "roster",
+  "team": "BDL Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/MISA_Luana_2024_Split_2.png",
+  "player": "Luana",
+  "player_id": "Luana",
+  "role": "Top",
+  "slug": "luana",
+  "source": "roster",
+  "team": "BoostGate Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Kurama (Alp Eren Öğdem)",
+  "player_id": "Kurama",
+  "role": "Jungle",
+  "slug": "kurama",
+  "source": "roster",
+  "team": "BoostGate Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Warner",
+  "player_id": "Warner",
+  "role": "Mid",
+  "slug": "warner",
+  "source": "roster",
+  "team": "BoostGate Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/DP_Black_2024_Split_1.png",
+  "player": "Black (Murat Ulukan Ayaz)",
+  "player_id": "Black",
+  "role": "Bot",
+  "slug": "black",
+  "source": "roster",
+  "team": "BoostGate Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Antos (Yusuf Yılmaz)",
+  "player_id": "Antos (Yusuf Yılmaz)",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "BoostGate Esports",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/AUR_Madly_2022_Split_2.png",
+  "player": "Madly",
+  "player_id": "Madly",
+  "role": "Top",
+  "slug": "madly",
+  "source": "roster",
+  "team": "ITU Rangers",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Vixen (Arda Erenoğlu)",
+  "player_id": "Vixen (Arda Erenoğlu)",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "ITU Rangers",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Ziqmo0",
+  "player_id": "Ziqmo0",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "ITU Rangers",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "TuokaZ",
+  "player_id": "TuokaZ",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "ITU Rangers",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "XeniuS",
+  "player_id": "XeniuS",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "ITU Rangers",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Herif",
+  "player_id": "Herif",
+  "role": "Top",
+  "slug": null,
+  "source": "roster",
+  "team": "Shark Attack",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Pete (Emirhan Özdemir)",
+  "player_id": "Pete (Emirhan Özdemir)",
+  "role": "Jungle",
+  "slug": null,
+  "source": "roster",
+  "team": "Shark Attack",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Robi",
+  "player_id": "Robi",
+  "role": "Mid",
+  "slug": null,
+  "source": "roster",
+  "team": "Shark Attack",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Titania (Ömer Akgür)",
+  "player_id": "Titania (Ömer Akgür)",
+  "role": "Bot",
+  "slug": null,
+  "source": "roster",
+  "team": "Shark Attack",
+  "tournament": "TCL/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "seishin",
+  "player_id": "seishin",
+  "role": "Support",
+  "slug": null,
+  "source": "roster",
+  "team": "Shark Attack",
+  "tournament": "TCL/2027 Season/Promotion"
  },
  {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/9G_Nanaue_VCS_2026_Spring_Playoffs.png",
