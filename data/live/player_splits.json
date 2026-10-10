@@ -21844,6 +21844,271 @@
   "wins": 9
  },
  {
+  "assists": 44,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lissandra",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ryze",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.31,
+  "deaths": 25,
+  "dpm": 702.7,
+  "games": 7,
+  "gpm": 441.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/DSG_Callme_2026_Split_1.png",
+  "kda": 2.64,
+  "kills": 22,
+  "kp": 0.6346,
+  "losses": 3,
+  "minutes": 198.0,
+  "player": "Callme",
+  "player_id": "Callme",
+  "role": "Mid",
+  "slug": "callme",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.18,
+  "win_rate": 0.5714,
+  "wins": 4
+ },
+ {
+  "assists": 36,
+  "champions": [
+   {
+    "champion": "Pantheon",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.04,
+  "deaths": 17,
+  "dpm": 497.2,
+  "games": 7,
+  "gpm": 403.1,
+  "image": null,
+  "kda": 3.82,
+  "kills": 29,
+  "kp": 0.625,
+  "losses": 3,
+  "minutes": 198.0,
+  "player": "KryRa",
+  "player_id": "KryRa",
+  "role": "Jungle",
+  "slug": "kryra",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.42,
+  "win_rate": 0.5714,
+  "wins": 4
+ },
+ {
+  "assists": 66,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.97,
+  "deaths": 22,
+  "dpm": 193.4,
+  "games": 7,
+  "gpm": 278.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/DSG_Lyonz_2026_Split_1.png",
+  "kda": 3.27,
+  "kills": 6,
+  "kp": 0.6923,
+  "losses": 3,
+  "minutes": 198.0,
+  "player": "Lyonz",
+  "player_id": "Lyonz",
+  "role": "Support",
+  "slug": "lyonz",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 3.87,
+  "win_rate": 0.5714,
+  "wins": 4
+ },
+ {
+  "assists": 32,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kai'Sa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Varus",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.92,
+  "deaths": 22,
+  "dpm": 727.3,
+  "games": 7,
+  "gpm": 484.0,
+  "image": null,
+  "kda": 2.5,
+  "kills": 23,
+  "kp": 0.5288,
+  "losses": 3,
+  "minutes": 198.0,
+  "player": "Sajed",
+  "player_id": "sajed",
+  "role": "Bot",
+  "slug": "sajed",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 0.95,
+  "win_rate": 0.5714,
+  "wins": 4
+ },
+ {
+  "assists": 32,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.55,
+  "deaths": 25,
+  "dpm": 664.6,
+  "games": 7,
+  "gpm": 422.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/DIG_Srtty_2025_Split_1.png",
+  "kda": 2.24,
+  "kills": 24,
+  "kp": 0.5385,
+  "losses": 3,
+  "minutes": 198.0,
+  "player": "Srtty",
+  "player_id": "Srtty",
+  "role": "Top",
+  "slug": "srtty",
+  "team": "Disguised",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+  "team_short": "DSG",
+  "team_slug": "disguised",
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.22,
+  "win_rate": 0.5714,
+  "wins": 4
+ },
+ {
   "assists": 35,
   "champions": [
    {
@@ -21945,6 +22210,54 @@
   "wins": 3
  },
  {
+  "assists": 27,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Shyvana",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.33,
+  "deaths": 35,
+  "dpm": 491.5,
+  "games": 6,
+  "gpm": 375.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/AK_Grell_2024_Opening.png",
+  "kda": 1.29,
+  "kills": 18,
+  "kp": 0.6716,
+  "losses": 6,
+  "minutes": 178.6,
+  "player": "Grell",
+  "player_id": "Grell",
+  "role": "Jungle",
+  "slug": "grell",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.29,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
   "assists": 30,
   "champions": [
    {
@@ -21996,6 +22309,112 @@
   "vspm": 1.44,
   "win_rate": 0.5,
   "wins": 3
+ },
+ {
+  "assists": 46,
+  "champions": [
+   {
+    "champion": "Seraphine",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yuumi",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.11,
+  "deaths": 26,
+  "dpm": 201.2,
+  "games": 6,
+  "gpm": 261.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/FUE_Ichiwin_2023_Closing.png",
+  "kda": 2.12,
+  "kills": 9,
+  "kp": 0.8209,
+  "losses": 6,
+  "minutes": 178.6,
+  "player": "Ichiwin",
+  "player_id": "Ichiwin",
+  "role": "Support",
+  "slug": "ichiwin",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 3.24,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 21,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ornn",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.39,
+  "deaths": 21,
+  "dpm": 452.5,
+  "games": 6,
+  "gpm": 341.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/SDM_Jauny_2026_Split_1.png",
+  "kda": 1.62,
+  "kills": 13,
+  "kp": 0.5075,
+  "losses": 6,
+  "minutes": 178.6,
+  "player": "Jauny",
+  "player_id": "Jauny",
+  "role": "Top",
+  "slug": "jauny",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.0,
+  "win_rate": 0.0,
+  "wins": 0
  },
  {
   "assists": 21,
@@ -22099,6 +22518,112 @@
   "wins": 3
  },
  {
+  "assists": 22,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.51,
+  "deaths": 25,
+  "dpm": 570.1,
+  "games": 6,
+  "gpm": 369.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/SDM_Skyy_2026_Split_1.png",
+  "kda": 1.52,
+  "kills": 16,
+  "kp": 0.5672,
+  "losses": 6,
+  "minutes": 178.6,
+  "player": "Skyy",
+  "player_id": "Skyy",
+  "role": "Mid",
+  "slug": "skyy",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 1.0,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 30,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Kai'Sa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Zeri",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.22,
+  "deaths": 28,
+  "dpm": 549.2,
+  "games": 6,
+  "gpm": 447.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/33/LEV_Snaker_2026_Split_1.png",
+  "kda": 1.46,
+  "kills": 11,
+  "kp": 0.6119,
+  "losses": 6,
+  "minutes": 178.6,
+  "player": "Snaker",
+  "player_id": "Snaker",
+  "role": "Bot",
+  "slug": "snaker",
+  "team": "Fuego",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCS/2027 Season/Promotion",
+  "vspm": 0.98,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
   "assists": 26,
   "champions": [
    {
@@ -22143,54 +22668,6 @@
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
   "vspm": 1.19,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
-  "assists": 17,
-  "champions": [
-   {
-    "champion": "Ahri",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Ryze",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Sylas",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.06,
-  "deaths": 18,
-  "dpm": 620.3,
-  "games": 4,
-  "gpm": 411.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/DSG_Callme_2026_Split_1.png",
-  "kda": 1.56,
-  "kills": 11,
-  "kp": 0.7,
-  "losses": 3,
-  "minutes": 119.0,
-  "player": "Callme",
-  "player_id": "Callme",
-  "role": "Mid",
-  "slug": "callme",
-  "team": "Disguised",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
-  "team_short": "DSG",
-  "team_slug": "disguised",
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.21,
   "win_rate": 0.25,
   "wins": 1
  },
@@ -22291,102 +22768,6 @@
   "wins": 1
  },
  {
-  "assists": 18,
-  "champions": [
-   {
-    "champion": "Naafiri",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Pantheon",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Skarner",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.7,
-  "deaths": 15,
-  "dpm": 442.3,
-  "games": 4,
-  "gpm": 364.0,
-  "image": null,
-  "kda": 1.73,
-  "kills": 8,
-  "kp": 0.65,
-  "losses": 3,
-  "minutes": 119.0,
-  "player": "KryRa",
-  "player_id": "KryRa",
-  "role": "Jungle",
-  "slug": "kryra",
-  "team": "Disguised",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
-  "team_short": "DSG",
-  "team_slug": "disguised",
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.29,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
-  "assists": 28,
-  "champions": [
-   {
-    "champion": "Bard",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Shen",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 0.94,
-  "deaths": 14,
-  "dpm": 178.9,
-  "games": 4,
-  "gpm": 271.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/DSG_Lyonz_2026_Split_1.png",
-  "kda": 2.43,
-  "kills": 6,
-  "kp": 0.85,
-  "losses": 3,
-  "minutes": 119.0,
-  "player": "Lyonz",
-  "player_id": "Lyonz",
-  "role": "Support",
-  "slug": "lyonz",
-  "team": "Disguised",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
-  "team_short": "DSG",
-  "team_slug": "disguised",
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 3.98,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
   "assists": 20,
   "champions": [
    {
@@ -22431,102 +22812,6 @@
   "team_slug": null,
   "tournament": "LCS/2027 Season/Promotion",
   "vspm": 0.89,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
-  "assists": 18,
-  "champions": [
-   {
-    "champion": "Jhin",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Kai'Sa",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.46,
-  "deaths": 16,
-  "dpm": 661.2,
-  "games": 4,
-  "gpm": 432.1,
-  "image": null,
-  "kda": 1.5,
-  "kills": 6,
-  "kp": 0.6,
-  "losses": 3,
-  "minutes": 119.0,
-  "player": "Sajed",
-  "player_id": "sajed",
-  "role": "Bot",
-  "slug": "sajed",
-  "team": "Disguised",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
-  "team_short": "DSG",
-  "team_slug": "disguised",
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.04,
-  "win_rate": 0.25,
-  "wins": 1
- },
- {
-  "assists": 13,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yorick",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.75,
-  "deaths": 17,
-  "dpm": 555.5,
-  "games": 4,
-  "gpm": 417.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/91/DIG_Srtty_2025_Split_1.png",
-  "kda": 1.29,
-  "kills": 9,
-  "kp": 0.55,
-  "losses": 3,
-  "minutes": 119.0,
-  "player": "Srtty",
-  "player_id": "Srtty",
-  "role": "Top",
-  "slug": "srtty",
-  "team": "Disguised",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
-  "team_short": "DSG",
-  "team_slug": "disguised",
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.35,
   "win_rate": 0.25,
   "wins": 1
  },
@@ -22577,221 +22862,6 @@
   "vspm": 1.26,
   "win_rate": 0.25,
   "wins": 1
- },
- {
-  "assists": 16,
-  "champions": [
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Pantheon",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Qiyana",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.36,
-  "deaths": 22,
-  "dpm": 542.4,
-  "games": 3,
-  "gpm": 378.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/AK_Grell_2024_Opening.png",
-  "kda": 1.18,
-  "kills": 10,
-  "kp": 0.7222,
-  "losses": 3,
-  "minutes": 99.5,
-  "player": "Grell",
-  "player_id": "Grell",
-  "role": "Jungle",
-  "slug": "grell",
-  "team": "Fuego",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.27,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 24,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Rakan",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.08,
-  "deaths": 12,
-  "dpm": 176.0,
-  "games": 3,
-  "gpm": 258.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/72/FUE_Ichiwin_2023_Closing.png",
-  "kda": 2.42,
-  "kills": 5,
-  "kp": 0.8056,
-  "losses": 3,
-  "minutes": 99.5,
-  "player": "Ichiwin",
-  "player_id": "Ichiwin",
-  "role": "Support",
-  "slug": "ichiwin",
-  "team": "Fuego",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 3.35,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 12,
-  "champions": [
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Olaf",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Ornn",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.45,
-  "deaths": 12,
-  "dpm": 370.5,
-  "games": 3,
-  "gpm": 338.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/SDM_Jauny_2026_Split_1.png",
-  "kda": 1.42,
-  "kills": 5,
-  "kp": 0.4722,
-  "losses": 3,
-  "minutes": 99.5,
-  "player": "Jauny",
-  "player_id": "Jauny",
-  "role": "Top",
-  "slug": "jauny",
-  "team": "Fuego",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 0.99,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 14,
-  "champions": [
-   {
-    "champion": "Akali",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.49,
-  "deaths": 13,
-  "dpm": 586.7,
-  "games": 3,
-  "gpm": 382.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a6/SDM_Skyy_2026_Split_1.png",
-  "kda": 1.77,
-  "kills": 9,
-  "kp": 0.6389,
-  "losses": 3,
-  "minutes": 99.5,
-  "player": "Skyy",
-  "player_id": "Skyy",
-  "role": "Mid",
-  "slug": "skyy",
-  "team": "Fuego",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 1.06,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 16,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Kai'Sa",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Xayah",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.63,
-  "deaths": 12,
-  "dpm": 538.3,
-  "games": 3,
-  "gpm": 475.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/33/LEV_Snaker_2026_Split_1.png",
-  "kda": 1.92,
-  "kills": 7,
-  "kp": 0.6389,
-  "losses": 3,
-  "minutes": 99.5,
-  "player": "Snaker",
-  "player_id": "Snaker",
-  "role": "Bot",
-  "slug": "snaker",
-  "team": "Fuego",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
-  "team_short": null,
-  "team_slug": null,
-  "tournament": "LCS/2027 Season/Promotion",
-  "vspm": 0.93,
-  "win_rate": 0.0,
-  "wins": 0
  },
  {
   "assists": 169,

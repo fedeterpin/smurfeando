@@ -8965,7 +8965,7 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-09 21:00:00",
+  "datetime_utc": "2026-10-09 23:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCS/2027 Season/Promotion_Round 1_3",
@@ -8979,16 +8979,16 @@
    "short": "DSG",
    "slug": "disguised"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f5/Fuegologo_square.png",
    "name": "Fuego",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCS/2027 Season/Promotion",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -9035,10 +9035,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+   "name": "Disguised",
+   "short": "DSG",
+   "slug": "disguised"
   },
   "team2_score": null,
   "tournament": "LCS/2027 Season/Promotion",
