@@ -489,10 +489,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
@@ -509,10 +509,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
@@ -529,10 +529,10 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a2/TBD_11logo_square.png",
-   "name": "TBD 11",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",

@@ -35,7 +35,7 @@
   "year": "2026"
  },
  {
-  "games": 35,
+  "games": 40,
   "is_playoffs": true,
   "league": "Circuit Brazilian League of Legends",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
@@ -311,7 +311,7 @@
   "year": "2026"
  },
  {
-  "games": 17,
+  "games": 20,
   "is_playoffs": false,
   "league": "League of Legends Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
@@ -385,14 +385,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 8,
   "is_playoffs": false,
   "league": "Turkish Championship League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/TCL_logo_2025.png",
   "league_short": "TCL",
   "name": "TCL 2027 Promotion",
   "overview_page": "TCL/2027 Season/Promotion",
-  "patches": [],
+  "patches": [
+   "26.20"
+  ],
   "region": "turkey",
   "region_label": "Turkey",
   "slug": "tcl-2027-season-promotion",

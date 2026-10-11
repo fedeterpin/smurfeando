@@ -8996,7 +8996,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "TCL/2027 Season/Promotion_Round 1_1",
-  "patch": null,
+  "patch": "26.20",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -9006,16 +9006,16 @@
    "short": "BGT",
    "slug": "boostgate-esports"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Shark_Attacklogo_square.png",
    "name": "Shark Attack",
    "short": "SA",
    "slug": "shark-attack"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "TCL/2027 Season/Promotion",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -9023,7 +9023,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "TCL/2027 Season/Promotion_Round 1_2",
-  "patch": null,
+  "patch": "26.20",
   "phase": null,
   "round": null,
   "tab": "Round 1",
@@ -9033,16 +9033,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/BDL_Esportslogo_square.png",
    "name": "BDL Esports",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "TCL/2027 Season/Promotion",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -9060,7 +9060,7 @@
    "short": "LOS",
    "slug": "l-s"
   },
-  "team1_score": 2,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
    "name": "FURIA",
@@ -9069,7 +9069,7 @@
   },
   "team2_score": 2,
   "tournament": "CBLOL/2026 Season/Split 2 Playoffs",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
@@ -9114,24 +9114,24 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
    "name": "Disguised",
    "short": "DSG",
    "slug": "disguised"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCS/2027 Season/Promotion",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-10-11 09:00:00",
+  "datetime_utc": "2026-10-11 10:00:00",
   "group": null,
   "is_tiebreaker": false,
   "match_id": "VCS/2026 Season/Finals Stage 2_Finals_1",
-  "patch": "26.18",
+  "patch": "26.20",
   "phase": null,
   "round": null,
   "tab": "Finals",
@@ -9141,14 +9141,14 @@
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
    "name": "MVK Esports Academy",
    "short": "MVKA",
    "slug": "mvk-esports-academy"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "VCS/2026 Season/Finals Stage 2",
   "winner": null
  },
@@ -9158,20 +9158,20 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "TCL/2027 Season/Promotion_Round 2_1",
-  "patch": null,
+  "patch": "26.20",
   "phase": null,
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/90/BoostGate_Esportslogo_square.png",
+   "name": "BoostGate Esports",
+   "short": "BGT",
+   "slug": "boostgate-esports"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ee/ITU_Rangerslogo_square.png",
+   "name": "ITU Rangers",
    "short": null,
    "slug": null
   },
@@ -9278,10 +9278,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
+   "name": "Disguised",
+   "short": "DSG",
+   "slug": "disguised"
   },
   "team2_score": null,
   "tournament": "LCS/2027 Season/Promotion",
@@ -9406,17 +9406,17 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports",
+   "short": "MVK",
+   "slug": "mvk-esports"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Play-In",
@@ -9433,17 +9433,17 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+   "name": "Cloud9",
+   "short": "C9",
+   "slug": "cloud9"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Play-In",

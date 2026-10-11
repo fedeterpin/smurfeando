@@ -1050,6 +1050,56 @@
   "tournament": "2026 Season World Championship/Main Event"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LOS_Zest_2026_Split_2.png",
+  "player": "Zest (Kim Dong-min)",
+  "player_id": "Zest",
+  "role": "Top",
+  "slug": "zest-2",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/09/LOS_Curse_2026_Split_2.png",
+  "player": "Curse (Raí Yamada)",
+  "player_id": "Curse",
+  "role": "Jungle",
+  "slug": "curse",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d6/LOS_Feisty_2026_Split_2.png",
+  "player": "Feisty",
+  "player_id": "Feisty",
+  "role": "Mid",
+  "slug": "feisty",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/LOS_Duduhh_2026_Split_2.png",
+  "player": "Duduhh",
+  "player_id": "Duduhh",
+  "role": "Bot",
+  "slug": "duduhh",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5d/LOS_Ackerman_2026_Split_2.png",
+  "player": "Ackerman (Gabriel Aparicio)",
+  "player_id": "Ackerman",
+  "role": "Support",
+  "slug": "ackerman",
+  "source": "roster",
+  "team": "LØS",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/MKOI_Myrwn_2026_Split_1.png",
   "player": "Myrwn",
   "player_id": "Myrwn",
@@ -1347,6 +1397,56 @@
   "slug": "vulcan",
   "source": "roster",
   "team": "Cloud9",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a5/FUR_Guigo_2026_Split_2.png",
+  "player": "Guigo",
+  "player_id": "Guigo",
+  "role": "Top",
+  "slug": "guigo",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/89/FUR_Tatu_2026_Split_2.png",
+  "player": "Tatu (Pedro Seixas)",
+  "player_id": "Tatu",
+  "role": "Jungle",
+  "slug": "tatu",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b5/FUR_Tutsz_2026_Split_2.png",
+  "player": "Tutsz",
+  "player_id": "Tutsz",
+  "role": "Mid",
+  "slug": "tutsz",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/FUR_Ayu_2026_Split_2.png",
+  "player": "Ayu (Andrey Saraiva)",
+  "player_id": "Ayu",
+  "role": "Bot",
+  "slug": "ayu",
+  "source": "roster",
+  "team": "FURIA",
+  "tournament": "2026 Season World Championship/Play-In"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/45/FUR_JoJo_2026_Split_2.png",
+  "player": "JoJo (Gabriel Dzelme)",
+  "player_id": "JoJo",
+  "role": "Support",
+  "slug": "jojo",
+  "source": "roster",
+  "team": "FURIA",
   "tournament": "2026 Season World Championship/Play-In"
  },
  {
@@ -8121,8 +8221,8 @@
  },
  {
   "image": null,
-  "player": "Pete (Emirhan Özdemir)",
-  "player_id": "Pete (Emirhan Özdemir)",
+  "player": "pete (Emirhan Özdemir)",
+  "player_id": "pete (Emirhan Özdemir)",
   "role": "Jungle",
   "slug": null,
   "source": "roster",
