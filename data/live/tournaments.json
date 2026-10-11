@@ -385,7 +385,7 @@
   "year": "2026"
  },
  {
-  "games": 8,
+  "games": 11,
   "is_playoffs": false,
   "league": "Turkish Championship League",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/TCL_logo_2025.png",
@@ -419,7 +419,7 @@
   "year": "2026"
  },
  {
-  "games": 16,
+  "games": 19,
   "is_playoffs": true,
   "league": "Vietnam Championship Series",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",
@@ -427,7 +427,8 @@
   "name": "VCS 2026 Finals Stage 2",
   "overview_page": "VCS/2026 Season/Finals Stage 2",
   "patches": [
-   "26.18"
+   "26.18",
+   "26.20"
   ],
   "region": "vietnam",
   "region_label": "Vietnam",
