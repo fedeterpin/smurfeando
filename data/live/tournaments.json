@@ -240,23 +240,6 @@
   "year": "2026"
  },
  {
-  "games": 14,
-  "is_playoffs": true,
-  "league": "LoL Champions Korea",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
-  "league_short": "LCK",
-  "name": "LCK 2026 Season Play-In",
-  "overview_page": "LCK/2026 Season/Season Play-In",
-  "patches": [
-   "26.16"
-  ],
-  "region": "korea",
-  "region_label": "Korea",
-  "slug": "lck-2026-season-season-play-in",
-  "split": "Rounds 3-4",
-  "year": "2026"
- },
- {
   "games": 41,
   "is_playoffs": true,
   "league": "LoL Champions Korea",

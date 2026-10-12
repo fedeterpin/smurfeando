@@ -3781,33 +3781,6 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-08-26 08:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCK/2026 Season/Season Play-In_Round 1_1",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
-   "name": "KT Rolster",
-   "short": "KT",
-   "slug": "kt-rolster"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-   "name": "HANJIN BRION",
-   "short": "BRO",
-   "slug": "hanjin-brion"
-  },
-  "team2_score": 2,
-  "tournament": "LCK/2026 Season/Season Play-In",
-  "winner": 1
- },
- {
-  "best_of": 5,
   "datetime_utc": "2026-08-26 15:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -3832,33 +3805,6 @@
   "team2_score": 0,
   "tournament": "TCL/2026 Season/Summer Split",
   "winner": 1
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-27 08:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCK/2026 Season/Season Play-In_Round 1_2",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/Nongshim_RedForcelogo_square.png",
-   "name": "Nongshim RedForce",
-   "short": "NS",
-   "slug": "nongshim-redforce"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-   "name": "BNK FEARX",
-   "short": "BFX",
-   "slug": "bnk-fearx"
-  },
-  "team2_score": 3,
-  "tournament": "LCK/2026 Season/Season Play-In",
-  "winner": 2
  },
  {
   "best_of": 5,
@@ -3912,33 +3858,6 @@
   },
   "team2_score": 3,
   "tournament": "LPL/2026 Season/Grand Finals",
-  "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-28 08:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCK/2026 Season/Season Play-In_Round 2_1",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
-   "name": "HANJIN BRION",
-   "short": "BRO",
-   "slug": "hanjin-brion"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-   "name": "BNK FEARX",
-   "short": "BFX",
-   "slug": "bnk-fearx"
-  },
-  "team2_score": 3,
-  "tournament": "LCK/2026 Season/Season Play-In",
   "winner": 2
  },
  {
@@ -9185,7 +9104,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_1",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Quarterfinals",
@@ -9195,16 +9114,16 @@
    "short": "KT",
    "slug": "kt-rolster"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/86/Team_Vitalitylogo_square.png",
    "name": "Team Vitality",
    "short": "VIT",
    "slug": "team-vitality"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -9212,7 +9131,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_2",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Quarterfinals",
@@ -9222,14 +9141,14 @@
    "short": "BFX",
    "slug": "bnk-fearx"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/JD_Gaminglogo_profile.png",
    "name": "JD Gaming",
    "short": "JDG",
    "slug": "jd-gaming"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 Demacia Cup Global Invitational",
   "winner": null
  },
@@ -9293,7 +9212,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_3",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Quarterfinals",
@@ -9320,7 +9239,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Quarterfinals_4",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Quarterfinals",
@@ -9347,7 +9266,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Semifinals_1",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Semifinals",
@@ -9359,10 +9278,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
+   "name": "KT Rolster",
+   "short": "KT",
+   "slug": "kt-rolster"
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -9374,7 +9293,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Semifinals_2",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Semifinals",
@@ -9509,7 +9428,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Demacia Cup Global Invitational_Finals_1",
-  "patch": null,
+  "patch": "26.18",
   "phase": null,
   "round": null,
   "tab": "Finals",
