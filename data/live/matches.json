@@ -9168,16 +9168,16 @@
    "short": "LOS",
    "slug": "l-s"
   },
-  "team1_score": 1,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/KaBuM%21_Ilha_das_Lendaslogo_profile.png",
    "name": "KaBuM! Ilha das Lendas",
    "short": "KBM",
    "slug": "kabum-ilha-das-lendas"
   },
-  "team2_score": 0,
+  "team2_score": 1,
   "tournament": "CBLOL/2027 Season/Promotion",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -9195,16 +9195,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/Disguisedlogo_profile.png",
    "name": "Disguised",
    "short": "DSG",
    "slug": "disguised"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCS/2027 Season/Promotion",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -9222,16 +9222,16 @@
    "short": "WE",
    "slug": "team-we"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/FlyQuestlogo_profile.png",
    "name": "FlyQuest",
    "short": "FLY",
    "slug": "flyquest"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -9249,14 +9249,14 @@
    "short": "BRO",
    "slug": "hanjin-brion"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
    "name": "LGD Gaming",
    "short": "LGD",
    "slug": "lgd-gaming"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 Demacia Cup Global Invitational",
   "winner": null
  },
@@ -9271,17 +9271,17 @@
   "round": null,
   "tab": "Semifinals",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-   "name": "BNK FEARX",
-   "short": "BFX",
-   "slug": "bnk-fearx"
-  },
-  "team1_score": null,
-  "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/KT_Rolsterlogo_profile.png",
    "name": "KT Rolster",
    "short": "KT",
    "slug": "kt-rolster"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+   "name": "BNK FEARX",
+   "short": "BFX",
+   "slug": "bnk-fearx"
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",
@@ -9298,10 +9298,10 @@
   "round": null,
   "tab": "Semifinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+   "name": "Team WE",
+   "short": "WE",
+   "slug": "team-we"
   },
   "team1_score": null,
   "team2": {
