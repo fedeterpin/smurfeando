@@ -1,10 +1,10 @@
 {
- "games": 829,
- "generated_at": "2026-10-14 10:01:51",
- "matches": 367,
- "players": 499,
- "standings": 78,
- "tournaments": 24,
- "window_from": "2026-10-11 10:01:51",
- "window_to": "2026-10-22 10:01:51"
+ "games": 665,
+ "generated_at": "2026-10-14 20:32:10",
+ "matches": 294,
+ "players": 466,
+ "standings": 60,
+ "tournaments": 22,
+ "window_from": "2026-10-11 20:32:10",
+ "window_to": "2026-10-22 20:32:10"
 }
