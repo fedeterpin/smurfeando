@@ -190,60 +190,6 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-07-25 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 1_1",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
-   "name": "Ground Zero Gaming",
-   "short": "GZ",
-   "slug": "ground-zero-gaming"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team2_score": 2,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-25 11:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 1_2",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a3/Fukuoka_SoftBank_HAWKS_gaminglogo_profile.png",
-   "name": "Fukuoka SoftBank HAWKS gaming",
-   "short": "SHG",
-   "slug": "fukuoka-softbank-hawks-gaming"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team2_score": 2,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
- },
- {
-  "best_of": 3,
   "datetime_utc": "2026-07-25 14:30:00",
   "group": null,
   "is_tiebreaker": false,
@@ -403,60 +349,6 @@
   "team2_score": 2,
   "tournament": "LCS/2026 Season/Summer Season",
   "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-26 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 1_3",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
-   "name": "DetonatioN FocusMe",
-   "short": "DFM",
-   "slug": "detonation-focusme"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 2,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-26 11:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 1_4",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/Deep_Cross_Gaminglogo_profile.png",
-   "name": "Deep Cross Gaming",
-   "short": "DCG",
-   "slug": "deep-cross-gaming"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
  },
  {
   "best_of": 3,
@@ -703,60 +595,6 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-07-30 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 2_1",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a3/Fukuoka_SoftBank_HAWKS_gaminglogo_profile.png",
-   "name": "Fukuoka SoftBank HAWKS gaming",
-   "short": "SHG",
-   "slug": "fukuoka-softbank-hawks-gaming"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
-   "name": "DetonatioN FocusMe",
-   "short": "DFM",
-   "slug": "detonation-focusme"
-  },
-  "team2_score": 2,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-30 11:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 2_2",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/Deep_Cross_Gaminglogo_profile.png",
-   "name": "Deep Cross Gaming",
-   "short": "DCG",
-   "slug": "deep-cross-gaming"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
-   "name": "Ground Zero Gaming",
-   "short": "GZ",
-   "slug": "ground-zero-gaming"
-  },
-  "team2_score": 1,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
- },
- {
-  "best_of": 3,
   "datetime_utc": "2026-07-30 14:30:00",
   "group": null,
   "is_tiebreaker": false,
@@ -811,60 +649,6 @@
  },
  {
   "best_of": 3,
-  "datetime_utc": "2026-07-31 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 2_3",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-07-31 11:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 2_4",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 1,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
- },
- {
-  "best_of": 3,
   "datetime_utc": "2026-07-31 15:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -915,60 +699,6 @@
   },
   "team2_score": 1,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-08-01 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 3_1",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 3",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/Deep_Cross_Gaminglogo_profile.png",
-   "name": "Deep Cross Gaming",
-   "short": "DCG",
-   "slug": "deep-cross-gaming"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
-   "name": "DetonatioN FocusMe",
-   "short": "DFM",
-   "slug": "detonation-focusme"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-08-01 11:30:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 3_2",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 3",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
   "winner": 1
  },
  {
@@ -1132,33 +862,6 @@
   "team2_score": 2,
   "tournament": "LCS/2026 Season/Summer Season",
   "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-02 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 3_3",
-  "patch": "26.14",
-  "phase": null,
-  "round": null,
-  "tab": "Round 3",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
  },
  {
   "best_of": 3,
@@ -1566,33 +1269,6 @@
   "winner": 1
  },
  {
-  "best_of": 5,
-  "datetime_utc": "2026-08-06 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 3_4",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Round 3",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a3/Fukuoka_SoftBank_HAWKS_gaminglogo_profile.png",
-   "name": "Fukuoka SoftBank HAWKS gaming",
-   "short": "SHG",
-   "slug": "fukuoka-softbank-hawks-gaming"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
-   "name": "Ground Zero Gaming",
-   "short": "GZ",
-   "slug": "ground-zero-gaming"
-  },
-  "team2_score": 3,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
- },
- {
   "best_of": 3,
   "datetime_utc": "2026-08-06 14:30:00",
   "group": null,
@@ -1618,33 +1294,6 @@
   "team2_score": 1,
   "tournament": "TCL/2026 Season/Summer Split",
   "winner": 1
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-07 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 4_1",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Round 4",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
-   "name": "DetonatioN FocusMe",
-   "short": "DFM",
-   "slug": "detonation-focusme"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 3,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
  },
  {
   "best_of": 3,
@@ -1780,33 +1429,6 @@
   "team2_score": 0,
   "tournament": "CBLOL/2026 Season/Split 2",
   "winner": 1
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-08 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 4_2",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Round 4",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/Deep_Cross_Gaminglogo_profile.png",
-   "name": "Deep Cross Gaming",
-   "short": "DCG",
-   "slug": "deep-cross-gaming"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team2_score": 3,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
  },
  {
   "best_of": 3,
@@ -1969,33 +1591,6 @@
   "team2_score": 2,
   "tournament": "LCS/2026 Season/Summer Season",
   "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-09 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 4_3",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Round 4",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
-   "name": "Ground Zero Gaming",
-   "short": "GZ",
-   "slug": "ground-zero-gaming"
-  },
-  "team2_score": 1,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
  },
  {
   "best_of": 3,
@@ -2457,33 +2052,6 @@
   "winner": 1
  },
  {
-  "best_of": 5,
-  "datetime_utc": "2026-08-13 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Round 5_1",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Round 5",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/Deep_Cross_Gaminglogo_profile.png",
-   "name": "Deep Cross Gaming",
-   "short": "DCG",
-   "slug": "deep-cross-gaming"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 3,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
- },
- {
   "best_of": 3,
   "datetime_utc": "2026-08-13 14:30:00",
   "group": null,
@@ -2535,33 +2103,6 @@
   },
   "team2_score": 0,
   "tournament": "TCL/2026 Season/Summer Split",
-  "winner": 1
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-14 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Seeding_1",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Seeding",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team2_score": 2,
-  "tournament": "LCP/2026 Season/Split 3",
   "winner": 1
  },
  {
@@ -2617,33 +2158,6 @@
   "team2_score": 2,
   "tournament": "LEC/2026 Season/Summer Season",
   "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-15 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Seeding_2",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Seeding",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
-   "name": "Ground Zero Gaming",
-   "short": "GZ",
-   "slug": "ground-zero-gaming"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
-   "name": "DetonatioN FocusMe",
-   "short": "DFM",
-   "slug": "detonation-focusme"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
  },
  {
   "best_of": 3,
@@ -2805,33 +2319,6 @@
   },
   "team2_score": 2,
   "tournament": "LCS/2026 Season/Summer Season",
-  "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-16 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Seeding_3",
-  "patch": "26.15",
-  "phase": null,
-  "round": null,
-  "tab": "Seeding",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team2_score": 3,
-  "tournament": "LCP/2026 Season/Split 3",
   "winner": 2
  },
  {
@@ -3187,33 +2674,6 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-08-20 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Quarterfinals_1",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Quarterfinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
- },
- {
-  "best_of": 5,
   "datetime_utc": "2026-08-20 15:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -3238,33 +2698,6 @@
   "team2_score": 3,
   "tournament": "TCL/2026 Season/Summer Split",
   "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-21 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Quarterfinals_2",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Quarterfinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 1,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
  },
  {
   "best_of": 3,
@@ -3318,33 +2751,6 @@
   },
   "team2_score": 1,
   "tournament": "LEC/2026 Season/Summer Season",
-  "winner": 1
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-22 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Quarterfinals_3",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Quarterfinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8a/GAM_Esportslogo_square.png",
-   "name": "GAM Esports",
-   "short": "GAM",
-   "slug": "gam-esports"
-  },
-  "team2_score": 2,
-  "tournament": "LCP/2026 Season/Split 3",
   "winner": 1
  },
  {
@@ -3508,33 +2914,6 @@
   "team2_score": 0,
   "tournament": "LCS/2026 Season/Summer Season",
   "winner": 1
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-23 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Semifinals_1",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Semifinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team2_score": 3,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 2
  },
  {
   "best_of": 3,
@@ -3970,33 +3349,6 @@
  },
  {
   "best_of": 5,
-  "datetime_utc": "2026-08-29 08:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Semifinals_2",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Semifinals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports",
-   "short": "MVK",
-   "slug": "mvk-esports"
-  },
-  "team2_score": 1,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
- },
- {
-  "best_of": 5,
   "datetime_utc": "2026-08-29 09:00:00",
   "group": null,
   "is_tiebreaker": false,
@@ -4210,33 +3562,6 @@
   "team2_score": 3,
   "tournament": "LCK/2026 Season/Season Playoffs",
   "winner": 2
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-08-30 08:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "LCP/2026 Season/Split 3_Finals_1",
-  "patch": "26.16",
-  "phase": null,
-  "round": null,
-  "tab": "Finals",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "team2_score": 0,
-  "tournament": "LCP/2026 Season/Split 3",
-  "winner": 1
  },
  {
   "best_of": 5,
@@ -9249,7 +8574,7 @@
    "short": "BRO",
    "slug": "hanjin-brion"
   },
-  "team1_score": 1,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/55/LGD_Gaminglogo_square.png",
    "name": "LGD Gaming",
@@ -9258,7 +8583,7 @@
   },
   "team2_score": 1,
   "tournament": "2026 Demacia Cup Global Invitational",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -9276,14 +8601,14 @@
    "short": "KT",
    "slug": "kt-rolster"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
    "name": "BNK FEARX",
    "short": "BFX",
    "slug": "bnk-fearx"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 Demacia Cup Global Invitational",
   "winner": null
  },
@@ -9305,10 +8630,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
+   "name": "HANJIN BRION",
+   "short": "BRO",
+   "slug": "hanjin-brion"
   },
   "team2_score": null,
   "tournament": "2026 Demacia Cup Global Invitational",

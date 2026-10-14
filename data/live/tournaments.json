@@ -139,7 +139,7 @@
   "year": "2026"
  },
  {
-  "games": 54,
+  "games": 58,
   "is_playoffs": false,
   "league": "Demacia Cup Global Invitational",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2b/Demacia_Cup_Global_Invitational_2026.png",
@@ -309,25 +309,6 @@
   "slug": "lcs-2027-season-promotion",
   "split": "",
   "year": "2027"
- },
- {
-  "games": 80,
-  "is_playoffs": false,
-  "league": "League of Legends Championship Pacific",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/LCP_Logo.png",
-  "league_short": "LCP",
-  "name": "LCP 2026 Split 3",
-  "overview_page": "LCP/2026 Season/Split 3",
-  "patches": [
-   "26.14",
-   "26.15",
-   "26.16"
-  ],
-  "region": "pacific",
-  "region_label": "Pacific",
-  "slug": "lcp-2026-season-split-3",
-  "split": "Split 3",
-  "year": "2026"
  },
  {
   "games": 38,
