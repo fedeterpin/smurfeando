@@ -271,6 +271,21 @@
   "year": "2027"
  },
  {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "League of Legends Championship Pacific",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/LCP_Logo.png",
+  "league_short": "LCP",
+  "name": "LCP 2027 Promotion",
+  "overview_page": "LCP/2027 Season/Promotion",
+  "patches": [],
+  "region": "pacific",
+  "region_label": "Pacific",
+  "slug": "lcp-2027-season-promotion",
+  "split": "",
+  "year": "2027"
+ },
+ {
   "games": 38,
   "is_playoffs": false,
   "league": "Pacific Championship Series",

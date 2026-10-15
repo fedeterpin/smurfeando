@@ -6657,14 +6657,14 @@
    "short": "WE",
    "slug": "team-we"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/HANJIN_BRIONlogo_profile.png",
    "name": "HANJIN BRION",
    "short": "BRO",
    "slug": "hanjin-brion"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 Demacia Cup Global Invitational",
   "winner": null
  },
@@ -7908,6 +7908,141 @@
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Main Event",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-11-10 05:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCP/2027 Season/Promotion_FFA Round 1_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "FFA Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-11-10 10:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCP/2027 Season/Promotion_FFA Round 1_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "FFA Round 1",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-11-11 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCP/2027 Season/Promotion_Regional Merit Match_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Regional Merit Match",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+   "name": "Ground Zero Gaming",
+   "short": "GZ",
+   "slug": "ground-zero-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
+   "name": "Frank Esports",
+   "short": "FAK",
+   "slug": "frank-esports"
+  },
+  "team2_score": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-11-12 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCP/2027 Season/Promotion_FFA Round 2_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "FFA Round 2",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "winner": null
+ },
+ {
+  "best_of": 5,
+  "datetime_utc": "2026-11-13 09:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "LCP/2027 Season/Promotion_FFA Finals_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "FFA Finals",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
+   "name": "DetonatioN FocusMe",
+   "short": "DFM",
+   "slug": "detonation-focusme"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "LCP/2027 Season/Promotion",
   "winner": null
  },
  {
