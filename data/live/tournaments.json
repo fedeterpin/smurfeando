@@ -165,14 +165,16 @@
   "year": "2026"
  },
  {
-  "games": 0,
+  "games": 8,
   "is_playoffs": false,
   "league": "World Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
   "league_short": "WCS",
   "name": "Worlds 2026 Play-In",
   "overview_page": "2026 Season World Championship/Play-In",
-  "patches": [],
+  "patches": [
+   "26.20"
+  ],
   "region": "international",
   "region_label": "International",
   "slug": "2026-season-world-championship-play-in",

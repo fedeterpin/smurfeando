@@ -6684,16 +6684,16 @@
    "short": "C9",
    "slug": "cloud9"
   },
-  "team1_score": 1,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
    "name": "Karmine Corp",
    "short": "KC",
    "slug": "karmine-corp"
   },
-  "team2_score": 1,
+  "team2_score": 3,
   "tournament": "2026 Season World Championship/Play-In",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -6711,16 +6711,16 @@
    "short": "FUR",
    "slug": "furia"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
    "name": "MVK Esports",
    "short": "MVK",
    "slug": "mvk-esports"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "2026 Season World Championship/Play-In",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -6733,17 +6733,17 @@
   "round": null,
   "tab": "Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
+   "name": "MVK Esports",
+   "short": "MVK",
+   "slug": "mvk-esports"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Play-In",
@@ -6760,17 +6760,17 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/67/FURIAlogo_profile.png",
+   "name": "FURIA",
+   "short": "FUR",
+   "slug": "furia"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5f/Cloud9logo_profile.png",
+   "name": "Cloud9",
+   "short": "C9",
+   "slug": "cloud9"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Play-In",
