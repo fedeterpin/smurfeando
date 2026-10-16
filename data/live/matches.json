@@ -6738,14 +6738,14 @@
    "short": "MVK",
    "slug": "mvk-esports"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
    "name": "Karmine Corp",
    "short": "KC",
    "slug": "karmine-corp"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "2026 Season World Championship/Play-In",
   "winner": null
  },
