@@ -1,5 +1,535 @@
 [
  {
+  "assists": 91,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 4,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Corki",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Aphelios",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.11,
+  "deaths": 49,
+  "dpm": 762.6,
+  "games": 18,
+  "gpm": 486.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/WE_About_2026_Split_1.png",
+  "kda": 3.12,
+  "kills": 62,
+  "kp": 0.6194,
+  "losses": 8,
+  "minutes": 571.5,
+  "player": "About",
+  "player_id": "About",
+  "role": "Bot",
+  "slug": "about",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.53,
+  "win_rate": 0.5556,
+  "wins": 10
+ },
+ {
+  "assists": 84,
+  "champions": [
+   {
+    "champion": "Rumble",
+    "games": 4,
+    "wins": 2
+   },
+   {
+    "champion": "Yorick",
+    "games": 3,
+    "wins": 0
+   },
+   {
+    "champion": "Renekton",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Sion",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.68,
+  "deaths": 48,
+  "dpm": 504.6,
+  "games": 18,
+  "gpm": 398.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/WE_Cube_2026_Split_1.png",
+  "kda": 2.73,
+  "kills": 47,
+  "kp": 0.5304,
+  "losses": 8,
+  "minutes": 571.5,
+  "player": "Cube (Dai Yi)",
+  "player_id": "Cube",
+  "role": "Top",
+  "slug": "cube",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.27,
+  "win_rate": 0.5556,
+  "wins": 10
+ },
+ {
+  "assists": 167,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Bard",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Milio",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Karma",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Lulu",
+    "games": 2,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.04,
+  "deaths": 59,
+  "dpm": 161.4,
+  "games": 18,
+  "gpm": 258.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/WE_Erha_2026_Split_2.png",
+  "kda": 2.95,
+  "kills": 7,
+  "kp": 0.7045,
+  "losses": 8,
+  "minutes": 571.5,
+  "player": "Erha",
+  "player_id": "Erha",
+  "role": "Support",
+  "slug": "erha",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 4.51,
+  "win_rate": 0.5556,
+  "wins": 10
+ },
+ {
+  "assists": 93,
+  "champions": [
+   {
+    "champion": "Viktor",
+    "games": 4,
+    "wins": 2
+   },
+   {
+    "champion": "Akali",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "LeBlanc",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Ahri",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Locke",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.1,
+  "deaths": 45,
+  "dpm": 613.0,
+  "games": 18,
+  "gpm": 405.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/WE_Karis_2026_Split_1.png",
+  "kda": 3.4,
+  "kills": 60,
+  "kp": 0.6194,
+  "losses": 8,
+  "minutes": 571.5,
+  "player": "Karis",
+  "player_id": "Karis",
+  "role": "Mid",
+  "slug": "karis",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.57,
+  "win_rate": 0.5556,
+  "wins": 10
+ },
+ {
+  "assists": 123,
+  "champions": [
+   {
+    "champion": "Naafiri",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Maokai",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Nocturne",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.51,
+  "deaths": 59,
+  "dpm": 511.4,
+  "games": 18,
+  "gpm": 415.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/WE_Monki_2026_Split_1.png",
+  "kda": 3.29,
+  "kills": 71,
+  "kp": 0.7854,
+  "losses": 8,
+  "minutes": 571.5,
+  "player": "Monki",
+  "player_id": "Monki",
+  "role": "Jungle",
+  "slug": "monki",
+  "team": "Team WE",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
+  "team_short": "WE",
+  "team_slug": "team-we",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.8,
+  "win_rate": 0.5556,
+  "wins": 10
+ },
+ {
+  "assists": 87,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Rumble",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Nidalee",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Olaf",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Renekton",
+    "games": 2,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.1,
+  "deaths": 37,
+  "dpm": 582.5,
+  "games": 17,
+  "gpm": 410.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
+  "kda": 3.41,
+  "kills": 39,
+  "kp": 0.4565,
+  "losses": 5,
+  "minutes": 502.6,
+  "player": "Clear (Song Hyeon-min)",
+  "player_id": "Clear",
+  "role": "Top",
+  "slug": "clear",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.26,
+  "win_rate": 0.7059,
+  "wins": 12
+ },
+ {
+  "assists": 171,
+  "champions": [
+   {
+    "champion": "Bard",
+    "games": 4,
+    "wins": 2
+   },
+   {
+    "champion": "Camille",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Lulu",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.0,
+  "deaths": 50,
+  "dpm": 240.8,
+  "games": 17,
+  "gpm": 281.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png",
+  "kda": 3.74,
+  "kills": 16,
+  "kp": 0.6775,
+  "losses": 5,
+  "minutes": 502.6,
+  "player": "Kellin",
+  "player_id": "Kellin",
+  "role": "Support",
+  "slug": "kellin",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 4.2,
+  "win_rate": 0.7059,
+  "wins": 12
+ },
+ {
+  "assists": 107,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Pantheon",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Poppy",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Vi",
+    "games": 2,
+    "wins": 2
+   }
+  ],
+  "cspm": 7.56,
+  "deaths": 43,
+  "dpm": 525.4,
+  "games": 17,
+  "gpm": 438.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png",
+  "kda": 4.35,
+  "kills": 80,
+  "kp": 0.6775,
+  "losses": 5,
+  "minutes": 502.6,
+  "player": "Raptor (Jeon Eo-jin)",
+  "player_id": "Raptor",
+  "role": "Jungle",
+  "slug": "raptor",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.83,
+  "win_rate": 0.7059,
+  "wins": 12
+ },
+ {
+  "assists": 106,
+  "champions": [
+   {
+    "champion": "Caitlyn",
+    "games": 4,
+    "wins": 2
+   },
+   {
+    "champion": "Yunara",
+    "games": 4,
+    "wins": 3
+   },
+   {
+    "champion": "Jhin",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Kalista",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.1,
+  "deaths": 42,
+  "dpm": 704.4,
+  "games": 17,
+  "gpm": 503.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png",
+  "kda": 4.29,
+  "kills": 74,
+  "kp": 0.6522,
+  "losses": 5,
+  "minutes": 502.6,
+  "player": "Taeyoon (Kim Tae-yoon)",
+  "player_id": "Taeyoon",
+  "role": "Bot",
+  "slug": "taeyoon",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.72,
+  "win_rate": 0.7059,
+  "wins": 12
+ },
+ {
+  "assists": 95,
+  "champions": [
+   {
+    "champion": "Ryze",
+    "games": 3,
+    "wins": 2
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Locke",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Sylas",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.12,
+  "deaths": 39,
+  "dpm": 678.8,
+  "games": 17,
+  "gpm": 415.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png",
+  "kda": 4.15,
+  "kills": 67,
+  "kp": 0.587,
+  "losses": 5,
+  "minutes": 502.6,
+  "player": "VicLa",
+  "player_id": "VicLa",
+  "role": "Mid",
+  "slug": "vicla",
+  "team": "BNK FEARX",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
+  "team_short": "BFX",
+  "team_slug": "bnk-fearx",
+  "tournament": "2026 Demacia Cup Global Invitational",
+  "vspm": 1.28,
+  "win_rate": 0.7059,
+  "wins": 12
+ },
+ {
   "assists": 77,
   "champions": [
    {
@@ -530,271 +1060,6 @@
   "wins": 8
  },
  {
-  "assists": 77,
-  "champions": [
-   {
-    "champion": "Jhin",
-    "games": 3,
-    "wins": 1
-   },
-   {
-    "champion": "Lucian",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Aphelios",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 10.26,
-  "deaths": 35,
-  "dpm": 774.0,
-  "games": 14,
-  "gpm": 505.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/WE_About_2026_Split_1.png",
-  "kda": 3.8,
-  "kills": 56,
-  "kp": 0.6456,
-  "losses": 5,
-  "minutes": 457.9,
-  "player": "About",
-  "player_id": "About",
-  "role": "Bot",
-  "slug": "about",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.55,
-  "win_rate": 0.6429,
-  "wins": 9
- },
- {
-  "assists": 73,
-  "champions": [
-   {
-    "champion": "Rumble",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Renekton",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Sion",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Yorick",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Galio",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.65,
-  "deaths": 37,
-  "dpm": 518.8,
-  "games": 14,
-  "gpm": 407.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0a/WE_Cube_2026_Split_1.png",
-  "kda": 3.11,
-  "kills": 42,
-  "kp": 0.5583,
-  "losses": 5,
-  "minutes": 457.9,
-  "player": "Cube (Dai Yi)",
-  "player_id": "Cube",
-  "role": "Top",
-  "slug": "cube",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.3,
-  "win_rate": 0.6429,
-  "wins": 9
- },
- {
-  "assists": 140,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Bard",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Lulu",
-    "games": 2,
-    "wins": 0
-   },
-   {
-    "champion": "Milio",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.05,
-  "deaths": 49,
-  "dpm": 158.8,
-  "games": 14,
-  "gpm": 262.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/WE_Erha_2026_Split_2.png",
-  "kda": 3.0,
-  "kills": 7,
-  "kp": 0.7136,
-  "losses": 5,
-  "minutes": 457.9,
-  "player": "Erha",
-  "player_id": "Erha",
-  "role": "Support",
-  "slug": "erha",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 4.63,
-  "win_rate": 0.6429,
-  "wins": 9
- },
- {
-  "assists": 83,
-  "champions": [
-   {
-    "champion": "Akali",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Viktor",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Ahri",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "LeBlanc",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Ryze",
-    "games": 2,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.11,
-  "deaths": 35,
-  "dpm": 592.5,
-  "games": 14,
-  "gpm": 402.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/WE_Karis_2026_Split_1.png",
-  "kda": 3.6,
-  "kills": 43,
-  "kp": 0.6117,
-  "losses": 5,
-  "minutes": 457.9,
-  "player": "Karis",
-  "player_id": "Karis",
-  "role": "Mid",
-  "slug": "karis",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.64,
-  "win_rate": 0.6429,
-  "wins": 9
- },
- {
-  "assists": 106,
-  "champions": [
-   {
-    "champion": "Naafiri",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Qiyana",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Gragas",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.61,
-  "deaths": 41,
-  "dpm": 534.8,
-  "games": 14,
-  "gpm": 422.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/WE_Monki_2026_Split_1.png",
-  "kda": 4.0,
-  "kills": 58,
-  "kp": 0.7961,
-  "losses": 5,
-  "minutes": 457.9,
-  "player": "Monki",
-  "player_id": "Monki",
-  "role": "Jungle",
-  "slug": "monki",
-  "team": "Team WE",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/04/Team_WElogo_profile.png",
-  "team_short": "WE",
-  "team_slug": "team-we",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.78,
-  "win_rate": 0.6429,
-  "wins": 9
- },
- {
   "assists": 83,
   "champions": [
    {
@@ -846,59 +1111,6 @@
   "vspm": 1.44,
   "win_rate": 0.4615,
   "wins": 6
- },
- {
-  "assists": 67,
-  "champions": [
-   {
-    "champion": "Rumble",
-    "games": 3,
-    "wins": 3
-   },
-   {
-    "champion": "Jayce",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Nidalee",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Olaf",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.95,
-  "deaths": 31,
-  "dpm": 567.3,
-  "games": 13,
-  "gpm": 407.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/BFX_Clear_2026_Split_1.png",
-  "kda": 3.16,
-  "kills": 31,
-  "kp": 0.4601,
-  "losses": 4,
-  "minutes": 388.9,
-  "player": "Clear (Song Hyeon-min)",
-  "player_id": "Clear",
-  "role": "Top",
-  "slug": "clear",
-  "team": "BNK FEARX",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-  "team_short": "BFX",
-  "team_slug": "bnk-fearx",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.25,
-  "win_rate": 0.6923,
-  "wins": 9
  },
  {
   "assists": 64,
@@ -954,165 +1166,6 @@
   "wins": 6
  },
  {
-  "assists": 135,
-  "champions": [
-   {
-    "champion": "Bard",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Camille",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Lulu",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Renata Glasc",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Karma",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.05,
-  "deaths": 39,
-  "dpm": 237.1,
-  "games": 13,
-  "gpm": 283.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/BFX_Kellin_2026_Split_1.png",
-  "kda": 3.82,
-  "kills": 14,
-  "kp": 0.6995,
-  "losses": 4,
-  "minutes": 388.9,
-  "player": "Kellin",
-  "player_id": "Kellin",
-  "role": "Support",
-  "slug": "kellin",
-  "team": "BNK FEARX",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-  "team_short": "BFX",
-  "team_slug": "bnk-fearx",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 4.3,
-  "win_rate": 0.6923,
-  "wins": 9
- },
- {
-  "assists": 81,
-  "champions": [
-   {
-    "champion": "Lee Sin",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Poppy",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Vi",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.45,
-  "deaths": 34,
-  "dpm": 518.2,
-  "games": 13,
-  "gpm": 428.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9f/BFX_Raptor_2026_Split_1.png",
-  "kda": 4.12,
-  "kills": 59,
-  "kp": 0.6573,
-  "losses": 4,
-  "minutes": 388.9,
-  "player": "Raptor (Jeon Eo-jin)",
-  "player_id": "Raptor",
-  "role": "Jungle",
-  "slug": "raptor",
-  "team": "BNK FEARX",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-  "team_short": "BFX",
-  "team_slug": "bnk-fearx",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.85,
-  "win_rate": 0.6923,
-  "wins": 9
- },
- {
-  "assists": 88,
-  "champions": [
-   {
-    "champion": "Caitlyn",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Jhin",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Yunara",
-    "games": 3,
-    "wins": 2
-   },
-   {
-    "champion": "Kalista",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Ezreal",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.98,
-  "deaths": 34,
-  "dpm": 744.9,
-  "games": 13,
-  "gpm": 496.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4c/BFX_Taeyoon_2026_Split_2.png",
-  "kda": 4.18,
-  "kills": 54,
-  "kp": 0.6667,
-  "losses": 4,
-  "minutes": 388.9,
-  "player": "Taeyoon (Kim Tae-yoon)",
-  "player_id": "Taeyoon",
-  "role": "Bot",
-  "slug": "taeyoon",
-  "team": "BNK FEARX",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-  "team_short": "BFX",
-  "team_slug": "bnk-fearx",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.64,
-  "win_rate": 0.6923,
-  "wins": 9
- },
- {
   "assists": 127,
   "champions": [
    {
@@ -1164,59 +1217,6 @@
   "vspm": 4.3,
   "win_rate": 0.4615,
   "wins": 6
- },
- {
-  "assists": 68,
-  "champions": [
-   {
-    "champion": "Cassiopeia",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Locke",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Ryze",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Sylas",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Ahri",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.04,
-  "deaths": 32,
-  "dpm": 712.3,
-  "games": 13,
-  "gpm": 415.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3f/BFX_VicLa_2026_Split_1.png",
-  "kda": 3.84,
-  "kills": 55,
-  "kp": 0.5775,
-  "losses": 4,
-  "minutes": 388.9,
-  "player": "VicLa",
-  "player_id": "VicLa",
-  "role": "Mid",
-  "slug": "vicla",
-  "team": "BNK FEARX",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/BNK_FEARXlogo_profile.png",
-  "team_short": "BFX",
-  "team_slug": "bnk-fearx",
-  "tournament": "2026 Demacia Cup Global Invitational",
-  "vspm": 1.26,
-  "win_rate": 0.6923,
-  "wins": 9
  },
  {
   "assists": 86,
