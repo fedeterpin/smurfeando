@@ -1000,6 +1000,56 @@
   "tournament": "2026 Season World Championship/Main Event"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/KC_Canna_2026_Split_2.png",
+  "player": "Canna",
+  "player_id": "Canna",
+  "role": "Top",
+  "slug": "canna",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/be/KC_Yike_2026_Split_2.png",
+  "player": "Yike",
+  "player_id": "Yike",
+  "role": "Jungle",
+  "slug": "yike",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": null,
+  "player": "Kyeahoo",
+  "player_id": "kyeahoo",
+  "role": "Mid",
+  "slug": "kyeahoo",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/KC_Caliste_2026_Split_2.png",
+  "player": "Caliste",
+  "player_id": "Caliste",
+  "role": "Bot",
+  "slug": "caliste",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/KC_Busio_2026_Split_2.png",
+  "player": "Busio",
+  "player_id": "Busio",
+  "role": "Support",
+  "slug": "busio",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Season World Championship/Main Event"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LYON_Dhokla_2026_Split_1.png",
   "player": "Dhokla",
   "player_id": "Dhokla",

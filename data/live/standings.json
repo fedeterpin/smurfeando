@@ -320,6 +320,26 @@
   "win_series": 0
  },
  {
+  "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
   "group": 2,
   "loss_games": 0,
   "loss_series": 0,
@@ -333,6 +353,26 @@
    "name": "Bilibili Gaming",
    "short": "BLG",
    "slug": "bilibili-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 2,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
@@ -360,6 +400,26 @@
   "win_series": 0
  },
  {
+  "group": 3,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
+   "name": "Team Liquid",
+   "short": "TL",
+   "slug": "team-liquid"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
   "group": 4,
   "loss_games": 0,
   "loss_series": 0,
@@ -380,7 +440,7 @@
   "win_series": 0
  },
  {
-  "group": 5,
+  "group": 4,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -400,7 +460,7 @@
   "win_series": 0
  },
  {
-  "group": 6,
+  "group": 5,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -420,27 +480,7 @@
   "win_series": 0
  },
  {
-  "group": 7,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
-   "name": "Hanwha Life Esports",
-   "short": "HLE",
-   "slug": "hanwha-life-esports"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 8,
+  "group": 5,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -460,7 +500,47 @@
   "win_series": 0
  },
  {
-  "group": 9,
+  "group": 6,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 6,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
+   "name": "Top Esports",
+   "short": "TES",
+   "slug": "top-esports"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 7,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -480,107 +560,7 @@
   "win_series": 0
  },
  {
-  "group": 10,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-   "name": "LØS",
-   "short": "LOS",
-   "slug": "l-s"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 11,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 12,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 13,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/TBD_12logo_square.png",
-   "name": "TBD 12",
-   "short": null,
-   "slug": null
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 14,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
-   "name": "Team Liquid",
-   "short": "TL",
-   "slug": "team-liquid"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 15,
+  "group": 7,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -600,7 +580,7 @@
   "win_series": 0
  },
  {
-  "group": 16,
+  "group": 8,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -609,10 +589,30 @@
   "streak": 0,
   "streak_direction": null,
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
-   "name": "Top Esports",
-   "short": "TES",
-   "slug": "top-esports"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 8,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 0,
+  "streak_direction": null,
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
