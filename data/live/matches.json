@@ -6895,17 +6895,17 @@
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
-   "name": "Team Liquid",
-   "short": "TL",
-   "slug": "team-liquid"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
+   "name": "Top Esports",
+   "short": "TES",
+   "slug": "top-esports"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Main Event",
@@ -6917,6 +6917,33 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "2026 Season World Championship/Main Event_Round 1_3",
+  "patch": "26.20",
+  "phase": null,
+  "round": null,
+  "tab": "Round 1",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "team2_score": null,
+  "tournament": "2026 Season World Championship/Main Event",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-10-23 20:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Season World Championship/Main Event_Round 1_4",
   "patch": "26.20",
   "phase": null,
   "round": null,
@@ -6940,10 +6967,10 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-23 20:00:00",
+  "datetime_utc": "2026-10-23 21:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "2026 Season World Championship/Main Event_Round 1_4",
+  "match_id": "2026 Season World Championship/Main Event_Round 1_5",
   "patch": "26.20",
   "phase": null,
   "round": null,
@@ -6967,26 +6994,26 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-23 21:00:00",
+  "datetime_utc": "2026-10-23 22:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "2026 Season World Championship/Main Event_Round 1_5",
+  "match_id": "2026 Season World Championship/Main Event_Round 1_6",
   "patch": "26.20",
   "phase": null,
   "round": null,
   "tab": "Round 1",
   "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
-   "name": "Hanwha Life Esports",
-   "short": "HLE",
-   "slug": "hanwha-life-esports"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
+   "name": "Team Liquid",
+   "short": "TL",
+   "slug": "team-liquid"
   },
   "team1_score": null,
   "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
-   "name": "Top Esports",
-   "short": "TES",
-   "slug": "top-esports"
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
+   "name": "CTBC Flying Oyster",
+   "short": "CFO",
+   "slug": "ctbc-flying-oyster"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Main Event",
@@ -6994,10 +7021,10 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-23 22:00:00",
+  "datetime_utc": "2026-10-23 23:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "2026 Season World Championship/Main Event_Round 1_6",
+  "match_id": "2026 Season World Championship/Main Event_Round 1_7",
   "patch": "26.20",
   "phase": null,
   "round": null,
@@ -7021,10 +7048,10 @@
  },
  {
   "best_of": 1,
-  "datetime_utc": "2026-10-23 23:00:00",
+  "datetime_utc": "2026-10-24 00:00:00",
   "group": null,
   "is_tiebreaker": false,
-  "match_id": "2026 Season World Championship/Main Event_Round 1_7",
+  "match_id": "2026 Season World Championship/Main Event_Round 1_8",
   "patch": "26.20",
   "phase": null,
   "round": null,
@@ -7041,33 +7068,6 @@
    "name": "LYON (2024 American Team)",
    "short": "LYON",
    "slug": "lyon-2024-american-team"
-  },
-  "team2_score": null,
-  "tournament": "2026 Season World Championship/Main Event",
-  "winner": null
- },
- {
-  "best_of": 1,
-  "datetime_utc": "2026-10-24 00:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "2026 Season World Championship/Main Event_Round 1_8",
-  "patch": "26.20",
-  "phase": null,
-  "round": null,
-  "tab": "Round 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-   "name": "Bilibili Gaming",
-   "short": "BLG",
-   "slug": "bilibili-gaming"
-  },
-  "team1_score": null,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Main Event",
