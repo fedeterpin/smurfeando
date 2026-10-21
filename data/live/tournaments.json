@@ -182,26 +182,6 @@
   "year": "2026"
  },
  {
-  "games": 37,
-  "is_playoffs": true,
-  "league": "LoL Japan League",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cc/LJL_logo_2025.png",
-  "league_short": "LJL",
-  "name": "LJL 2026 Summer Championship",
-  "overview_page": "LJL/2026 Season/Summer Championship",
-  "patches": [
-   "26.13",
-   "26.14",
-   "26.15",
-   "26.17"
-  ],
-  "region": "japan",
-  "region_label": "Japan",
-  "slug": "ljl-2026-season-summer-championship",
-  "split": "Summer",
-  "year": "2026"
- },
- {
   "games": 41,
   "is_playoffs": true,
   "league": "LoL Champions Korea",
@@ -286,24 +266,6 @@
   "slug": "lcp-2027-season-promotion",
   "split": "",
   "year": "2027"
- },
- {
-  "games": 38,
-  "is_playoffs": false,
-  "league": "Pacific Championship Series",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/PCS_logo_full.png",
-  "league_short": "PCS",
-  "name": "PCS 2026 Summer",
-  "overview_page": "PCS/2026 Season/Summer Season",
-  "patches": [
-   "26.15",
-   "26.17"
-  ],
-  "region": "pacific",
-  "region_label": "Pacific",
-  "slug": "pcs-2026-season-summer-season",
-  "split": "Summer",
-  "year": "2026"
  },
  {
   "games": 65,

@@ -781,26 +781,6 @@
  },
  {
   "group": 1,
-  "loss_games": 4,
-  "loss_series": 4,
-  "place": 3,
-  "place_label": "3",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
-   "name": "Vivo Keyd Stars Academy",
-   "short": null,
-   "slug": null
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 2,
-  "win_series": 2
- },
- {
-  "group": 1,
   "loss_games": 5,
   "loss_series": 5,
   "place": 3,
@@ -818,6 +798,26 @@
   "tournament": "2026 World Star Challengers Invitational",
   "win_games": 1,
   "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 4,
+  "loss_series": 4,
+  "place": 3,
+  "place_label": "3",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/84/Vivo_Keyd_Stars_Academylogo_square.png",
+   "name": "Vivo Keyd Stars Academy",
+   "short": null,
+   "slug": null
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 2,
+  "win_series": 2
  },
  {
   "group": 1,
@@ -889,26 +889,6 @@
   "streak": 6,
   "streak_direction": "L",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
-   "name": "CTBC Flying Oyster Academy",
-   "short": "CFOA",
-   "slug": "ctbc-flying-oyster-academy"
-  },
-  "tie_series": 0,
-  "tournament": "2026 World Star Challengers Invitational",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 1,
-  "loss_games": 6,
-  "loss_series": 6,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 6,
-  "streak_direction": "L",
-  "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
    "name": "FENNEL",
    "short": "FL",
@@ -938,6 +918,26 @@
   "tournament": "2026 World Star Challengers Invitational",
   "win_games": 1,
   "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 6,
+  "loss_series": 6,
+  "place": 4,
+  "place_label": "4",
+  "points": 0,
+  "streak": 6,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/41/CTBC_Flying_Oyster_Academylogo_square.png",
+   "name": "CTBC Flying Oyster Academy",
+   "short": "CFOA",
+   "slug": "ctbc-flying-oyster-academy"
+  },
+  "tie_series": 0,
+  "tournament": "2026 World Star Challengers Invitational",
+  "win_games": 0,
+  "win_series": 0
  },
  {
   "group": 1,
