@@ -199,26 +199,6 @@
   "year": "2026"
  },
  {
-  "games": 64,
-  "is_playoffs": false,
-  "league": "League of Legends Championship Series",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
-  "league_short": "LCS",
-  "name": "LCS 2026 Summer",
-  "overview_page": "LCS/2026 Season/Summer Season",
-  "patches": [
-   "26.14",
-   "26.15",
-   "26.16",
-   "26.17"
-  ],
-  "region": "north_america",
-  "region_label": "North America",
-  "slug": "lcs-2026-season-summer-season",
-  "split": "Summer",
-  "year": "2026"
- },
- {
   "games": 39,
   "is_playoffs": true,
   "league": "League of Legends Championship Series",
