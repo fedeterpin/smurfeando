@@ -6517,15 +6517,15 @@
   "round": null,
   "tab": "FFA Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/FENNELlogo_profile.png",
+   "name": "FENNEL",
+   "short": "FL",
+   "slug": "fennel"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/Nothin'Herelogo_square.png",
+   "name": "Nothin'Here",
    "short": null,
    "slug": null
   },
@@ -6544,15 +6544,15 @@
   "round": null,
   "tab": "FFA Round 1",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Team_Gromp_(Australian_Team)logo_square.png",
+   "name": "Team Gromp (Australian Team)",
    "short": null,
    "slug": null
   },
