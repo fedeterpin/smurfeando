@@ -3170,25 +3170,30 @@
   "wins": 1
  },
  {
-  "assists": 1,
+  "assists": 9,
   "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
    {
     "champion": "K'Sante",
     "games": 1,
     "wins": 0
    }
   ],
-  "cspm": 6.96,
-  "deaths": 6,
-  "dpm": 362.2,
-  "games": 1,
-  "gpm": 294.9,
+  "cspm": 8.22,
+  "deaths": 7,
+  "dpm": 396.6,
+  "games": 2,
+  "gpm": 347.0,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6f/TES_369_2026_Split_1.png",
-  "kda": 0.33,
-  "kills": 1,
-  "kp": 0.2857,
+  "kda": 1.57,
+  "kills": 2,
+  "kp": 0.44,
   "losses": 1,
-  "minutes": 23.9,
+  "minutes": 54.2,
   "player": "369",
   "player_id": "369",
   "role": "Top",
@@ -3198,9 +3203,351 @@
   "team_short": "TES",
   "team_slug": "top-esports",
   "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.22,
+  "vspm": 1.35,
+  "win_rate": 0.5,
+  "wins": 1
+ },
+ {
+  "assists": 3,
+  "champions": [
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.23,
+  "deaths": 7,
+  "dpm": 474.6,
+  "games": 2,
+  "gpm": 331.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",
+  "kda": 0.86,
+  "kills": 3,
+  "kp": 0.4615,
+  "losses": 2,
+  "minutes": 63.6,
+  "player": "Breathe",
+  "player_id": "Breathe",
+  "role": "Top",
+  "slug": "breathe",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.45,
   "win_rate": 0.0,
   "wins": 0
+ },
+ {
+  "assists": 8,
+  "champions": [
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.48,
+  "deaths": 6,
+  "dpm": 736.3,
+  "games": 2,
+  "gpm": 435.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/TES_Creme_2026_Split_1.png",
+  "kda": 3.0,
+  "kills": 10,
+  "kp": 0.72,
+  "losses": 1,
+  "minutes": 54.2,
+  "player": "Creme",
+  "player_id": "Creme",
+  "role": "Mid",
+  "slug": "creme",
+  "team": "Top Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
+  "team_short": "TES",
+  "team_slug": "top-esports",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.2,
+  "win_rate": 0.5,
+  "wins": 1
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Miss Fortune",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.53,
+  "deaths": 6,
+  "dpm": 486.8,
+  "games": 2,
+  "gpm": 453.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/AL_Hope_2026_Split_1.png",
+  "kda": 1.67,
+  "kills": 5,
+  "kp": 0.7692,
+  "losses": 2,
+  "minutes": 63.6,
+  "player": "Hope (Wang Jie)",
+  "player_id": "Hope",
+  "role": "Bot",
+  "slug": "hope",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.78,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 10,
+  "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.05,
+  "deaths": 7,
+  "dpm": 581.7,
+  "games": 2,
+  "gpm": 425.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/TES_JackeyLove_2026_Split_1.png",
+  "kda": 2.43,
+  "kills": 7,
+  "kp": 0.68,
+  "losses": 1,
+  "minutes": 54.2,
+  "player": "JackeyLove",
+  "player_id": "JackeyLove",
+  "role": "Bot",
+  "slug": "jackeylove",
+  "team": "Top Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
+  "team_short": "TES",
+  "team_slug": "top-esports",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.64,
+  "win_rate": 0.5,
+  "wins": 1
+ },
+ {
+  "assists": 9,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Neeko",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.18,
+  "deaths": 6,
+  "dpm": 149.1,
+  "games": 2,
+  "gpm": 243.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/AL_Kael_2026_Split_1.png",
+  "kda": 1.67,
+  "kills": 1,
+  "kp": 0.7692,
+  "losses": 2,
+  "minutes": 63.6,
+  "player": "Kael (Kim Jin-hong)",
+  "player_id": "Kael",
+  "role": "Support",
+  "slug": "kael",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 4.42,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 6,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.27,
+  "deaths": 6,
+  "dpm": 502.2,
+  "games": 2,
+  "gpm": 359.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/AL_Shanks_2026_Split_1.png",
+  "kda": 1.5,
+  "kills": 3,
+  "kp": 0.6923,
+  "losses": 2,
+  "minutes": 63.6,
+  "player": "Shanks",
+  "player_id": "Shanks",
+  "role": "Mid",
+  "slug": "shanks",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.05,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 8,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 6.94,
+  "deaths": 5,
+  "dpm": 216.0,
+  "games": 2,
+  "gpm": 338.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/AL_Tarzan_2026_Split_1.png",
+  "kda": 1.8,
+  "kills": 1,
+  "kp": 0.6923,
+  "losses": 2,
+  "minutes": 63.6,
+  "player": "Tarzan (Lee Seung-yong)",
+  "player_id": "Tarzan",
+  "role": "Jungle",
+  "slug": "tarzan",
+  "team": "Anyone's Legend",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+  "team_short": "AL",
+  "team_slug": "anyone-s-legend",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.84,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 13,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nocturne",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.24,
+  "deaths": 6,
+  "dpm": 390.1,
+  "games": 2,
+  "gpm": 392.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/TES_Tian_2026_Split_2.png",
+  "kda": 3.17,
+  "kills": 6,
+  "kp": 0.76,
+  "losses": 1,
+  "minutes": 54.2,
+  "player": "Tian",
+  "player_id": "Tian",
+  "role": "Jungle",
+  "slug": "tian",
+  "team": "Top Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
+  "team_short": "TES",
+  "team_slug": "top-esports",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.51,
+  "win_rate": 0.5,
+  "wins": 1
+ },
+ {
+  "assists": 17,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.37,
+  "deaths": 7,
+  "dpm": 166.3,
+  "games": 2,
+  "gpm": 252.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/TES_Zhuo_2026_Split_3.png",
+  "kda": 2.43,
+  "kills": 0,
+  "kp": 0.68,
+  "losses": 1,
+  "minutes": 54.2,
+  "player": "Zhuo",
+  "player_id": "Zhuo",
+  "role": "Support",
+  "slug": "zhuo",
+  "team": "Top Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
+  "team_short": "TES",
+  "team_slug": "top-esports",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 3.71,
+  "win_rate": 0.5,
+  "wins": 1
  },
  {
   "assists": 3,
@@ -3364,39 +3711,6 @@
   "team_slug": "bilibili-gaming",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 1.19,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 1,
-  "champions": [
-   {
-    "champion": "Olaf",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.39,
-  "deaths": 2,
-  "dpm": 296.5,
-  "games": 1,
-  "gpm": 342.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",
-  "kda": 1.0,
-  "kills": 1,
-  "kp": 0.5,
-  "losses": 1,
-  "minutes": 33.3,
-  "player": "Breathe",
-  "player_id": "Breathe",
-  "role": "Top",
-  "slug": "breathe",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.74,
   "win_rate": 0.0,
   "wins": 0
  },
@@ -3694,39 +4008,6 @@
   "team_slug": "team-liquid",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 4.88,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 5,
-  "champions": [
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.05,
-  "deaths": 4,
-  "dpm": 927.8,
-  "games": 1,
-  "gpm": 371.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/TES_Creme_2026_Split_1.png",
-  "kda": 1.75,
-  "kills": 2,
-  "kp": 1.0,
-  "losses": 1,
-  "minutes": 23.9,
-  "player": "Creme",
-  "player_id": "Creme",
-  "role": "Mid",
-  "slug": "creme",
-  "team": "Top Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
-  "team_short": "TES",
-  "team_slug": "top-esports",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 0.67,
   "win_rate": 0.0,
   "wins": 0
  },
@@ -4226,39 +4507,6 @@
   "wins": 0
  },
  {
-  "assists": 1,
-  "champions": [
-   {
-    "champion": "Miss Fortune",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 9.23,
-  "deaths": 3,
-  "dpm": 346.9,
-  "games": 1,
-  "gpm": 447.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/80/AL_Hope_2026_Split_1.png",
-  "kda": 1.0,
-  "kills": 2,
-  "kp": 0.75,
-  "losses": 1,
-  "minutes": 33.3,
-  "player": "Hope (Wang Jie)",
-  "player_id": "Hope",
-  "role": "Bot",
-  "slug": "hope",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.68,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
   "assists": 11,
   "champions": [
    {
@@ -4323,39 +4571,6 @@
   "vspm": 4.66,
   "win_rate": 1.0,
   "wins": 1
- },
- {
-  "assists": 2,
-  "champions": [
-   {
-    "champion": "Ezreal",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.88,
-  "deaths": 5,
-  "dpm": 545.5,
-  "games": 1,
-  "gpm": 348.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/TES_JackeyLove_2026_Split_1.png",
-  "kda": 0.8,
-  "kills": 2,
-  "kp": 0.5714,
-  "losses": 1,
-  "minutes": 23.9,
-  "player": "JackeyLove",
-  "player_id": "JackeyLove",
-  "role": "Bot",
-  "slug": "jackeylove",
-  "team": "Top Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
-  "team_short": "TES",
-  "team_slug": "top-esports",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.09,
-  "win_rate": 0.0,
-  "wins": 0
  },
  {
   "assists": 4,
@@ -4453,39 +4668,6 @@
   "team_slug": "team-liquid",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 1.97,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 3,
-  "champions": [
-   {
-    "champion": "Neeko",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.23,
-  "deaths": 3,
-  "dpm": 171.6,
-  "games": 1,
-  "gpm": 231.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/57/AL_Kael_2026_Split_1.png",
-  "kda": 1.0,
-  "kills": 0,
-  "kp": 0.75,
-  "losses": 1,
-  "minutes": 33.3,
-  "player": "Kael (Kim Jin-hong)",
-  "player_id": "Kael",
-  "role": "Support",
-  "slug": "kael",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 4.93,
   "win_rate": 0.0,
   "wins": 0
  },
@@ -5216,39 +5398,6 @@
   "wins": 1
  },
  {
-  "assists": 2,
-  "champions": [
-   {
-    "champion": "Akali",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.09,
-  "deaths": 2,
-  "dpm": 439.3,
-  "games": 1,
-  "gpm": 356.9,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/AL_Shanks_2026_Split_1.png",
-  "kda": 1.5,
-  "kills": 1,
-  "kp": 0.75,
-  "losses": 1,
-  "minutes": 33.3,
-  "player": "Shanks",
-  "player_id": "Shanks",
-  "role": "Mid",
-  "slug": "shanks",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 0.75,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
   "assists": 5,
   "champions": [
    {
@@ -5414,39 +5563,6 @@
   "wins": 1
  },
  {
-  "assists": 3,
-  "champions": [
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.7,
-  "deaths": 2,
-  "dpm": 203.7,
-  "games": 1,
-  "gpm": 325.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/eb/AL_Tarzan_2026_Split_1.png",
-  "kda": 1.5,
-  "kills": 0,
-  "kp": 0.75,
-  "losses": 1,
-  "minutes": 33.3,
-  "player": "Tarzan (Lee Seung-yong)",
-  "player_id": "Tarzan",
-  "role": "Jungle",
-  "slug": "tarzan",
-  "team": "Anyone's Legend",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-  "team_short": "AL",
-  "team_slug": "anyone-s-legend",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.92,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
   "assists": 6,
   "champions": [
    {
@@ -5476,39 +5592,6 @@
   "team_slug": "invictus-gaming",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 0.81,
-  "win_rate": 0.0,
-  "wins": 0
- },
- {
-  "assists": 3,
-  "champions": [
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.83,
-  "deaths": 6,
-  "dpm": 442.6,
-  "games": 1,
-  "gpm": 338.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/92/TES_Tian_2026_Split_2.png",
-  "kda": 0.83,
-  "kills": 2,
-  "kp": 0.7143,
-  "losses": 1,
-  "minutes": 23.9,
-  "player": "Tian",
-  "player_id": "Tian",
-  "role": "Jungle",
-  "slug": "tian",
-  "team": "Top Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
-  "team_short": "TES",
-  "team_slug": "top-esports",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 0.88,
   "win_rate": 0.0,
   "wins": 0
  },
@@ -5775,39 +5858,6 @@
   "vspm": 1.3,
   "win_rate": 1.0,
   "wins": 1
- },
- {
-  "assists": 4,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 1.55,
-  "deaths": 3,
-  "dpm": 174.4,
-  "games": 1,
-  "gpm": 229.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/TES_Zhuo_2026_Split_3.png",
-  "kda": 1.33,
-  "kills": 0,
-  "kp": 0.5714,
-  "losses": 1,
-  "minutes": 23.9,
-  "player": "Zhuo",
-  "player_id": "Zhuo",
-  "role": "Support",
-  "slug": "zhuo",
-  "team": "Top Esports",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/Top_Esportslogo_profile.png",
-  "team_short": "TES",
-  "team_slug": "top-esports",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 3.52,
-  "win_rate": 0.0,
-  "wins": 0
  },
  {
   "assists": 55,
