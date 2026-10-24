@@ -309,46 +309,6 @@
   "streak": 1,
   "streak_direction": "W",
   "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-   "name": "Movistar KOI",
-   "short": "MKOI",
-   "slug": "movistar-koi"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 1,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 14,
-  "place_label": "14",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
-   "name": "Bilibili Gaming",
-   "short": "BLG",
-   "slug": "bilibili-gaming"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 2,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 1,
-  "place_label": "1",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
    "name": "Gen.G",
    "short": "GEN",
@@ -360,27 +320,7 @@
   "win_series": 1
  },
  {
-  "group": 2,
-  "loss_games": 1,
-  "loss_series": 1,
-  "place": 14,
-  "place_label": "14",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
-   "name": "Invictus Gaming",
-   "short": "iG",
-   "slug": "invictus-gaming"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 3,
+  "group": 1,
   "loss_games": 0,
   "loss_series": 0,
   "place": 1,
@@ -400,11 +340,111 @@
   "win_series": 1
  },
  {
-  "group": 3,
+  "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+   "name": "LYON (2024 American Team)",
+   "short": "LYON",
+   "slug": "lyon-2024-american-team"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 1,
   "loss_games": 1,
   "loss_series": 1,
-  "place": 14,
-  "place_label": "14",
+  "place": 9,
+  "place_label": "9",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
+   "name": "Anyone's Legend",
+   "short": "AL",
+   "slug": "anyone-s-legend"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 9,
+  "place_label": "9",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 9,
+  "place_label": "9",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
+   "name": "Team Secret Whales",
+   "short": "TSW",
+   "slug": "team-secret-whales"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 0,
+  "win_series": 0
+ },
+ {
+  "group": 1,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 9,
+  "place_label": "9",
   "points": 0,
   "streak": 1,
   "streak_direction": "L",
@@ -420,54 +460,14 @@
   "win_series": 0
  },
  {
-  "group": 4,
+  "group": 2,
   "loss_games": 0,
   "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
+  "place": 1,
+  "place_label": "1",
   "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/Anyone%27s_Legendlogo_profile.png",
-   "name": "Anyone's Legend",
-   "short": "AL",
-   "slug": "anyone-s-legend"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 4,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
-   "name": "Karmine Corp",
-   "short": "KC",
-   "slug": "karmine-corp"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 5,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
+  "streak": 1,
+  "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
    "name": "CTBC Flying Oyster",
@@ -476,18 +476,58 @@
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 2,
+  "loss_games": 0,
+  "loss_series": 0,
+  "place": 1,
+  "place_label": "1",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 2,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 9,
+  "place_label": "9",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/Bilibili_Gaminglogo_profile.png",
+   "name": "Bilibili Gaming",
+   "short": "BLG",
+   "slug": "bilibili-gaming"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
   "win_games": 0,
   "win_series": 0
  },
  {
-  "group": 5,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
+  "group": 2,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 9,
+  "place_label": "9",
   "points": 0,
-  "streak": 0,
-  "streak_direction": null,
+  "streak": 1,
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
    "name": "Team Liquid",
@@ -500,14 +540,14 @@
   "win_series": 0
  },
  {
-  "group": 6,
+  "group": 3,
   "loss_games": 0,
   "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
+  "place": 1,
+  "place_label": "1",
   "points": 0,
-  "streak": 0,
-  "streak_direction": null,
+  "streak": 1,
+  "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7e/Dplus_Kialogo_profile.png",
    "name": "Dplus Kia",
@@ -516,18 +556,38 @@
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
+  "win_games": 1,
+  "win_series": 1
  },
  {
-  "group": 6,
+  "group": 3,
   "loss_games": 0,
   "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
+  "place": 1,
+  "place_label": "1",
   "points": 0,
-  "streak": 0,
-  "streak_direction": null,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 3,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 9,
+  "place_label": "9",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
    "name": "G2 Esports",
@@ -540,79 +600,19 @@
   "win_series": 0
  },
  {
-  "group": 7,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
+  "group": 3,
+  "loss_games": 1,
+  "loss_series": 1,
+  "place": 9,
+  "place_label": "9",
   "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-   "name": "LYON (2024 American Team)",
-   "short": "LYON",
-   "slug": "lyon-2024-american-team"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 7,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c9/Team_Secret_Whaleslogo_profile.png",
-   "name": "Team Secret Whales",
-   "short": "TSW",
-   "slug": "team-secret-whales"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 8,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
+  "streak": 1,
+  "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
    "name": "LØS",
    "short": "LOS",
    "slug": "l-s"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 0,
-  "win_series": 0
- },
- {
-  "group": 8,
-  "loss_games": 0,
-  "loss_series": 0,
-  "place": 4,
-  "place_label": "4",
-  "points": 0,
-  "streak": 0,
-  "streak_direction": null,
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-   "name": "T1",
-   "short": "T1",
-   "slug": "t1"
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
