@@ -150,7 +150,7 @@
   "year": "2026"
  },
  {
-  "games": 23,
+  "games": 25,
   "is_playoffs": false,
   "league": "World Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
@@ -248,26 +248,6 @@
   "slug": "lcp-2027-season-promotion",
   "split": "",
   "year": "2027"
- },
- {
-  "games": 65,
-  "is_playoffs": false,
-  "league": "Turkish Championship League",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/23/TCL_logo_2025.png",
-  "league_short": "TCL",
-  "name": "TCL 2026 Summer",
-  "overview_page": "TCL/2026 Season/Summer Split",
-  "patches": [
-   "26.14",
-   "26.15",
-   "26.16",
-   "26.17"
-  ],
-  "region": "turkey",
-  "region_label": "Turkey",
-  "slug": "tcl-2026-season-summer-split",
-  "split": "Summer",
-  "year": "2026"
  },
  {
   "games": 11,
