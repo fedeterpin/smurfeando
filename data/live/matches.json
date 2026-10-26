@@ -5955,16 +5955,16 @@
    "short": "DK",
    "slug": "dplus-kia"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
    "name": "Movistar KOI",
    "short": "MKOI",
    "slug": "movistar-koi"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 Season World Championship/Main Event",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 3,
@@ -5982,16 +5982,16 @@
    "short": "GEN",
    "slug": "gen-g"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
    "name": "LYON (2024 American Team)",
    "short": "LYON",
    "slug": "lyon-2024-american-team"
   },
-  "team2_score": null,
+  "team2_score": 1,
   "tournament": "2026 Season World Championship/Main Event",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
