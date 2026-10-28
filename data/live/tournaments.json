@@ -49,39 +49,6 @@
   "year": "2027"
  },
  {
-  "games": 55,
-  "is_playoffs": true,
-  "league": "Tencent LoL Pro League",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
-  "league_short": "LPL",
-  "name": "LPL 2026 Grand Finals",
-  "overview_page": "LPL/2026 Season/Grand Finals",
-  "patches": [
-   "26.16",
-   "26.17"
-  ],
-  "region": "china",
-  "region_label": "China",
-  "slug": "lpl-2026-season-grand-finals",
-  "split": "Split 3",
-  "year": "2026"
- },
- {
-  "games": 0,
-  "is_playoffs": false,
-  "league": "Tencent LoL Pro League",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/LoL_Pro_Leaguelogo_std.png",
-  "league_short": "LPL",
-  "name": "LPL 2026 Grand Finals Showmatch",
-  "overview_page": "LPL/2026 Season/Grand Finals/Showmatch",
-  "patches": [],
-  "region": "china",
-  "region_label": "China",
-  "slug": "lpl-2026-season-grand-finals-showmatch",
-  "split": "",
-  "year": "2026"
- },
- {
   "games": 31,
   "is_playoffs": true,
   "league": "LoL EMEA Championship",
@@ -181,23 +148,6 @@
   "region_label": "International",
   "slug": "2026-season-world-championship-play-in",
   "split": "",
-  "year": "2026"
- },
- {
-  "games": 41,
-  "is_playoffs": true,
-  "league": "LoL Champions Korea",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/LCK_2021_logo.png",
-  "league_short": "LCK",
-  "name": "LCK 2026 Season Playoffs",
-  "overview_page": "LCK/2026 Season/Season Playoffs",
-  "patches": [
-   "26.16"
-  ],
-  "region": "korea",
-  "region_label": "Korea",
-  "slug": "lck-2026-season-season-playoffs",
-  "split": "Rounds 3-4",
   "year": "2026"
  },
  {
