@@ -3170,15 +3170,25 @@
   "wins": 1
  },
  {
-  "assists": 22,
+  "assists": 28,
   "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 0
+   },
    {
     "champion": "Yunara",
     "games": 2,
     "wins": 1
    },
    {
-    "champion": "Ezreal",
+    "champion": "Corki",
     "games": 1,
     "wins": 1
    },
@@ -3186,24 +3196,19 @@
     "champion": "Kalista",
     "games": 1,
     "wins": 1
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 0
    }
   ],
-  "cspm": 10.4,
-  "deaths": 12,
-  "dpm": 725.2,
-  "games": 5,
-  "gpm": 477.9,
+  "cspm": 10.12,
+  "deaths": 17,
+  "dpm": 647.6,
+  "games": 8,
+  "gpm": 457.6,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/2d/LYON_Berserker_2026_Split_1.png",
-  "kda": 3.92,
-  "kills": 25,
-  "kp": 0.746,
-  "losses": 2,
-  "minutes": 158.6,
+  "kda": 3.53,
+  "kills": 32,
+  "kp": 0.6667,
+  "losses": 4,
+  "minutes": 247.8,
   "player": "Berserker (Kim Min-cheol)",
   "player_id": "Berserker",
   "role": "Bot",
@@ -3213,9 +3218,731 @@
   "team_short": "LYON",
   "team_slug": "lyon-2024-american-team",
   "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.66,
-  "win_rate": 0.6,
-  "wins": 3
+  "vspm": 1.48,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 34,
+  "champions": [
+   {
+    "champion": "K'Sante",
+    "games": 3,
+    "wins": 1
+   },
+   {
+    "champion": "Olaf",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Shen",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.76,
+  "deaths": 18,
+  "dpm": 367.0,
+  "games": 8,
+  "gpm": 357.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LYON_Dhokla_2026_Split_1.png",
+  "kda": 2.72,
+  "kills": 15,
+  "kp": 0.5444,
+  "losses": 4,
+  "minutes": 247.8,
+  "player": "Dhokla",
+  "player_id": "Dhokla",
+  "role": "Top",
+  "slug": "dhokla",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.17,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 50,
+  "champions": [
+   {
+    "champion": "Nocturne",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Maokai",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.51,
+  "deaths": 22,
+  "dpm": 373.4,
+  "games": 8,
+  "gpm": 390.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/LYON_Inspired_2026_Split_1.png",
+  "kda": 2.86,
+  "kills": 13,
+  "kp": 0.7,
+  "losses": 4,
+  "minutes": 247.8,
+  "player": "Inspired",
+  "player_id": "Inspired",
+  "role": "Jungle",
+  "slug": "inspired",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.58,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 70,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Lulu",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.04,
+  "deaths": 22,
+  "dpm": 129.5,
+  "games": 8,
+  "gpm": 252.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/LYON_Isles_2026_Split_1.png",
+  "kda": 3.41,
+  "kills": 5,
+  "kp": 0.8333,
+  "losses": 4,
+  "minutes": 247.8,
+  "player": "Isles",
+  "player_id": "Isles",
+  "role": "Support",
+  "slug": "isles",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 4.01,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 36,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "LeBlanc",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Sylas",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.84,
+  "deaths": 11,
+  "dpm": 552.9,
+  "games": 8,
+  "gpm": 403.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/LYON_Saint_2026_Split_1.png",
+  "kda": 5.55,
+  "kills": 25,
+  "kp": 0.6778,
+  "losses": 4,
+  "minutes": 247.8,
+  "player": "Saint (Kang Sung-in)",
+  "player_id": "Saint",
+  "role": "Mid",
+  "slug": "saint",
+  "team": "LYON (2024 American Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
+  "team_short": "LYON",
+  "team_slug": "lyon-2024-american-team",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.45,
+  "win_rate": 0.5,
+  "wins": 4
+ },
+ {
+  "assists": 55,
+  "champions": [
+   {
+    "champion": "Karma",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.07,
+  "deaths": 20,
+  "dpm": 199.8,
+  "games": 6,
+  "gpm": 260.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/MKOI_Alvaro_2026_Split_1.png",
+  "kda": 2.95,
+  "kills": 4,
+  "kp": 0.8551,
+  "losses": 4,
+  "minutes": 202.0,
+  "player": "Alvaro (Álvaro Fernández)",
+  "player_id": "Alvaro",
+  "role": "Support",
+  "slug": "alvaro",
+  "team": "Movistar KOI",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+  "team_short": "MKOI",
+  "team_slug": "movistar-koi",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 4.42,
+  "win_rate": 0.3333,
+  "wins": 2
+ },
+ {
+  "assists": 40,
+  "champions": [
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.18,
+  "deaths": 20,
+  "dpm": 453.9,
+  "games": 6,
+  "gpm": 399.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/MKOI_Elyoya_2026_Split_2.png",
+  "kda": 2.85,
+  "kills": 17,
+  "kp": 0.8261,
+  "losses": 4,
+  "minutes": 202.0,
+  "player": "Elyoya",
+  "player_id": "Elyoya",
+  "role": "Jungle",
+  "slug": "elyoya",
+  "team": "Movistar KOI",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+  "team_short": "MKOI",
+  "team_slug": "movistar-koi",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 2.19,
+  "win_rate": 0.3333,
+  "wins": 2
+ },
+ {
+  "assists": 29,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Yunara",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.14,
+  "deaths": 14,
+  "dpm": 681.7,
+  "games": 6,
+  "gpm": 509.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/TES_JiaQi_2026_Split_1.png",
+  "kda": 4.5,
+  "kills": 34,
+  "kp": 0.6702,
+  "losses": 2,
+  "minutes": 174.2,
+  "player": "JiaQi",
+  "player_id": "JiaQi",
+  "role": "Bot",
+  "slug": "jiaqi",
+  "team": "Invictus Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+  "team_short": "iG",
+  "team_slug": "invictus-gaming",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.5,
+  "win_rate": 0.6667,
+  "wins": 4
+ },
+ {
+  "assists": 22,
+  "champions": [
+   {
+    "champion": "Akali",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Diana",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Sylas",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.52,
+  "deaths": 22,
+  "dpm": 493.5,
+  "games": 6,
+  "gpm": 390.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/MKOI_Jojopyun_2026_Split_2.png",
+  "kda": 2.0,
+  "kills": 22,
+  "kp": 0.6377,
+  "losses": 4,
+  "minutes": 202.0,
+  "player": "Jojopyun",
+  "player_id": "Jojopyun",
+  "role": "Mid",
+  "slug": "jojopyun",
+  "team": "Movistar KOI",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+  "team_short": "MKOI",
+  "team_slug": "movistar-koi",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.18,
+  "win_rate": 0.3333,
+  "wins": 2
+ },
+ {
+  "assists": 72,
+  "champions": [
+   {
+    "champion": "Lulu",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lux",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.19,
+  "deaths": 14,
+  "dpm": 187.4,
+  "games": 6,
+  "gpm": 272.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/IG_Meiko_2026_Split_1.png",
+  "kda": 5.43,
+  "kills": 4,
+  "kp": 0.8085,
+  "losses": 2,
+  "minutes": 174.2,
+  "player": "Meiko",
+  "player_id": "Meiko",
+  "role": "Support",
+  "slug": "meiko",
+  "team": "Invictus Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+  "team_short": "iG",
+  "team_slug": "invictus-gaming",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 4.2,
+  "win_rate": 0.6667,
+  "wins": 4
+ },
+ {
+  "assists": 28,
+  "champions": [
+   {
+    "champion": "Gnar",
+    "games": 2,
+    "wins": 0
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ornn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renekton",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.37,
+  "deaths": 20,
+  "dpm": 530.5,
+  "games": 6,
+  "gpm": 376.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/MKOI_Myrwn_2026_Split_1.png",
+  "kda": 1.85,
+  "kills": 9,
+  "kp": 0.5362,
+  "losses": 4,
+  "minutes": 202.0,
+  "player": "Myrwn",
+  "player_id": "Myrwn",
+  "role": "Top",
+  "slug": "myrwn",
+  "team": "Movistar KOI",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+  "team_short": "MKOI",
+  "team_slug": "movistar-koi",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.76,
+  "win_rate": 0.3333,
+  "wins": 2
+ },
+ {
+  "assists": 43,
+  "champions": [
+   {
+    "champion": "Annie",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Aurora",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Orianna",
+    "games": 2,
+    "wins": 2
+   }
+  ],
+  "cspm": 8.11,
+  "deaths": 16,
+  "dpm": 694.9,
+  "games": 6,
+  "gpm": 390.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1b/IG_Rookie_2026_Split_1.png",
+  "kda": 4.38,
+  "kills": 27,
+  "kp": 0.7447,
+  "losses": 2,
+  "minutes": 174.2,
+  "player": "Rookie",
+  "player_id": "Rookie",
+  "role": "Mid",
+  "slug": "rookie",
+  "team": "Invictus Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+  "team_short": "iG",
+  "team_slug": "invictus-gaming",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.53,
+  "win_rate": 0.6667,
+  "wins": 4
+ },
+ {
+  "assists": 24,
+  "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 3,
+    "wins": 1
+   },
+   {
+    "champion": "Kai'Sa",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.41,
+  "deaths": 14,
+  "dpm": 755.1,
+  "games": 6,
+  "gpm": 484.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/MKOI_Supa_2026_Split_2.png",
+  "kda": 2.93,
+  "kills": 17,
+  "kp": 0.5942,
+  "losses": 4,
+  "minutes": 202.0,
+  "player": "Supa",
+  "player_id": "Supa",
+  "role": "Bot",
+  "slug": "supa",
+  "team": "Movistar KOI",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+  "team_short": "MKOI",
+  "team_slug": "movistar-koi",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.5,
+  "win_rate": 0.3333,
+  "wins": 2
+ },
+ {
+  "assists": 38,
+  "champions": [
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Kled",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Ornn",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.99,
+  "deaths": 16,
+  "dpm": 565.4,
+  "games": 6,
+  "gpm": 369.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/IG_TheShy_2025_Split_1.png",
+  "kda": 3.31,
+  "kills": 15,
+  "kp": 0.5638,
+  "losses": 2,
+  "minutes": 174.2,
+  "player": "TheShy",
+  "player_id": "TheShy",
+  "role": "Top",
+  "slug": "theshy",
+  "team": "Invictus Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+  "team_short": "iG",
+  "team_slug": "invictus-gaming",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.14,
+  "win_rate": 0.6667,
+  "wins": 4
+ },
+ {
+  "assists": 57,
+  "champions": [
+   {
+    "champion": "Nocturne",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.95,
+  "deaths": 10,
+  "dpm": 400.5,
+  "games": 6,
+  "gpm": 388.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/IG_Wei_2026_Split_1.png",
+  "kda": 7.1,
+  "kills": 14,
+  "kp": 0.7553,
+  "losses": 2,
+  "minutes": 174.2,
+  "player": "Wei (Yan Yang-Wei)",
+  "player_id": "Wei",
+  "role": "Jungle",
+  "slug": "wei",
+  "team": "Invictus Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+  "team_short": "iG",
+  "team_slug": "invictus-gaming",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 2.08,
+  "win_rate": 0.6667,
+  "wins": 4
  },
  {
   "assists": 47,
@@ -3314,52 +4041,47 @@
   "wins": 4
  },
  {
-  "assists": 30,
+  "assists": 29,
   "champions": [
    {
-    "champion": "K'Sante",
+    "champion": "Ambessa",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Jayce",
     "games": 2,
     "wins": 1
    },
    {
-    "champion": "Galio",
+    "champion": "Gwen",
     "games": 1,
     "wins": 1
-   },
-   {
-    "champion": "Olaf",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Shen",
-    "games": 1,
-    "wins": 0
    }
   ],
-  "cspm": 7.86,
-  "deaths": 11,
-  "dpm": 334.4,
+  "cspm": 9.9,
+  "deaths": 6,
+  "dpm": 679.6,
   "games": 5,
-  "gpm": 355.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/47/LYON_Dhokla_2026_Split_1.png",
-  "kda": 3.45,
-  "kills": 8,
-  "kp": 0.6032,
-  "losses": 2,
-  "minutes": 158.6,
-  "player": "Dhokla",
-  "player_id": "Dhokla",
+  "gpm": 440.1,
+  "image": null,
+  "kda": 7.83,
+  "kills": 18,
+  "kp": 0.5663,
+  "losses": 1,
+  "minutes": 159.1,
+  "player": "Doran (Choi Hyeon-jun)",
+  "player_id": "Doran",
   "role": "Top",
-  "slug": "dhokla",
-  "team": "LYON (2024 American Team)",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-  "team_short": "LYON",
-  "team_slug": "lyon-2024-american-team",
+  "slug": null,
+  "team": "T1",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1",
+  "team_slug": "t1",
   "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.22,
-  "win_rate": 0.6,
-  "wins": 3
+  "vspm": 1.31,
+  "win_rate": 0.8,
+  "wins": 4
  },
  {
   "assists": 55,
@@ -3410,105 +4132,110 @@
   "wins": 4
  },
  {
-  "assists": 41,
+  "assists": 37,
   "champions": [
    {
-    "champion": "Maokai",
+    "champion": "Anivia",
     "games": 1,
     "wins": 0
    },
    {
-    "champion": "Nocturne",
+    "champion": "Galio",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Vi",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Wukong",
+    "champion": "LeBlanc",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Xin Zhao",
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Syndra",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 7.35,
-  "deaths": 13,
-  "dpm": 391.8,
+  "cspm": 9.03,
+  "deaths": 7,
+  "dpm": 659.2,
   "games": 5,
-  "gpm": 378.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fa/LYON_Inspired_2026_Split_1.png",
-  "kda": 3.62,
-  "kills": 6,
-  "kp": 0.746,
-  "losses": 2,
-  "minutes": 158.6,
-  "player": "Inspired",
-  "player_id": "Inspired",
-  "role": "Jungle",
-  "slug": "inspired",
-  "team": "LYON (2024 American Team)",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-  "team_short": "LYON",
-  "team_slug": "lyon-2024-american-team",
+  "gpm": 429.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5a/T1_Faker_2026_LCK_Cup.png",
+  "kda": 8.0,
+  "kills": 19,
+  "kp": 0.6747,
+  "losses": 1,
+  "minutes": 159.1,
+  "player": "Faker",
+  "player_id": "Faker",
+  "role": "Mid",
+  "slug": "faker",
+  "team": "T1",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1",
+  "team_slug": "t1",
   "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.6,
-  "win_rate": 0.6,
-  "wins": 3
+  "vspm": 1.41,
+  "win_rate": 0.8,
+  "wins": 4
  },
  {
-  "assists": 53,
+  "assists": 60,
   "champions": [
-   {
-    "champion": "Lulu",
-    "games": 2,
-    "wins": 1
-   },
    {
     "champion": "Alistar",
     "games": 1,
     "wins": 1
    },
    {
-    "champion": "Milio",
+    "champion": "Karma",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Neeko",
     "games": 1,
     "wins": 0
    },
    {
-    "champion": "Renata Glasc",
+    "champion": "Rakan",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 1.06,
-  "deaths": 13,
-  "dpm": 121.7,
+  "cspm": 1.18,
+  "deaths": 8,
+  "dpm": 233.4,
   "games": 5,
-  "gpm": 256.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ce/LYON_Isles_2026_Split_1.png",
-  "kda": 4.38,
-  "kills": 4,
-  "kp": 0.9048,
-  "losses": 2,
-  "minutes": 158.6,
-  "player": "Isles",
-  "player_id": "Isles",
+  "gpm": 282.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/T1_Keria_2026_LCK_Cup.png",
+  "kda": 8.25,
+  "kills": 6,
+  "kp": 0.7952,
+  "losses": 1,
+  "minutes": 159.1,
+  "player": "Keria",
+  "player_id": "Keria",
   "role": "Support",
-  "slug": "isles",
-  "team": "LYON (2024 American Team)",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-  "team_short": "LYON",
-  "team_slug": "lyon-2024-american-team",
+  "slug": "keria",
+  "team": "T1",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1",
+  "team_slug": "t1",
   "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 4.0,
-  "win_rate": 0.6,
-  "wins": 3
+  "vspm": 4.38,
+  "win_rate": 0.8,
+  "wins": 4
  },
  {
   "assists": 38,
@@ -3555,6 +4282,92 @@
   "team_slug": "gen-g",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 1.27,
+  "win_rate": 0.8,
+  "wins": 4
+ },
+ {
+  "assists": 38,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Vi",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.55,
+  "deaths": 10,
+  "dpm": 329.2,
+  "games": 5,
+  "gpm": 416.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/T1_Oner_2026_LCK_Cup.png",
+  "kda": 6.0,
+  "kills": 22,
+  "kp": 0.7229,
+  "losses": 1,
+  "minutes": 159.1,
+  "player": "Oner",
+  "player_id": "Oner",
+  "role": "Jungle",
+  "slug": "oner",
+  "team": "T1",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1",
+  "team_slug": "t1",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 2.28,
+  "win_rate": 0.8,
+  "wins": 4
+ },
+ {
+  "assists": 33,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.95,
+  "deaths": 7,
+  "dpm": 655.8,
+  "games": 5,
+  "gpm": 516.5,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/T1_Peyz_2026_LCK_Cup.png",
+  "kda": 7.29,
+  "kills": 18,
+  "kp": 0.6145,
+  "losses": 1,
+  "minutes": 159.1,
+  "player": "Peyz",
+  "player_id": "Peyz",
+  "role": "Bot",
+  "slug": "peyz",
+  "team": "T1",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+  "team_short": "T1",
+  "team_slug": "t1",
+  "tournament": "2026 Season World Championship/Main Event",
+  "vspm": 1.58,
   "win_rate": 0.8,
   "wins": 4
  },
@@ -3607,59 +4420,6 @@
   "wins": 4
  },
  {
-  "assists": 26,
-  "champions": [
-   {
-    "champion": "Ahri",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Akali",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Syndra",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Tristana",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 8.81,
-  "deaths": 7,
-  "dpm": 607.7,
-  "games": 5,
-  "gpm": 420.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7b/LYON_Saint_2026_Split_1.png",
-  "kda": 6.57,
-  "kills": 20,
-  "kp": 0.7302,
-  "losses": 2,
-  "minutes": 158.6,
-  "player": "Saint (Kang Sung-in)",
-  "player_id": "Saint",
-  "role": "Mid",
-  "slug": "saint",
-  "team": "LYON (2024 American Team)",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/LYON_%282024_American_Team%29logo_profile.png",
-  "team_short": "LYON",
-  "team_slug": "lyon-2024-american-team",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.6,
-  "win_rate": 0.6,
-  "wins": 3
- },
- {
   "assists": 39,
   "champions": [
    {
@@ -3699,49 +4459,6 @@
   "team_slug": "l-s",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 4.8,
-  "win_rate": 0.5,
-  "wins": 2
- },
- {
-  "assists": 40,
-  "champions": [
-   {
-    "champion": "Karma",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Renata Glasc",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.1,
-  "deaths": 9,
-  "dpm": 224.9,
-  "games": 4,
-  "gpm": 262.8,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/MKOI_Alvaro_2026_Split_1.png",
-  "kda": 4.67,
-  "kills": 2,
-  "kp": 0.84,
-  "losses": 2,
-  "minutes": 136.3,
-  "player": "Alvaro (Álvaro Fernández)",
-  "player_id": "Alvaro",
-  "role": "Support",
-  "slug": "alvaro",
-  "team": "Movistar KOI",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-  "team_short": "MKOI",
-  "team_slug": "movistar-koi",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 4.5,
   "win_rate": 0.5,
   "wins": 2
  },
@@ -4105,54 +4822,6 @@
   "wins": 0
  },
  {
-  "assists": 31,
-  "champions": [
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Qiyana",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Trundle",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Vi",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.22,
-  "deaths": 11,
-  "dpm": 480.9,
-  "games": 4,
-  "gpm": 406.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/MKOI_Elyoya_2026_Split_2.png",
-  "kda": 3.91,
-  "kills": 12,
-  "kp": 0.86,
-  "losses": 2,
-  "minutes": 136.3,
-  "player": "Elyoya",
-  "player_id": "Elyoya",
-  "role": "Jungle",
-  "slug": "elyoya",
-  "team": "Movistar KOI",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-  "team_short": "MKOI",
-  "team_slug": "movistar-koi",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 2.23,
-  "win_rate": 0.5,
-  "wins": 2
- },
- {
   "assists": 24,
   "champions": [
    {
@@ -4285,54 +4954,6 @@
   "vspm": 1.75,
   "win_rate": 0.0,
   "wins": 0
- },
- {
-  "assists": 17,
-  "champions": [
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Cassiopeia",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Diana",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Sylas",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.16,
-  "deaths": 12,
-  "dpm": 543.8,
-  "games": 4,
-  "gpm": 393.0,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/MKOI_Jojopyun_2026_Split_2.png",
-  "kda": 2.92,
-  "kills": 18,
-  "kp": 0.7,
-  "losses": 2,
-  "minutes": 136.3,
-  "player": "Jojopyun",
-  "player_id": "Jojopyun",
-  "role": "Mid",
-  "slug": "jojopyun",
-  "team": "Movistar KOI",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-  "team_short": "MKOI",
-  "team_slug": "movistar-koi",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.12,
-  "win_rate": 0.5,
-  "wins": 2
  },
  {
   "assists": 24,
@@ -4513,54 +5134,6 @@
   "team_slug": "team-liquid",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 1.7,
-  "win_rate": 0.5,
-  "wins": 2
- },
- {
-  "assists": 21,
-  "champions": [
-   {
-    "champion": "Gnar",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Jayce",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Renekton",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Trundle",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.11,
-  "deaths": 13,
-  "dpm": 540.4,
-  "games": 4,
-  "gpm": 373.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/MKOI_Myrwn_2026_Split_1.png",
-  "kda": 2.15,
-  "kills": 7,
-  "kp": 0.56,
-  "losses": 2,
-  "minutes": 136.3,
-  "player": "Myrwn",
-  "player_id": "Myrwn",
-  "role": "Top",
-  "slug": "myrwn",
-  "team": "Movistar KOI",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-  "team_short": "MKOI",
-  "team_slug": "movistar-koi",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.92,
   "win_rate": 0.5,
   "wins": 2
  },
@@ -4836,49 +5409,6 @@
   "vspm": 1.64,
   "win_rate": 1.0,
   "wins": 4
- },
- {
-  "assists": 19,
-  "champions": [
-   {
-    "champion": "Ezreal",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Kalista",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 10.45,
-  "deaths": 9,
-  "dpm": 889.8,
-  "games": 4,
-  "gpm": 481.6,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/MKOI_Supa_2026_Split_2.png",
-  "kda": 3.33,
-  "kills": 11,
-  "kp": 0.6,
-  "losses": 2,
-  "minutes": 136.3,
-  "player": "Supa",
-  "player_id": "Supa",
-  "role": "Bot",
-  "slug": "supa",
-  "team": "Movistar KOI",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
-  "team_short": "MKOI",
-  "team_slug": "movistar-koi",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.49,
-  "win_rate": 0.5,
-  "wins": 2
  },
  {
   "assists": 22,
@@ -5415,87 +5945,6 @@
   "wins": 1
  },
  {
-  "assists": 16,
-  "champions": [
-   {
-    "champion": "Jayce",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Ambessa",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.9,
-  "deaths": 6,
-  "dpm": 679.6,
-  "games": 3,
-  "gpm": 418.6,
-  "image": null,
-  "kda": 4.0,
-  "kills": 8,
-  "kp": 0.5854,
-  "losses": 1,
-  "minutes": 93.3,
-  "player": "Doran (Choi Hyeon-jun)",
-  "player_id": "Doran",
-  "role": "Top",
-  "slug": null,
-  "team": "T1",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-  "team_short": "T1",
-  "team_slug": "t1",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.43,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
-  "assists": 19,
-  "champions": [
-   {
-    "champion": "Anivia",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Galio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "LeBlanc",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.34,
-  "deaths": 3,
-  "dpm": 575.2,
-  "games": 3,
-  "gpm": 427.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5a/T1_Faker_2026_LCK_Cup.png",
-  "kda": 9.33,
-  "kills": 9,
-  "kp": 0.6829,
-  "losses": 1,
-  "minutes": 93.3,
-  "player": "Faker",
-  "player_id": "Faker",
-  "role": "Mid",
-  "slug": "faker",
-  "team": "T1",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-  "team_short": "T1",
-  "team_slug": "t1",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.66,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
   "assists": 17,
   "champions": [
    {
@@ -5615,49 +6064,6 @@
   "wins": 2
  },
  {
-  "assists": 18,
-  "champions": [
-   {
-    "champion": "Ashe",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Jhin",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Yunara",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 9.98,
-  "deaths": 9,
-  "dpm": 718.4,
-  "games": 3,
-  "gpm": 523.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/TES_JiaQi_2026_Split_1.png",
-  "kda": 4.22,
-  "kills": 20,
-  "kp": 0.6333,
-  "losses": 1,
-  "minutes": 85.0,
-  "player": "JiaQi",
-  "player_id": "JiaQi",
-  "role": "Bot",
-  "slug": "jiaqi",
-  "team": "Invictus Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
-  "team_short": "iG",
-  "team_slug": "invictus-gaming",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.81,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
   "assists": 19,
   "champions": [
    {
@@ -5699,49 +6105,6 @@
   "vspm": 1.36,
   "win_rate": 0.3333,
   "wins": 1
- },
- {
-  "assists": 30,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Neeko",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Rakan",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.31,
-  "deaths": 3,
-  "dpm": 227.8,
-  "games": 3,
-  "gpm": 282.2,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/T1_Keria_2026_LCK_Cup.png",
-  "kda": 10.67,
-  "kills": 2,
-  "kp": 0.7805,
-  "losses": 1,
-  "minutes": 93.3,
-  "player": "Keria",
-  "player_id": "Keria",
-  "role": "Support",
-  "slug": "keria",
-  "team": "T1",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-  "team_short": "T1",
-  "team_slug": "t1",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 4.52,
-  "win_rate": 0.6667,
-  "wins": 2
  },
  {
   "assists": 21,
@@ -5901,49 +6264,6 @@
   "wins": 1
  },
  {
-  "assists": 45,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Seraphine",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 1.09,
-  "deaths": 8,
-  "dpm": 214.8,
-  "games": 3,
-  "gpm": 285.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/IG_Meiko_2026_Split_1.png",
-  "kda": 6.12,
-  "kills": 4,
-  "kp": 0.8167,
-  "losses": 1,
-  "minutes": 85.0,
-  "player": "Meiko",
-  "player_id": "Meiko",
-  "role": "Support",
-  "slug": "meiko",
-  "team": "Invictus Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
-  "team_short": "iG",
-  "team_slug": "invictus-gaming",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 3.93,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
   "assists": 34,
   "champions": [
    {
@@ -5978,44 +6298,6 @@
   "team_slug": "bilibili-gaming",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 4.36,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
-  "assists": 16,
-  "champions": [
-   {
-    "champion": "Vi",
-    "games": 2,
-    "wins": 1
-   },
-   {
-    "champion": "Lee Sin",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.71,
-  "deaths": 4,
-  "dpm": 316.7,
-  "games": 3,
-  "gpm": 421.3,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/T1_Oner_2026_LCK_Cup.png",
-  "kda": 7.5,
-  "kills": 14,
-  "kp": 0.7317,
-  "losses": 1,
-  "minutes": 93.3,
-  "player": "Oner",
-  "player_id": "Oner",
-  "role": "Jungle",
-  "slug": "oner",
-  "team": "T1",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-  "team_short": "T1",
-  "team_slug": "t1",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 2.2,
   "win_rate": 0.6667,
   "wins": 2
  },
@@ -6063,44 +6345,6 @@
   "wins": 1
  },
  {
-  "assists": 19,
-  "champions": [
-   {
-    "champion": "Jhin",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Caitlyn",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 10.65,
-  "deaths": 3,
-  "dpm": 685.7,
-  "games": 3,
-  "gpm": 500.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/T1_Peyz_2026_LCK_Cup.png",
-  "kda": 9.0,
-  "kills": 8,
-  "kp": 0.6585,
-  "losses": 1,
-  "minutes": 93.3,
-  "player": "Peyz",
-  "player_id": "Peyz",
-  "role": "Bot",
-  "slug": "peyz",
-  "team": "T1",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
-  "team_short": "T1",
-  "team_slug": "t1",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.5,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
   "assists": 4,
   "champions": [
    {
@@ -6137,49 +6381,6 @@
   "vspm": 1.02,
   "win_rate": 0.3333,
   "wins": 1
- },
- {
-  "assists": 27,
-  "champions": [
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Aurora",
-    "games": 1,
-    "wins": 0
-   },
-   {
-    "champion": "Orianna",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 7.96,
-  "deaths": 9,
-  "dpm": 721.4,
-  "games": 3,
-  "gpm": 410.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1b/IG_Rookie_2026_Split_1.png",
-  "kda": 4.89,
-  "kills": 17,
-  "kp": 0.7333,
-  "losses": 1,
-  "minutes": 85.0,
-  "player": "Rookie",
-  "player_id": "Rookie",
-  "role": "Mid",
-  "slug": "rookie",
-  "team": "Invictus Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
-  "team_short": "iG",
-  "team_slug": "invictus-gaming",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.75,
-  "win_rate": 0.6667,
-  "wins": 2
  },
  {
   "assists": 13,
@@ -6263,49 +6464,6 @@
   "wins": 1
  },
  {
-  "assists": 28,
-  "champions": [
-   {
-    "champion": "K'Sante",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Kled",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Rumble",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 7.15,
-  "deaths": 12,
-  "dpm": 706.5,
-  "games": 3,
-  "gpm": 369.5,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7d/IG_TheShy_2025_Split_1.png",
-  "kda": 3.25,
-  "kills": 11,
-  "kp": 0.65,
-  "losses": 1,
-  "minutes": 85.0,
-  "player": "TheShy",
-  "player_id": "TheShy",
-  "role": "Top",
-  "slug": "theshy",
-  "team": "Invictus Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
-  "team_short": "iG",
-  "team_slug": "invictus-gaming",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 1.13,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
   "assists": 21,
   "champions": [
    {
@@ -6383,44 +6541,6 @@
   "team_slug": "bilibili-gaming",
   "tournament": "2026 Season World Championship/Main Event",
   "vspm": 1.62,
-  "win_rate": 0.6667,
-  "wins": 2
- },
- {
-  "assists": 39,
-  "champions": [
-   {
-    "champion": "Nocturne",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Jarvan IV",
-    "games": 1,
-    "wins": 0
-   }
-  ],
-  "cspm": 6.71,
-  "deaths": 5,
-  "dpm": 467.9,
-  "games": 3,
-  "gpm": 400.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a7/IG_Wei_2026_Split_1.png",
-  "kda": 9.4,
-  "kills": 8,
-  "kp": 0.7833,
-  "losses": 1,
-  "minutes": 85.0,
-  "player": "Wei (Yan Yang-Wei)",
-  "player_id": "Wei",
-  "role": "Jungle",
-  "slug": "wei",
-  "team": "Invictus Gaming",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
-  "team_short": "iG",
-  "team_slug": "invictus-gaming",
-  "tournament": "2026 Season World Championship/Main Event",
-  "vspm": 2.13,
   "win_rate": 0.6667,
   "wins": 2
  },
