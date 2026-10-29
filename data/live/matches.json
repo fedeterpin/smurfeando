@@ -4902,14 +4902,14 @@
    "short": "KC",
    "slug": "karmine-corp"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
    "name": "CTBC Flying Oyster",
    "short": "CFO",
    "slug": "ctbc-flying-oyster"
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "2026 Season World Championship/Main Event",
   "winner": null
  },
