@@ -429,6 +429,26 @@
   "streak": 1,
   "streak_direction": "W",
   "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
+   "name": "Hanwha Life Esports",
+   "short": "HLE",
+   "slug": "hanwha-life-esports"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 3,
+  "win_series": 2
+ },
+ {
+  "group": 1,
+  "loss_games": 2,
+  "loss_series": 2,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 1,
+  "streak_direction": "W",
+  "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
    "name": "Karmine Corp",
    "short": "KC",
@@ -461,6 +481,26 @@
  },
  {
   "group": 1,
+  "loss_games": 3,
+  "loss_series": 2,
+  "place": 6,
+  "place_label": "6",
+  "points": 0,
+  "streak": 2,
+  "streak_direction": "W",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
+   "name": "LØS",
+   "short": "LOS",
+   "slug": "l-s"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 4,
+  "win_series": 2
+ },
+ {
+  "group": 1,
   "loss_games": 4,
   "loss_series": 2,
   "place": 6,
@@ -481,12 +521,32 @@
  },
  {
   "group": 1,
-  "loss_games": 2,
-  "loss_series": 2,
-  "place": 10,
-  "place_label": "10",
+  "loss_games": 4,
+  "loss_series": 3,
+  "place": 12,
+  "place_label": "12",
   "points": 0,
-  "streak": 1,
+  "streak": 3,
+  "streak_direction": "L",
+  "team": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
+   "name": "CTBC Flying Oyster",
+   "short": "CFO",
+   "slug": "ctbc-flying-oyster"
+  },
+  "tie_series": 0,
+  "tournament": "2026 Season World Championship/Main Event",
+  "win_games": 1,
+  "win_series": 1
+ },
+ {
+  "group": 1,
+  "loss_games": 4,
+  "loss_series": 3,
+  "place": 12,
+  "place_label": "12",
+  "points": 0,
+  "streak": 2,
   "streak_direction": "L",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
@@ -501,53 +561,13 @@
  },
  {
   "group": 1,
-  "loss_games": 2,
-  "loss_series": 2,
-  "place": 10,
-  "place_label": "10",
+  "loss_games": 4,
+  "loss_series": 3,
+  "place": 12,
+  "place_label": "12",
   "points": 0,
-  "streak": 2,
+  "streak": 1,
   "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_profile.png",
-   "name": "Hanwha Life Esports",
-   "short": "HLE",
-   "slug": "hanwha-life-esports"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 1,
-  "win_series": 1
- },
- {
-  "group": 1,
-  "loss_games": 2,
-  "loss_series": 2,
-  "place": 10,
-  "place_label": "10",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bc/L%C3%98Slogo_square.png",
-   "name": "LØS",
-   "short": "LOS",
-   "slug": "l-s"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 2,
-  "win_series": 1
- },
- {
-  "group": 1,
-  "loss_games": 2,
-  "loss_series": 2,
-  "place": 10,
-  "place_label": "10",
-  "points": 0,
-  "streak": 1,
-  "streak_direction": "W",
   "team": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/25/Team_Liquidlogo_profile.png",
    "name": "Team Liquid",
@@ -556,27 +576,7 @@
   },
   "tie_series": 0,
   "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 2,
-  "win_series": 1
- },
- {
-  "group": 1,
-  "loss_games": 4,
-  "loss_series": 3,
-  "place": 14,
-  "place_label": "14",
-  "points": 0,
-  "streak": 3,
-  "streak_direction": "L",
-  "team": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bb/CTBC_Flying_Oysterlogo_square.png",
-   "name": "CTBC Flying Oyster",
-   "short": "CFO",
-   "slug": "ctbc-flying-oyster"
-  },
-  "tie_series": 0,
-  "tournament": "2026 Season World Championship/Main Event",
-  "win_games": 1,
+  "win_games": 3,
   "win_series": 1
  },
  {
