@@ -135,60 +135,6 @@
   "winner": 1
  },
  {
-  "best_of": 3,
-  "datetime_utc": "2026-09-11 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 1_1",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
-   "name": "SN CyberCore Esports",
-   "short": "SCBC",
-   "slug": "sn-cybercore-esports"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
-   "name": "1TAP Dino",
-   "short": null,
-   "slug": null
-  },
-  "team2_score": 1,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-11 12:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 1_2",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
-   "name": "9Gaming",
-   "short": "9G",
-   "slug": "9gaming"
-  },
-  "team2_score": 2,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 2
- },
- {
   "best_of": 5,
   "datetime_utc": "2026-09-11 15:00:00",
   "group": null,
@@ -214,60 +160,6 @@
   "team2_score": 3,
   "tournament": "LEC/2026 Season/Summer Playoffs",
   "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-12 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 1_3",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports Academy",
-   "short": "MVKA",
-   "slug": "mvk-esports-academy"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
-   "name": "9Gaming",
-   "short": "9G",
-   "slug": "9gaming"
-  },
-  "team2_score": 0,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-12 12:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 1_4",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
-   "name": "SN CyberCore Esports",
-   "short": "SCBC",
-   "slug": "sn-cybercore-esports"
-  },
-  "team2_score": 0,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 1
  },
  {
   "best_of": 5,
@@ -349,60 +241,6 @@
   "team2_score": 0,
   "tournament": "LCS/2026 Season/Summer Playoffs",
   "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-13 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 1_5",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
-   "name": "1TAP Dino",
-   "short": null,
-   "slug": null
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
-  },
-  "team2_score": 2,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-13 12:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 1_6",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports Academy",
-   "short": "MVKA",
-   "slug": "mvk-esports-academy"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
-   "name": "SN CyberCore Esports",
-   "short": "SCBC",
-   "slug": "sn-cybercore-esports"
-  },
-  "team2_score": 2,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 2
  },
  {
   "best_of": 5,
@@ -511,87 +349,6 @@
   "team2_score": 2,
   "tournament": "LCS/2026 Season/Summer Playoffs",
   "winner": 1
- },
- {
-  "best_of": 5,
-  "datetime_utc": "2026-09-19 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "KOREA Pre Evaluation for 2026 Asian Games_Day 1_1",
-  "patch": "26.18",
-  "phase": null,
-  "round": null,
-  "tab": "Day 1",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/South_Korea_(National_Team)logo_square.png",
-   "name": "South Korea (National Team)",
-   "short": null,
-   "slug": null
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/ff/United_States_(National_Team)logo_square.png",
-   "name": "United States (National Team)",
-   "short": null,
-   "slug": null
-  },
-  "team2_score": 0,
-  "tournament": "KOREA Pre Evaluation for 2026 Asian Games",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-19 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 2_1",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports Academy",
-   "short": "MVKA",
-   "slug": "mvk-esports-academy"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
-   "name": "1TAP Dino",
-   "short": null,
-   "slug": null
-  },
-  "team2_score": 1,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-19 12:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 2_2",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
-   "name": "9Gaming",
-   "short": "9G",
-   "slug": "9gaming"
-  },
-  "team1_score": 1,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/SN_CyberCore_Esportslogo_profile.png",
-   "name": "SN CyberCore Esports",
-   "short": "SCBC",
-   "slug": "sn-cybercore-esports"
-  },
-  "team2_score": 2,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 2
  },
  {
   "best_of": 5,
@@ -783,60 +540,6 @@
   "winner": 1
  },
  {
-  "best_of": 5,
-  "datetime_utc": "2026-09-20 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "KOREA Pre Evaluation for 2026 Asian Games_Day 2_1",
-  "patch": "26.18",
-  "phase": null,
-  "round": null,
-  "tab": "Day 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a1/South_Korea_(National_Team)logo_square.png",
-   "name": "South Korea (National Team)",
-   "short": null,
-   "slug": null
-  },
-  "team1_score": 3,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/df/Vietnam_(National_Team)logo_square.png",
-   "name": "Vietnam (National Team)",
-   "short": null,
-   "slug": "vietnam-national-team"
-  },
-  "team2_score": 1,
-  "tournament": "KOREA Pre Evaluation for 2026 Asian Games",
-  "winner": 1
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-20 09:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 2_3",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/69/MVK_Esportslogo_profile.png",
-   "name": "MVK Esports Academy",
-   "short": "MVKA",
-   "slug": "mvk-esports-academy"
-  },
-  "team1_score": 0,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-   "name": "Saigon Warriors",
-   "short": "SGW",
-   "slug": "saigon-warriors"
-  },
-  "team2_score": 2,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 2
- },
- {
   "best_of": 1,
   "datetime_utc": "2026-09-20 10:00:00",
   "group": null,
@@ -916,33 +619,6 @@
   "team2_score": 1,
   "tournament": "2026 World Star Challengers Invitational",
   "winner": 2
- },
- {
-  "best_of": 3,
-  "datetime_utc": "2026-09-20 12:00:00",
-  "group": null,
-  "is_tiebreaker": false,
-  "match_id": "VCS/2026 Season/Finals Stage 1_Week 2_4",
-  "patch": "26.17",
-  "phase": null,
-  "round": null,
-  "tab": "Week 2",
-  "team1": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/9Gaminglogo_profile.png",
-   "name": "9Gaming",
-   "short": "9G",
-   "slug": "9gaming"
-  },
-  "team1_score": 2,
-  "team2": {
-   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a4/1TAP_Dinologo_square.png",
-   "name": "1TAP Dino",
-   "short": null,
-   "slug": null
-  },
-  "team2_score": 0,
-  "tournament": "VCS/2026 Season/Finals Stage 1",
-  "winner": 1
  },
  {
   "best_of": 1,
@@ -5010,16 +4686,16 @@
    "short": "TES",
    "slug": "top-esports"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
    "name": "Invictus Gaming",
    "short": "iG",
    "slug": "invictus-gaming"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "2026 Season World Championship/Main Event",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -5113,10 +4789,10 @@
   "round": null,
   "tab": "Semifinals",
   "team1": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/Invictus_Gaminglogo_profile.png",
+   "name": "Invictus Gaming",
+   "short": "iG",
+   "slug": "invictus-gaming"
   },
   "team1_score": null,
   "team2": {

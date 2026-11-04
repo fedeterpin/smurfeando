@@ -83,23 +83,6 @@
   "year": "2026"
  },
  {
-  "games": 7,
-  "is_playoffs": false,
-  "league": "KOREA Pre Evaluation for Asian Games",
-  "league_logo": null,
-  "league_short": "KOREA Pre Evaluation for Asian Games",
-  "name": "KOREA Pre Evaluation for 2026 Asian Games",
-  "overview_page": "KOREA Pre Evaluation for 2026 Asian Games",
-  "patches": [
-   "26.18"
-  ],
-  "region": "international",
-  "region_label": "International",
-  "slug": "korea-pre-evaluation-for-2026-asian-games",
-  "split": "",
-  "year": "2026"
- },
- {
   "games": 74,
   "is_playoffs": false,
   "league": "World Star Challengers Invitational",
@@ -117,7 +100,7 @@
   "year": "2026"
  },
  {
-  "games": 51,
+  "games": 55,
   "is_playoffs": false,
   "league": "World Championship",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/WCS_logo_small.png",
@@ -215,23 +198,6 @@
   "slug": "tcl-2027-season-promotion",
   "split": "",
   "year": "2027"
- },
- {
-  "games": 23,
-  "is_playoffs": false,
-  "league": "Vietnam Championship Series",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/VCS_2023_Logo.png",
-  "league_short": "VCS",
-  "name": "VCS 2026 Finals Stage 1",
-  "overview_page": "VCS/2026 Season/Finals Stage 1",
-  "patches": [
-   "26.17"
-  ],
-  "region": "vietnam",
-  "region_label": "Vietnam",
-  "slug": "vcs-2026-season-finals-stage-1",
-  "split": "Finals",
-  "year": "2026"
  },
  {
   "games": 19,
