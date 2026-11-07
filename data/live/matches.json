@@ -4551,16 +4551,16 @@
    "short": "KC",
    "slug": "karmine-corp"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
    "name": "T1",
    "short": "T1",
    "slug": "t1"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "2026 Season World Championship/Main Event",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -4607,10 +4607,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Main Event",
@@ -4622,7 +4622,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCP/2027 Season/Promotion_FFA Round 1_1",
-  "patch": null,
+  "patch": "26.22",
   "phase": null,
   "round": null,
   "tab": "FFA Round 1",
@@ -4649,7 +4649,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCP/2027 Season/Promotion_FFA Round 1_2",
-  "patch": null,
+  "patch": "26.22",
   "phase": null,
   "round": null,
   "tab": "FFA Round 1",
@@ -4676,7 +4676,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCP/2027 Season/Promotion_Regional Merit Match_1",
-  "patch": null,
+  "patch": "26.22",
   "phase": null,
   "round": null,
   "tab": "Regional Merit Match",
@@ -4703,7 +4703,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCP/2027 Season/Promotion_FFA Round 2_1",
-  "patch": null,
+  "patch": "26.22",
   "phase": null,
   "round": null,
   "tab": "FFA Round 2",
@@ -4730,7 +4730,7 @@
   "group": null,
   "is_tiebreaker": false,
   "match_id": "LCP/2027 Season/Promotion_FFA Finals_1",
-  "patch": null,
+  "patch": "26.22",
   "phase": null,
   "round": null,
   "tab": "FFA Finals",
