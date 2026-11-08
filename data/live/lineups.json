@@ -3040,6 +3040,356 @@
   "tournament": "CBLOL/2027 Season/Promotion"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/DFM_Momo_2026_Split_2.png",
+  "player": "Momo (Sora Tobita)",
+  "player_id": "Momo",
+  "role": "Top",
+  "slug": "momo",
+  "source": "roster",
+  "team": "DetonatioN FocusMe",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/DFM_Citrus_2026_Split_1.png",
+  "player": "Citrus",
+  "player_id": "Citrus",
+  "role": "Jungle",
+  "slug": "citrus",
+  "source": "roster",
+  "team": "DetonatioN FocusMe",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/DFM_Fisher_2026_Split_2.png",
+  "player": "Fisher (Lee Jeong-tae)",
+  "player_id": "Fisher",
+  "role": "Mid",
+  "slug": "fisher",
+  "source": "roster",
+  "team": "DetonatioN FocusMe",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DFM_Kakkun_2026_Split_1.png",
+  "player": "Kakkun",
+  "player_id": "Kakkun",
+  "role": "Bot",
+  "slug": "kakkun",
+  "source": "roster",
+  "team": "DetonatioN FocusMe",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/DFM_Woody_2026_Split_2.png",
+  "player": "Woody",
+  "player_id": "Woody",
+  "role": "Support",
+  "slug": "woody",
+  "source": "roster",
+  "team": "DetonatioN FocusMe",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Kkkkkkkkk",
+  "player_id": "kkkkkkkkk",
+  "role": "Top",
+  "slug": "kkkkkkkkk",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/FL_Ellim_2026_Split_1.png",
+  "player": "Ellim",
+  "player_id": "Ellim",
+  "role": "Jungle",
+  "slug": "ellim",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/FL_DICE_2026_Split_1.png",
+  "player": "DICE (Hong Do-hyeon)",
+  "player_id": "DICE",
+  "role": "Mid",
+  "slug": "dice",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/87/FL_MayR_2026_Split_3.png",
+  "player": "MayR",
+  "player_id": "MayR",
+  "role": "Bot",
+  "slug": "mayr",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/08/FL_Bruce_2026_Split_1.png",
+  "player": "Bruce (Bruce Scott)",
+  "player_id": "Bruce",
+  "role": "Support",
+  "slug": "bruce-2",
+  "source": "roster",
+  "team": "FENNEL",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/IG_YSKM_2024_Split_2.png",
+  "player": "YSKM",
+  "player_id": "YSKM",
+  "role": "Top",
+  "slug": "yskm",
+  "source": "roster",
+  "team": "Frank Esports",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/FAK_Holo_2023_Split_2.png",
+  "player": "Holo (Tsang Dek Lam)",
+  "player_id": "Holo",
+  "role": "Jungle",
+  "slug": "holo",
+  "source": "roster",
+  "team": "Frank Esports",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/FAK_Pretender_2024_Split_1.png",
+  "player": "Pretender",
+  "player_id": "Pretender",
+  "role": "Mid",
+  "slug": "pretender",
+  "source": "roster",
+  "team": "Frank Esports",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/FAK_MnM_2024_Split_1.png",
+  "player": "MnM (Wong Ka Chun)",
+  "player_id": "MnM",
+  "role": "Bot",
+  "slug": "mnm",
+  "source": "roster",
+  "team": "Frank Esports",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "Kingpo54",
+  "player_id": "kingpo54",
+  "role": "Support",
+  "slug": "kingpo54",
+  "source": "roster",
+  "team": "Frank Esports",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/GZ_1Jiang_2026_Split_2.png",
+  "player": "1Jiang",
+  "player_id": "1Jiang",
+  "role": "Top",
+  "slug": "1jiang",
+  "source": "roster",
+  "team": "Ground Zero Gaming",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/GZ_Husha_2026_Split_2.png",
+  "player": "Husha",
+  "player_id": "Husha",
+  "role": "Jungle",
+  "slug": "husha",
+  "source": "roster",
+  "team": "Ground Zero Gaming",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/GZ_Uniboy_2026_Split_3.png",
+  "player": "Uniboy",
+  "player_id": "Uniboy",
+  "role": "Mid",
+  "slug": "uniboy",
+  "source": "roster",
+  "team": "Ground Zero Gaming",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/GZ_Betty_2026_Split_3.png",
+  "player": "Betty",
+  "player_id": "Betty",
+  "role": "Bot",
+  "slug": "betty",
+  "source": "roster",
+  "team": "Ground Zero Gaming",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/GZ_Kaiwing_2026_Split_3.png",
+  "player": "Kaiwing",
+  "player_id": "Kaiwing",
+  "role": "Support",
+  "slug": "kaiwing",
+  "source": "roster",
+  "team": "Ground Zero Gaming",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8e/FS_Execellenntless.png",
+  "player": "Excellentless",
+  "player_id": "Excellentless",
+  "role": "Top",
+  "slug": "excellentless",
+  "source": "roster",
+  "team": "Nothin'Here",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/FS_Feww.png",
+  "player": "Feww",
+  "player_id": "Feww",
+  "role": "Jungle",
+  "slug": "feww",
+  "source": "roster",
+  "team": "Nothin'Here",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/dc/FS_Itae.png",
+  "player": "Itae",
+  "player_id": "Itae",
+  "role": "Mid",
+  "slug": "itae",
+  "source": "roster",
+  "team": "Nothin'Here",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/FS_Blondie_LTS_2025_Summer.png",
+  "player": "Blondie",
+  "player_id": "Blondie",
+  "role": "Bot",
+  "slug": "blondie",
+  "source": "roster",
+  "team": "Nothin'Here",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ad/FS_YuyuuUsaki_LTS_2025_Summer.png",
+  "player": "YuyuuUsaki",
+  "player_id": "YuyuuUsaki",
+  "role": "Support",
+  "slug": "yuyuuusaki",
+  "source": "roster",
+  "team": "Nothin'Here",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
+  "player": "Nern",
+  "player_id": "Nern",
+  "role": "Top",
+  "slug": "nern",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": null,
+  "player": "J1n5",
+  "player_id": "j1n5",
+  "role": "Jungle",
+  "slug": "j1n5",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SGW_AisyL_VCS_2026_Spring_Playoffs.png",
+  "player": "AisyL",
+  "player_id": "AisyL",
+  "role": "Mid",
+  "slug": "aisyl",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/DINO_Aomine_VCS_2025_Finals.png",
+  "player": "Aomine",
+  "player_id": "Aomine",
+  "role": "Bot",
+  "slug": "aomine",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
+  "player": "Elio",
+  "player_id": "Elio",
+  "role": "Support",
+  "slug": "elio",
+  "source": "roster",
+  "team": "Saigon Warriors",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/ANC_Zorenous_2024_Split_1.png",
+  "player": "Zorenous",
+  "player_id": "zorenous",
+  "role": "Top",
+  "slug": "zorenous",
+  "source": "roster",
+  "team": "Team Gromp (Australian Team)",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/CHF_Poltron_2025_Split_2.png",
+  "player": "Poltron",
+  "player_id": "Poltron",
+  "role": "Jungle",
+  "slug": "poltron",
+  "source": "roster",
+  "team": "Team Gromp (Australian Team)",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/PCE_Halo_2021_Split_2.png",
+  "player": "Halo",
+  "player_id": "Halo",
+  "role": "Mid",
+  "slug": "halo",
+  "source": "roster",
+  "team": "Team Gromp (Australian Team)",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/PGG_Praedyth_MSI_2021.png",
+  "player": "Praedyth",
+  "player_id": "Praedyth",
+  "role": "Bot",
+  "slug": "praedyth",
+  "source": "roster",
+  "team": "Team Gromp (Australian Team)",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/GZ_Bulldawg_2023_Split_2.png",
+  "player": "Bulldawg",
+  "player_id": "Bulldawg",
+  "role": "Support",
+  "slug": "bulldawg",
+  "source": "roster",
+  "team": "Team Gromp (Australian Team)",
+  "tournament": "LCP/2027 Season/Promotion"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/65/C9_Thanatos_2026_Split_1.png",
   "player": "Thanatos (Park Seung-gyu)",
   "player_id": "Thanatos",
