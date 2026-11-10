@@ -15341,6 +15341,436 @@
   "wins": 0
  },
  {
+  "assists": 48,
+  "champions": [
+   {
+    "champion": "Annie",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.16,
+  "deaths": 8,
+  "dpm": 733.2,
+  "games": 3,
+  "gpm": 414.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SGW_AisyL_VCS_2026_Spring_Playoffs.png",
+  "kda": 7.88,
+  "kills": 15,
+  "kp": 0.6429,
+  "losses": 0,
+  "minutes": 88.5,
+  "player": "AisyL",
+  "player_id": "AisyL",
+  "role": "Mid",
+  "slug": "aisyl",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 0.98,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 30,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.53,
+  "deaths": 5,
+  "dpm": 835.2,
+  "games": 3,
+  "gpm": 540.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/DINO_Aomine_VCS_2025_Finals.png",
+  "kda": 10.2,
+  "kills": 21,
+  "kp": 0.5204,
+  "losses": 0,
+  "minutes": 88.5,
+  "player": "Aomine",
+  "player_id": "Aomine",
+  "role": "Bot",
+  "slug": "aomine",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.46,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 14,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rell",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 0.78,
+  "deaths": 18,
+  "dpm": 139.0,
+  "games": 3,
+  "gpm": 238.4,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3d/GZ_Bulldawg_2023_Split_2.png",
+  "kda": 0.89,
+  "kills": 2,
+  "kp": 0.5161,
+  "losses": 3,
+  "minutes": 88.5,
+  "player": "Bulldawg",
+  "player_id": "Bulldawg",
+  "role": "Support",
+  "slug": "bulldawg",
+  "team": "Team Gromp (Australian Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Team_Gromp_(Australian_Team)logo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 3.58,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 63,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.78,
+  "deaths": 3,
+  "dpm": 269.0,
+  "games": 3,
+  "gpm": 303.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
+  "kda": 22.33,
+  "kills": 4,
+  "kp": 0.6837,
+  "losses": 0,
+  "minutes": 88.5,
+  "player": "Elio",
+  "player_id": "Elio",
+  "role": "Support",
+  "slug": "elio",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 3.99,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 7,
+  "champions": [
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Taliyah",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.32,
+  "deaths": 23,
+  "dpm": 663.9,
+  "games": 3,
+  "gpm": 379.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/PCE_Halo_2021_Split_2.png",
+  "kda": 0.78,
+  "kills": 11,
+  "kp": 0.5806,
+  "losses": 3,
+  "minutes": 88.5,
+  "player": "Halo",
+  "player_id": "Halo",
+  "role": "Mid",
+  "slug": "halo",
+  "team": "Team Gromp (Australian Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Team_Gromp_(Australian_Team)logo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.18,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 30,
+  "champions": [
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Wukong",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.22,
+  "deaths": 8,
+  "dpm": 992.7,
+  "games": 3,
+  "gpm": 557.4,
+  "image": null,
+  "kda": 8.62,
+  "kills": 39,
+  "kp": 0.7041,
+  "losses": 0,
+  "minutes": 88.5,
+  "player": "J1n5",
+  "player_id": "j1n5",
+  "role": "Jungle",
+  "slug": "j1n5",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.56,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 18,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Camille",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yorick",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.02,
+  "deaths": 7,
+  "dpm": 665.1,
+  "games": 3,
+  "gpm": 443.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
+  "kda": 5.29,
+  "kills": 19,
+  "kp": 0.3776,
+  "losses": 0,
+  "minutes": 88.5,
+  "player": "Nern",
+  "player_id": "Nern",
+  "role": "Top",
+  "slug": "nern",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.29,
+  "win_rate": 1.0,
+  "wins": 3
+ },
+ {
+  "assists": 13,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Maokai",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 5.03,
+  "deaths": 22,
+  "dpm": 426.0,
+  "games": 3,
+  "gpm": 326.7,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b8/CHF_Poltron_2025_Split_2.png",
+  "kda": 0.86,
+  "kills": 6,
+  "kp": 0.6129,
+  "losses": 3,
+  "minutes": 88.5,
+  "player": "Poltron",
+  "player_id": "Poltron",
+  "role": "Jungle",
+  "slug": "poltron",
+  "team": "Team Gromp (Australian Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Team_Gromp_(Australian_Team)logo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.71,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 8,
+  "champions": [
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Varus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.54,
+  "deaths": 18,
+  "dpm": 565.1,
+  "games": 3,
+  "gpm": 403.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/4b/PGG_Praedyth_MSI_2021.png",
+  "kda": 0.72,
+  "kills": 5,
+  "kp": 0.4194,
+  "losses": 3,
+  "minutes": 88.5,
+  "player": "Praedyth",
+  "player_id": "Praedyth",
+  "role": "Bot",
+  "slug": "praedyth",
+  "team": "Team Gromp (Australian Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Team_Gromp_(Australian_Team)logo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 0.87,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
+  "assists": 5,
+  "champions": [
+   {
+    "champion": "Gnar",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.56,
+  "deaths": 17,
+  "dpm": 736.0,
+  "games": 3,
+  "gpm": 367.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/35/ANC_Zorenous_2024_Split_1.png",
+  "kda": 0.71,
+  "kills": 7,
+  "kp": 0.3871,
+  "losses": 3,
+  "minutes": 88.5,
+  "player": "Zorenous",
+  "player_id": "zorenous",
+  "role": "Top",
+  "slug": "zorenous",
+  "team": "Team Gromp (Australian Team)",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Team_Gromp_(Australian_Team)logo_square.png",
+  "team_short": null,
+  "team_slug": null,
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.16,
+  "win_rate": 0.0,
+  "wins": 0
+ },
+ {
   "assists": 50,
   "champions": [
    {
