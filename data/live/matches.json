@@ -4632,16 +4632,16 @@
    "short": "FL",
    "slug": "fennel"
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/Nothin'Herelogo_square.png",
    "name": "Nothin'Here",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCP/2027 Season/Promotion",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -4659,16 +4659,16 @@
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team1_score": null,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/Team_Gromp_(Australian_Team)logo_square.png",
    "name": "Team Gromp (Australian Team)",
    "short": null,
    "slug": null
   },
-  "team2_score": null,
+  "team2_score": 0,
   "tournament": "LCP/2027 Season/Promotion",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 5,
@@ -4708,17 +4708,17 @@
   "round": null,
   "tab": "FFA Round 2",
   "team1": {
-   "logo": null,
-   "name": "TBD",
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e8/Nothin'Herelogo_square.png",
+   "name": "Nothin'Here",
    "short": null,
    "slug": null
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
   },
   "team2_score": null,
   "tournament": "LCP/2027 Season/Promotion",
