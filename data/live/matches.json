@@ -4686,14 +4686,14 @@
    "short": "GZ",
    "slug": "ground-zero-gaming"
   },
-  "team1_score": null,
+  "team1_score": 2,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
    "name": "Frank Esports",
    "short": "FAK",
    "slug": "frank-esports"
   },
-  "team2_score": null,
+  "team2_score": 2,
   "tournament": "LCP/2027 Season/Promotion",
   "winner": null
  },
