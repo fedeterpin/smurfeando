@@ -15866,6 +15866,536 @@
   "wins": 3
  },
  {
+  "assists": 23,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Anivia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Renekton",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.63,
+  "deaths": 14,
+  "dpm": 627.6,
+  "games": 5,
+  "gpm": 392.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/59/GZ_1Jiang_2026_Split_2.png",
+  "kda": 2.57,
+  "kills": 13,
+  "kp": 0.6792,
+  "losses": 2,
+  "minutes": 161.2,
+  "player": "1Jiang",
+  "player_id": "1Jiang",
+  "role": "Top",
+  "slug": "1jiang",
+  "team": "Ground Zero Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+  "team_short": "GZ",
+  "team_slug": "ground-zero-gaming",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.35,
+  "win_rate": 0.6,
+  "wins": 3
+ },
+ {
+  "assists": 18,
+  "champions": [
+   {
+    "champion": "Jhin",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Kalista",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Miss Fortune",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ziggs",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 10.45,
+  "deaths": 4,
+  "dpm": 729.0,
+  "games": 5,
+  "gpm": 497.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/GZ_Betty_2026_Split_3.png",
+  "kda": 10.0,
+  "kills": 22,
+  "kp": 0.7547,
+  "losses": 2,
+  "minutes": 161.2,
+  "player": "Betty",
+  "player_id": "Betty",
+  "role": "Bot",
+  "slug": "betty",
+  "team": "Ground Zero Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+  "team_short": "GZ",
+  "team_slug": "ground-zero-gaming",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.51,
+  "win_rate": 0.6,
+  "wins": 3
+ },
+ {
+  "assists": 27,
+  "champions": [
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Poppy",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Shyvana",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Skarner",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.75,
+  "deaths": 9,
+  "dpm": 377.8,
+  "games": 5,
+  "gpm": 355.3,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/FAK_Holo_2023_Split_2.png",
+  "kda": 4.11,
+  "kills": 10,
+  "kp": 0.8222,
+  "losses": 3,
+  "minutes": 161.2,
+  "player": "Holo (Tsang Dek Lam)",
+  "player_id": "Holo",
+  "role": "Jungle",
+  "slug": "holo",
+  "team": "Frank Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
+  "team_short": "FAK",
+  "team_slug": "frank-esports",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.73,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 23,
+  "champions": [
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Vi",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Wukong",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 7.14,
+  "deaths": 13,
+  "dpm": 310.6,
+  "games": 5,
+  "gpm": 375.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d7/GZ_Husha_2026_Split_2.png",
+  "kda": 2.23,
+  "kills": 6,
+  "kp": 0.5472,
+  "losses": 2,
+  "minutes": 161.2,
+  "player": "Husha",
+  "player_id": "Husha",
+  "role": "Jungle",
+  "slug": "husha",
+  "team": "Ground Zero Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+  "team_short": "GZ",
+  "team_slug": "ground-zero-gaming",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.71,
+  "win_rate": 0.6,
+  "wins": 3
+ },
+ {
+  "assists": 36,
+  "champions": [
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Nautilus",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Neeko",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Renata Glasc",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Shen",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 1.16,
+  "deaths": 8,
+  "dpm": 163.6,
+  "games": 5,
+  "gpm": 262.6,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/GZ_Kaiwing_2026_Split_3.png",
+  "kda": 5.0,
+  "kills": 4,
+  "kp": 0.7547,
+  "losses": 2,
+  "minutes": 161.2,
+  "player": "Kaiwing",
+  "player_id": "Kaiwing",
+  "role": "Support",
+  "slug": "kaiwing",
+  "team": "Ground Zero Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+  "team_short": "GZ",
+  "team_slug": "ground-zero-gaming",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 4.38,
+  "win_rate": 0.6,
+  "wins": 3
+ },
+ {
+  "assists": 34,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Milio",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Rakan",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.0,
+  "deaths": 10,
+  "dpm": 136.7,
+  "games": 5,
+  "gpm": 244.6,
+  "image": null,
+  "kda": 3.4,
+  "kills": 0,
+  "kp": 0.7556,
+  "losses": 3,
+  "minutes": 161.2,
+  "player": "Kingpo54",
+  "player_id": "kingpo54",
+  "role": "Support",
+  "slug": "kingpo54",
+  "team": "Frank Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
+  "team_short": "FAK",
+  "team_slug": "frank-esports",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 4.25,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 14,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Caitlyn",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lucian",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Xayah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 10.15,
+  "deaths": 7,
+  "dpm": 566.9,
+  "games": 5,
+  "gpm": 439.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/FAK_MnM_2024_Split_1.png",
+  "kda": 3.71,
+  "kills": 12,
+  "kp": 0.5778,
+  "losses": 3,
+  "minutes": 161.2,
+  "player": "MnM (Wong Ka Chun)",
+  "player_id": "MnM",
+  "role": "Bot",
+  "slug": "mnm",
+  "team": "Frank Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
+  "team_short": "FAK",
+  "team_slug": "frank-esports",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.53,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 17,
+  "champions": [
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "LeBlanc",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Syndra",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Taliyah",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.16,
+  "deaths": 13,
+  "dpm": 595.9,
+  "games": 5,
+  "gpm": 365.8,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1f/FAK_Pretender_2024_Split_1.png",
+  "kda": 2.46,
+  "kills": 15,
+  "kp": 0.7111,
+  "losses": 3,
+  "minutes": 161.2,
+  "player": "Pretender",
+  "player_id": "Pretender",
+  "role": "Mid",
+  "slug": "pretender",
+  "team": "Frank Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
+  "team_short": "FAK",
+  "team_slug": "frank-esports",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 0.99,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
+  "assists": 31,
+  "champions": [
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Cassiopeia",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Locke",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Swain",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Viktor",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.29,
+  "deaths": 6,
+  "dpm": 636.0,
+  "games": 5,
+  "gpm": 370.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/76/GZ_Uniboy_2026_Split_3.png",
+  "kda": 6.5,
+  "kills": 8,
+  "kp": 0.7358,
+  "losses": 2,
+  "minutes": 161.2,
+  "player": "Uniboy",
+  "player_id": "Uniboy",
+  "role": "Mid",
+  "slug": "uniboy",
+  "team": "Ground Zero Gaming",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/44/Ground_Zero_Gaminglogo_square.png",
+  "team_short": "GZ",
+  "team_slug": "ground-zero-gaming",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.06,
+  "win_rate": 0.6,
+  "wins": 3
+ },
+ {
+  "assists": 18,
+  "champions": [
+   {
+    "champion": "Irelia",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jax",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Trundle",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Volibear",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 7.73,
+  "deaths": 14,
+  "dpm": 396.1,
+  "games": 5,
+  "gpm": 352.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/IG_YSKM_2024_Split_2.png",
+  "kda": 1.86,
+  "kills": 8,
+  "kp": 0.5778,
+  "losses": 3,
+  "minutes": 161.2,
+  "player": "YSKM",
+  "player_id": "YSKM",
+  "role": "Top",
+  "slug": "yskm",
+  "team": "Frank Esports",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/07/Frank_Esportslogo_profile.png",
+  "team_short": "FAK",
+  "team_slug": "frank-esports",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 0.99,
+  "win_rate": 0.4,
+  "wins": 2
+ },
+ {
   "assists": 20,
   "champions": [
    {
