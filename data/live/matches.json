@@ -4713,16 +4713,16 @@
    "short": null,
    "slug": null
   },
-  "team1_score": null,
+  "team1_score": 0,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
    "name": "Saigon Warriors",
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCP/2027 Season/Promotion",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,
@@ -4742,10 +4742,10 @@
   },
   "team1_score": null,
   "team2": {
-   "logo": null,
-   "name": "TBD",
-   "short": null,
-   "slug": null
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+   "name": "Saigon Warriors",
+   "short": "SGW",
+   "slug": "saigon-warriors"
   },
   "team2_score": null,
   "tournament": "LCP/2027 Season/Promotion",
@@ -4776,6 +4776,168 @@
   },
   "team2_score": null,
   "tournament": "2026 Season World Championship/Main Event",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-12-05 13:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Red Bull League of Its Own_Showmatches_1",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Showmatches",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "team2_score": null,
+  "tournament": "2026 Red Bull League of Its Own",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-12-05 14:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Red Bull League of Its Own_Showmatches_2",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Showmatches",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "team2_score": null,
+  "tournament": "2026 Red Bull League of Its Own",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-12-05 15:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Red Bull League of Its Own_Showmatches_3",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Showmatches",
+  "team1": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": null,
+   "name": "TBD",
+   "short": null,
+   "slug": null
+  },
+  "team2_score": null,
+  "tournament": "2026 Red Bull League of Its Own",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-12-05 16:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Red Bull League of Its Own_Showmatches_4",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Showmatches",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f7/Karmine_Corplogo_profile.png",
+   "name": "Karmine Corp",
+   "short": "KC",
+   "slug": "karmine-corp"
+  },
+  "team2_score": null,
+  "tournament": "2026 Red Bull League of Its Own",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-12-05 17:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Red Bull League of Its Own_Showmatches_5",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Showmatches",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b4/G2_Esportslogo_profile.png",
+   "name": "G2 Esports",
+   "short": "G2",
+   "slug": "g2-esports"
+  },
+  "team2_score": null,
+  "tournament": "2026 Red Bull League of Its Own",
+  "winner": null
+ },
+ {
+  "best_of": 1,
+  "datetime_utc": "2026-12-05 18:00:00",
+  "group": null,
+  "is_tiebreaker": false,
+  "match_id": "2026 Red Bull League of Its Own_Showmatches_6",
+  "patch": null,
+  "phase": null,
+  "round": null,
+  "tab": "Showmatches",
+  "team1": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/78/T1logo_profile.png",
+   "name": "T1",
+   "short": "T1",
+   "slug": "t1"
+  },
+  "team1_score": null,
+  "team2": {
+   "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/Movistar_KOIlogo_square.png",
+   "name": "Movistar KOI",
+   "short": "MKOI",
+   "slug": "movistar-koi"
+  },
+  "team2_score": null,
+  "tournament": "2026 Red Bull League of Its Own",
   "winner": null
  }
 ]

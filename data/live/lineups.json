@@ -600,6 +600,136 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/G2_SkewMond_2026_Split_1.png",
+  "player": "SkewMond",
+  "player_id": "SkewMond",
+  "role": "Top",
+  "slug": "skewmond",
+  "source": "roster",
+  "team": "G2 Esports",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/G2_Caps_2026_Split_1.png",
+  "player": "Caps",
+  "player_id": "Caps",
+  "role": "Jungle",
+  "slug": "caps",
+  "source": "roster",
+  "team": "G2 Esports",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/G2_Hans_Sama_2026_Split_1.png",
+  "player": "Hans Sama",
+  "player_id": "Hans Sama",
+  "role": "Mid",
+  "slug": "hans-sama",
+  "source": "roster",
+  "team": "G2 Esports",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/29/KC_Canna_2026_Split_2.png",
+  "player": "Canna",
+  "player_id": "Canna",
+  "role": "Top",
+  "slug": "canna",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9d/KC_Caliste_2026_Split_2.png",
+  "player": "Caliste",
+  "player_id": "Caliste",
+  "role": "Jungle",
+  "slug": "caliste",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/52/KC_Busio_2026_Split_2.png",
+  "player": "Busio",
+  "player_id": "Busio",
+  "role": "Mid",
+  "slug": "busio",
+  "source": "roster",
+  "team": "Karmine Corp",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f9/MKOI_Elyoya_2026_Split_2.png",
+  "player": "Elyoya",
+  "player_id": "Elyoya",
+  "role": "Top",
+  "slug": "elyoya",
+  "source": "roster",
+  "team": "Movistar KOI",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0f/MKOI_Jojopyun_2026_Split_2.png",
+  "player": "Jojopyun",
+  "player_id": "Jojopyun",
+  "role": "Jungle",
+  "slug": "jojopyun",
+  "source": "roster",
+  "team": "Movistar KOI",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ed/MKOI_Alvaro_2026_Split_1.png",
+  "player": "Alvaro (Álvaro Fernández)",
+  "player_id": "Alvaro",
+  "role": "Mid",
+  "slug": "alvaro",
+  "source": "roster",
+  "team": "Movistar KOI",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/T1_Oner_2026_LCK_Cup.png",
+  "player": "Oner",
+  "player_id": "Oner",
+  "role": "Top",
+  "slug": "oner",
+  "source": "roster",
+  "team": "T1",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5a/T1_Faker_2026_LCK_Cup.png",
+  "player": "Faker",
+  "player_id": "Faker",
+  "role": "Jungle",
+  "slug": "faker",
+  "source": "roster",
+  "team": "T1",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/T1_Peyz_2026_LCK_Cup.png",
+  "player": "Peyz",
+  "player_id": "Peyz",
+  "role": "Mid",
+  "slug": "peyz",
+  "source": "roster",
+  "team": "T1",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/T1_Keria_2026_LCK_Cup.png",
+  "player": "Keria",
+  "player_id": "Keria",
+  "role": "Bot",
+  "slug": "keria",
+  "source": "roster",
+  "team": "T1",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/ab/AL_Breathe_2026_Split_3.png",
   "player": "Breathe",
   "player_id": "Breathe",

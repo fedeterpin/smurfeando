@@ -66,6 +66,21 @@
   "year": "2026"
  },
  {
+  "games": 0,
+  "is_playoffs": false,
+  "league": "Red Bull League of Its Own",
+  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c4/Red_Bull_League_of_Its_Own_Logo.png",
+  "league_short": "Red Bull League of Its Own",
+  "name": "Red Bull League of Its Own 2026",
+  "overview_page": "2026 Red Bull League of Its Own",
+  "patches": [],
+  "region": "international",
+  "region_label": "International",
+  "slug": "2026-red-bull-league-of-its-own",
+  "split": "",
+  "year": "2026"
+ },
+ {
   "games": 74,
   "is_playoffs": false,
   "league": "World Star Challengers Invitational",
@@ -151,7 +166,7 @@
   "year": "2027"
  },
  {
-  "games": 6,
+  "games": 9,
   "is_playoffs": false,
   "league": "League of Legends Championship Pacific",
   "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c2/LCP_Logo.png",
