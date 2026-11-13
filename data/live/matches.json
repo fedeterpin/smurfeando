@@ -4740,16 +4740,16 @@
    "short": "DFM",
    "slug": "detonation-focusme"
   },
-  "team1_score": null,
+  "team1_score": 1,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
    "name": "Saigon Warriors",
    "short": "SGW",
    "slug": "saigon-warriors"
   },
-  "team2_score": null,
+  "team2_score": 3,
   "tournament": "LCP/2027 Season/Promotion",
-  "winner": null
+  "winner": 2
  },
  {
   "best_of": 5,

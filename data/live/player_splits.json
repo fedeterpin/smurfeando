@@ -15341,45 +15341,45 @@
   "wins": 0
  },
  {
-  "assists": 75,
+  "assists": 111,
   "champions": [
+   {
+    "champion": "Annie",
+    "games": 2,
+    "wins": 2
+   },
    {
     "champion": "Cassiopeia",
     "games": 2,
     "wins": 2
    },
    {
-    "champion": "Akali",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Annie",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Aurora",
-    "games": 1,
-    "wins": 1
-   },
-   {
     "champion": "Syndra",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Ahri",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Akali",
     "games": 1,
     "wins": 1
    }
   ],
-  "cspm": 7.99,
-  "deaths": 16,
-  "dpm": 786.9,
-  "games": 6,
-  "gpm": 405.4,
+  "cspm": 8.28,
+  "deaths": 27,
+  "dpm": 779.0,
+  "games": 10,
+  "gpm": 413.5,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SGW_AisyL_VCS_2026_Spring_Playoffs.png",
-  "kda": 6.62,
-  "kills": 31,
-  "kp": 0.6424,
-  "losses": 0,
-  "minutes": 190.6,
+  "kda": 6.11,
+  "kills": 54,
+  "kp": 0.6496,
+  "losses": 1,
+  "minutes": 323.4,
   "player": "AisyL",
   "player_id": "AisyL",
   "role": "Mid",
@@ -15389,15 +15389,30 @@
   "team_short": "SGW",
   "team_slug": "saigon-warriors",
   "tournament": "LCP/2027 Season/Promotion",
-  "vspm": 1.09,
-  "win_rate": 1.0,
-  "wins": 6
+  "vspm": 1.19,
+  "win_rate": 0.9,
+  "wins": 9
  },
  {
-  "assists": 50,
+  "assists": 76,
   "champions": [
    {
+    "champion": "Jhin",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Lucian",
+    "games": 2,
+    "wins": 2
+   },
+   {
     "champion": "Ashe",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Caitlyn",
     "games": 1,
     "wins": 1
    },
@@ -15405,34 +15420,19 @@
     "champion": "Corki",
     "games": 1,
     "wins": 1
-   },
-   {
-    "champion": "Jhin",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Kalista",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lucian",
-    "games": 1,
-    "wins": 1
    }
   ],
-  "cspm": 10.9,
-  "deaths": 12,
-  "dpm": 912.7,
-  "games": 6,
-  "gpm": 574.7,
+  "cspm": 10.47,
+  "deaths": 23,
+  "dpm": 828.9,
+  "games": 10,
+  "gpm": 554.8,
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/DINO_Aomine_VCS_2025_Finals.png",
-  "kda": 8.17,
-  "kills": 48,
-  "kp": 0.5939,
-  "losses": 0,
-  "minutes": 190.6,
+  "kda": 6.48,
+  "kills": 73,
+  "kp": 0.5866,
+  "losses": 1,
+  "minutes": 323.4,
   "player": "Aomine",
   "player_id": "Aomine",
   "role": "Bot",
@@ -15442,9 +15442,168 @@
   "team_short": "SGW",
   "team_slug": "saigon-warriors",
   "tournament": "LCP/2027 Season/Promotion",
-  "vspm": 1.45,
-  "win_rate": 1.0,
-  "wins": 6
+  "vspm": 1.5,
+  "win_rate": 0.9,
+  "wins": 9
+ },
+ {
+  "assists": 169,
+  "champions": [
+   {
+    "champion": "Milio",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Nautilus",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Bard",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Leona",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 0.97,
+  "deaths": 18,
+  "dpm": 194.3,
+  "games": 10,
+  "gpm": 287.1,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
+  "kda": 9.83,
+  "kills": 8,
+  "kp": 0.6969,
+  "losses": 1,
+  "minutes": 323.4,
+  "player": "Elio",
+  "player_id": "Elio",
+  "role": "Support",
+  "slug": "elio",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 4.17,
+  "win_rate": 0.9,
+  "wins": 9
+ },
+ {
+  "assists": 105,
+  "champions": [
+   {
+    "champion": "Qiyana",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Jarvan IV",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Jayce",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Lee Sin",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Naafiri",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.41,
+  "deaths": 33,
+  "dpm": 725.4,
+  "games": 10,
+  "gpm": 504.9,
+  "image": null,
+  "kda": 5.52,
+  "kills": 77,
+  "kp": 0.7165,
+  "losses": 1,
+  "minutes": 323.4,
+  "player": "J1n5",
+  "player_id": "j1n5",
+  "role": "Jungle",
+  "slug": "j1n5",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.74,
+  "win_rate": 0.9,
+  "wins": 9
+ },
+ {
+  "assists": 70,
+  "champions": [
+   {
+    "champion": "Ambessa",
+    "games": 3,
+    "wins": 3
+   },
+   {
+    "champion": "Camille",
+    "games": 2,
+    "wins": 2
+   },
+   {
+    "champion": "Gnar",
+    "games": 2,
+    "wins": 1
+   },
+   {
+    "champion": "Renekton",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Sion",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 8.45,
+  "deaths": 21,
+  "dpm": 652.2,
+  "games": 10,
+  "gpm": 433.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
+  "kda": 5.33,
+  "kills": 42,
+  "kp": 0.4409,
+  "losses": 1,
+  "minutes": 323.4,
+  "player": "Nern",
+  "player_id": "Nern",
+  "role": "Top",
+  "slug": "nern",
+  "team": "Saigon Warriors",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
+  "team_short": "SGW",
+  "team_slug": "saigon-warriors",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.35,
+  "win_rate": 0.9,
+  "wins": 9
  },
  {
   "assists": 42,
@@ -15498,59 +15657,6 @@
   "vspm": 1.04,
   "win_rate": 0.5,
   "wins": 3
- },
- {
-  "assists": 109,
-  "champions": [
-   {
-    "champion": "Alistar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Lulu",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Milio",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Nautilus",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Renata Glasc",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 0.9,
-  "deaths": 9,
-  "dpm": 215.5,
-  "games": 6,
-  "gpm": 293.7,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
-  "kda": 12.67,
-  "kills": 5,
-  "kp": 0.6909,
-  "losses": 0,
-  "minutes": 190.6,
-  "player": "Elio",
-  "player_id": "Elio",
-  "role": "Support",
-  "slug": "elio",
-  "team": "Saigon Warriors",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-  "team_short": "SGW",
-  "team_slug": "saigon-warriors",
-  "tournament": "LCP/2027 Season/Promotion",
-  "vspm": 4.19,
-  "win_rate": 1.0,
-  "wins": 6
  },
  {
   "assists": 42,
@@ -15705,112 +15811,6 @@
   "vspm": 1.34,
   "win_rate": 0.5,
   "wins": 3
- },
- {
-  "assists": 59,
-  "champions": [
-   {
-    "champion": "Qiyana",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Nocturne",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Pantheon",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Vi",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Wukong",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.33,
-  "deaths": 22,
-  "dpm": 762.4,
-  "games": 6,
-  "gpm": 517.5,
-  "image": null,
-  "kda": 5.23,
-  "kills": 56,
-  "kp": 0.697,
-  "losses": 0,
-  "minutes": 190.6,
-  "player": "J1n5",
-  "player_id": "j1n5",
-  "role": "Jungle",
-  "slug": "j1n5",
-  "team": "Saigon Warriors",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-  "team_short": "SGW",
-  "team_slug": "saigon-warriors",
-  "tournament": "LCP/2027 Season/Promotion",
-  "vspm": 1.72,
-  "win_rate": 1.0,
-  "wins": 6
- },
- {
-  "assists": 48,
-  "champions": [
-   {
-    "champion": "Ambessa",
-    "games": 2,
-    "wins": 2
-   },
-   {
-    "champion": "Camille",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Gnar",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Sion",
-    "games": 1,
-    "wins": 1
-   },
-   {
-    "champion": "Yorick",
-    "games": 1,
-    "wins": 1
-   }
-  ],
-  "cspm": 8.28,
-  "deaths": 14,
-  "dpm": 660.2,
-  "games": 6,
-  "gpm": 426.1,
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
-  "kda": 5.21,
-  "kills": 25,
-  "kp": 0.4424,
-  "losses": 0,
-  "minutes": 190.6,
-  "player": "Nern",
-  "player_id": "Nern",
-  "role": "Top",
-  "slug": "nern",
-  "team": "Saigon Warriors",
-  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7c/Saigon_Warriorslogo_square.png",
-  "team_short": "SGW",
-  "team_slug": "saigon-warriors",
-  "tournament": "LCP/2027 Season/Promotion",
-  "vspm": 1.43,
-  "win_rate": 1.0,
-  "wins": 6
  },
  {
   "assists": 99,
@@ -16394,6 +16394,246 @@
   "vspm": 0.99,
   "win_rate": 0.4,
   "wins": 2
+ },
+ {
+  "assists": 24,
+  "champions": [
+   {
+    "champion": "Cho'Gath",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Pantheon",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Qiyana",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Xin Zhao",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 6.3,
+  "deaths": 23,
+  "dpm": 297.3,
+  "games": 4,
+  "gpm": 336.2,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ec/DFM_Citrus_2026_Split_1.png",
+  "kda": 1.13,
+  "kills": 2,
+  "kp": 0.5306,
+  "losses": 3,
+  "minutes": 132.8,
+  "player": "Citrus",
+  "player_id": "Citrus",
+  "role": "Jungle",
+  "slug": "citrus",
+  "team": "DetonatioN FocusMe",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
+  "team_short": "DFM",
+  "team_slug": "detonation-focusme",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.83,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 20,
+  "champions": [
+   {
+    "champion": "Aurora",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Azir",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Galio",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Orianna",
+    "games": 1,
+    "wins": 1
+   }
+  ],
+  "cspm": 9.32,
+  "deaths": 16,
+  "dpm": 619.3,
+  "games": 4,
+  "gpm": 421.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/74/DFM_Fisher_2026_Split_2.png",
+  "kda": 2.25,
+  "kills": 16,
+  "kp": 0.7347,
+  "losses": 3,
+  "minutes": 132.8,
+  "player": "Fisher (Lee Jeong-tae)",
+  "player_id": "Fisher",
+  "role": "Mid",
+  "slug": "fisher",
+  "team": "DetonatioN FocusMe",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
+  "team_short": "DFM",
+  "team_slug": "detonation-focusme",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.33,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 17,
+  "champions": [
+   {
+    "champion": "Ashe",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Ezreal",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Tristana",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Yunara",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 9.74,
+  "deaths": 19,
+  "dpm": 677.2,
+  "games": 4,
+  "gpm": 489.9,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/54/DFM_Kakkun_2026_Split_1.png",
+  "kda": 1.79,
+  "kills": 17,
+  "kp": 0.6939,
+  "losses": 3,
+  "minutes": 132.8,
+  "player": "Kakkun",
+  "player_id": "Kakkun",
+  "role": "Bot",
+  "slug": "kakkun",
+  "team": "DetonatioN FocusMe",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
+  "team_short": "DFM",
+  "team_slug": "detonation-focusme",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.06,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 13,
+  "champions": [
+   {
+    "champion": "K'Sante",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Olaf",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Rumble",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Zaahen",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 8.27,
+  "deaths": 19,
+  "dpm": 443.1,
+  "games": 4,
+  "gpm": 369.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/7f/DFM_Momo_2026_Split_2.png",
+  "kda": 1.21,
+  "kills": 10,
+  "kp": 0.4694,
+  "losses": 3,
+  "minutes": 132.8,
+  "player": "Momo (Sora Tobita)",
+  "player_id": "Momo",
+  "role": "Top",
+  "slug": "momo",
+  "team": "DetonatioN FocusMe",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
+  "team_short": "DFM",
+  "team_slug": "detonation-focusme",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 1.3,
+  "win_rate": 0.25,
+  "wins": 1
+ },
+ {
+  "assists": 34,
+  "champions": [
+   {
+    "champion": "Alistar",
+    "games": 1,
+    "wins": 1
+   },
+   {
+    "champion": "Karma",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Lulu",
+    "games": 1,
+    "wins": 0
+   },
+   {
+    "champion": "Seraphine",
+    "games": 1,
+    "wins": 0
+   }
+  ],
+  "cspm": 1.25,
+  "deaths": 12,
+  "dpm": 229.0,
+  "games": 4,
+  "gpm": 258.0,
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c0/DFM_Woody_2026_Split_2.png",
+  "kda": 3.17,
+  "kills": 4,
+  "kp": 0.7755,
+  "losses": 3,
+  "minutes": 132.8,
+  "player": "Woody",
+  "player_id": "Woody",
+  "role": "Support",
+  "slug": "woody",
+  "team": "DetonatioN FocusMe",
+  "team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/30/DetonatioN_FocusMelogo_profile.png",
+  "team_short": "DFM",
+  "team_slug": "detonation-focusme",
+  "tournament": "LCP/2027 Season/Promotion",
+  "vspm": 3.96,
+  "win_rate": 0.25,
+  "wins": 1
  },
  {
   "assists": 20,
