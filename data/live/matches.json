@@ -4767,7 +4767,7 @@
    "short": "BLG",
    "slug": "bilibili-gaming"
   },
-  "team1_score": 0,
+  "team1_score": 3,
   "team2": {
    "logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/Gen.Glogo_square.png",
    "name": "Gen.G",
@@ -4776,7 +4776,7 @@
   },
   "team2_score": 1,
   "tournament": "2026 Season World Championship/Main Event",
-  "winner": null
+  "winner": 1
  },
  {
   "best_of": 1,
