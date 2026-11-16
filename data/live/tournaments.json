@@ -81,23 +81,6 @@
   "year": "2026"
  },
  {
-  "games": 74,
-  "is_playoffs": false,
-  "league": "World Star Challengers Invitational",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/19/WSCI_Logo.png",
-  "league_short": "WSCI",
-  "name": "World Star Challengers Invitational 2026",
-  "overview_page": "2026 World Star Challengers Invitational",
-  "patches": [
-   "26.18"
-  ],
-  "region": "international",
-  "region_label": "International",
-  "slug": "2026-world-star-challengers-invitational",
-  "split": "",
-  "year": "2026"
- },
- {
   "games": 76,
   "is_playoffs": false,
   "league": "World Championship",
