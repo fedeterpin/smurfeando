@@ -600,20 +600,10 @@
   "tournament": "2026 Demacia Cup Global Invitational"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/00/G2_SkewMond_2026_Split_1.png",
-  "player": "SkewMond",
-  "player_id": "SkewMond",
-  "role": "Top",
-  "slug": "skewmond",
-  "source": "roster",
-  "team": "G2 Esports",
-  "tournament": "2026 Red Bull League of Its Own"
- },
- {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/6a/G2_Caps_2026_Split_1.png",
   "player": "Caps",
   "player_id": "Caps",
-  "role": "Jungle",
+  "role": "Top",
   "slug": "caps",
   "source": "roster",
   "team": "G2 Esports",
@@ -623,7 +613,7 @@
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d9/G2_Hans_Sama_2026_Split_1.png",
   "player": "Hans Sama",
   "player_id": "Hans Sama",
-  "role": "Mid",
+  "role": "Jungle",
   "slug": "hans-sama",
   "source": "roster",
   "team": "G2 Esports",
@@ -730,11 +720,11 @@
   "tournament": "2026 Red Bull League of Its Own"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/da/T1_Keria_2026_LCK_Cup.png",
-  "player": "Keria",
-  "player_id": "Keria",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a8/T1_Untara_2025.png",
+  "player": "Untara",
+  "player_id": "Untara",
   "role": "Bot",
-  "slug": "keria",
+  "slug": "untara",
   "source": "roster",
   "team": "T1",
   "tournament": "2026 Red Bull League of Its Own"
