@@ -700,10 +700,20 @@
   "tournament": "2026 Red Bull League of Its Own"
  },
  {
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/HLE_Zeus_2026_Split_1.png",
+  "player": "Zeus",
+  "player_id": "Zeus",
+  "role": "Top",
+  "slug": "zeus",
+  "source": "roster",
+  "team": "T1",
+  "tournament": "2026 Red Bull League of Its Own"
+ },
+ {
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/T1_Oner_2026_LCK_Cup.png",
   "player": "Oner",
   "player_id": "Oner",
-  "role": "Top",
+  "role": "Jungle",
   "slug": "oner",
   "source": "roster",
   "team": "T1",
@@ -713,7 +723,7 @@
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5a/T1_Faker_2026_LCK_Cup.png",
   "player": "Faker",
   "player_id": "Faker",
-  "role": "Jungle",
+  "role": "Mid",
   "slug": "faker",
   "source": "roster",
   "team": "T1",
@@ -723,7 +733,7 @@
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/T1_Peyz_2026_LCK_Cup.png",
   "player": "Peyz",
   "player_id": "Peyz",
-  "role": "Mid",
+  "role": "Bot",
   "slug": "peyz",
   "source": "roster",
   "team": "T1",
@@ -733,7 +743,7 @@
   "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a8/T1_Untara_2025.png",
   "player": "Untara",
   "player_id": "Untara",
-  "role": "Bot",
+  "role": "Support",
   "slug": "untara",
   "source": "roster",
   "team": "T1",
@@ -2588,405 +2598,5 @@
   "source": "roster",
   "team": "Zeu5 Esports",
   "tournament": "LCS/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Damo",
-  "player_id": "Damo",
-  "role": "Top",
-  "slug": null,
-  "source": "roster",
-  "team": "BDL Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Utky",
-  "player_id": "Utky",
-  "role": "Jungle",
-  "slug": null,
-  "source": "roster",
-  "team": "BDL Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Zoycade",
-  "player_id": "Zoycade",
-  "role": "Mid",
-  "slug": null,
-  "source": "roster",
-  "team": "BDL Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Mudi",
-  "player_id": "Mudi",
-  "role": "Bot",
-  "slug": null,
-  "source": "roster",
-  "team": "BDL Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Virgo (Faruk Civelek)",
-  "player_id": "Virgo",
-  "role": "Support",
-  "slug": "virgo-2",
-  "source": "roster",
-  "team": "BDL Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8b/MISA_Luana_2024_Split_2.png",
-  "player": "Luana",
-  "player_id": "Luana",
-  "role": "Top",
-  "slug": "luana",
-  "source": "roster",
-  "team": "BoostGate Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Kurama (Alp Eren Öğdem)",
-  "player_id": "Kurama",
-  "role": "Jungle",
-  "slug": "kurama",
-  "source": "roster",
-  "team": "BoostGate Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Warner",
-  "player_id": "Warner",
-  "role": "Mid",
-  "slug": "warner",
-  "source": "roster",
-  "team": "BoostGate Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/38/DP_Black_2024_Split_1.png",
-  "player": "Black (Murat Ulukan Ayaz)",
-  "player_id": "Black",
-  "role": "Bot",
-  "slug": "black",
-  "source": "roster",
-  "team": "BoostGate Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Antos (Yusuf Yılmaz)",
-  "player_id": "Antos (Yusuf Yılmaz)",
-  "role": "Support",
-  "slug": null,
-  "source": "roster",
-  "team": "BoostGate Esports",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/AUR_Madly_2022_Split_2.png",
-  "player": "Madly",
-  "player_id": "Madly",
-  "role": "Top",
-  "slug": "madly",
-  "source": "roster",
-  "team": "ITU Rangers",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Vixen (Arda Erenoğlu)",
-  "player_id": "Vixen (Arda Erenoğlu)",
-  "role": "Jungle",
-  "slug": null,
-  "source": "roster",
-  "team": "ITU Rangers",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Ziqmo0",
-  "player_id": "Ziqmo0",
-  "role": "Mid",
-  "slug": null,
-  "source": "roster",
-  "team": "ITU Rangers",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "TuokaZ",
-  "player_id": "TuokaZ",
-  "role": "Bot",
-  "slug": null,
-  "source": "roster",
-  "team": "ITU Rangers",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "XeniuS",
-  "player_id": "XeniuS",
-  "role": "Support",
-  "slug": null,
-  "source": "roster",
-  "team": "ITU Rangers",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Herif",
-  "player_id": "Herif",
-  "role": "Top",
-  "slug": null,
-  "source": "roster",
-  "team": "Shark Attack",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "pete (Emirhan Özdemir)",
-  "player_id": "pete (Emirhan Özdemir)",
-  "role": "Jungle",
-  "slug": null,
-  "source": "roster",
-  "team": "Shark Attack",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Robi",
-  "player_id": "Robi",
-  "role": "Mid",
-  "slug": null,
-  "source": "roster",
-  "team": "Shark Attack",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "Titania (Ömer Akgür)",
-  "player_id": "Titania (Ömer Akgür)",
-  "role": "Bot",
-  "slug": null,
-  "source": "roster",
-  "team": "Shark Attack",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": null,
-  "player": "seishin",
-  "player_id": "seishin",
-  "role": "Support",
-  "slug": null,
-  "source": "roster",
-  "team": "Shark Attack",
-  "tournament": "TCL/2027 Season/Promotion"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/MVKE_Hasmed_2025_Split_1.png",
-  "player": "Hasmed",
-  "player_id": "Hasmed",
-  "role": "Top",
-  "slug": "hasmed",
-  "source": "roster",
-  "team": "9Gaming",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f4/ZEN_Esports_SCP_VCS_Summer_2026.png",
-  "player": "SCP",
-  "player_id": "SCP",
-  "role": "Jungle",
-  "slug": "scp",
-  "source": "roster",
-  "team": "9Gaming",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e3/ZEN_Esports_Gia_Qui_VCS_Summer_2026.png",
-  "player": "GiaQui",
-  "player_id": "GiaQui",
-  "role": "Mid",
-  "slug": "giaqui",
-  "source": "roster",
-  "team": "9Gaming",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e6/ZEN_Esports_Charlington_VCS_Summer_2026.png",
-  "player": "Charlington",
-  "player_id": "Charlington",
-  "role": "Bot",
-  "slug": "charlington",
-  "source": "roster",
-  "team": "9Gaming",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/16/ZEN_Esports_Zin_VCS_Summer_2026.png",
-  "player": "Zin",
-  "player_id": "Zin",
-  "role": "Support",
-  "slug": "zin",
-  "source": "roster",
-  "team": "9Gaming",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d2/MVK_Stellar_2026_Split_2.png",
-  "player": "Steller",
-  "player_id": "Steller",
-  "role": "Top",
-  "slug": "steller",
-  "source": "roster",
-  "team": "MVK Esports Academy",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/aa/9G_Umi_VCS_2026_Spring_Playoffs.png",
-  "player": "Umi (Nguyễn Thế Dương)",
-  "player_id": "Umi",
-  "role": "Jungle",
-  "slug": "umi",
-  "source": "roster",
-  "team": "MVK Esports Academy",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f8/MVK_Seany_2026_Split_2.png",
-  "player": "Seany",
-  "player_id": "Seany",
-  "role": "Mid",
-  "slug": "seany",
-  "source": "roster",
-  "team": "MVK Esports Academy",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e5/9G_Nuna_VCS_2026_Spring_Playoffs.png",
-  "player": "Nuna",
-  "player_id": "Nuna",
-  "role": "Bot",
-  "slug": "nuna",
-  "source": "roster",
-  "team": "MVK Esports Academy",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/2/20/MVKA_Callian_VCS_2026_Spring_Playoffs.png",
-  "player": "Callian",
-  "player_id": "Callian",
-  "role": "Support",
-  "slug": "callian",
-  "source": "roster",
-  "team": "MVK Esports Academy",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/ca/DINO_Sparda_VCS_2025_Finals.png",
-  "player": "Sparda",
-  "player_id": "Sparda",
-  "role": "Top",
-  "slug": "sparda",
-  "source": "roster",
-  "team": "SN CyberCore Esports",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": null,
-  "player": "Yongbel",
-  "player_id": "Yongbel",
-  "role": "Jungle",
-  "slug": null,
-  "source": "roster",
-  "team": "SN CyberCore Esports",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/b3/SCBC_Vin_VCS_2026_Summer.png",
-  "player": "Vin (Trần Hoài Vinh)",
-  "player_id": "Vin",
-  "role": "Mid",
-  "slug": "vin",
-  "source": "roster",
-  "team": "SN CyberCore Esports",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/6/64/GAM_Pyshiro_2024_Split_1.png",
-  "player": "Pyshiro",
-  "player_id": "Pyshiro",
-  "role": "Bot",
-  "slug": "pyshiro",
-  "source": "roster",
-  "team": "SN CyberCore Esports",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/49/VKE_Kairi_2024_Split_1.png",
-  "player": "Kairi",
-  "player_id": "kairi",
-  "role": "Support",
-  "slug": "kairi",
-  "source": "roster",
-  "team": "SN CyberCore Esports",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/83/SGW_Nern_VCS_2026_Spring_Playoffs.png",
-  "player": "Nern",
-  "player_id": "Nern",
-  "role": "Top",
-  "slug": "nern",
-  "source": "roster",
-  "team": "Saigon Warriors",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": null,
-  "player": "J1n5",
-  "player_id": "j1n5",
-  "role": "Jungle",
-  "slug": "j1n5",
-  "source": "roster",
-  "team": "Saigon Warriors",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cb/SGW_AisyL_VCS_2026_Spring_Playoffs.png",
-  "player": "AisyL",
-  "player_id": "AisyL",
-  "role": "Mid",
-  "slug": "aisyl",
-  "source": "roster",
-  "team": "Saigon Warriors",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/DINO_Aomine_VCS_2025_Finals.png",
-  "player": "Aomine",
-  "player_id": "Aomine",
-  "role": "Bot",
-  "slug": "aomine",
-  "source": "roster",
-  "team": "Saigon Warriors",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
- },
- {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/b/bd/MVK_Elio_2026_Split_1.png",
-  "player": "Elio",
-  "player_id": "Elio",
-  "role": "Support",
-  "slug": "elio",
-  "source": "roster",
-  "team": "Saigon Warriors",
-  "tournament": "VCS/2026 Season/Finals Stage 2"
  }
 ]
