@@ -700,11 +700,11 @@
   "tournament": "2026 Red Bull League of Its Own"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cf/HLE_Zeus_2026_Split_1.png",
-  "player": "Zeus",
-  "player_id": "Zeus",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a8/T1_Untara_2025.png",
+  "player": "Untara",
+  "player_id": "Untara",
   "role": "Top",
-  "slug": "zeus",
+  "slug": "untara",
   "source": "roster",
   "team": "T1",
   "tournament": "2026 Red Bull League of Its Own"
@@ -740,11 +740,11 @@
   "tournament": "2026 Red Bull League of Its Own"
  },
  {
-  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/a8/T1_Untara_2025.png",
-  "player": "Untara",
-  "player_id": "Untara",
+  "image": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1a/LR_Rekkles_2026_Split_1.png",
+  "player": "Rekkles",
+  "player_id": "Rekkles",
   "role": "Support",
-  "slug": "untara",
+  "slug": "rekkles",
   "source": "roster",
   "team": "T1",
   "tournament": "2026 Red Bull League of Its Own"
