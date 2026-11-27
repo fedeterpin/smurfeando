@@ -1,22 +1,5 @@
 [
  {
-  "games": 24,
-  "is_playoffs": false,
-  "league": "Circuit Brazilian League of Legends",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/32/CBLOL_2021_Logo.png",
-  "league_short": "CBLOL",
-  "name": "CBLOL 2027 Promotion",
-  "overview_page": "CBLOL/2027 Season/Promotion",
-  "patches": [
-   "26.17"
-  ],
-  "region": "brazil",
-  "region_label": "Brazil",
-  "slug": "cblol-2027-season-promotion",
-  "split": "",
-  "year": "2027"
- },
- {
   "games": 71,
   "is_playoffs": false,
   "league": "Demacia Cup Global Invitational",
@@ -81,23 +64,6 @@
   "slug": "2026-season-world-championship-play-in",
   "split": "",
   "year": "2026"
- },
- {
-  "games": 23,
-  "is_playoffs": false,
-  "league": "League of Legends Championship Series",
-  "league_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/98/LCS2021_logo.png",
-  "league_short": "LCS",
-  "name": "LCS 2027 Promotion",
-  "overview_page": "LCS/2027 Season/Promotion",
-  "patches": [
-   "26.17"
-  ],
-  "region": "north_america",
-  "region_label": "North America",
-  "slug": "lcs-2027-season-promotion",
-  "split": "",
-  "year": "2027"
  },
  {
   "games": 18,
